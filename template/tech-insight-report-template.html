@@ -1,0 +1,283 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>[[CONFERENCE]] [[YEAR]] — Tech Insight Report</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700&family=Geist+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+/* ============================================================================
+   TECH INSIGHT — REPORT TEMPLATE
+   Shared design system (see STYLE-GUIDE.md). Do not change fonts/sizes/colours.
+   Fill in every [[PLACEHOLDER]] and duplicate <article class="insight"> per paper.
+   ========================================================================== */
+:root{
+  --bg:#f4f5f6;--card:#fafbfb;--fg:#1b1d1f;--muted:#6d7277;--line:#dde1e4;--inset:#eceff1;
+  --brand:#123524;--accent:#1b7049;--ok:#12a66a;--warn:#8a5508;--bad:#e7000b;--plan:#5d34bd;--work:#2788f5;
+  --shadow-card:0 1px 2px rgb(15 23 42 / 6%),0 3px 10px rgb(15 23 42 / 4%);
+  --radius:10px;
+  --font-sans:"Geist","Inter",ui-sans-serif,system-ui,"Segoe UI",sans-serif;
+  --font-mono:"Geist Mono",ui-monospace,"Cascadia Code","Consolas",monospace;
+  color-scheme:light;
+}
+
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:14px/1.55 var(--font-sans);-webkit-font-smoothing:antialiased}
+
+/* --- sticky section nav --- */
+header{position:sticky;top:0;z-index:5;background:color-mix(in srgb,var(--bg) 92%,transparent);backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
+.bar{max-width:1120px;margin:0 auto;padding:7px 20px;display:flex;align-items:center;gap:0;flex-wrap:nowrap;white-space:nowrap;overflow-x:auto;scrollbar-width:none}
+.bar::-webkit-scrollbar{display:none}
+.bar .brand{font:600 12px var(--font-mono);color:var(--fg);margin-right:auto;display:flex;align-items:center;gap:8px}
+.bar .brand i{width:14px;height:14px;border-radius:4px;background:var(--brand);display:inline-block}
+.bar a{font-size:11.5px;line-height:18px;color:var(--muted);text-decoration:none}
+.bar .sep{color:var(--line);margin:0 7px;font-size:11.5px}
+.bar a:hover{color:var(--fg)}
+
+main{max-width:1120px;margin:0 auto;padding:12px 20px 80px}
+.kicker{font:500 11px/1 var(--font-mono);color:var(--muted);letter-spacing:.04em;margin-bottom:8px;text-transform:uppercase}
+
+/* --- title block --- */
+.intro{padding:34px 0 20px;border-bottom:1px solid var(--line)}
+.intro h1{margin:0 0 10px;font-size:34px;line-height:1.08;letter-spacing:-.028em;font-weight:620;max-width:900px}
+.intro .lede{margin:0 0 18px;color:var(--muted);font-size:15px;max-width:820px}
+.meta{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:4px 24px;max-width:900px}
+.meta .m{font-size:12px;color:var(--muted)}
+.meta .m b{display:block;color:var(--fg);font:500 14px var(--font-mono);font-variant-numeric:tabular-nums;margin-top:1px}
+
+section{padding:26px 0 20px;border-bottom:1px solid var(--line);scroll-margin-top:44px}
+h2{margin:0 0 14px;font-size:23px;line-height:1.2;letter-spacing:-.015em;font-weight:600;text-wrap:balance}
+
+/* --- agenda --- */
+.agenda{display:grid;gap:8px;counter-reset:ag}
+.agenda .row{display:flex;gap:14px;align-items:baseline;padding:9px 12px;background:var(--card);border:1px solid var(--line);border-radius:8px}
+.agenda .row::before{counter-increment:ag;content:counter(ag,decimal-leading-zero);font:600 12px var(--font-mono);color:var(--accent)}
+.agenda .row b{font-weight:600}
+.agenda .row span{color:var(--muted);font-size:13px}
+
+/* --- conference-overview stat card --- */
+.statcard{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow-card);padding:4px 20px}
+.tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:0}
+.tile{padding:16px 16px 14px 0;border-top:1px solid var(--line)}
+.tile:first-child,.tile:nth-child(-n+4){border-top:0}
+.tile b{display:block;font:500 26px/1.1 var(--font-mono);letter-spacing:-.02em;font-variant-numeric:tabular-nums}
+.tile span{font-size:12.5px;color:var(--muted)}
+.overview-themes{margin:14px 0 0;color:var(--muted);font-size:13.5px}
+.overview-themes b{color:var(--fg)}
+
+/* --- INSIGHT CARD (the core component) --- */
+.insight{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow-card);padding:22px 24px 18px;margin:16px 0}
+.insight-head{display:flex;gap:16px;align-items:flex-start;flex-wrap:wrap}
+.insight-head .num{font:600 12px var(--font-mono);color:var(--accent);padding-top:4px}
+.insight-head .ht{flex:1;min-width:260px}
+.insight-head h3{margin:0 0 5px;font-size:19px;line-height:1.22;letter-spacing:-.01em;font-weight:600}
+.byline{font-size:12.5px;color:var(--muted)}
+.byline b{color:var(--fg);font-weight:600}
+.logo{width:116px;height:54px;flex:none;border:1px dashed var(--line);border-radius:8px;display:flex;align-items:center;justify-content:center;font:500 9px var(--font-mono);color:var(--muted);text-align:center;text-transform:uppercase;letter-spacing:.03em;overflow:hidden}
+.logo img{max-width:100%;max-height:100%;object-fit:contain}
+
+.insight-body{display:grid;grid-template-columns:minmax(0,1.5fr) minmax(0,1fr);gap:22px;margin-top:16px}
+@media (max-width:760px){.insight-body{grid-template-columns:1fr}}
+
+/* field rows: coloured left spine + mono uppercase label + body */
+.fields{display:grid;gap:12px}
+.field{padding-left:14px;border-left:4px solid var(--line);border-radius:1px}
+.field .lbl{font:600 11px/1 var(--font-mono);letter-spacing:.05em;text-transform:uppercase;margin-bottom:5px;display:block}
+.field p{margin:0;font-size:13.5px;line-height:1.5}
+.field ul{margin:0;padding-left:16px;font-size:13.5px;line-height:1.5}
+.field ul li{margin:2px 0}
+.field.goal{border-color:var(--accent)} .field.goal .lbl{color:var(--accent)}
+.field.challenge{border-color:var(--bad)} .field.challenge .lbl{color:var(--bad)}
+.field.method{border-color:var(--plan)} .field.method .lbl{color:var(--plan)}
+.field.novelty{border-color:var(--work)} .field.novelty .lbl{color:var(--work)}
+.field.impact{border-color:var(--brand)} .field.impact .lbl{color:var(--brand)}
+
+/* figure */
+.figure{display:flex;flex-direction:column;gap:6px}
+.figure .frame{flex:1;min-height:180px;border:1px dashed var(--line);border-radius:8px;background:var(--inset);display:flex;align-items:center;justify-content:center;text-align:center;color:var(--muted);font:500 10px var(--font-mono);text-transform:uppercase;letter-spacing:.04em;padding:10px;overflow:hidden}
+.figure .frame img{max-width:100%;max-height:360px;border-radius:5px;object-fit:contain}
+.figure figcaption{font:500 11px var(--font-mono);color:var(--muted)}
+
+/* reference footer */
+.ref{margin-top:16px;padding-top:12px;border-top:1px solid var(--line);font:500 11.5px/1.5 var(--font-mono);color:var(--muted)}
+.ref .code{font:500 11.5px/1.5 var(--font-mono);color:var(--muted);margin-bottom:4px}
+.ref .code a{color:var(--work);text-decoration:none}
+.ref b{color:var(--fg);font-weight:600}
+.ref a{color:var(--work);text-decoration:none}
+.ref a:hover{text-decoration:underline}
+
+/* conclusions */
+.concl{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+@media (max-width:760px){.concl{grid-template-columns:1fr}}
+.concl .col{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:16px 18px}
+.concl .col h4{margin:0 0 10px;font:600 11px var(--font-mono);text-transform:uppercase;letter-spacing:.05em;color:var(--muted)}
+.concl .col.c1 h4{color:var(--accent)} .concl .col.c2 h4{color:var(--work)} .concl .col.c3 h4{color:var(--brand)}
+.concl ul{margin:0;padding-left:16px;font-size:13.5px;line-height:1.5}
+.concl ul li{margin:5px 0}
+
+/* full reference list */
+.reflist{counter-reset:r;display:grid;gap:7px}
+.reflist .r{display:flex;gap:10px;font:500 12px/1.5 var(--font-mono);color:var(--muted)}
+.reflist .r::before{counter-increment:r;content:"["counter(r)"]";color:var(--accent);flex:none}
+.reflist .r a{color:var(--work);text-decoration:none}
+
+footer.end{padding:24px 0 0;color:var(--muted);font-size:11.5px}
+.hint{background:color-mix(in srgb,var(--work) 8%,transparent);border:1px solid color-mix(in srgb,var(--work) 30%,transparent);border-radius:8px;padding:10px 14px;font-size:12.5px;color:var(--fg);margin:14px 0}
+.hint b{color:var(--work)}
+</style></head>
+<body>
+
+<header><nav class="bar">
+  <span class="brand"><i></i>Tech Insight</span>
+  <a href="#contents">Contents</a><span class="sep">·</span>
+  <a href="#statistics">Statistics</a><span class="sep">·</span>
+  <a href="#insights">Insights</a><span class="sep">·</span>
+  <a href="#conclusions">Conclusions</a><span class="sep">·</span>
+  <a href="#references">References</a>
+</nav></header>
+
+<main>
+
+  <!-- ============ TITLE — conference information ============ -->
+  <div class="intro">
+    <div class="kicker">[[CONFERENCE YEAR]] · Tech Insight Report</div>
+    <h1>[[CONFERENCE YEAR — e.g. ICLR 2026]] — [[Full conference name]]</h1>
+    <p class="lede" style="color:var(--fg);font-size:15px;margin-bottom:6px"><b>[[City, Country]] · [[Month YYYY]]</b></p>
+    <p class="lede">[[One or two sentences framing the report: what this conference covered, the lens you read it through, and what the reader will take away.]]</p>
+    <div class="meta">
+      <div class="m">Location<b>[[City, Country]]</b></div>
+      <div class="m">Dates<b>[[Month D–D, YYYY]]</b></div>
+      <div class="m">Focus<b>[[The angle this report takes]]</b></div>
+    </div>
+  </div>
+
+  <!-- ============ 01 · CONTENTS ============ -->
+  <section id="contents">
+    <div class="kicker">01 · Contents</div>
+    <h2>Papers covered, by theme</h2>
+    <div class="agenda">
+      <div class="row"><b>[[Theme A — e.g. Why agents fail]]</b><span>— [[paper · paper]]</span></div>
+      <div class="row"><b>[[Theme B]]</b><span>— [[paper · paper]]</span></div>
+      <div class="row"><b>[[Theme C]]</b><span>— [[paper · paper]]</span></div>
+    </div>
+  </section>
+
+  <!-- ============ 02 · CONFERENCE STATISTICS ============ -->
+  <section id="statistics">
+    <div class="kicker">02 · Conference statistics</div>
+    <h2>[[Full conference name, host, dates and place]]</h2>
+    <div class="statcard"><div class="tiles">
+      <div class="tile"><b>[[19,525]]</b><span>submissions</span></div>
+      <div class="tile"><b>[[5,355]]</b><span>accepted</span></div>
+      <div class="tile"><b>[[27%]]</b><span>acceptance rate</span></div>
+      <div class="tile"><b>[[224]]</b><span>oral talks</span></div>
+    </div>
+    <p class="overview-themes"><b>Headline themes:</b> [[theme 1 · theme 2 · theme 3 · theme 4 — the topics that dominated the program]].</p>
+    </div>
+  </section>
+
+  <!-- ============ INSIGHTS ============ -->
+  <section id="insights">
+    <div class="kicker">03 · Insights</div>
+    <h2>Paper-by-paper tech insights</h2>
+
+    <div class="hint"><b>How to use:</b> duplicate one <code>&lt;article class="insight"&gt;</code> block
+      per paper. Keep all five fields. Watch the length budget in STYLE-GUIDE §6 — the report
+      can hold more prose than a slide, but lead with the finding.</div>
+
+    <!-- ---------- INSIGHT CARD (copy this block per paper) ---------- -->
+    <article class="insight">
+      <div class="insight-head">
+        <div class="num">[[01]]</div>
+        <div class="ht">
+          <h3>[[Paper title — verbatim, ≤ 14 words]]</h3>
+          <div class="byline"><b>[[First Author]]</b> et al. · [[Affiliation]] · [[Venue / track]]</div>
+        </div>
+        <div class="logo"><!-- <img src="assets/logo-affiliation.png" alt=""> -->[[Logo /<br>photo]]</div>
+      </div>
+      <div class="insight-body">
+        <div class="fields">
+          <div class="field goal"><span class="lbl">Goal</span><p>[[What the work sets out to achieve — 1 sentence, ≤ 25 words.]]</p></div>
+          <div class="field challenge"><span class="lbl">Challenge</span><p>[[The problem / pain point it addresses — ≤ 35 words.]]</p></div>
+          <div class="field method"><span class="lbl">Method</span>
+            <ul>
+              <li>[[Step / mechanism 1]]</li>
+              <li>[[Step / mechanism 2]]</li>
+              <li>[[Step / mechanism 3]]</li>
+            </ul>
+          </div>
+          <div class="field novelty"><span class="lbl">Novelty</span><p>[[What is new vs prior art — the breakthrough / contribution, ≤ 30 words.]]</p></div>
+          <div class="field impact"><span class="lbl">Impact</span><p>[[Why it matters + concrete implications for our products/research — ≤ 35 words.]]</p></div>
+        </div>
+        <figure class="figure">
+          <div class="frame"><!-- <img src="assets/fig-paper01.png" alt=""> -->[[Key figure<br>from the paper]]</div>
+          <figcaption>Fig. 1 — [[what the figure shows]].</figcaption>
+        </figure>
+      </div>
+      <div class="ref">
+        <div class="code">Code · <a href="[[repo url]]">github.com/org/repo</a></div>
+        <b>[1]</b> [[First Author et al., "Paper title," <a href="[[url]]">arXiv:xxxx.xxxxx</a>, Year.]]</div>
+    </article>
+    <!-- ---------- end card ---------- -->
+
+    <!-- Second demo card — TWO-FIGURE EXAMPLE (some papers need 2 pictures) -->
+    <article class="insight">
+      <div class="insight-head">
+        <div class="num">[[02]]</div>
+        <div class="ht">
+          <h3>[[Second paper title]]</h3>
+          <div class="byline"><b>[[First Author]]</b> et al. · [[Affiliation]]</div>
+        </div>
+        <div class="logo">[[Logo /<br>photo]]</div>
+      </div>
+      <div class="insight-body">
+        <div class="fields">
+          <div class="field goal"><span class="lbl">Goal</span><p>[[…]]</p></div>
+          <div class="field challenge"><span class="lbl">Challenge</span><p>[[…]]</p></div>
+          <div class="field method"><span class="lbl">Method</span><p>[[…]]</p></div>
+          <div class="field novelty"><span class="lbl">Novelty</span><p>[[…]]</p></div>
+          <div class="field impact"><span class="lbl">Impact</span><p>[[…]]</p></div>
+        </div>
+        <!-- two figures stacked: duplicate the <figure> block for a 2-picture paper -->
+        <div style="display:grid;gap:12px">
+          <figure class="figure"><div class="frame">[[Figure 1<br>from the paper]]</div><figcaption>[[caption of figure 1]].</figcaption></figure>
+          <figure class="figure"><div class="frame">[[Figure 2<br>from the paper]]</div><figcaption>[[caption of figure 2]].</figcaption></figure>
+        </div>
+      </div>
+      <div class="ref">
+        <div class="code">Code · <a href="[[repo url]]">github.com/org/repo</a></div>
+        <b>[2]</b> [[First Author et al., "Paper title," <a href="[[url]]">arXiv:xxxx.xxxxx</a>, Year.]]</div>
+    </article>
+
+  </section>
+
+  <!-- ============ CONCLUSIONS ============ -->
+  <section id="conclusions">
+    <div class="kicker">04 · Conclusions</div>
+    <h2>Synthesis across the papers</h2>
+    <div class="concl">
+      <div class="col c1"><h4>Insights</h4><ul>
+        <li>[[Cross-cutting insight 1]]</li>
+        <li>[[Cross-cutting insight 2]]</li>
+      </ul></div>
+      <div class="col c2"><h4>Vision</h4><ul>
+        <li>[[Where the field is heading 1]]</li>
+        <li>[[Where the field is heading 2]]</li>
+      </ul></div>
+      <div class="col c3"><h4>Implications for us</h4><ul>
+        <li>[[Concrete action / bet 1]]</li>
+        <li>[[Concrete action / bet 2]]</li>
+      </ul></div>
+    </div>
+  </section>
+
+  <!-- ============ REFERENCES ============ -->
+  <section id="references">
+    <div class="kicker">05 · References</div>
+    <h2>References (IEEE style)</h2>
+    <div class="reflist">
+      <div class="r">[[A. Author, B. Author, "Title of paper," in <i>Proc. Conf.</i>, City, Year, pp. xx–xx.]] <a href="[[url]]">[[url]]</a></div>
+      <div class="r">[[Author et al., "Title," <i>Conf.</i>, Year.]] <a href="[[url]]">[[url]]</a></div>
+    </div>
+  </section>
+
+</main>
+</body></html>

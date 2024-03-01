@@ -1,0 +1,292 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>[[CONFERENCE]] [[YEAR]] — Tech Insight Slides</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700&family=Geist+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+/* ============================================================================
+   TECH INSIGHT — SLIDE DECK TEMPLATE  (1920×1080, auto-fit, keyboard nav)
+   Shared design system — see STYLE-GUIDE.md. Fill every [[PLACEHOLDER]];
+   duplicate <section class="slide insight"> per paper. Keys: ←/→ navigate,
+   T = contents, Home/End. Print (Ctrl-P) → one 16:9 page per slide (PDF).
+   ========================================================================== */
+:root{
+  --bg:#f4f5f6;--card:#fafbfb;--fg:#1b1d1f;--muted:#6d7277;--line:#dde1e4;--inset:#eceff1;
+  --brand:#123524;--accent:#1b7049;--ok:#12a66a;--warn:#8a5508;--bad:#e7000b;--plan:#5d34bd;--work:#2788f5;
+  --shadow-card:0 1px 2px rgb(15 23 42 / 6%),0 3px 12px rgb(15 23 42 / 5%);
+  --radius:12px;
+  --font-sans:"Geist","Inter",ui-sans-serif,system-ui,"Segoe UI",sans-serif;
+  --font-mono:"Geist Mono",ui-monospace,"Cascadia Code","Consolas",monospace;
+  color-scheme:light;
+}
+
+*{box-sizing:border-box}
+html,body{height:100%;margin:0;overflow:hidden;background:#e9ebed;font-family:var(--font-sans)}
+
+
+.stage{position:absolute;left:50%;top:50%;width:1920px;height:1080px;transform-origin:0 0}
+.slide{position:absolute;inset:0;display:none;flex-direction:column;background:var(--bg);color:var(--fg);padding:70px 96px 64px}
+.slide.on{display:flex}
+
+.kicker{font:500 16px/1 var(--font-mono);color:var(--muted);letter-spacing:.06em;text-transform:uppercase;margin-bottom:14px}
+.s-head h2{margin:0 0 20px;font-size:44px;line-height:1.14;letter-spacing:-.02em;font-weight:620;text-wrap:balance}
+.s-head .byline{font-size:21px;color:var(--muted);margin:0 0 14px}
+.s-head .byline b{color:var(--fg);font-weight:600}
+.slide.insight .s-head h2{margin:0 0 6px}
+.s-body{flex:1;position:relative;overflow:hidden}
+.fit{position:absolute;left:0;top:0;transform-origin:0 0;width:1728px}
+.cont{color:var(--muted);font-weight:400;font-size:28px}
+
+/* ---------- TITLE SLIDE ---------- */
+.title-slide{justify-content:center}
+.brandmark{display:inline-flex;align-items:center;gap:12px;font:600 22px var(--font-mono);color:var(--fg);margin-bottom:26px}
+.brandmark i{width:30px;height:30px;border-radius:8px;background:var(--brand);display:inline-block}
+.t-wrap h1{font-size:76px;line-height:1.06;letter-spacing:-.03em;margin:8px 0 26px;font-weight:620;max-width:1500px}
+.t-wrap .topic{font-size:30px;color:var(--muted);max-width:1400px;margin:0 0 44px}
+.t-meta{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,auto));gap:10px 56px;font-size:19px;color:var(--muted)}
+.t-meta b{display:block;color:var(--fg);font:500 24px var(--font-mono);font-variant-numeric:tabular-nums;margin-top:3px}
+
+/* ---------- AGENDA ---------- */
+.agenda{display:grid;gap:14px;counter-reset:ag;width:1500px}
+.agenda .row{display:flex;gap:22px;align-items:baseline;padding:18px 24px;background:var(--card);border:1px solid var(--line);border-radius:10px;box-shadow:var(--shadow-card)}
+.agenda .row::before{counter-increment:ag;content:counter(ag,decimal-leading-zero);font:600 22px var(--font-mono);color:var(--accent)}
+.agenda .row b{font-size:24px;font-weight:600}
+.agenda .row span{color:var(--muted);font-size:20px}
+
+/* ---------- CONFERENCE OVERVIEW ---------- */
+.statcard{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow-card);padding:8px 36px;width:1500px}
+.tiles{display:grid;grid-template-columns:repeat(4,1fr);gap:0}
+.tile{padding:26px 24px 22px 0;border-top:1px solid var(--line)}
+.tile:nth-child(-n+4){border-top:0}
+.tile b{display:block;font:500 50px/1 var(--font-mono);letter-spacing:-.02em;font-variant-numeric:tabular-nums}
+.tile span{font-size:20px;color:var(--muted);margin-top:6px;display:block}
+.themes{margin:30px 0 0;font-size:24px;color:var(--muted);max-width:1500px;line-height:1.5}
+.themes b{color:var(--fg)}
+
+/* ---------- INSIGHT SLIDE (core) ---------- */
+.ins-grid{display:grid;grid-template-columns:minmax(0,1.45fr) minmax(0,1fr);gap:48px;align-items:start}
+.fields{display:grid;gap:20px}
+.field{padding-left:22px;border-left:6px solid var(--line)}
+.field .lbl{font:600 18px/1 var(--font-mono);letter-spacing:.05em;text-transform:uppercase;margin-bottom:8px;display:block}
+.field p{margin:0;font-size:25px;line-height:1.42}
+.field ul{margin:0;padding-left:26px;font-size:25px;line-height:1.42}
+.field ul li{margin:3px 0}
+.field.goal{border-color:var(--accent)} .field.goal .lbl{color:var(--accent)}
+.field.challenge{border-color:var(--bad)} .field.challenge .lbl{color:var(--bad)}
+.field.method{border-color:var(--plan)} .field.method .lbl{color:var(--plan)}
+.field.novelty{border-color:var(--work)} .field.novelty .lbl{color:var(--work)}
+.field.impact{border-color:var(--brand)} .field.impact .lbl{color:var(--brand)}
+
+.side{display:grid;gap:20px}
+.byline-card{background:var(--card);border:1px solid var(--line);border-radius:10px;box-shadow:var(--shadow-card);padding:20px 22px;display:flex;gap:18px;align-items:center}
+.byline-card .logo{width:120px;height:72px;flex:none;border:1px dashed var(--line);border-radius:8px;display:flex;align-items:center;justify-content:center;font:500 12px var(--font-mono);color:var(--muted);text-align:center;text-transform:uppercase;overflow:hidden}
+.byline-card .logo img{max-width:100%;max-height:100%;object-fit:contain}
+.byline-card .who b{font-size:24px;font-weight:600;display:block;line-height:1.2}
+.byline-card .who span{font-size:19px;color:var(--muted)}
+figure.figure{margin:0;display:flex;flex-direction:column;gap:10px}
+figure.figure .frame{border:1px dashed var(--line);border-radius:10px;background:var(--inset);min-height:260px;display:flex;align-items:center;justify-content:center;text-align:center;color:var(--muted);font:500 15px var(--font-mono);text-transform:uppercase;letter-spacing:.04em;padding:16px;overflow:hidden}
+figure.figure .frame img{max-width:100%;max-height:420px;border-radius:6px;object-fit:contain}
+figure.figure figcaption{font:500 16px var(--font-mono);color:var(--muted)}
+
+/* reference — pinned to slide bottom, always visible */
+.slide .ref{flex:none;margin-top:22px;padding-top:16px;border-top:1px solid var(--line);font:500 17px/1.45 var(--font-mono);color:var(--muted)}
+.slide .ref b{color:var(--fg)} .slide .ref a{color:var(--work);text-decoration:none}
+.slide .ref .code{font:500 16px/1.4 var(--font-mono);color:var(--muted);margin-bottom:8px}
+
+/* ---------- CONCLUSIONS ---------- */
+.concl{display:grid;grid-template-columns:repeat(3,1fr);gap:28px;width:1728px}
+.concl .col{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow-card);padding:26px 28px}
+.concl .col h4{margin:0 0 16px;font:600 18px var(--font-mono);text-transform:uppercase;letter-spacing:.05em;color:var(--muted)}
+.concl .col.c1 h4{color:var(--accent)} .concl .col.c2 h4{color:var(--work)} .concl .col.c3 h4{color:var(--brand)}
+.concl ul{margin:0;padding-left:24px;font-size:24px;line-height:1.45}
+.concl ul li{margin:10px 0}
+
+/* ---------- chrome: counter, toc ---------- */
+.counter{position:fixed;right:20px;bottom:14px;font:13px var(--font-mono);color:var(--muted)}
+.toc-btn{position:fixed;left:20px;bottom:12px;font:13px var(--font-sans);color:var(--muted);background:none;border:1px solid var(--line);border-radius:7px;padding:5px 12px;cursor:pointer}
+.toc{position:fixed;left:0;top:0;bottom:0;width:420px;background:var(--bg);border-right:1px solid var(--line);overflow:auto;padding:20px 20px 44px;transform:translateX(-100%);transition:transform .2s;z-index:9;font-size:14px}
+.toc.open{transform:none}
+.toc h4{margin:0 0 12px;font-size:13px;color:var(--muted);font-weight:500}
+.toc .g{margin:14px 0 5px;font:600 11px var(--font-mono);color:var(--muted);text-transform:uppercase;letter-spacing:.05em}
+.toc a{display:block;padding:4px 8px;border-radius:5px;color:var(--fg);text-decoration:none;line-height:1.35}
+.toc a.on,.toc a:hover{background:var(--inset)}
+
+@media print{
+  @page{size:1920px 1080px;margin:0}
+  html,body{overflow:visible;height:auto;background:#fff}
+  .stage{position:static;transform:none!important;width:1920px;height:auto}
+  .slide{display:flex!important;position:relative;inset:auto;page-break-after:always;width:1920px;height:1080px}
+  .counter,.toc-btn,.toc{display:none}
+}
+</style></head>
+<body>
+<div class="stage">
+
+  <!-- ============ TITLE ============ -->
+  <!-- SLIDE 1 — conference information -->
+  <section class="slide title-slide on" data-toc="Conference">
+    <div class="t-wrap">
+      <div class="brandmark"><i></i>Tech Insight</div>
+      <div class="kicker">Tech Insight Report</div>
+      <h1>[[CONFERENCE YEAR — e.g. ICLR 2026]]</h1>
+      <p class="topic">[[Full conference name]] · [[City, Country]] · [[Month YYYY]]</p>
+      <div class="t-meta">
+        <div>Location<b>[[City, Country]]</b></div>
+        <div>Dates<b>[[Month D–D, YYYY]]</b></div>
+        <div>Focus<b>[[The angle this deck takes]]</b></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ SLIDE 2 — TABLE OF CONTENTS ============ -->
+  <section class="slide" data-toc="Contents" data-group="Intro">
+    <div class="s-head"><div class="kicker">Contents</div><h2>Papers covered, by theme</h2></div>
+    <div class="s-body"><div class="fit"><div class="agenda">
+      <div class="row"><b>[[Conference overview]]</b><span>— [[dates, scale, themes]]</span></div>
+      <div class="row"><b>[[Paper 1 short title]]</b><span>— [[one line]]</span></div>
+      <div class="row"><b>[[Paper 2 short title]]</b><span>— [[one line]]</span></div>
+      <div class="row"><b>[[Conclusions]]</b><span>— [[insights · vision · implications]]</span></div>
+    </div></div></div>
+  </section>
+
+  <!-- ============ SLIDE 3 — CONFERENCE STATISTICS ============ -->
+  <section class="slide" data-toc="Conference statistics" data-group="Intro">
+    <div class="s-head"><div class="kicker">Conference statistics</div><h2>[[Full conference name, dates &amp; place]]</h2></div>
+    <div class="s-body"><div class="fit">
+      <div class="statcard"><div class="tiles">
+        <div class="tile"><b>[[5,404]]</b><span>submissions</span></div>
+        <div class="tile"><b>[[1,042]]</b><span>accepted</span></div>
+        <div class="tile"><b>[[19.3%]]</b><span>acceptance rate</span></div>
+        <div class="tile"><b>[[6 days]]</b><span>[[Aug 16–22]]</span></div>
+      </div></div>
+      <p class="themes"><b>Headline themes:</b> [[theme 1 · theme 2 · theme 3 · theme 4]].</p>
+    </div></div>
+  </section>
+
+  <!-- ============ INSIGHT SLIDE (copy one per paper) ============ -->
+  <section class="slide insight" data-toc="[[Paper 1 short title]]" data-group="Insights">
+    <div class="s-head"><div class="kicker">Insight 01</div><h2>[[Paper title — verbatim, ≤ 14 words]]</h2>
+      <div class="byline"><b>[[First Author]] et al.</b> · [[Affiliation]]</div></div>
+    <div class="s-body"><div class="fit"><div class="ins-grid">
+      <div class="fields">
+        <div class="field goal"><span class="lbl">Goal</span><p>[[What the work sets out to achieve — ≤ 25 words.]]</p></div>
+        <div class="field challenge"><span class="lbl">Challenge</span><p>[[The problem / pain point — ≤ 35 words.]]</p></div>
+        <div class="field method"><span class="lbl">Method</span>
+          <ul><li>[[Mechanism 1]]</li><li>[[Mechanism 2]]</li><li>[[Mechanism 3]]</li></ul>
+        </div>
+        <div class="field novelty"><span class="lbl">Novelty</span><p>[[What's new vs prior art — ≤ 30 words.]]</p></div>
+        <div class="field impact"><span class="lbl">Impact</span><p>[[Why it matters + implication for us — ≤ 35 words.]]</p></div>
+      </div>
+      <div class="side">
+        <figure class="figure">
+          <div class="frame" style="border:1px solid var(--line);background:#fff"><!-- <img src="assets/fig1.png" alt=""> -->Figure<br>from the paper</div>
+          <figcaption>Figure from the paper · [[what it shows / key result]].</figcaption>
+        </figure>
+      </div>
+    </div></div></div>
+    <div class="ref">
+      <div class="code">Code · <a href="[[repo url]]">github.com/org/repo</a></div>
+      <b>[1]</b> [[First Author et al., "Title," arXiv:xxxx.xxxxx, Year.]]</div>
+  </section>
+
+  <!-- ====== INSIGHT SLIDE 2 — TWO-FIGURE EXAMPLE (some papers need 2 pictures) ====== -->
+  <section class="slide insight" data-toc="[[Paper 2 short title]]" data-group="Insights">
+    <div class="s-head"><div class="kicker">Insight 02</div><h2>[[Second paper title]]</h2>
+      <div class="byline"><b>[[First Author]] et al.</b> · [[Affiliation]]</div></div>
+    <div class="s-body"><div class="fit"><div class="ins-grid">
+      <div class="fields">
+        <div class="field goal"><span class="lbl">Goal</span><p>[[…]]</p></div>
+        <div class="field challenge"><span class="lbl">Challenge</span><p>[[…]]</p></div>
+        <div class="field method"><span class="lbl">Method</span><p>[[…]]</p></div>
+        <div class="field novelty"><span class="lbl">Novelty</span><p>[[…]]</p></div>
+        <div class="field impact"><span class="lbl">Impact</span><p>[[…]]</p></div>
+      </div>
+      <!-- TWO figures stacked: add a second <figure> when a paper needs 2 pictures -->
+      <div class="side">
+        <figure class="figure"><div class="frame" style="border:1px solid var(--line);background:#fff;min-height:200px"><!-- <img src="assets/figN.jpg"> -->Figure 1<br>from the paper</div><figcaption>[[caption of figure 1]].</figcaption></figure>
+        <figure class="figure"><div class="frame" style="border:1px solid var(--line);background:#fff;min-height:200px"><!-- <img src="assets/figN_b.jpg"> -->Figure 2<br>from the paper</div><figcaption>[[caption of figure 2]].</figcaption></figure>
+      </div>
+    </div></div></div>
+    <div class="ref">
+      <div class="code">Code · <a href="[[repo url]]">github.com/org/repo</a></div>
+      <b>[2]</b> [[First Author et al., "Title," arXiv:xxxx.xxxxx, Year.]]</div>
+  </section>
+
+  <!-- ============ CONCLUSIONS ============ -->
+  <section class="slide" data-toc="Conclusions" data-group="Wrap-up">
+    <div class="s-head"><div class="kicker">Conclusions</div><h2>Synthesis across the papers</h2></div>
+    <div class="s-body"><div class="fit"><div class="concl">
+      <div class="col c1"><h4>Insights</h4><ul><li>[[Cross-cutting insight 1]]</li><li>[[Cross-cutting insight 2]]</li></ul></div>
+      <div class="col c2"><h4>Vision</h4><ul><li>[[Where the field is heading 1]]</li><li>[[Where the field is heading 2]]</li></ul></div>
+      <div class="col c3"><h4>Implications for us</h4><ul><li>[[Concrete bet 1]]</li><li>[[Concrete bet 2]]</li></ul></div>
+    </div></div></div>
+  </section>
+
+</div><!-- /stage -->
+
+<div class="counter"></div>
+<button class="toc-btn">Contents (T)</button>
+<nav class="toc"><h4>Contents</h4></nav>
+
+<script>
+(() => {
+  const stage = document.querySelector('.stage');
+  const slides = [...document.querySelectorAll('.slide')];
+  const counter = document.querySelector('.counter');
+  const toc = document.querySelector('.toc');
+
+  // Build the contents list (grouped by data-group).
+  let lastGroup = null;
+  slides.forEach((s, k) => {
+    const g = s.dataset.group || '';
+    if (g && g !== lastGroup) { const h = document.createElement('div'); h.className='g'; h.textContent=g; toc.append(h); lastGroup=g; }
+    const a = document.createElement('a'); a.href='#'+(k+1); a.textContent=(k+1)+'. '+(s.dataset.toc||('Slide '+(k+1))); toc.append(a);
+  });
+  const links = [...toc.querySelectorAll('a')];
+
+  // Scale the 1920×1080 stage to the viewport.
+  const fitStage = () => {
+    const s = Math.min(innerWidth/1920, innerHeight/1080);
+    stage.style.transform = `scale(${s}) translate(-50%, -50%)`;
+  };
+  // Scale each slide's .fit content to fill the area under its headline without
+  // clipping: grows up to 1.7×, and shrinks if a card is overloaded (that is your
+  // cue to summarise — see STYLE-GUIDE §6), so text is never cut off.
+  const fitSlide = (slide) => {
+    const box = slide.querySelector('.s-body'), inner = slide.querySelector('.fit');
+    if (!box || !inner) return;
+    inner.style.transform = 'none';
+    const w = inner.scrollWidth, h = inner.scrollHeight;
+    const s = Math.min(box.clientWidth/w, box.clientHeight/h, 1.7);
+    inner.style.transform = `scale(${s})`;
+    inner.style.left = Math.max(0, (box.clientWidth - w*s)/2) + 'px';
+  };
+
+  let i = 0;
+  const show = (n, push=true) => {
+    i = Math.max(0, Math.min(slides.length-1, n));
+    slides.forEach((s,k)=>s.classList.toggle('on', k===i));
+    fitSlide(slides[i]);
+    counter.textContent = `${i+1} / ${slides.length}`;
+    links.forEach((a,k)=>a.classList.toggle('on', k===i));
+    if (push) history.replaceState(null,'','#'+(i+1));
+  };
+  addEventListener('resize', () => { fitStage(); fitSlide(slides[i]); });
+  addEventListener('hashchange', () => show((parseInt(location.hash.slice(1),10)||1)-1, false));
+  addEventListener('keydown', (e) => {
+    if (e.metaKey||e.ctrlKey||e.altKey) return;
+    if (e.key==='t'||e.key==='T'){ toc.classList.toggle('open'); return; }
+    if (e.key==='Escape'){ toc.classList.remove('open'); return; }
+    if (['ArrowRight','ArrowDown','PageDown',' '].includes(e.key)){ e.preventDefault(); show(i+1); }
+    else if (['ArrowLeft','ArrowUp','PageUp','Backspace'].includes(e.key)){ e.preventDefault(); show(i-1); }
+    else if (e.key==='Home') show(0);
+    else if (e.key==='End') show(slides.length-1);
+  });
+  document.querySelector('.toc-btn').addEventListener('click', ()=>toc.classList.toggle('open'));
+  toc.addEventListener('click', (e)=>{ if (e.target.tagName==='A') toc.classList.remove('open'); });
+  fitStage();
+  (document.fonts ? document.fonts.ready : Promise.resolve()).then(()=>show((parseInt(location.hash.slice(1),10)||1)-1, false));
+  show((parseInt(location.hash.slice(1),10)||1)-1, false);
+})();
+</script>
+</body></html>
