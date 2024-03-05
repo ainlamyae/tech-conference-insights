@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Tech-Conference Insight Reports — AI & Systems Engineering</title>
+<meta name="description" content="Concise insight reports — long-form HTML report, browser slide deck and PowerPoint — for 1 recent AI and systems-engineering conferences, each distilled into themed cards covering the key papers, talks, methods and findings.">
+<meta name="robots" content="index,follow,max-image-preview:large">
+<meta name="keywords" content="AI conferences, NeurIPS, ICLR, AAAI, IJCAI, CVPR, SysCon, LLM, agents, systems engineering, insight reports">
+<link rel="canonical" href="https://ainlamyae.github.io/tech-conference-insights/">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<meta property="og:type" content="website"><meta property="og:title" content="Tech-Conference Insight Reports">
+<meta property="og:description" content="Concise insight reports — long-form HTML report, browser slide deck and PowerPoint — for 1 recent AI and systems-engineering conferences, each distilled into themed cards covering the key papers, talks, methods and findings.">
+<meta property="og:url" content="https://ainlamyae.github.io/tech-conference-insights/"><meta name="twitter:card" content="summary">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "ItemList", "name": "Tech-Conference Insight Reports", "description": "Concise insight reports — long-form HTML report, browser slide deck and PowerPoint — for 1 recent AI and systems-engineering conferences, each distilled into themed cards covering the key papers, talks, methods and findings.", "url": "https://ainlamyae.github.io/tech-conference-insights/", "numberOfItems": 1, "itemListElement": [{"@type": "ListItem", "position": 1, "item": {"@type": "Report", "name": "AAAI 2024 — Tech Insight Report", "headline": "38th Annual AAAI Conference on Artificial Intelligence", "about": "Reliable LLMs, foundation models, simulation & autonomous driving", "url": "https://ainlamyae.github.io/tech-conference-insights/2024-02_AAAI-vancouver/AAAI-2024-tech-insight-report.html", "keywords": "Reliable LLM reasoning — Chain-of-Thought citations, SYRELM symbolic solvers, LLMs as rational players; Applied foundation models — PathAsst (pathology), KG-TREAT (healthcare + knowledge graphs); Simulation, perception & autonomous driving — SPDiff crowd diffusion, Vampire, Waabi keynote; Robust & efficient learning — spiking neural networks, graph OOD generalization", "inLanguage": "en", "isAccessibleForFree": true}}]}</script>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700&family=Geist+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#f4f5f6;--card:#fafbfb;--fg:#1b1d1f;--muted:#6d7277;--line:#dde1e4;--brand:#123524;--accent:#1b7049;
+--font-sans:"Geist","Inter",ui-sans-serif,system-ui,"Segoe UI",sans-serif;--font-mono:"Geist Mono",ui-monospace,"Consolas",monospace;color-scheme:light only;}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.55 var(--font-sans);-webkit-font-smoothing:antialiased}
+header.top{max-width:1120px;margin:0 auto;padding:54px 22px 10px}
+.brand{display:flex;align-items:center;gap:10px;font:600 13px var(--font-mono);color:var(--fg);margin-bottom:18px}
+.brand i{width:16px;height:16px;border-radius:5px;background:var(--brand);display:inline-block}
+header.top h1{margin:0 0 10px;font-size:34px;line-height:1.1;letter-spacing:-.025em;font-weight:620}
+header.top p{margin:0;color:var(--muted);font-size:16px;max-width:760px}
+main{max-width:1120px;margin:0 auto;padding:18px 22px 50px;display:flex;flex-direction:column;gap:16px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:20px 24px;box-shadow:0 1px 2px rgb(15 23 42/6%),0 3px 10px rgb(15 23 42/4%);display:flex;gap:28px;align-items:flex-start}
+.cbody{flex:1;min-width:0}
+.chead{display:flex;justify-content:space-between;align-items:flex-start;gap:12px}
+.chead h2{margin:0;font-size:19px;line-height:1.2;letter-spacing:-.01em;font-weight:620}
+.full{color:var(--muted);font-size:12.5px;margin-top:3px}
+.badge{flex:none;font:500 10.5px var(--font-mono);text-transform:uppercase;letter-spacing:.04em;color:var(--accent);border:1px solid var(--line);border-radius:999px;padding:3px 9px;white-space:nowrap}
+.meta{margin:12px 0 4px;font:500 12.5px var(--font-mono);color:var(--muted)}
+.meta b{color:var(--fg)}
+.focus{color:var(--fg);font-size:13.5px;margin:6px 0 2px;font-weight:500}
+.bul{margin:10px 0 2px;padding-left:18px;color:var(--muted);font-size:13px;line-height:1.5}
+.bul li{margin:3px 0}
+.links{flex:0 0 165px;display:flex;flex-direction:column;gap:8px}
+.btn{font:500 12.5px var(--font-mono);text-decoration:none;color:var(--fg);border:1px solid var(--line);border-radius:8px;padding:9px 12px;background:var(--bg);transition:border-color .15s;text-align:center}
+.btn:hover{border-color:var(--accent);color:var(--accent)}
+.btn.primary{background:var(--brand);color:#fff;border-color:var(--brand)}
+.btn.primary:hover{opacity:.9;color:#fff}
+@media(max-width:680px){.card{flex-direction:column;gap:14px}.links{flex:1 1 auto;flex-direction:row;flex-wrap:wrap}}
+footer.note{max-width:1120px;margin:0 auto;padding:0 22px 22px;color:var(--muted);font-size:12.5px;border-top:1px solid var(--line);padding-top:20px}
+footer.note a{color:var(--accent)}
+.copyright{border-top:1px solid var(--line);text-align:center;color:var(--muted);font:500 12px var(--font-mono);padding:12px 22px 20px}
+.copyright a{color:var(--fg);text-decoration:none}
+.copyright a:hover{color:var(--accent)}
+</style></head>
+<body>
+<header class="top">
+  <div class="brand"><i></i>Tech Insight</div>
+  <h1>Tech-conference insight reports</h1>
+</header>
+<main>
+  <article class="card">
+    <div class="cbody">
+      <div class="chead">
+        <div><h2>AAAI 2024</h2><div class="full">38th Annual AAAI Conference on Artificial Intelligence</div></div>
+        <span class="badge">Conference</span>
+      </div>
+      <div class="meta">Vancouver, Canada &middot; February 20–27, 2024 &middot; <b>13 papers</b></div>
+      <div class="focus">Reliable LLMs, foundation models, simulation &amp; autonomous driving</div>
+      <ul class="bul"><li>Reliable LLM reasoning — Chain-of-Thought citations, SYRELM symbolic solvers, LLMs as rational players</li><li>Applied foundation models — PathAsst (pathology), KG-TREAT (healthcare + knowledge graphs)</li><li>Simulation, perception &amp; autonomous driving — SPDiff crowd diffusion, Vampire, Waabi keynote</li><li>Robust &amp; efficient learning — spiking neural networks, graph OOD generalization</li></ul>
+    </div>
+    <div class="links">
+      <a class="btn primary" href="2024-02_AAAI-vancouver/AAAI-2024-tech-insight-report.html">Report &middot;&nbsp;HTML</a>
+      <a class="btn" href="2024-02_AAAI-vancouver/AAAI-2024-tech-insight-slides.html">Slides &middot;&nbsp;HTML</a>
+      <a class="btn" href="2024-02_AAAI-vancouver/AAAI-2024-tech-insight-slides-EN.pptx">Slides &middot;&nbsp;PPTX EN</a>
+    <a class="btn" href="2024-02_AAAI-vancouver/AAAI-2024-tech-insight-slides-CN.pptx">Slides &middot;&nbsp;PPTX CN</a>
+    </div>
+  </article>
+</main>
+<div class="copyright">© 2026 <a href="https://ainlamyae.github.io">ALI</a> — <a href="https://ainlamyae.github.io/tech-conference-insights/">Tech Insight</a> v1.0.0</div>
+</body></html>
