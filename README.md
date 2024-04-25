@@ -16,6 +16,7 @@ All four are **self-contained** — images are embedded — so they open on thei
 | Conference | When & where | Covered | Files |
 |---|---|---|---|
 | **AAAI 2024** | Vancouver, Canada · February 20–27, 2024 | 13 papers | [report](2024-02_AAAI-vancouver/AAAI-2024-tech-insight-report.html) · [slides](2024-02_AAAI-vancouver/AAAI-2024-tech-insight-slides.html) · [pptx EN](2024-02_AAAI-vancouver/AAAI-2024-tech-insight-slides-EN.pptx) · [pptx CN](2024-02_AAAI-vancouver/AAAI-2024-tech-insight-slides-CN.pptx) |
+| **IEEE SysCon 2024** | Montréal, Québec, Canada · April 15–18, 2024 | 17 papers | [report](2024-04_SysCon-montreal/SysCon-2024-tech-insight-report.html) · [slides](2024-04_SysCon-montreal/SysCon-2024-tech-insight-slides.html) · [pptx EN](2024-04_SysCon-montreal/SysCon-2024-tech-insight-slides-EN.pptx) · [pptx CN](2024-04_SysCon-montreal/SysCon-2024-tech-insight-slides-CN.pptx) |
 
 ## Layout
 
