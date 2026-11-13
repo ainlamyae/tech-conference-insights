@@ -1,0 +1,1895 @@
+{
+ "folder": "2024-10_OpenMind-banff-retreat",
+ "strings": {
+  "c5629b5852": {
+   "en": "[1] R. Sutton et al., “The Alberta Plan for AI Research,” arXiv:2208.11173, 2022.",
+   "zh": "[1] R. Sutton et al., “The Alberta Plan for AI Research,” arXiv:2208.11173, 2022.",
+   "cls": "keep"
+  },
+  "4cd8bbbdae": {
+   "en": "[2] D. Silver et al., “Reward is Enough,” Artificial Intelligence, vol. 299, 2021.",
+   "zh": "[2] D. Silver et al., “Reward is Enough,” Artificial Intelligence, vol. 299, 2021.",
+   "cls": "keep"
+  },
+  "e2b349e6a9": {
+   "en": "[3] OpenMind Research Institute, “Continual Learning,” Banff Retreat, Oct 2024.",
+   "zh": "[3] OpenMind Research Institute, “Continual Learning,” Banff Retreat, Oct 2024.",
+   "cls": "keep"
+  },
+  "af5cd220bc": {
+   "en": "[4] OpenMind Research Institute, “Continual Learning — RL Agent Architecture,” Banff Retreat, 2024.",
+   "zh": "[4] OpenMind Research Institute, “Continual Learning — RL Agent Architecture,” Banff Retreat, 2024.",
+   "cls": "keep"
+  },
+  "6dcbb9f2d5": {
+   "en": "[5] K. Javed & R. Sutton, “The Big World Hypothesis and its Ramifications for AI,” RLC, 2024.",
+   "zh": "[5] K. Javed & R. Sutton, “The Big World Hypothesis and its Ramifications for AI,” RLC, 2024.",
+   "cls": "keep"
+  },
+  "749959fb1f": {
+   "en": "[6] R. Sutton, “The Bitter Lesson,” incompleteideas.net, 2019.",
+   "zh": "[6] R. Sutton, “The Bitter Lesson,” incompleteideas.net, 2019.",
+   "cls": "keep"
+  },
+  "74cde452ec": {
+   "en": "[7] M. Elsayed et al., “Streaming Deep Reinforcement Learning Finally Works,” arXiv:2410.14606, 2024.",
+   "zh": "[7] M. Elsayed et al., “Streaming Deep Reinforcement Learning Finally Works,” arXiv:2410.14606, 2024.",
+   "cls": "keep"
+  },
+  "d833ccaf37": {
+   "en": "[8] OpenMind Research Institute, “Continual Learning — Applications,” Banff Retreat, 2024.",
+   "zh": "[8] OpenMind Research Institute, “Continual Learning — Applications,” Banff Retreat, 2024.",
+   "cls": "keep"
+  },
+  "5dad5b7087": {
+   "en": "[9] OpenMind Research Institute, “Continual Learning — Challenges,” Banff Retreat, 2024.",
+   "zh": "[9] OpenMind Research Institute, “Continual Learning — Challenges,” Banff Retreat, 2024.",
+   "cls": "keep"
+  },
+  "9780db9ac0": {
+   "en": "{1}{2}{/2}Tech Insight{/1}{3}Contents{/3}{4}·{/4}{5}Retreat{/5}{6}·{/6}{7}Insights{/7}{8}·{/8}{9}Conclusions{/9}{10}·{/10}{11}References{/11}",
+   "zh": "{1}{2}{/2}Tech Insight{/1}{3}目录{/3}{4}·{/4}{5}研讨会{/5}{6}·{/6}{7}洞察{/7}{8}·{/8}{9}结论{/9}{10}·{/10}{11}参考文献{/11}",
+   "cls": "nav.bar"
+  },
+  "a33af3f25c": {
+   "en": "OpenMind Banff Retreat 2024 · Tech Insight Report",
+   "zh": "OpenMind Banff Retreat 2024 · Tech Insight 报告",
+   "cls": "div.kicker"
+  },
+  "c370a48932": {
+   "en": "OpenMind Banff Retreat 2024 — OpenMind Research Institute — Banff Research Retreat",
+   "zh": "OpenMind Banff Retreat 2024 — OpenMind Research Institute — Banff Research Retreat",
+   "cls": "h1"
+  },
+  "7f12167fca": {
+   "en": "{1}Banff Centre, Alberta, Canada · October 18–20, 2024{/1}",
+   "zh": "{1}加拿大艾伯塔省班夫中心 · 2024 年 10 月 18–20 日{/1}",
+   "cls": "p.lede"
+  },
+  "7ebb2ecc75": {
+   "en": "A workshop-style research retreat read through one deep talk on Continual Learning: Rich Sutton's RL-first view that intelligence is goal-seeking, adaptive and situated in a continuous stream of experience — and why continual, streaming learning (not frozen batch models) is the path to agents that work in a big, non-stationary world.",
+   "zh": "这是一场研讨会形式的研究闭门会，围绕一场关于持续学习的深度演讲展开：Rich Sutton 以强化学习为先的观点认为，智能是追求目标、能够适应、并置身于连续经验流之中的；因此，持续的流式学习（而非冻结的批量模型）才是通向能在庞大、非平稳世界中工作的智能体的道路。",
+   "cls": "p.lede"
+  },
+  "bf30f95d5d": {
+   "en": "Location{1}Banff Centre, Alberta, Canada{/1}",
+   "zh": "地点{1}加拿大艾伯塔省班夫中心{/1}",
+   "cls": "div"
+  },
+  "efdb55a8e2": {
+   "en": "Dates{1}October 18–20, 2024{/1}",
+   "zh": "日期{1}2024 年 10 月 18–20 日{/1}",
+   "cls": "div"
+  },
+  "bfbed6f80d": {
+   "en": "Focus{1}Continual Learning — Minds that Learn from a Stream of Experience{/1}",
+   "zh": "主题{1}持续学习：从经验流中学习的心智{/1}",
+   "cls": "div"
+  },
+  "f91f503b91": {
+   "en": "01 · Contents",
+   "zh": "01 · 目录",
+   "cls": "div.kicker"
+  },
+  "2740cf99db": {
+   "en": "Topics covered, by theme",
+   "zh": "按主题划分的议题",
+   "cls": "h2"
+  },
+  "9c5fc7ba70": {
+   "en": "A · Minds, and why continual learning",
+   "zh": "A · 心智，以及为什么需要持续学习",
+   "cls": "attr:data-group"
+  },
+  "a6f0b3c9de": {
+   "en": "{1}01{/1}{2}OpenMind & the RL-first Bet on Intelligence{/2}",
+   "zh": "{1}01{/1}{2}OpenMind 与押注强化学习的智能之路{/2}",
+   "cls": "div"
+  },
+  "40ff7d525b": {
+   "en": "{1}02{/1}{2}What Is a Mind? Goal-seeking, Adaptive, Situated{/2}",
+   "zh": "{1}02{/1}{2}什么是心智？追求目标、能够适应、置身经验之中{/2}",
+   "cls": "div"
+  },
+  "e7bb54d564": {
+   "en": "{1}03{/1}{2}Constant vs Continual Learning{/2}",
+   "zh": "{1}03{/1}{2}恒定学习与持续学习{/2}",
+   "cls": "div"
+  },
+  "216d35032c": {
+   "en": "B · Agents in a big world",
+   "zh": "B · 大世界中的智能体",
+   "cls": "attr:data-group"
+  },
+  "fa3bf95cb7": {
+   "en": "{1}04{/1}{2}A Common Architecture for Continual RL Agents{/2}",
+   "zh": "{1}04{/1}{2}持续强化学习智能体的通用架构{/2}",
+   "cls": "div"
+  },
+  "94623b63d1": {
+   "en": "{1}05{/1}{2}A Little Agent in a Big World{/2}",
+   "zh": "{1}05{/1}{2}大世界中的小智能体{/2}",
+   "cls": "div"
+  },
+  "294569c070": {
+   "en": "{1}06{/1}{2}Efficiency vs Generality: Bias, Compute & the Bitter Lesson{/2}",
+   "zh": "{1}06{/1}{2}效率与通用性：偏置、算力与苦涩的教训{/2}",
+   "cls": "div"
+  },
+  "3e79c76387": {
+   "en": "C · From batch to streaming",
+   "zh": "C · 从批量到流式",
+   "cls": "attr:data-group"
+  },
+  "f343af23a2": {
+   "en": "{1}07{/1}{2}Batch vs Streaming Learning{/2}",
+   "zh": "{1}07{/1}{2}批量学习与流式学习{/2}",
+   "cls": "div"
+  },
+  "0f91662a26": {
+   "en": "D · Industry relevance",
+   "zh": "D · 行业相关性",
+   "cls": "attr:data-group"
+  },
+  "d6324b05bf": {
+   "en": "{1}08{/1}{2}Where Continual Learning Pays Off{/2}",
+   "zh": "{1}08{/1}{2}持续学习在哪里带来回报{/2}",
+   "cls": "div"
+  },
+  "ae1e15a3af": {
+   "en": "{1}09{/1}{2}Challenges & Limitations of Continual Learning{/2}",
+   "zh": "{1}09{/1}{2}持续学习的挑战与局限{/2}",
+   "cls": "div"
+  },
+  "03dc619f06": {
+   "en": "02 · Retreat at a glance",
+   "zh": "02 · 研讨会概览",
+   "cls": "div.kicker"
+  },
+  "96baf4628a": {
+   "en": "OpenMind Research Institute — Banff Research Retreat — Banff Centre, Alberta, Canada, October 18–20, 2024",
+   "zh": "OpenMind Research Institute — Banff Research Retreat — 加拿大艾伯塔省班夫中心，2024 年 10 月 18–20 日",
+   "cls": "h2"
+  },
+  "03deed036b": {
+   "en": "{1}3 days{/1}{2}18–20 Oct 2024{/2}",
+   "zh": "{1}3 天{/1}{2}2024 年 10 月 18–20 日{/2}",
+   "cls": "div.tile"
+  },
+  "054aca54b3": {
+   "en": "{1}Banff Centre{/1}{2}Alberta, Canada{/2}",
+   "zh": "{1}班夫中心{/1}{2}加拿大艾伯塔省{/2}",
+   "cls": "div.tile"
+  },
+  "77aad498c1": {
+   "en": "{1}OpenMind{/1}{2}host institute{/2}",
+   "zh": "{1}OpenMind{/1}{2}主办机构{/2}",
+   "cls": "div.tile"
+  },
+  "84c1be6b65": {
+   "en": "{1}9 topics{/1}{2}one talk, deep-dived{/2}",
+   "zh": "{1}9 个主题{/1}{2}一场演讲，深入解读{/2}",
+   "cls": "div.tile"
+  },
+  "e8d5f28640": {
+   "en": "{1}About:{/1} An invitational retreat of the OpenMind Research Institute — a Canadian non-profit, fully virtual organization whose roadmap is the Alberta Plan for AI Research. This report distills one talk, “Continual Learning,” topic by topic.",
+   "zh": "{1}关于：{/1}这是 OpenMind Research Institute 的一场邀请制研讨会。该机构是加拿大的非营利、完全线上组织，路线图为 Alberta Plan for AI Research。本报告按主题梳理了一场演讲“Continual Learning”。",
+   "cls": "p.overview-themes"
+  },
+  "c7d22db9a5": {
+   "en": "The through-line is Sutton's thesis: the biggest AI advances are still ahead, progress is a marathon, and reinforcement learning — not generative AI — is the path to intelligent agents; the main bottleneck is the lack of effective continual-learning algorithms.",
+   "zh": "贯穿全篇的是 Sutton 的论点：AI 最大的进展还在前方，进步是一场马拉松，而强化学习（而非生成式 AI）才是通向智能体的道路；主要瓶颈是缺乏有效的持续学习算法。",
+   "cls": "p.overview-themes"
+  },
+  "74e3fba778": {
+   "en": "03 · Insights",
+   "zh": "03 · 洞察",
+   "cls": "div.kicker"
+  },
+  "72fee6208b": {
+   "en": "The talk, topic by topic",
+   "zh": "按主题梳理这场演讲",
+   "cls": "h2"
+  },
+  "76042f01c1": {
+   "en": "OpenMind & the RL-first Bet on Intelligence",
+   "zh": "OpenMind 与押注强化学习的智能之路",
+   "cls": "attr:data-toc"
+  },
+  "822f64a951": {
+   "en": "{1}OpenMind Research Institute{/1} · Banff Retreat · Sutton's perspective",
+   "zh": "{1}OpenMind Research Institute{/1} · 班夫研讨会 · Sutton 的观点",
+   "cls": "div.byline"
+  },
+  "01afed0f40": {
+   "en": "About OpenMind",
+   "zh": "关于 OpenMind",
+   "cls": "span.lbl"
+  },
+  "49512d302f": {
+   "en": "Canadian non-profit, fully virtual research institute",
+   "zh": "加拿大非营利、完全线上的研究机构",
+   "cls": "li"
+  },
+  "1f4f122883": {
+   "en": "Motto: understand minds well enough to build some — how minds arise from a stream of experience",
+   "zh": "宗旨：深入理解心智，进而构建心智，即心智如何从经验流中产生",
+   "cls": "li"
+  },
+  "02083789d3": {
+   "en": "Roadmap: the Alberta Plan for AI Research",
+   "zh": "路线图：Alberta Plan for AI Research",
+   "cls": "li"
+  },
+  "8e79d19bcb": {
+   "en": "Objective: do fundamental research and share it openly with the world",
+   "zh": "目标：开展基础研究，并向全世界公开分享",
+   "cls": "li"
+  },
+  "64e75aba80": {
+   "en": "Sutton's perspective",
+   "zh": "Sutton 的观点",
+   "cls": "span.lbl"
+  },
+  "aad7f2b0ea": {
+   "en": "Super-intelligent agents and augmented humans will bring great benefits to the world",
+   "zh": "超级智能的智能体和增强的人类将为世界带来巨大益处",
+   "cls": "li"
+  },
+  "ea85d6c61c": {
+   "en": "The most significant AI advancements are still ahead of us",
+   "zh": "AI 最重大的进展还在前方",
+   "cls": "li"
+  },
+  "b7c77fbe3a": {
+   "en": "AI development is more of a marathon than a sprint",
+   "zh": "AI 的发展更像一场马拉松，而不是短跑",
+   "cls": "li"
+  },
+  "83249a6730": {
+   "en": "Reinforcement learning (RL) — not generative AI — is the key path to developing intelligent agents",
+   "zh": "强化学习（RL）而非生成式 AI，是开发智能体的关键路径",
+   "cls": "li"
+  },
+  "d71e12138d": {
+   "en": "The main challenge is the lack of effective learning algorithms",
+   "zh": "主要挑战是缺乏有效的学习算法",
+   "cls": "li"
+  },
+  "b6a197ed57": {
+   "en": "The OpenMind Research Institute — a virtual, non-profit lab behind the Alberta Plan.",
+   "zh": "OpenMind Research Institute：Alberta Plan 背后的线上非营利实验室。",
+   "cls": "figcaption"
+  },
+  "58c1c9126f": {
+   "en": "What Is a Mind? Goal-seeking, Adaptive, Situated",
+   "zh": "什么是心智？追求目标、能够适应、置身经验之中",
+   "cls": "attr:data-toc"
+  },
+  "3026236ad8": {
+   "en": "{1}Continual Learning (talk){/1} · McCarthy · Sutton — ‘reward is enough’",
+   "zh": "{1}Continual Learning (talk){/1} · McCarthy · Sutton — ‘reward is enough’",
+   "cls": "div.byline"
+  },
+  "a46ef085f2": {
+   "en": "Goal-seeking",
+   "zh": "追求目标",
+   "cls": "span.lbl"
+  },
+  "c9282c8c87": {
+   "en": "Intelligence is the computational part of the ability to achieve goals (McCarthy & Sutton)",
+   "zh": "智能是实现目标能力中的计算部分（McCarthy 和 Sutton）",
+   "cls": "li"
+  },
+  "c3278775eb": {
+   "en": "Reward hypothesis: goals & purposes = maximizing the expected cumulative scalar reward",
+   "zh": "奖励假设：目标与意图 = 最大化期望累积标量奖励",
+   "cls": "li"
+  },
+  "f1d327224b": {
+   "en": "Reward-is-enough hypothesis: intelligence and its abilities subserve reward maximization",
+   "zh": "奖励足够假设：智能及其各项能力都服务于奖励最大化",
+   "cls": "li"
+  },
+  "fa6e702e63": {
+   "en": "Adapting behavior",
+   "zh": "调整行为",
+   "cls": "span.lbl"
+  },
+  "757cb23b6a": {
+   "en": "Biological minds naturally adapt behavior to goals in complex, dynamic environments",
+   "zh": "生物心智能在复杂、动态的环境中自然地根据目标调整行为",
+   "cls": "li"
+  },
+  "dfc4db64b7": {
+   "en": "Society is comfortable with the adaptive behavior of animals",
+   "zh": "社会对动物的适应性行为习以为常",
+   "cls": "li"
+  },
+  "df237cdd3c": {
+   "en": "Most ML / engineering systems are fixed and non-adaptive, built on static models of predefined domains",
+   "zh": "大多数机器学习 / 工程系统是固定的、不具适应性的，建立在预定义领域的静态模型之上",
+   "cls": "li"
+  },
+  "a0198996b8": {
+   "en": "Situated in experience",
+   "zh": "置身经验之中",
+   "cls": "span.lbl"
+  },
+  "689ed060bc": {
+   "en": "Biological minds adapt within one ongoing, open stream of experience — not independent data inputs",
+   "zh": "生物心智在一条持续、开放的经验流中进行适应，而不是处理相互独立的数据输入",
+   "cls": "li"
+  },
+  "e27f91daa9": {
+   "en": "Most ML assumes i.i.d. data, making it hard to adapt to real-time, open-world settings",
+   "zh": "大多数机器学习假设数据独立同分布（i.i.d.），因此难以适应实时、开放世界的环境",
+   "cls": "li"
+  },
+  "7cd0171d71": {
+   "en": "Open-world learning needs online learning, incremental updates and real-time adaptability — not captured by current ML theory",
+   "zh": "开放世界学习需要在线学习、增量更新和实时适应能力，而这些是当前机器学习理论尚未涵盖的",
+   "cls": "li"
+  },
+  "65ae562900": {
+   "en": "Where do minds sit in AI research? — minds amid generative models, search and computation.",
+   "zh": "心智在 AI 研究中处于什么位置？心智位于生成模型、搜索和计算之间。",
+   "cls": "figcaption"
+  },
+  "4882ab8537": {
+   "en": "Constant vs Continual Learning",
+   "zh": "恒定学习与持续学习",
+   "cls": "attr:data-toc"
+  },
+  "09fc9815ea": {
+   "en": "{1}Continual Learning (talk){/1} · OpenMind Banff Retreat",
+   "zh": "{1}Continual Learning (talk){/1} · OpenMind Banff Retreat",
+   "cls": "div.byline"
+  },
+  "627a2ec55b": {
+   "en": "The distinction",
+   "zh": "两者的区别",
+   "cls": "span.lbl"
+  },
+  "e3e4a252b1": {
+   "en": "Constant learning: a train phase, then a frozen model used for test",
+   "zh": "恒定学习：先有训练阶段，然后使用冻结的模型进行测试",
+   "cls": "li"
+  },
+  "337c624e6d": {
+   "en": "Continual learning: the agent stays in the state–action–reward loop and keeps learning past ‘test’",
+   "zh": "持续学习：智能体始终处于状态–动作–奖励循环中，在“测试”之后仍继续学习",
+   "cls": "li"
+  },
+  "7161603496": {
+   "en": "Agents that learn and adapt",
+   "zh": "能学习和适应的智能体",
+   "cls": "span.lbl"
+  },
+  "449fb6ee24": {
+   "en": "Learning/adapting agents face non-stationary environments — changing data, policies and value functions",
+   "zh": "学习/适应的智能体面对的是非平稳环境，其数据、策略和价值函数都在变化",
+   "cls": "li"
+  },
+  "570786fd56": {
+   "en": "Reinforcement learning can handle some degree of non-stationarity naturally",
+   "zh": "强化学习能够自然地处理一定程度的非平稳性",
+   "cls": "li"
+  },
+  "f3c44bb5a2": {
+   "en": "Continual learning in open environments is a central challenge for minds",
+   "zh": "开放环境中的持续学习是心智面临的核心挑战",
+   "cls": "li"
+  },
+  "6495c3607a": {
+   "en": "Constant vs continual learning — the agent stays in the loop, π keeps updating past ‘test’.",
+   "zh": "恒定学习与持续学习：智能体始终处于循环中，π 在“测试”之后仍持续更新。",
+   "cls": "figcaption"
+  },
+  "fe8e761592": {
+   "en": "A Common Architecture for Continual RL Agents",
+   "zh": "持续强化学习智能体的通用架构",
+   "cls": "attr:data-toc"
+  },
+  "e8c4bf8e22": {
+   "en": "{1}Continual Learning (talk){/1} · the Alberta Plan agent model",
+   "zh": "{1}Continual Learning (talk){/1} · Alberta Plan 的智能体模型",
+   "cls": "div.byline"
+  },
+  "be083f2f17": {
+   "en": "The four components",
+   "zh": "四个组成部分",
+   "cls": "span.lbl"
+  },
+  "fe3d8bc82e": {
+   "en": "Perception — produces the state representation used by all other components",
+   "zh": "感知：生成供所有其他组件使用的状态表示",
+   "cls": "li"
+  },
+  "052e306c3c": {
+   "en": "Reactive policies — quickly produce actions that achieve high reward or features",
+   "zh": "反应式策略：快速产生能获得高奖励或特征的动作",
+   "cls": "li"
+  },
+  "bd739d32bf": {
+   "en": "Value functions — evaluate how well things are going and change the policy (learning)",
+   "zh": "价值函数：评估事情进展得如何，并改变策略（学习）",
+   "cls": "li"
+  },
+  "1286069920": {
+   "en": "Transition model — predict consequences of alternative choices and change the policy (planning)",
+   "zh": "转移模型：预测不同选择的后果，并改变策略（规划）",
+   "cls": "li"
+  },
+  "915b222f36": {
+   "en": "What each learns, continually",
+   "zh": "各部分持续学习什么",
+   "cls": "span.lbl"
+  },
+  "edd07546ca": {
+   "en": "Continual supervised representation / feature finding; continual generalized value-function prediction",
+   "zh": "持续的监督式表示 / 特征发现；持续的广义价值函数预测",
+   "cls": "li"
+  },
+  "b1c0405ec5": {
+   "en": "Continual actor-critic control; planning with reward, search control and exploration",
+   "zh": "持续的 actor-critic 控制；结合奖励、搜索控制和探索的规划",
+   "cls": "li"
+  },
+  "26e8191240": {
+   "en": "Prototype systems",
+   "zh": "原型系统",
+   "cls": "span.lbl"
+  },
+  "7221ae07e5": {
+   "en": "One-step model-based RL with continual function approximation",
+   "zh": "带有持续函数逼近的单步基于模型的强化学习",
+   "cls": "li"
+  },
+  "fb161e1a40": {
+   "en": "STOMP — Stochastic Trajectory Optimization for Motion Planning",
+   "zh": "STOMP：用于运动规划的随机轨迹优化",
+   "cls": "li"
+  },
+  "a2363e3566": {
+   "en": "Intelligence amplification — enhancing human decision-making with AI",
+   "zh": "智能增强：用 AI 增强人类的决策",
+   "cls": "li"
+  },
+  "2d2b829868": {
+   "en": "A common agent architecture — perception, reactive policies, value functions, transition model.",
+   "zh": "通用的智能体架构：感知、反应式策略、价值函数、转移模型。",
+   "cls": "figcaption"
+  },
+  "a73751bb2d": {
+   "en": "A Little Agent in a Big World",
+   "zh": "大世界中的小智能体",
+   "cls": "attr:data-toc"
+  },
+  "2ff8185be8": {
+   "en": "{1}K. Javed & R. Sutton{/1} · Big World Hypothesis, 2024",
+   "zh": "{1}K. Javed & R. Sutton{/1} · Big World Hypothesis, 2024",
+   "cls": "div.byline"
+  },
+  "a02c33b78c": {
+   "en": "What makes an agent small",
+   "zh": "是什么让智能体变“小”",
+   "cls": "span.lbl"
+  },
+  "4bbca7f9c5": {
+   "en": "The agent is constrained relative to the world: an information-capacity limit = the entropy of agent state, in bits",
+   "zh": "智能体相对于世界是受限的：存在信息容量上限，即智能体状态的熵（以比特计）",
+   "cls": "li"
+  },
+  "4d58514cf7": {
+   "en": "Traditional theory: hone in on good actions and refine over time, with vanishing benefit to exploration",
+   "zh": "传统理论：锁定好的动作并随时间不断改进，探索的收益逐渐消失",
+   "cls": "li"
+  },
+  "8f67754ac7": {
+   "en": "Small agent, big world ⇒ want more capacity; non-stationary exploration ⇒ acquire info relevant to the future, forget the rest",
+   "zh": "小智能体、大世界 ⇒ 需要更多容量；非平稳探索 ⇒ 获取与未来相关的信息，忘掉其余部分",
+   "cls": "li"
+  },
+  "a206b60e83": {
+   "en": "Decision-aware model learning",
+   "zh": "面向决策的模型学习",
+   "cls": "span.lbl"
+  },
+  "a52f26723c": {
+   "en": "Model what matters for decisions: Value-Aware (VAML) & Policy-Aware (PAML) model learning, distributional-equivalent variants",
+   "zh": "只对决策重要的部分建模：价值感知（VAML）与策略感知（PAML）模型学习，以及分布等价的变体",
+   "cls": "li"
+  },
+  "ce6bf2201b": {
+   "en": "Much recent work: Predictron, VPN, TreeQN, GAMPS, value-targeted regression, muZero, value-equivalent sampling",
+   "zh": "近期有许多相关工作：Predictron、VPN、TreeQN、GAMPS、value-targeted regression、muZero、value-equivalent sampling",
+   "cls": "li"
+  },
+  "3338f67cee": {
+   "en": "Continual Knowledge Re-Grounding (KnoReG): benefit from an approximate model, then continually correct it against the real world (OS-VI update)",
+   "zh": "持续知识再锚定（KnoReG）：先从近似模型中获益，再持续对照真实世界对其进行修正（OS-VI 更新）",
+   "cls": "li"
+  },
+  "00de98f3e1": {
+   "en": "There is hope",
+   "zh": "仍有希望",
+   "cls": "span.lbl"
+  },
+  "798f4bbf07": {
+   "en": "There are new ways an approximate model of the world can help a small agent",
+   "zh": "近似的世界模型可以通过新的方式帮助小智能体",
+   "cls": "li"
+  },
+  "9d5f51d54f": {
+   "en": "You are not limited to choosing only an inaccurate or only an accurate model",
+   "zh": "你不必只在不准确的模型或只在准确的模型之间二选一",
+   "cls": "li"
+  },
+  "30a90ba0eb": {
+   "en": "A little agent in a big world — the core framing of the Big World Hypothesis.",
+   "zh": "大世界中的小智能体：Big World Hypothesis 的核心框架。",
+   "cls": "figcaption"
+  },
+  "ffcaf5be91": {
+   "en": "Efficiency vs Generality: Bias, Compute & the Bitter Lesson",
+   "zh": "效率与通用性：偏置、算力与苦涩的教训",
+   "cls": "attr:data-toc"
+  },
+  "5989e2089c": {
+   "en": "{1}R. Sutton — ‘The Bitter Lesson’{/1} · vs the Big World Hypothesis",
+   "zh": "{1}R. Sutton — ‘The Bitter Lesson’{/1} · 对比 Big World Hypothesis",
+   "cls": "div.byline"
+  },
+  "07fa39f650": {
+   "en": "The trade-off",
+   "zh": "权衡",
+   "cls": "span.lbl"
+  },
+  "d0926780aa": {
+   "en": "A trade-off between generality and sample efficiency",
+   "zh": "通用性与样本效率之间存在权衡",
+   "cls": "li"
+  },
+  "52e369ef44": {
+   "en": "You can improve efficiency by adding bias, at the cost of generality",
+   "zh": "可以通过加入偏置来提高效率，但代价是通用性",
+   "cls": "li"
+  },
+  "4bbce558e6": {
+   "en": "RL defines an extremely general set of problems",
+   "zh": "强化学习定义了一类极其通用的问题",
+   "cls": "li"
+  },
+  "d80e9bc50b": {
+   "en": "Two levers, two conflicts",
+   "zh": "两个杠杆，两处冲突",
+   "cls": "span.lbl"
+  },
+  "b4d6ce1be0": {
+   "en": "Add bias to the agent — in conflict with the Bitter Lesson and the Big World Hypothesis",
+   "zh": "给智能体加入偏置，这与 Bitter Lesson 和 Big World Hypothesis 相冲突",
+   "cls": "li"
+  },
+  "863bd16ec1": {
+   "en": "Use more computation — in conflict with the Big World Hypothesis",
+   "zh": "使用更多计算，这与 Big World Hypothesis 相冲突",
+   "cls": "li"
+  },
+  "d6abc99379": {
+   "en": "The Bitter Lesson",
+   "zh": "Bitter Lesson",
+   "cls": "span.lbl"
+  },
+  "139abd03ab": {
+   "en": "Building in knowledge helps short-term and is satisfying, but plateaus and even inhibits progress long-term",
+   "zh": "内置知识短期内有帮助，也令人满意，但长期会遇到瓶颈，甚至阻碍进展",
+   "cls": "li"
+  },
+  "fcd81af3a8": {
+   "en": "Breakthroughs eventually arrive from scaling computation via search and learning",
+   "zh": "突破最终来自通过搜索和学习来扩展计算",
+   "cls": "li"
+  },
+  "73d06643ad": {
+   "en": "Big World Hypothesis",
+   "zh": "Big World Hypothesis",
+   "cls": "span.lbl"
+  },
+  "704337f626": {
+   "en": "The environment is significantly larger and more complex than the agent acting within it",
+   "zh": "环境比身处其中的智能体大得多、复杂得多",
+   "cls": "li"
+  },
+  "b2e7500487": {
+   "en": "As compute grows, environment complexity grows too — the world stays much larger than the agent (Javed & Sutton, 2024)",
+   "zh": "随着算力增长，环境复杂度也在增长，世界始终比智能体大得多（Javed & Sutton, 2024）",
+   "cls": "li"
+  },
+  "d73fe339b1": {
+   "en": "Efficiency vs generality — adding bias wins short-term; scaling computation wins long-term.",
+   "zh": "效率与通用性：加入偏置短期占优，扩展计算长期占优。",
+   "cls": "figcaption"
+  },
+  "04712ac0ea": {
+   "en": "Batch vs Streaming Learning",
+   "zh": "批量学习与流式学习",
+   "cls": "attr:data-toc"
+  },
+  "3ce53e2454": {
+   "en": "{1}M. Elsayed et al.{/1} · “Streaming Deep RL Finally Works”, 2024",
+   "zh": "{1}M. Elsayed et al.{/1} · “Streaming Deep RL Finally Works”, 2024",
+   "cls": "div.byline"
+  },
+  "bc7cd55c4d": {
+   "en": "Streaming vs batch methods",
+   "zh": "流式方法与批量方法",
+   "cls": "span.lbl"
+  },
+  "94a26c5220": {
+   "en": "Classic streaming — TD(λ), Q(λ), SARSA(λ), AC(λ) — do not work with deep networks",
+   "zh": "经典流式方法（TD(λ)、Q(λ)、SARSA(λ)、AC(λ)）不适用于深度网络",
+   "cls": "li"
+  },
+  "17740a7328": {
+   "en": "Batch — PPO, SAC, DQN, Rainbow — do work with deep networks, but need replay buffers",
+   "zh": "批量方法（PPO、SAC、DQN、Rainbow）适用于深度网络，但需要回放缓冲区",
+   "cls": "li"
+  },
+  "01e4bc2ed4": {
+   "en": "Why streaming matters",
+   "zh": "为什么流式很重要",
+   "cls": "span.lbl"
+  },
+  "c80ad36263": {
+   "en": "Natural intelligence processes experience as a continuous stream — sense, act and learn moment-by-moment",
+   "zh": "自然智能把经验作为连续流来处理，时时刻刻感知、行动和学习",
+   "cls": "li"
+  },
+  "a4be4e8a13": {
+   "en": "Update immediately per sample, without storing it — resource-friendly and privacy-preserving",
+   "zh": "每个样本立即更新而无需存储，节省资源且保护隐私",
+   "cls": "li"
+  },
+  "871b4b4628": {
+   "en": "Promise: on-board learning on phones & microcontrollers; micro/nano-second decisions; democratize deep RL to billions of devices",
+   "zh": "前景：在手机和微控制器上进行端侧学习；微秒/纳秒级决策；让深度强化学习惠及数十亿台设备",
+   "cls": "li"
+  },
+  "8a3999c331": {
+   "en": "The status quo",
+   "zh": "现状",
+   "cls": "span.lbl"
+  },
+  "44c0c37adc": {
+   "en": "Batch RL's success is credited to data efficiency: reusing samples and averaging i.i.d. gradients for reliable updates",
+   "zh": "批量强化学习的成功被归功于数据效率：重复使用样本，并对独立同分布（i.i.d.）梯度取平均以获得可靠的更新",
+   "cls": "li"
+  },
+  "c4e34c4b9b": {
+   "en": "Streaming RL's failure is blamed on sample inefficiency, instability, and hard step-size choice (per-sample gradient outliers)",
+   "zh": "流式强化学习的失败被归咎于样本效率低、不稳定以及步长难以选择（单样本梯度存在离群值）",
+   "cls": "li"
+  },
+  "0cbdea67d4": {
+   "en": "Overcoming the stream barrier",
+   "zh": "跨越流式障碍",
+   "cls": "span.lbl"
+  },
+  "91a1642fcc": {
+   "en": "Stability: a step-size-controlling optimizer, reward scaling, observation normalization",
+   "zh": "稳定性：可控制步长的优化器、奖励缩放、观测归一化",
+   "cls": "li"
+  },
+  "bb8ddbb71d": {
+   "en": "Trainability: fix the pre-activation distribution with layer norm",
+   "zh": "可训练性：用 layer norm 固定预激活分布",
+   "cls": "li"
+  },
+  "d1cd35fafa": {
+   "en": "Sample efficiency: eligibility traces + sparse initialization (Stream-x)",
+   "zh": "样本效率：资格迹 + 稀疏初始化（Stream-x）",
+   "cls": "li"
+  },
+  "c1e7fe12e3": {
+   "en": "Batch vs streaming deep-RL setups — streaming learns sample-by-sample, with no replay buffer.",
+   "zh": "批量与流式深度强化学习的设置对比：流式逐样本学习，没有回放缓冲区。",
+   "cls": "figcaption"
+  },
+  "536149b318": {
+   "en": "Where Continual Learning Pays Off",
+   "zh": "持续学习在哪里带来回报",
+   "cls": "attr:data-toc"
+  },
+  "162f9aabef": {
+   "en": "{1}Applications{/1} · Continual Learning talk · industry scenarios",
+   "zh": "{1}应用{/1} · 持续学习演讲 · 行业场景",
+   "cls": "div.byline"
+  },
+  "202b851b2f": {
+   "en": "Smart home & IoT",
+   "zh": "智能家居与物联网",
+   "cls": "span.lbl"
+  },
+  "2b7fa72cae": {
+   "en": "Adapt to user preferences over time without manual updates",
+   "zh": "随时间适应用户偏好，无需手动更新",
+   "cls": "li"
+  },
+  "3d0389ee85": {
+   "en": "Learn and anticipate changing user habits (e.g. a HarmonyOS smart home)",
+   "zh": "学习并预判用户不断变化的习惯（例如 HarmonyOS 智能家居）",
+   "cls": "li"
+  },
+  "18b779a242": {
+   "en": "Personalized healthcare",
+   "zh": "个性化医疗",
+   "cls": "span.lbl"
+  },
+  "9d8b579807": {
+   "en": "Continuously improve diagnosis & treatment recommendations as more patient data arrives",
+   "zh": "随着更多患者数据到来，持续改进诊断和治疗建议",
+   "cls": "li"
+  },
+  "53fe6388b7": {
+   "en": "Tailor treatments over time from a live stream (e.g. a watch / fit band)",
+   "zh": "基于实时数据流（例如手表 / 健身手环）随时间调整治疗方案",
+   "cls": "li"
+  },
+  "3a5c3a5019": {
+   "en": "Gaming, finance, agriculture",
+   "zh": "游戏、金融、农业",
+   "cls": "span.lbl"
+  },
+  "0299095379": {
+   "en": "Gaming: adapt difficulty and NPC behavior to player skill",
+   "zh": "游戏：根据玩家水平调整难度和 NPC 行为",
+   "cls": "li"
+  },
+  "638025c62d": {
+   "en": "Finance: adjust trading and portfolio strategies to evolving markets",
+   "zh": "金融：根据不断演变的市场调整交易和投资组合策略",
+   "cls": "li"
+  },
+  "20297dc23b": {
+   "en": "Agriculture: optimize crop management across changing climate, soil and seasons",
+   "zh": "农业：在气候、土壤和季节变化中优化作物管理",
+   "cls": "li"
+  },
+  "376530068a": {
+   "en": "Why continual learning here",
+   "zh": "为什么这里需要持续学习",
+   "cls": "span.lbl"
+  },
+  "04edfed14d": {
+   "en": "Any system in a dynamic environment benefits from real-time adaptation — no periodic re-training",
+   "zh": "任何处于动态环境中的系统都能从实时适应中受益，无需定期重新训练",
+   "cls": "li"
+  },
+  "b7dc4b52e2": {
+   "en": "Evolve progressively, avoiding costly full re-training cycles (model drift / degradation)",
+   "zh": "渐进式演进，避免代价高昂的完整重新训练周期（模型漂移 / 退化）",
+   "cls": "li"
+  },
+  "0ce736dbe2": {
+   "en": "Fits memory- and resource-constrained embedded & IoT devices — incremental, low-resource updates",
+   "zh": "适合内存和资源受限的嵌入式与物联网设备，只需增量式、低资源的更新",
+   "cls": "li"
+  },
+  "fb6dfe926e": {
+   "en": "Personalized health on a continual stream — a wearable refining its models as data arrives.",
+   "zh": "基于持续数据流的个性化健康：可穿戴设备随数据到来不断优化其模型。",
+   "cls": "figcaption"
+  },
+  "24aed9d87d": {
+   "en": "Smart-home / IoT devices that keep adapting to changing user habits.",
+   "zh": "不断适应用户习惯变化的智能家居 / 物联网设备。",
+   "cls": "figcaption"
+  },
+  "74f83a97c6": {
+   "en": "Challenges & Limitations of Continual Learning",
+   "zh": "持续学习的挑战与局限",
+   "cls": "attr:data-toc"
+  },
+  "492aa2d425": {
+   "en": "{1}Challenges & limitations{/1} · Continual Learning talk",
+   "zh": "{1}挑战与局限{/1} · 持续学习演讲",
+   "cls": "div.byline"
+  },
+  "089287aa6a": {
+   "en": "Implementation & data",
+   "zh": "实现与数据",
+   "cls": "span.lbl"
+  },
+  "374bfe26c6": {
+   "en": "Complexity of implementation — must manage knowledge retention while integrating new information",
+   "zh": "实现复杂：必须在整合新信息的同时管理知识保留",
+   "cls": "li"
+  },
+  "f05abc0478": {
+   "en": "Data management — relies on a continuous data stream, often infeasible (e.g. autonomous vehicles need manual labeled data)",
+   "zh": "数据管理：依赖连续数据流，而这往往不可行（例如自动驾驶车辆需要人工标注的数据）",
+   "cls": "li"
+  },
+  "1f415b99c9": {
+   "en": "Overhead in training time and compute to accommodate ongoing updates and refinements",
+   "zh": "为适应持续的更新和改进，训练时间和算力都有额外开销",
+   "cls": "li"
+  },
+  "8c66f01dbb": {
+   "en": "Task & data complexity — as tasks grow, model architecture may need to expand, complicating training and inference",
+   "zh": "任务与数据复杂度：随着任务增多，模型架构可能需要扩展，使训练和推理更加复杂",
+   "cls": "li"
+  },
+  "1b207eb86e": {
+   "en": "Learning failures",
+   "zh": "学习失败",
+   "cls": "span.lbl"
+  },
+  "a4423eebe2": {
+   "en": "Catastrophic forgetting — forgets earlier tasks/classes when trained on new data, especially when data is non-sequential",
+   "zh": "灾难性遗忘：在新数据上训练时会遗忘早先的任务/类别，数据非顺序时尤其明显",
+   "cls": "li"
+  },
+  "f8a97125f1": {
+   "en": "Performance degradation in non-stationary environments where distributions change frequently or unpredictably",
+   "zh": "在分布频繁或不可预测地变化的非平稳环境中，性能会下降",
+   "cls": "li"
+  },
+  "a8e9d99125": {
+   "en": "Risk of overfitting to recent data while failing to generalize across all tasks or classes",
+   "zh": "存在过拟合近期数据的风险，同时无法在所有任务或类别上泛化",
+   "cls": "li"
+  },
+  "c10cef9750": {
+   "en": "Real-time adaptation is technically challenging when immediate updates on new data are required",
+   "zh": "当需要对新数据立即更新时，实时适应在技术上具有挑战性",
+   "cls": "li"
+  },
+  "3e0ad50ef4": {
+   "en": "Ecosystem gaps",
+   "zh": "生态缺口",
+   "cls": "span.lbl"
+  },
+  "228a19cafa": {
+   "en": "Limited benchmarking & evaluation standards — hard to compare approaches or judge effectiveness",
+   "zh": "基准测试和评估标准有限：难以比较不同方法或判断其有效性",
+   "cls": "li"
+  },
+  "223b93fa26": {
+   "en": "No validation for safety-critical systems — run-time learning has no controlled-environment validation; dangerous for autonomous vehicles",
+   "zh": "安全关键系统缺乏确认手段：运行时学习没有受控环境下的确认；对自动驾驶车辆很危险",
+   "cls": "li"
+  },
+  "200d93941a": {
+   "en": "04 · Conclusions",
+   "zh": "04 · 结论",
+   "cls": "div.kicker"
+  },
+  "3d57acbbe7": {
+   "en": "Synthesis — trends, vision, implications",
+   "zh": "综合：趋势、愿景、启示",
+   "cls": "h2"
+  },
+  "716f3fa8e1": {
+   "en": "Trends",
+   "zh": "趋势",
+   "cls": "h4"
+  },
+  "dedd809946": {
+   "en": "Growing demand for autonomous, smart systems that learn continually from their environment.",
+   "zh": "对能从环境中持续学习的自主智能系统的需求不断增长。",
+   "cls": "li"
+  },
+  "e209dcb1ca": {
+   "en": "A shift toward real-time adaptation — fewer manual interventions and re-training cycles.",
+   "zh": "向实时适应转变，减少人工干预和重新训练周期。",
+   "cls": "li"
+  },
+  "9b85af2891": {
+   "en": "Edge & IoT push toward lightweight, resource-efficient continual learning on-device.",
+   "zh": "边缘和物联网推动轻量、资源高效的端侧持续学习。",
+   "cls": "li"
+  },
+  "40b0906c4f": {
+   "en": "Vision",
+   "zh": "愿景",
+   "cls": "h4"
+  },
+  "2e34f1b4fe": {
+   "en": "Adaptive, lifelong-learning systems that evolve without forgetting — like human learning.",
+   "zh": "能够自适应、终身学习且不遗忘的系统，就像人类的学习一样。",
+   "cls": "li"
+  },
+  "58b55cb188": {
+   "en": "Resource-efficient, scalable AI that runs well under tight compute and memory budgets.",
+   "zh": "资源高效、可扩展的 AI，在算力和内存预算紧张的情况下也能良好运行。",
+   "cls": "li"
+  },
+  "4941f69024": {
+   "en": "Real-time decision-making and genuine human-AI collaboration from live feedback.",
+   "zh": "基于实时反馈的实时决策和真正的人机协作。",
+   "cls": "li"
+  },
+  "5d8c81594f": {
+   "en": "Implications for us",
+   "zh": "对我们的启示",
+   "cls": "h4"
+  },
+  "9a0f1b641c": {
+   "en": "Reduced retraining cost and a smaller carbon footprint — cheaper, greener AI.",
+   "zh": "降低重新训练成本、减少碳足迹，让 AI 更便宜、更环保。",
+   "cls": "li"
+  },
+  "a7f382341d": {
+   "en": "Scalability across devices (IoT, edge) and minimized catastrophic forgetting.",
+   "zh": "可跨设备（物联网、边缘）扩展，并将灾难性遗忘降到最低。",
+   "cls": "li"
+  },
+  "6e64ecbd06": {
+   "en": "A strategic edge for autonomous systems and clear cross-sector market differentiation.",
+   "zh": "为自主系统带来战略优势，并在各行业形成清晰的市场差异化。",
+   "cls": "li"
+  },
+  "2b92ebc383": {
+   "en": "05 · References",
+   "zh": "05 · 参考文献",
+   "cls": "div.kicker"
+  },
+  "675f04727d": {
+   "en": "References & sources",
+   "zh": "参考文献与来源",
+   "cls": "h2"
+  },
+  "586cab95da": {
+   "en": "© 2026 {1}ALI{/1} — {2}Tech Insight{/2} v1.6.0",
+   "zh": "© 2026 {1}ALI{/1} — {2}Tech Insight{/2} v1.6.0",
+   "cls": "div.site-copyright"
+  },
+  "333617836b": {
+   "en": "OpenMind Banff Retreat 2024 — Tech Insight Report",
+   "zh": "OpenMind Banff Retreat 2024 — Tech Insight 报告",
+   "cls": "doctitle"
+  },
+  "ee45c30326": {
+   "en": "Report",
+   "zh": "报告",
+   "cls": "div.kicker"
+  },
+  "864ab10a41": {
+   "en": "OpenMind Banff Retreat 2024",
+   "zh": "OpenMind Banff Retreat 2024",
+   "cls": "h1"
+  },
+  "1643627626": {
+   "en": "OpenMind Research Institute — Banff Research Retreat · Banff Centre, Alberta, Canada · October 18–20, 2024",
+   "zh": "OpenMind Research Institute — Banff Research Retreat · 加拿大艾伯塔省班夫中心 · 2024 年 10 月 18–20 日",
+   "cls": "p.topic"
+  },
+  "81d8d99ea2": {
+   "en": "Retreat",
+   "zh": "研讨会",
+   "cls": "attr:data-toc"
+  },
+  "f5cbdf6bfb": {
+   "en": "Contents",
+   "zh": "目录",
+   "cls": "attr:data-toc"
+  },
+  "b4e6a31089": {
+   "en": "Intro",
+   "zh": "简介",
+   "cls": "attr:data-group"
+  },
+  "6f29f59f87": {
+   "en": "Retreat at a glance",
+   "zh": "研讨会概览",
+   "cls": "attr:data-toc"
+  },
+  "fdc40861c3": {
+   "en": "OpenMind Research Institute — Banff Research Retreat — Banff Centre, Alberta, Canada",
+   "zh": "OpenMind Research Institute — Banff Research Retreat — 加拿大艾伯塔省班夫中心",
+   "cls": "h2"
+  },
+  "4d65bce10a": {
+   "en": "Insight 01 · Minds, and why continual learning",
+   "zh": "洞察 01 · 心智，以及为什么需要持续学习",
+   "cls": "div.kicker"
+  },
+  "6b99a9e48c": {
+   "en": "Insight 02 · Minds, and why continual learning",
+   "zh": "洞察 02 · 心智，以及为什么需要持续学习",
+   "cls": "div.kicker"
+  },
+  "4b8df7b001": {
+   "en": "Insight 03 · Minds, and why continual learning",
+   "zh": "洞察 03 · 心智，以及为什么需要持续学习",
+   "cls": "div.kicker"
+  },
+  "1250a76888": {
+   "en": "Insight 04 · Agents in a big world",
+   "zh": "洞察 04 · 大世界中的智能体",
+   "cls": "div.kicker"
+  },
+  "79c7932c60": {
+   "en": "Insight 05 · Agents in a big world",
+   "zh": "洞察 05 · 大世界中的智能体",
+   "cls": "div.kicker"
+  },
+  "f7e4b2fa1f": {
+   "en": "Insight 06 · Agents in a big world",
+   "zh": "洞察 06 · 大世界中的智能体",
+   "cls": "div.kicker"
+  },
+  "6856f0adb2": {
+   "en": "Insight 07 · From batch to streaming",
+   "zh": "洞察 07 · 从批量到流式",
+   "cls": "div.kicker"
+  },
+  "1caf70e1d0": {
+   "en": "Insight 08 · Industry relevance",
+   "zh": "洞察 08 · 行业相关性",
+   "cls": "div.kicker"
+  },
+  "63ddf11325": {
+   "en": "Insight 09 · Industry relevance",
+   "zh": "洞察 09 · 行业相关性",
+   "cls": "div.kicker"
+  },
+  "b536777ff1": {
+   "en": "Conclusions",
+   "zh": "结论",
+   "cls": "attr:data-toc"
+  },
+  "c50ee71a17": {
+   "en": "<div class=\"fit\"><div class=\"concl\"><div class=\"col c1\"><h4>Trends</h4><ul><li>Growing demand for autonomous, smart systems that learn continually from their environment.</li><li>A shift toward real-time adaptation — fewer manual interventions and re-training cycles.</li><li>Edge & IoT push toward lightweight, resource-efficient continual learning on-device.</li></ul></div><div class=\"col c2\"><h4>Vision</h4><ul><li>Adaptive, lifelong-learning systems that evolve without forgetting — like human learning.</li><li>Resource-efficient, scalable AI that runs well under tight compute and memory budgets.</li><li>Real-time decision-making and genuine human-AI collaboration from live feedback.</li></ul></div><div class=\"col c3\"><h4>Implications for us</h4><ul><li>Reduced retraining cost and a smaller carbon footprint — cheaper, greener AI.</li><li>Scalability across devices (IoT, edge) and minimized catastrophic forgetting.</li><li>A strategic edge for autonomous systems and clear cross-sector market differentiation.</li></ul></div></div></div>",
+   "zh": "<div class=\"fit\"><div class=\"concl\"><div class=\"col c1\"><h4>趋势</h4><ul><li>对能从环境中持续学习的自主智能系统的需求不断增长。</li><li>向实时适应转变，减少人工干预和重新训练周期。</li><li>边缘和物联网推动轻量、资源高效的端侧持续学习。</li></ul></div><div class=\"col c2\"><h4>愿景</h4><ul><li>能够自适应、终身学习且不遗忘的系统，就像人类的学习一样。</li><li>资源高效、可扩展的 AI，在算力和内存预算紧张的情况下也能良好运行。</li><li>基于实时反馈的实时决策和真正的人机协作。</li></ul></div><div class=\"col c3\"><h4>对我们的启示</h4><ul><li>降低重新训练成本、减少碳足迹，让 AI 更便宜、更环保。</li><li>可跨设备（物联网、边缘）扩展，并将灾难性遗忘降到最低。</li><li>为自主系统带来战略优势，并在各行业形成清晰的市场差异化。</li></ul></div></div></div>",
+   "cls": "section.slide"
+  },
+  "fa39f733bd": {
+   "en": "Wrap-up",
+   "zh": "总结",
+   "cls": "attr:data-group"
+  },
+  "b2ec1abf35": {
+   "en": "Contents (T)",
+   "zh": "目录 (T)",
+   "cls": "button.toc-btn"
+  },
+  "926860e1d4": {
+   "en": "OpenMind Banff Retreat 2024 — Tech Insight Slides",
+   "zh": "OpenMind Banff Retreat 2024 — Tech Insight 幻灯片",
+   "cls": "doctitle"
+  },
+  "4718b93d9d": {
+   "en": "Tech Insight",
+   "zh": "Tech Insight",
+   "cls": "pptx"
+  },
+  "88aa4763ef": {
+   "en": "Tech Insight Report",
+   "zh": "Tech Insight 报告",
+   "cls": "pptx"
+  },
+  "4b2a977311": {
+   "en": "OpenMind Research Institute — Banff Research Retreat",
+   "zh": "OpenMind Research Institute — Banff Research Retreat",
+   "cls": "pptx"
+  },
+  "be1226e6f6": {
+   "en": "Banff Centre, Alberta, Canada · October 18–20, 2024",
+   "zh": "加拿大艾伯塔省班夫中心 · 2024 年 10 月 18–20 日",
+   "cls": "pptx"
+  },
+  "d219c68101": {
+   "en": "Location",
+   "zh": "地点",
+   "cls": "pptx"
+  },
+  "9398eeb3f1": {
+   "en": "Banff Centre, Alberta, Canada",
+   "zh": "加拿大艾伯塔省班夫中心",
+   "cls": "pptx"
+  },
+  "842b7b5d71": {
+   "en": "Dates",
+   "zh": "日期",
+   "cls": "pptx"
+  },
+  "6b14c5fa4a": {
+   "en": "October 18–20, 2024",
+   "zh": "2024 年 10 月 18–20 日",
+   "cls": "pptx"
+  },
+  "fe7f55b8bf": {
+   "en": "Focus",
+   "zh": "主题",
+   "cls": "pptx"
+  },
+  "259498ed3c": {
+   "en": "Continual Learning — Minds that Learn from a Stream of Experience",
+   "zh": "持续学习：从经验流中学习的心智",
+   "cls": "pptx"
+  },
+  "c7fb4a1c86": {
+   "en": "CONTENTS",
+   "zh": "目录",
+   "cls": "pptx"
+  },
+  "fdc7f94f3f": {
+   "en": "RETREAT AT A GLANCE",
+   "zh": "研讨会概览",
+   "cls": "pptx"
+  },
+  "09ad9df4a1": {
+   "en": "3 days",
+   "zh": "3 天",
+   "cls": "pptx"
+  },
+  "92f4195d59": {
+   "en": "18–20 Oct 2024",
+   "zh": "2024 年 10 月 18–20 日",
+   "cls": "pptx"
+  },
+  "a6d4373b83": {
+   "en": "Banff Centre",
+   "zh": "班夫中心",
+   "cls": "pptx"
+  },
+  "9040472b79": {
+   "en": "Alberta, Canada",
+   "zh": "加拿大艾伯塔省",
+   "cls": "pptx"
+  },
+  "28b2d02832": {
+   "en": "OpenMind",
+   "zh": "OpenMind",
+   "cls": "pptx"
+  },
+  "854e720d85": {
+   "en": "host institute",
+   "zh": "主办机构",
+   "cls": "pptx"
+  },
+  "7031df1224": {
+   "en": "9 topics",
+   "zh": "9 个主题",
+   "cls": "pptx"
+  },
+  "9f822beef9": {
+   "en": "one talk, deep-dived",
+   "zh": "一场演讲，深入解读",
+   "cls": "pptx"
+  },
+  "f6b15d2eaa": {
+   "en": "About: An invitational retreat of the OpenMind Research Institute — a Canadian non-profit, fully virtual organization whose roadmap is the Alberta Plan for AI Research. This report distills one talk, “Continual Learning,” topic by topic.",
+   "zh": "关于：这是 OpenMind Research Institute 的一场邀请制研讨会。该机构是加拿大的非营利、完全线上组织，路线图为 Alberta Plan for AI Research。本报告按主题梳理了一场演讲“Continual Learning”。",
+   "cls": "pptx"
+  },
+  "6f3894c085": {
+   "en": "INSIGHT 01 · Minds, and why continual learning",
+   "zh": "洞察 01 · 心智，以及为什么需要持续学习",
+   "cls": "pptx"
+  },
+  "3f45d1ba0f": {
+   "en": "OpenMind Research Institute · Banff Retreat · Sutton's perspective",
+   "zh": "OpenMind Research Institute · 班夫研讨会 · Sutton 的观点",
+   "cls": "pptx"
+  },
+  "01ef72a90b": {
+   "en": "ABOUT OPENMIND",
+   "zh": "关于 OPENMIND",
+   "cls": "pptx"
+  },
+  "1718a60951": {
+   "en": "• Canadian non-profit, fully virtual research institute",
+   "zh": "• 加拿大非营利、完全线上的研究机构",
+   "cls": "pptx"
+  },
+  "1a2493cc13": {
+   "en": "• Motto: understand minds well enough to build some — how minds arise from a stream of experience",
+   "zh": "• 宗旨：深入理解心智，进而构建心智，即心智如何从经验流中产生",
+   "cls": "pptx"
+  },
+  "1adf0e6ac2": {
+   "en": "• Roadmap: the Alberta Plan for AI Research",
+   "zh": "• 路线图：Alberta Plan for AI Research",
+   "cls": "pptx"
+  },
+  "d94a9e251f": {
+   "en": "• Objective: do fundamental research and share it openly with the world",
+   "zh": "• 目标：开展基础研究，并向全世界公开分享",
+   "cls": "pptx"
+  },
+  "c51ae6bfb4": {
+   "en": "SUTTON'S PERSPECTIVE",
+   "zh": "SUTTON 的观点",
+   "cls": "pptx"
+  },
+  "f2f0ea162d": {
+   "en": "• Super-intelligent agents and augmented humans will bring great benefits to the world",
+   "zh": "• 超级智能的智能体和增强的人类将为世界带来巨大益处",
+   "cls": "pptx"
+  },
+  "6937b03ffb": {
+   "en": "• The most significant AI advancements are still ahead of us",
+   "zh": "• AI 最重大的进展还在前方",
+   "cls": "pptx"
+  },
+  "2ddeb9983c": {
+   "en": "• AI development is more of a marathon than a sprint",
+   "zh": "• AI 的发展更像一场马拉松，而不是短跑",
+   "cls": "pptx"
+  },
+  "9e43e06ea9": {
+   "en": "• Reinforcement learning (RL) — not generative AI — is the key path to developing intelligent agents",
+   "zh": "• 强化学习（RL）而非生成式 AI，是开发智能体的关键路径",
+   "cls": "pptx"
+  },
+  "cf6b6df3a7": {
+   "en": "• The main challenge is the lack of effective learning algorithms",
+   "zh": "• 主要挑战是缺乏有效的学习算法",
+   "cls": "pptx"
+  },
+  "96d25fe4a6": {
+   "en": "INSIGHT 02 · Minds, and why continual learning",
+   "zh": "洞察 02 · 心智，以及为什么需要持续学习",
+   "cls": "pptx"
+  },
+  "e7709e9fe6": {
+   "en": "Continual Learning (talk) · McCarthy · Sutton — ‘reward is enough’",
+   "zh": "Continual Learning (talk) · McCarthy · Sutton — ‘reward is enough’",
+   "cls": "pptx"
+  },
+  "ed93aae280": {
+   "en": "GOAL-SEEKING",
+   "zh": "追求目标",
+   "cls": "pptx"
+  },
+  "3b03a69aee": {
+   "en": "• Intelligence is the computational part of the ability to achieve goals (McCarthy & Sutton)",
+   "zh": "• 智能是实现目标能力中的计算部分（McCarthy 和 Sutton）",
+   "cls": "pptx"
+  },
+  "4019fab2af": {
+   "en": "• Reward hypothesis: goals & purposes = maximizing the expected cumulative scalar reward",
+   "zh": "• 奖励假设：目标与意图 = 最大化期望累积标量奖励",
+   "cls": "pptx"
+  },
+  "a1d0513502": {
+   "en": "• Reward-is-enough hypothesis: intelligence and its abilities subserve reward maximization",
+   "zh": "• 奖励足够假设：智能及其各项能力都服务于奖励最大化",
+   "cls": "pptx"
+  },
+  "aad3f2ff8a": {
+   "en": "ADAPTING BEHAVIOR",
+   "zh": "调整行为",
+   "cls": "pptx"
+  },
+  "d000df7577": {
+   "en": "• Biological minds naturally adapt behavior to goals in complex, dynamic environments",
+   "zh": "• 生物心智能在复杂、动态的环境中自然地根据目标调整行为",
+   "cls": "pptx"
+  },
+  "05be56820c": {
+   "en": "• Society is comfortable with the adaptive behavior of animals",
+   "zh": "• 社会对动物的适应性行为习以为常",
+   "cls": "pptx"
+  },
+  "9e064ddf27": {
+   "en": "• Most ML / engineering systems are fixed and non-adaptive, built on static models of predefined domains",
+   "zh": "• 大多数机器学习 / 工程系统是固定的、不具适应性的，建立在预定义领域的静态模型之上",
+   "cls": "pptx"
+  },
+  "04a7e60b68": {
+   "en": "SITUATED IN EXPERIENCE",
+   "zh": "置身经验之中",
+   "cls": "pptx"
+  },
+  "c8ea6e1948": {
+   "en": "• Biological minds adapt within one ongoing, open stream of experience — not independent data inputs",
+   "zh": "• 生物心智在一条持续、开放的经验流中进行适应，而不是处理相互独立的数据输入",
+   "cls": "pptx"
+  },
+  "758cb266ad": {
+   "en": "• Most ML assumes i.i.d. data, making it hard to adapt to real-time, open-world settings",
+   "zh": "• 大多数机器学习假设数据独立同分布（i.i.d.），因此难以适应实时、开放世界的环境",
+   "cls": "pptx"
+  },
+  "b2ff8e97a5": {
+   "en": "• Open-world learning needs online learning, incremental updates and real-time adaptability — not captured by current ML theory",
+   "zh": "• 开放世界学习需要在线学习、增量更新和实时适应能力，而这些是当前机器学习理论尚未涵盖的",
+   "cls": "pptx"
+  },
+  "44fe2ebe29": {
+   "en": "INSIGHT 03 · Minds, and why continual learning",
+   "zh": "洞察 03 · 心智，以及为什么需要持续学习",
+   "cls": "pptx"
+  },
+  "574a303f01": {
+   "en": "Continual Learning (talk) · OpenMind Banff Retreat",
+   "zh": "Continual Learning (talk) · OpenMind Banff Retreat",
+   "cls": "pptx"
+  },
+  "361bd69ab0": {
+   "en": "THE DISTINCTION",
+   "zh": "两者的区别",
+   "cls": "pptx"
+  },
+  "5ce0188350": {
+   "en": "• Constant learning: a train phase, then a frozen model used for test",
+   "zh": "• 恒定学习：先有训练阶段，然后使用冻结的模型进行测试",
+   "cls": "pptx"
+  },
+  "11f29b171c": {
+   "en": "• Continual learning: the agent stays in the state–action–reward loop and keeps learning past ‘test’",
+   "zh": "• 持续学习：智能体始终处于状态–动作–奖励循环中，在“测试”之后仍继续学习",
+   "cls": "pptx"
+  },
+  "00308b7879": {
+   "en": "AGENTS THAT LEARN AND ADAPT",
+   "zh": "能学习和适应的智能体",
+   "cls": "pptx"
+  },
+  "72146c94b0": {
+   "en": "• Learning/adapting agents face non-stationary environments — changing data, policies and value functions",
+   "zh": "• 学习/适应的智能体面对的是非平稳环境，其数据、策略和价值函数都在变化",
+   "cls": "pptx"
+  },
+  "4d43c7ef1a": {
+   "en": "• Reinforcement learning can handle some degree of non-stationarity naturally",
+   "zh": "• 强化学习能够自然地处理一定程度的非平稳性",
+   "cls": "pptx"
+  },
+  "a8c8674b12": {
+   "en": "• Continual learning in open environments is a central challenge for minds",
+   "zh": "• 开放环境中的持续学习是心智面临的核心挑战",
+   "cls": "pptx"
+  },
+  "42b035deb4": {
+   "en": "INSIGHT 04 · Agents in a big world",
+   "zh": "洞察 04 · 大世界中的智能体",
+   "cls": "pptx"
+  },
+  "d0814945f5": {
+   "en": "Continual Learning (talk) · the Alberta Plan agent model",
+   "zh": "Continual Learning (talk) · Alberta Plan 的智能体模型",
+   "cls": "pptx"
+  },
+  "32741fbfde": {
+   "en": "THE FOUR COMPONENTS",
+   "zh": "四个组成部分",
+   "cls": "pptx"
+  },
+  "fb9b3fe42e": {
+   "en": "• Perception — produces the state representation used by all other components",
+   "zh": "• 感知：生成供所有其他组件使用的状态表示",
+   "cls": "pptx"
+  },
+  "8940608108": {
+   "en": "• Reactive policies — quickly produce actions that achieve high reward or features",
+   "zh": "• 反应式策略：快速产生能获得高奖励或特征的动作",
+   "cls": "pptx"
+  },
+  "285a37af3c": {
+   "en": "• Value functions — evaluate how well things are going and change the policy (learning)",
+   "zh": "• 价值函数：评估事情进展得如何，并改变策略（学习）",
+   "cls": "pptx"
+  },
+  "f8e5e7b839": {
+   "en": "• Transition model — predict consequences of alternative choices and change the policy (planning)",
+   "zh": "• 转移模型：预测不同选择的后果，并改变策略（规划）",
+   "cls": "pptx"
+  },
+  "0b134c6133": {
+   "en": "WHAT EACH LEARNS, CONTINUALLY",
+   "zh": "各部分持续学习什么",
+   "cls": "pptx"
+  },
+  "37e4e4e858": {
+   "en": "• Continual supervised representation / feature finding; continual generalized value-function prediction",
+   "zh": "• 持续的监督式表示 / 特征发现；持续的广义价值函数预测",
+   "cls": "pptx"
+  },
+  "c518a6c1e8": {
+   "en": "• Continual actor-critic control; planning with reward, search control and exploration",
+   "zh": "• 持续的 actor-critic 控制；结合奖励、搜索控制和探索进行规划",
+   "cls": "pptx"
+  },
+  "74b9d88ae0": {
+   "en": "PROTOTYPE SYSTEMS",
+   "zh": "原型系统",
+   "cls": "pptx"
+  },
+  "d4a7312720": {
+   "en": "• One-step model-based RL with continual function approximation",
+   "zh": "• 采用持续函数逼近的单步基于模型的强化学习（RL）",
+   "cls": "pptx"
+  },
+  "36861beb95": {
+   "en": "• STOMP — Stochastic Trajectory Optimization for Motion Planning",
+   "zh": "• STOMP — 用于运动规划的随机轨迹优化",
+   "cls": "pptx"
+  },
+  "015f40a055": {
+   "en": "• Intelligence amplification — enhancing human decision-making with AI",
+   "zh": "• 智能增强 — 用 AI 提升人类决策",
+   "cls": "pptx"
+  },
+  "5ea0b07907": {
+   "en": "INSIGHT 05 · Agents in a big world",
+   "zh": "洞察 05 · 大世界中的智能体",
+   "cls": "pptx"
+  },
+  "a8bf8887a0": {
+   "en": "K. Javed & R. Sutton · Big World Hypothesis, 2024",
+   "zh": "K. Javed & R. Sutton · Big World Hypothesis, 2024",
+   "cls": "pptx"
+  },
+  "ddb441eeae": {
+   "en": "WHAT MAKES AN AGENT SMALL",
+   "zh": "智能体何以“小”",
+   "cls": "pptx"
+  },
+  "a7767e854d": {
+   "en": "• The agent is constrained relative to the world: an information-capacity limit = the entropy of agent state, in bits",
+   "zh": "• 智能体相对于世界是受限的：信息容量上限 = 智能体状态的熵，以比特计",
+   "cls": "pptx"
+  },
+  "71955dd9d5": {
+   "en": "• Traditional theory: hone in on good actions and refine over time, with vanishing benefit to exploration",
+   "zh": "• 传统理论：锁定好的动作并随时间不断优化，探索的收益逐渐消失",
+   "cls": "pptx"
+  },
+  "3af13b01a6": {
+   "en": "• Small agent, big world ⇒ want more capacity; non-stationary exploration ⇒ acquire info relevant to the future, forget the rest",
+   "zh": "• 小智能体、大世界 ⇒ 需要更大容量；非平稳探索 ⇒ 获取与未来相关的信息，遗忘其余",
+   "cls": "pptx"
+  },
+  "4c3bad721c": {
+   "en": "DECISION-AWARE MODEL LEARNING",
+   "zh": "决策感知的模型学习",
+   "cls": "pptx"
+  },
+  "bb8c671186": {
+   "en": "• Model what matters for decisions: Value-Aware (VAML) & Policy-Aware (PAML) model learning, distributional-equivalent variants",
+   "zh": "• 只对决策重要的部分建模：价值感知（VAML）与策略感知（PAML）模型学习，以及分布等价的变体",
+   "cls": "pptx"
+  },
+  "be3c0df493": {
+   "en": "• Much recent work: Predictron, VPN, TreeQN, GAMPS, value-targeted regression, muZero, value-equivalent sampling",
+   "zh": "• 近期大量工作：Predictron、VPN、TreeQN、GAMPS、value-targeted regression、muZero、value-equivalent sampling",
+   "cls": "pptx"
+  },
+  "d68942e4e8": {
+   "en": "• Continual Knowledge Re-Grounding (KnoReG): benefit from an approximate model, then continually correct it against the real world (OS-VI update)",
+   "zh": "• 持续知识再锚定（KnoReG）：先从近似模型中获益，再持续对照真实世界修正它（OS-VI 更新）",
+   "cls": "pptx"
+  },
+  "2208f304b5": {
+   "en": "THERE IS HOPE",
+   "zh": "仍有希望",
+   "cls": "pptx"
+  },
+  "e416660eb8": {
+   "en": "• There are new ways an approximate model of the world can help a small agent",
+   "zh": "• 近似的世界模型能以新的方式帮助小智能体",
+   "cls": "pptx"
+  },
+  "93c5c95316": {
+   "en": "• You are not limited to choosing only an inaccurate or only an accurate model",
+   "zh": "• 你不必只在不准确的模型和准确的模型之间二选一",
+   "cls": "pptx"
+  },
+  "7c1668b66b": {
+   "en": "INSIGHT 06 · Agents in a big world",
+   "zh": "洞察 06 · 大世界中的智能体",
+   "cls": "pptx"
+  },
+  "7bc378d1a0": {
+   "en": "R. Sutton — ‘The Bitter Lesson’ · vs the Big World Hypothesis",
+   "zh": "R. Sutton — “The Bitter Lesson” · 对比 Big World Hypothesis",
+   "cls": "pptx"
+  },
+  "e2a4cb25d9": {
+   "en": "THE TRADE-OFF",
+   "zh": "权衡取舍",
+   "cls": "pptx"
+  },
+  "8002a31b4e": {
+   "en": "• A trade-off between generality and sample efficiency",
+   "zh": "• 通用性与样本效率之间的权衡",
+   "cls": "pptx"
+  },
+  "ed4fc50084": {
+   "en": "• You can improve efficiency by adding bias, at the cost of generality",
+   "zh": "• 可以通过加入偏置来提高效率，代价是通用性",
+   "cls": "pptx"
+  },
+  "bc0421c61d": {
+   "en": "• RL defines an extremely general set of problems",
+   "zh": "• 强化学习（RL）定义了一类极为通用的问题",
+   "cls": "pptx"
+  },
+  "840931b573": {
+   "en": "TWO LEVERS, TWO CONFLICTS",
+   "zh": "两个杠杆，两处冲突",
+   "cls": "pptx"
+  },
+  "0f24c16f94": {
+   "en": "• Add bias to the agent — in conflict with the Bitter Lesson and the Big World Hypothesis",
+   "zh": "• 给智能体加入偏置 — 与 Bitter Lesson 和 Big World Hypothesis 相冲突",
+   "cls": "pptx"
+  },
+  "35f12997cb": {
+   "en": "• Use more computation — in conflict with the Big World Hypothesis",
+   "zh": "• 使用更多计算 — 与 Big World Hypothesis 相冲突",
+   "cls": "pptx"
+  },
+  "f86e3d407d": {
+   "en": "THE BITTER LESSON",
+   "zh": "苦涩的教训",
+   "cls": "pptx"
+  },
+  "c5ade6bbe1": {
+   "en": "• Building in knowledge helps short-term and is satisfying, but plateaus and even inhibits progress long-term",
+   "zh": "• 内置知识短期内有帮助，也令人满意，但长期会进入平台期，甚至阻碍进步",
+   "cls": "pptx"
+  },
+  "4abf54216f": {
+   "en": "• Breakthroughs eventually arrive from scaling computation via search and learning",
+   "zh": "• 突破最终来自通过搜索和学习扩大计算规模",
+   "cls": "pptx"
+  },
+  "82f80130ea": {
+   "en": "BIG WORLD HYPOTHESIS",
+   "zh": "大世界假说",
+   "cls": "pptx"
+  },
+  "b4eab2d174": {
+   "en": "• The environment is significantly larger and more complex than the agent acting within it",
+   "zh": "• 环境比身处其中的智能体大得多、复杂得多",
+   "cls": "pptx"
+  },
+  "d5193fc2d2": {
+   "en": "• As compute grows, environment complexity grows too — the world stays much larger than the agent (Javed & Sutton, 2024)",
+   "zh": "• 随着算力增长，环境复杂度也随之增长 — 世界始终远大于智能体（Javed & Sutton, 2024）",
+   "cls": "pptx"
+  },
+  "25f0043cdf": {
+   "en": "INSIGHT 07 · From batch to streaming",
+   "zh": "洞察 07 · 从批处理到流式",
+   "cls": "pptx"
+  },
+  "d985f8734e": {
+   "en": "M. Elsayed et al. · “Streaming Deep RL Finally Works”, 2024",
+   "zh": "M. Elsayed et al. · “Streaming Deep RL Finally Works”, 2024",
+   "cls": "pptx"
+  },
+  "2ebe7c1476": {
+   "en": "STREAMING VS BATCH METHODS",
+   "zh": "流式方法与批处理方法",
+   "cls": "pptx"
+  },
+  "b1624baba0": {
+   "en": "• Classic streaming — TD(λ), Q(λ), SARSA(λ), AC(λ) — do not work with deep networks",
+   "zh": "• 经典流式方法 — TD(λ)、Q(λ)、SARSA(λ)、AC(λ) — 在深度网络上不起作用",
+   "cls": "pptx"
+  },
+  "f1077b7ff6": {
+   "en": "• Batch — PPO, SAC, DQN, Rainbow — do work with deep networks, but need replay buffers",
+   "zh": "• 批处理方法 — PPO、SAC、DQN、Rainbow — 在深度网络上有效，但需要回放缓冲区",
+   "cls": "pptx"
+  },
+  "8dff54399f": {
+   "en": "WHY STREAMING MATTERS",
+   "zh": "为什么流式很重要",
+   "cls": "pptx"
+  },
+  "bff02891de": {
+   "en": "• Natural intelligence processes experience as a continuous stream — sense, act and learn moment-by-moment",
+   "zh": "• 自然智能把经验当作连续的流来处理 — 时时刻刻感知、行动和学习",
+   "cls": "pptx"
+  },
+  "a08c8fb6a7": {
+   "en": "• Update immediately per sample, without storing it — resource-friendly and privacy-preserving",
+   "zh": "• 每个样本立即更新，无需存储 — 节省资源，保护隐私",
+   "cls": "pptx"
+  },
+  "0c17f26c7b": {
+   "en": "• Promise: on-board learning on phones & microcontrollers; micro/nano-second decisions; democratize deep RL to billions of devices",
+   "zh": "• 前景：在手机和微控制器上进行端侧学习；微秒/纳秒级决策；让深度强化学习（RL）惠及数十亿设备",
+   "cls": "pptx"
+  },
+  "68727ed024": {
+   "en": "THE STATUS QUO",
+   "zh": "现状",
+   "cls": "pptx"
+  },
+  "bd5e0ab80a": {
+   "en": "• Batch RL's success is credited to data efficiency: reusing samples and averaging i.i.d. gradients for reliable updates",
+   "zh": "• 批处理 RL 的成功被归因于数据效率：复用样本，并对独立同分布（i.i.d.）梯度取平均以获得可靠的更新",
+   "cls": "pptx"
+  },
+  "980dc020ce": {
+   "en": "• Streaming RL's failure is blamed on sample inefficiency, instability, and hard step-size choice (per-sample gradient outliers)",
+   "zh": "• 流式 RL 的失败被归咎于样本效率低、不稳定以及步长难以选择（单样本梯度的离群值）",
+   "cls": "pptx"
+  },
+  "0f7cd37448": {
+   "en": "OVERCOMING THE STREAM BARRIER",
+   "zh": "突破流式壁垒",
+   "cls": "pptx"
+  },
+  "29196cedfd": {
+   "en": "• Stability: a step-size-controlling optimizer, reward scaling, observation normalization",
+   "zh": "• 稳定性：控制步长的优化器、奖励缩放、观测归一化",
+   "cls": "pptx"
+  },
+  "fd9a4ecc6b": {
+   "en": "• Trainability: fix the pre-activation distribution with layer norm",
+   "zh": "• 可训练性：用层归一化修正预激活分布",
+   "cls": "pptx"
+  },
+  "ef6ea1c3e1": {
+   "en": "• Sample efficiency: eligibility traces + sparse initialization (Stream-x)",
+   "zh": "• 样本效率：资格迹 + 稀疏初始化（Stream-x）",
+   "cls": "pptx"
+  },
+  "2514a1f35b": {
+   "en": "INSIGHT 08 · Industry relevance",
+   "zh": "洞察 08 · 行业相关性",
+   "cls": "pptx"
+  },
+  "d22075f63e": {
+   "en": "Applications · Continual Learning talk · industry scenarios",
+   "zh": "应用 · 持续学习演讲 · 行业场景",
+   "cls": "pptx"
+  },
+  "16f53ed286": {
+   "en": "SMART HOME & IOT",
+   "zh": "智能家居与物联网",
+   "cls": "pptx"
+  },
+  "cc034fddb0": {
+   "en": "• Adapt to user preferences over time without manual updates",
+   "zh": "• 随时间适应用户偏好，无需手动更新",
+   "cls": "pptx"
+  },
+  "305d3447d6": {
+   "en": "• Learn and anticipate changing user habits (e.g. a HarmonyOS smart home)",
+   "zh": "• 学习并预判不断变化的用户习惯（如 HarmonyOS 智能家居）",
+   "cls": "pptx"
+  },
+  "fc73058dc0": {
+   "en": "PERSONALIZED HEALTHCARE",
+   "zh": "个性化医疗",
+   "cls": "pptx"
+  },
+  "7fb6f3610e": {
+   "en": "• Continuously improve diagnosis & treatment recommendations as more patient data arrives",
+   "zh": "• 随着更多患者数据到来，持续改进诊断和治疗建议",
+   "cls": "pptx"
+  },
+  "5c8fd73e84": {
+   "en": "• Tailor treatments over time from a live stream (e.g. a watch / fit band)",
+   "zh": "• 基于实时数据流持续定制治疗方案（如手表/运动手环）",
+   "cls": "pptx"
+  },
+  "19eb44c421": {
+   "en": "GAMING, FINANCE, AGRICULTURE",
+   "zh": "游戏、金融、农业",
+   "cls": "pptx"
+  },
+  "0bedf32c27": {
+   "en": "• Gaming: adapt difficulty and NPC behavior to player skill",
+   "zh": "• 游戏：根据玩家水平调整难度和 NPC 行为",
+   "cls": "pptx"
+  },
+  "ba97d73312": {
+   "en": "• Finance: adjust trading and portfolio strategies to evolving markets",
+   "zh": "• 金融：让交易和投资组合策略适应不断变化的市场",
+   "cls": "pptx"
+  },
+  "d97cf67455": {
+   "en": "• Agriculture: optimize crop management across changing climate, soil and seasons",
+   "zh": "• 农业：在气候、土壤和季节变化中优化作物管理",
+   "cls": "pptx"
+  },
+  "cff18ccec5": {
+   "en": "WHY CONTINUAL LEARNING HERE",
+   "zh": "为什么这里需要持续学习",
+   "cls": "pptx"
+  },
+  "97af70ce86": {
+   "en": "• Any system in a dynamic environment benefits from real-time adaptation — no periodic re-training",
+   "zh": "• 任何处于动态环境中的系统都能从实时适应中受益 — 无需定期重新训练",
+   "cls": "pptx"
+  },
+  "2a04722167": {
+   "en": "• Evolve progressively, avoiding costly full re-training cycles (model drift / degradation)",
+   "zh": "• 逐步演进，避免代价高昂的完整重新训练周期（模型漂移/退化）",
+   "cls": "pptx"
+  },
+  "cc7924daf8": {
+   "en": "• Fits memory- and resource-constrained embedded & IoT devices — incremental, low-resource updates",
+   "zh": "• 适合内存和资源受限的嵌入式与物联网设备 — 增量式、低资源更新",
+   "cls": "pptx"
+  },
+  "181c5630b2": {
+   "en": "INSIGHT 09 · Industry relevance",
+   "zh": "洞察 09 · 行业相关性",
+   "cls": "pptx"
+  },
+  "05bd7bcfa0": {
+   "en": "Challenges & limitations · Continual Learning talk",
+   "zh": "挑战与局限 · 持续学习演讲",
+   "cls": "pptx"
+  },
+  "5cb984f4b5": {
+   "en": "IMPLEMENTATION & DATA",
+   "zh": "实现与数据",
+   "cls": "pptx"
+  },
+  "cfe220b28d": {
+   "en": "• Complexity of implementation — must manage knowledge retention while integrating new information",
+   "zh": "• 实现复杂 — 必须在整合新信息的同时管理知识留存",
+   "cls": "pptx"
+  },
+  "70b070f049": {
+   "en": "• Data management — relies on a continuous data stream, often infeasible (e.g. autonomous vehicles need manual labeled data)",
+   "zh": "• 数据管理 — 依赖连续的数据流，而这往往不可行（例如自动驾驶车辆需要人工标注的数据）",
+   "cls": "pptx"
+  },
+  "3ff53e27c1": {
+   "en": "• Overhead in training time and compute to accommodate ongoing updates and refinements",
+   "zh": "• 为适应持续的更新和改进，训练时间和算力都有额外开销",
+   "cls": "pptx"
+  },
+  "ae6e48bd0f": {
+   "en": "• Task & data complexity — as tasks grow, model architecture may need to expand, complicating training and inference",
+   "zh": "• 任务与数据复杂 — 随着任务增多，模型架构可能需要扩展，使训练和推理更复杂",
+   "cls": "pptx"
+  },
+  "6c166ecf48": {
+   "en": "LEARNING FAILURES",
+   "zh": "学习失败",
+   "cls": "pptx"
+  },
+  "9c03b506dc": {
+   "en": "• Catastrophic forgetting — forgets earlier tasks/classes when trained on new data, especially when data is non-sequential",
+   "zh": "• 灾难性遗忘 — 用新数据训练时会遗忘早先的任务/类别，数据非顺序时尤其明显",
+   "cls": "pptx"
+  },
+  "32c0884480": {
+   "en": "• Performance degradation in non-stationary environments where distributions change frequently or unpredictably",
+   "zh": "• 在分布频繁或不可预测变化的非平稳环境中性能下降",
+   "cls": "pptx"
+  },
+  "d6bd689115": {
+   "en": "• Risk of overfitting to recent data while failing to generalize across all tasks or classes",
+   "zh": "• 有对近期数据过拟合的风险，导致无法在所有任务或类别上泛化",
+   "cls": "pptx"
+  },
+  "c261492027": {
+   "en": "• Real-time adaptation is technically challenging when immediate updates on new data are required",
+   "zh": "• 当需要对新数据立即更新时，实时适应在技术上具有挑战",
+   "cls": "pptx"
+  },
+  "a0f4b22cf8": {
+   "en": "ECOSYSTEM GAPS",
+   "zh": "生态缺口",
+   "cls": "pptx"
+  },
+  "08940a6541": {
+   "en": "• Limited benchmarking & evaluation standards — hard to compare approaches or judge effectiveness",
+   "zh": "• 基准测试和评估标准有限 — 难以比较各种方法或判断其有效性",
+   "cls": "pptx"
+  },
+  "257543750e": {
+   "en": "• No validation for safety-critical systems — run-time learning has no controlled-environment validation; dangerous for autonomous vehicles",
+   "zh": "• 安全关键系统缺少确认手段 — 运行时学习没有受控环境下的确认；对自动驾驶车辆很危险",
+   "cls": "pptx"
+  },
+  "69bae0ee91": {
+   "en": "CONCLUSIONS",
+   "zh": "结论",
+   "cls": "pptx"
+  },
+  "ad4e97f195": {
+   "en": "TRENDS",
+   "zh": "趋势",
+   "cls": "pptx"
+  },
+  "bca7c4853c": {
+   "en": "• Growing demand for autonomous, smart systems that learn continually from their environment.",
+   "zh": "• 对能从环境中持续学习的自主智能系统，需求不断增长。",
+   "cls": "pptx"
+  },
+  "ef6dff9d4d": {
+   "en": "• A shift toward real-time adaptation — fewer manual interventions and re-training cycles.",
+   "zh": "• 转向实时适应 — 减少人工干预和重新训练周期。",
+   "cls": "pptx"
+  },
+  "368e545740": {
+   "en": "• Edge & IoT push toward lightweight, resource-efficient continual learning on-device.",
+   "zh": "• 边缘和物联网推动轻量、节省资源的端侧持续学习。",
+   "cls": "pptx"
+  },
+  "927e4493b3": {
+   "en": "VISION",
+   "zh": "愿景",
+   "cls": "pptx"
+  },
+  "61b594f965": {
+   "en": "• Adaptive, lifelong-learning systems that evolve without forgetting — like human learning.",
+   "zh": "• 自适应的终身学习系统，像人类学习一样不断演进而不遗忘。",
+   "cls": "pptx"
+  },
+  "263e843f2a": {
+   "en": "• Resource-efficient, scalable AI that runs well under tight compute and memory budgets.",
+   "zh": "• 资源高效、可扩展的 AI，在算力和内存预算紧张时也能良好运行。",
+   "cls": "pptx"
+  },
+  "83e0457bc4": {
+   "en": "• Real-time decision-making and genuine human-AI collaboration from live feedback.",
+   "zh": "• 基于实时反馈的实时决策，以及真正的人机协作。",
+   "cls": "pptx"
+  },
+  "ab88151343": {
+   "en": "IMPLICATIONS FOR US",
+   "zh": "对我们的启示",
+   "cls": "pptx"
+  },
+  "62882d1169": {
+   "en": "• Reduced retraining cost and a smaller carbon footprint — cheaper, greener AI.",
+   "zh": "• 降低重新训练成本，减少碳足迹 — 更便宜、更绿色的 AI。",
+   "cls": "pptx"
+  },
+  "00982fbc4c": {
+   "en": "• Scalability across devices (IoT, edge) and minimized catastrophic forgetting.",
+   "zh": "• 可跨设备（物联网、边缘）扩展，并将灾难性遗忘降到最低。",
+   "cls": "pptx"
+  },
+  "11bbcc18a7": {
+   "en": "• A strategic edge for autonomous systems and clear cross-sector market differentiation.",
+   "zh": "• 为自主系统带来战略优势，并形成清晰的跨行业市场差异化。",
+   "cls": "pptx"
+  },
+  "5d16a62568": {
+   "en": "{1}{/1}Tech Insight",
+   "zh": "{1}{/1}Tech Insight",
+   "cls": "span.brand"
+  },
+  "b4510362a5": {
+   "en": "Insights",
+   "zh": "洞察",
+   "cls": "a"
+  },
+  "5d20d0fee3": {
+   "en": "References",
+   "zh": "参考文献",
+   "cls": "a"
+  }
+ }
+}

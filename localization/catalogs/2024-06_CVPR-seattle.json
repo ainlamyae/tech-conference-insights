@@ -1,0 +1,1325 @@
+{
+ "folder": "2024-06_CVPR-seattle",
+ "strings": {
+  "496352e658": {
+   "en": "[1] B. Zhou, “Building an Open-Source Simulation Ecosystem for AI and Mobility Research,” CVPR 2024 Workshop on Autonomous Driving.",
+   "zh": "[1] B. Zhou, “Building an Open-Source Simulation Ecosystem for AI and Mobility Research,” CVPR 2024 Workshop on Autonomous Driving.",
+   "cls": "keep"
+  },
+  "0ec1834f85": {
+   "en": "[2] K. Chitta, “Non-Reactive Autonomous Vehicle Simulation and Benchmarking,” CVPR 2024 Workshop on Autonomous Driving.",
+   "zh": "[2] K. Chitta, “Non-Reactive Autonomous Vehicle Simulation and Benchmarking,” CVPR 2024 Workshop on Autonomous Driving.",
+   "cls": "keep"
+  },
+  "ed02703b33": {
+   "en": "[3] S. Fidler, “Next-Gen AV with Foundation Models,” CVPR 2024 Workshop on Autonomous Driving.",
+   "zh": "[3] S. Fidler, “Next-Gen AV with Foundation Models,” CVPR 2024 Workshop on Autonomous Driving.",
+   "cls": "keep"
+  },
+  "59daef5413": {
+   "en": "[4] M. Najibi et al., “Unsupervised 3D Perception with 2D Vision-Language Distillation (UP-VL),” CVPR 2024 Workshop on Autonomous Driving.",
+   "zh": "[4] M. Najibi et al., “Unsupervised 3D Perception with 2D Vision-Language Distillation (UP-VL),” CVPR 2024 Workshop on Autonomous Driving.",
+   "cls": "keep"
+  },
+  "6e49919cfa": {
+   "en": "[5] K. Vedder et al., “Argoverse 2 Challenges: Scene Flow, Forecasting and 4D Occupancy,” CVPR 2024 Workshop on Autonomous Driving.",
+   "zh": "[5] K. Vedder et al., “Argoverse 2 Challenges: Scene Flow, Forecasting and 4D Occupancy,” CVPR 2024 Workshop on Autonomous Driving.",
+   "cls": "keep"
+  },
+  "40664453d4": {
+   "en": "[6] N. Roy, “Towards Scalable and Robust Autonomy,” CVPR 2024 Workshop on Autonomous Driving.",
+   "zh": "[6] N. Roy, “Towards Scalable and Robust Autonomy,” CVPR 2024 Workshop on Autonomous Driving.",
+   "cls": "keep"
+  },
+  "816c8ec36d": {
+   "en": "{1}{2}{/2}Tech Insight{/1}{3}Contents{/3}{4}·{/4}{5}Workshop{/5}{6}·{/6}{7}Insights{/7}{8}·{/8}{9}Conclusions{/9}{10}·{/10}{11}References{/11}",
+   "zh": "{1}{2}{/2}Tech Insight{/1}{3}目录{/3}{4}·{/4}{5}研讨会{/5}{6}·{/6}{7}洞察{/7}{8}·{/8}{9}结论{/9}{10}·{/10}{11}参考文献{/11}",
+   "cls": "nav.bar"
+  },
+  "adb648b38d": {
+   "en": "CVPR 2024 — Workshop on Autonomous Driving · Tech Insight Report",
+   "zh": "CVPR 2024 — 自动驾驶研讨会 · Tech Insight 报告",
+   "cls": "div.kicker"
+  },
+  "3a55bf6751": {
+   "en": "IEEE/CVF CVPR 2024 — Workshop on Autonomous Driving (WAD)",
+   "zh": "IEEE/CVF CVPR 2024 — 自动驾驶研讨会（WAD）",
+   "cls": "h1"
+  },
+  "a609cbd217": {
+   "en": "{1}Seattle, WA, USA · June 17, 2024{/1}",
+   "zh": "{1}美国华盛顿州西雅图 · 2024 年 6 月 17 日{/1}",
+   "cls": "p.lede"
+  },
+  "bd22fe0d8d": {
+   "en": "A read of the CVPR 2024 Workshop on Autonomous Driving: leading academic and industry labs (UCLA, Tübingen, NVIDIA, Waymo, Zoox/MIT, Argoverse) on open-source simulation and benchmarking, foundation / vision-language models reshaping the AV stack, and scaling to the safety-critical long tail.",
+   "zh": "对 CVPR 2024 自动驾驶研讨会的解读：来自学术界和产业界的领先实验室（UCLA、Tübingen、NVIDIA、Waymo、Zoox/MIT、Argoverse）围绕开源仿真与基准测试、重塑自动驾驶技术栈的基础模型/视觉语言模型，以及面向安全关键长尾场景的规模化展开讨论。",
+   "cls": "p.lede"
+  },
+  "aad6c871d9": {
+   "en": "Location{1}Seattle, WA, USA{/1}",
+   "zh": "地点{1}美国华盛顿州西雅图{/1}",
+   "cls": "div"
+  },
+  "fe447888b7": {
+   "en": "Date{1}June 17, 2024{/1}",
+   "zh": "日期{1}2024 年 6 月 17 日{/1}",
+   "cls": "div"
+  },
+  "bfd32a29f4": {
+   "en": "Focus{1}Autonomous Driving — Simulation, Foundation Models & Robust Autonomy{/1}",
+   "zh": "主题{1}自动驾驶 — 仿真、基础模型与鲁棒自主性{/1}",
+   "cls": "div"
+  },
+  "f91f503b91": {
+   "en": "01 · Contents",
+   "zh": "01 · 目录",
+   "cls": "div.kicker"
+  },
+  "3f9a0ad8ce": {
+   "en": "Talks covered, by theme",
+   "zh": "按主题划分的报告内容",
+   "cls": "h2"
+  },
+  "e0e462aa89": {
+   "en": "A · Simulation & benchmarking",
+   "zh": "A · 仿真与基准测试",
+   "cls": "attr:data-group"
+  },
+  "c54002a397": {
+   "en": "{1}01{/1}{2}An Open-Source Simulation Ecosystem for AV Research{/2}",
+   "zh": "{1}01{/1}{2}An Open-Source Simulation Ecosystem for AV Research{/2}",
+   "cls": "div"
+  },
+  "3f96c079d0": {
+   "en": "{1}02{/1}{2}Non-Reactive AV Simulation and Benchmarking{/2}",
+   "zh": "{1}02{/1}{2}Non-Reactive AV Simulation and Benchmarking{/2}",
+   "cls": "div"
+  },
+  "3a589cac31": {
+   "en": "B · Foundation models & scaling",
+   "zh": "B · 基础模型与规模化",
+   "cls": "attr:data-group"
+  },
+  "41be98b057": {
+   "en": "{1}03{/1}{2}Next-Gen AV with Foundation Models{/2}",
+   "zh": "{1}03{/1}{2}Next-Gen AV with Foundation Models{/2}",
+   "cls": "div"
+  },
+  "5ca88fd5fd": {
+   "en": "{1}04{/1}{2}Buckle Up for the Future: Scaling Autonomous Driving{/2}",
+   "zh": "{1}04{/1}{2}Buckle Up for the Future: Scaling Autonomous Driving{/2}",
+   "cls": "div"
+  },
+  "c8de00c6d4": {
+   "en": "C · Perception, forecasting & robust autonomy",
+   "zh": "C · 感知、预测与鲁棒自主性",
+   "cls": "attr:data-group"
+  },
+  "25205b3330": {
+   "en": "{1}05{/1}{2}Argoverse Challenges — Scene Flow, Forecasting & Occupancy{/2}",
+   "zh": "{1}05{/1}{2}Argoverse Challenges — Scene Flow, Forecasting & Occupancy{/2}",
+   "cls": "div"
+  },
+  "26536e7509": {
+   "en": "{1}06{/1}{2}Towards Scalable and Robust Autonomy{/2}",
+   "zh": "{1}06{/1}{2}Towards Scalable and Robust Autonomy{/2}",
+   "cls": "div"
+  },
+  "98ad1f1b30": {
+   "en": "02 · Workshop at a glance",
+   "zh": "02 · 研讨会概览",
+   "cls": "div.kicker"
+  },
+  "7aa5734362": {
+   "en": "IEEE/CVF CVPR 2024 — Workshop on Autonomous Driving (WAD) — Seattle, WA, USA, June 17, 2024",
+   "zh": "IEEE/CVF CVPR 2024 — 自动驾驶研讨会（WAD）— 美国华盛顿州西雅图，2024 年 6 月 17 日",
+   "cls": "h2"
+  },
+  "07a8e55646": {
+   "en": "{1}June 17{/1}{2}Seattle, WA{/2}",
+   "zh": "{1}6 月 17 日{/1}{2}华盛顿州西雅图{/2}",
+   "cls": "div.tile"
+  },
+  "fda0aeafc7": {
+   "en": "{1}CVPR 2024{/1}{2}WAD workshop{/2}",
+   "zh": "{1}CVPR 2024{/1}{2}WAD 研讨会{/2}",
+   "cls": "div.tile"
+  },
+  "7b263d0d75": {
+   "en": "{1}8 talks{/1}{2}+ challenges{/2}",
+   "zh": "{1}8 场报告{/1}{2}+ 挑战赛{/2}",
+   "cls": "div.tile"
+  },
+  "b7662d7d5d": {
+   "en": "{1}6 topics{/1}{2}deep-dived here{/2}",
+   "zh": "{1}6 个主题{/1}{2}在此深入解读{/2}",
+   "cls": "div.tile"
+  },
+  "cc036f2955": {
+   "en": "{1}About:{/1} A full-day CVPR 2024 workshop bringing academia and industry together (UCLA, Tübingen, NVIDIA, Waymo, Zoox/MIT, Wayve, Argoverse) on the state of autonomous driving. This report distills the talks with substantive notes.",
+   "zh": "{1}简介：{/1}一场为期一整天的 CVPR 2024 研讨会，汇集学术界和产业界（UCLA、Tübingen、NVIDIA、Waymo、Zoox/MIT、Wayve、Argoverse），讨论自动驾驶的现状。本报告提炼各场报告并附有详实的笔记。",
+   "cls": "p.overview-themes"
+  },
+  "5ba3a884cf": {
+   "en": "Three threads ran through the day: open-source simulation & benchmarking to close the academia–industry gap; foundation / vision-language models moving into every layer of the AV stack; and scaling to the long tail with robust, end-to-end autonomy.",
+   "zh": "全天贯穿三条主线：开源仿真与基准测试，以缩小学术界与产业界的差距；基础模型/视觉语言模型进入自动驾驶技术栈的每一层；以及通过鲁棒的端到端自主性应对长尾场景的规模化。",
+   "cls": "p.overview-themes"
+  },
+  "74e3fba778": {
+   "en": "03 · Insights",
+   "zh": "03 · 洞察",
+   "cls": "div.kicker"
+  },
+  "d657233760": {
+   "en": "The workshop, talk by talk",
+   "zh": "逐场报告解读",
+   "cls": "h2"
+  },
+  "8dae140448": {
+   "en": "An Open-Source Simulation Ecosystem for AV Research",
+   "zh": "An Open-Source Simulation Ecosystem for AV Research",
+   "cls": "attr:data-toc"
+  },
+  "e8f730a362": {
+   "en": "{1}Bolei Zhou{/1} · UCLA · MetaDrive / ScenarioNet",
+   "zh": "{1}Bolei Zhou{/1} · UCLA · MetaDrive / ScenarioNet",
+   "cls": "div.byline"
+  },
+  "45525fd1a2": {
+   "en": "The gap to close",
+   "zh": "需要弥合的差距",
+   "cls": "span.lbl"
+  },
+  "2a7200ef30": {
+   "en": "Academia is limited by hardware/GPU constraints; access to real-world data and simulators bridges the gap to industry",
+   "zh": "学术界受限于硬件/GPU；获取真实世界数据和仿真器可以弥合与产业界的差距",
+   "cls": "li"
+  },
+  "14fba07c48": {
+   "en": "AV companies release real-world datasets — but they need a common format",
+   "zh": "自动驾驶公司发布真实世界数据集，但这些数据集需要统一的格式",
+   "cls": "li"
+  },
+  "a1b1c6b484": {
+   "en": "An open-source simulator that mimics real-world quality is essential",
+   "zh": "能够模拟真实世界质量的开源仿真器至关重要",
+   "cls": "li"
+  },
+  "ac331c6763": {
+   "en": "MetaDrive & ScenarioNet",
+   "zh": "MetaDrive 与 ScenarioNet",
+   "cls": "span.lbl"
+  },
+  "88952a186c": {
+   "en": "MetaDrive: a lightweight, data-driven simulator",
+   "zh": "MetaDrive：一个轻量级、数据驱动的仿真器",
+   "cls": "li"
+  },
+  "47db2d431f": {
+   "en": "ScenarioNet: a large-scale repository built from low-resolution labeled data — 500,000 scenarios so far",
+   "zh": "ScenarioNet：基于低分辨率标注数据构建的大规模场景库，目前已有 500,000 个场景",
+   "cls": "li"
+  },
+  "5ba51d3a05": {
+   "en": "Users add their own modules; a two-stage method turns noisy, fragmented data into coherent scenarios",
+   "zh": "用户可以添加自己的模块；两阶段方法将有噪声、碎片化的数据转化为连贯的场景",
+   "cls": "li"
+  },
+  "a1f534b397": {
+   "en": "Safety & realism",
+   "zh": "安全与真实感",
+   "cls": "span.lbl"
+  },
+  "e59a2cbbcc": {
+   "en": "Safety-critical scenarios are rare → closed-loop adversarial training adds adversarial scenarios and risk-aware driving",
+   "zh": "安全关键场景很罕见 → 闭环对抗训练增加对抗场景和风险感知驾驶",
+   "cls": "li"
+  },
+  "2542c04818": {
+   "en": "Text-to-image VLMs create diverse, high-quality images; simulator-conditioned generation (SimGen) yields realistic scenes",
+   "zh": "文生图视觉语言模型能生成多样、高质量的图像；以仿真器为条件的生成（SimGen）可产生逼真的场景",
+   "cls": "li"
+  },
+  "69de77b5db": {
+   "en": "Work underway on urban environments for small-robot city simulation",
+   "zh": "正在开展面向小型机器人城市仿真的城市环境工作",
+   "cls": "li"
+  },
+  "2754faa5b3": {
+   "en": "ScenarioNet — turning real-world logs into large-scale, reusable driving scenarios.",
+   "zh": "ScenarioNet — 将真实世界日志转化为大规模、可复用的驾驶场景。",
+   "cls": "figcaption"
+  },
+  "f7888662ed": {
+   "en": "Non-Reactive AV Simulation and Benchmarking",
+   "zh": "Non-Reactive AV Simulation and Benchmarking",
+   "cls": "attr:data-toc"
+  },
+  "4b178291d3": {
+   "en": "{1}Kashyap Chitta{/1} · University of Tübingen · Tübingen AI Center",
+   "zh": "{1}Kashyap Chitta{/1} · University of Tübingen · Tübingen AI Center",
+   "cls": "div.byline"
+  },
+  "3d25c438d8": {
+   "en": "Why non-reactive sim",
+   "zh": "为什么用非反应式仿真",
+   "cls": "span.lbl"
+  },
+  "6c40621a90": {
+   "en": "75% of driving data is just driving straight; current sims are limited, not very realistic, and GPU-hungry",
+   "zh": "75% 的驾驶数据只是直线行驶；现有仿真器能力有限、不够逼真，而且非常消耗 GPU",
+   "cls": "li"
+  },
+  "38f9d7c9af": {
+   "en": "Bypass these constraints with minimal rendering in a 2D bird's-eye-view simulation",
+   "zh": "通过2D 鸟瞰图仿真中的最小化渲染来绕开这些限制",
+   "cls": "li"
+  },
+  "f69647cd15": {
+   "en": "The setup",
+   "zh": "设置",
+   "cls": "span.lbl"
+  },
+  "eb9bc8d172": {
+   "en": "The ego vehicle is restricted to its first frame; the whole simulation runs without new sensor data (assume the initial data is complete)",
+   "zh": "自车被限制在其第一帧；整个仿真在没有新传感器数据的情况下运行（假设初始数据是完整的）",
+   "cls": "li"
+  },
+  "54a13ed65f": {
+   "en": "The ego vehicle is invisible to other vehicles' sensors — hence ‘non-reactive’",
+   "zh": "自车对其他车辆的传感器不可见，因此称为“非反应式”",
+   "cls": "li"
+  },
+  "c00063b12b": {
+   "en": "What it measures",
+   "zh": "衡量什么",
+   "cls": "span.lbl"
+  },
+  "545292708f": {
+   "en": "No collisions · driving-area compliance · time-to-collision",
+   "zh": "无碰撞 · 行驶区域合规 · 碰撞时间",
+   "cls": "li"
+  },
+  "8ae464fd24": {
+   "en": "Ego progress · comfort of driving — all in a lightweight 2D BEV",
+   "zh": "自车行进进度 · 驾驶舒适度，全部在轻量级的2D BEV 中完成",
+   "cls": "li"
+  },
+  "f3c9e4077b": {
+   "en": "Non-reactive simulation — a lightweight 2D bird's-eye view where the ego vehicle is invisible to others.",
+   "zh": "非反应式仿真 — 一种轻量级的2D 鸟瞰视图，其中自车对其他车辆不可见。",
+   "cls": "figcaption"
+  },
+  "90a2bbd3a8": {
+   "en": "Next-Gen AV with Foundation Models",
+   "zh": "Next-Gen AV with Foundation Models",
+   "cls": "attr:data-toc"
+  },
+  "7e65026927": {
+   "en": "{1}Sanja Fidler{/1} · NVIDIA",
+   "zh": "{1}Sanja Fidler{/1} · NVIDIA",
+   "cls": "div.byline"
+  },
+  "719cae7226": {
+   "en": "From rules to end-to-end",
+   "zh": "从规则到端到端",
+   "cls": "span.lbl"
+  },
+  "09efffd14d": {
+   "en": "NVIDIA spans ADAS across hardware, infrastructure, simulation, NVIDIA Drive and research",
+   "zh": "NVIDIA 的 ADAS 覆盖硬件、基础设施、仿真、NVIDIA Drive 和研究",
+   "cls": "li"
+  },
+  "c022e4c2f6": {
+   "en": "Shift from rule-based systems to AI / end-to-end models, which simplify ADS software",
+   "zh": "从基于规则的系统转向 AI/端到端模型，这简化了 ADS 软件",
+   "cls": "li"
+  },
+  "a6db79b408": {
+   "en": "Rare cases need rapid processing — slow iteration is not acceptable",
+   "zh": "罕见情况需要快速处理，缓慢的迭代是不可接受的",
+   "cls": "li"
+  },
+  "48e18eb8c5": {
+   "en": "Foundation models in the stack",
+   "zh": "技术栈中的基础模型",
+   "cls": "span.lbl"
+  },
+  "7be1a3811d": {
+   "en": "Vision-Language Models enable auto-labeling, captioning and clustering; video captions feed later analysis",
+   "zh": "视觉语言模型支持自动标注、生成描述和聚类；视频描述为后续分析提供输入",
+   "cls": "li"
+  },
+  "180b09e6a1": {
+   "en": "New tools: Picasso (text-to-image), NeMo, ViLA (captioning), DLSS 3.0; the Blackwell GPU adds generative AI",
+   "zh": "新工具：Picasso（文生图）、NeMo、ViLA（生成描述）、DLSS 3.0；Blackwell GPU 加入了生成式 AI",
+   "cls": "li"
+  },
+  "d9a5a784c2": {
+   "en": "FM-powered AV stack: images → trajectory tokens → pretrained backbone → driving stack, benchmarked in simulation",
+   "zh": "基于基础模型的自动驾驶技术栈：图像 → 轨迹 token → 预训练骨干网络 → 驾驶技术栈，并在仿真中进行基准测试",
+   "cls": "li"
+  },
+  "e068a29057": {
+   "en": "Modeling the long tail",
+   "zh": "建模长尾",
+   "cls": "span.lbl"
+  },
+  "dcba69c344": {
+   "en": "Model harsh-weather video from internet video, given the rarity of real accident data",
+   "zh": "由于真实事故数据稀少，利用互联网视频对恶劣天气视频进行建模",
+   "cls": "li"
+  },
+  "a7b2963c77": {
+   "en": "Use enough tokens to model small objects (e.g. pillars) without slowing down; dynamic scenes (motorcycles) stay hard",
+   "zh": "使用足够的 token 来建模小物体（例如立柱）而不降低速度；动态场景（摩托车）仍然困难",
+   "cls": "li"
+  },
+  "b6ab2d96f6": {
+   "en": "A simulation-first approach using neural reconstruction graphics",
+   "zh": "采用神经重建图形的仿真优先方法",
+   "cls": "li"
+  },
+  "e8fa57ea30": {
+   "en": "NVIDIA's foundation-model stack generating realistic driving video, including harsh-weather scenes.",
+   "zh": "NVIDIA 的基础模型技术栈生成逼真的驾驶视频，包括恶劣天气场景。",
+   "cls": "figcaption"
+  },
+  "eee9fc1207": {
+   "en": "Buckle Up for the Future: Scaling Autonomous Driving",
+   "zh": "Buckle Up for the Future: Scaling Autonomous Driving",
+   "cls": "attr:data-toc"
+  },
+  "08a81f4fd1": {
+   "en": "{1}Congcong Li{/1} · Waymo",
+   "zh": "{1}Congcong Li{/1} · Waymo",
+   "cls": "div.byline"
+  },
+  "8a9400005c": {
+   "en": "The problem",
+   "zh": "问题",
+   "cls": "span.lbl"
+  },
+  "de83b2f30c": {
+   "en": "Each year ~50 million injuries and 1.35 million deaths occur on the streets",
+   "zh": "每年街头约有 5000 万人受伤、135 万人死亡",
+   "cls": "li"
+  },
+  "22dc5a6c3c": {
+   "en": "Long-tail handling is the critical challenge for scaling autonomous driving",
+   "zh": "长尾处理是自动驾驶规模化的关键挑战",
+   "cls": "li"
+  },
+  "22df62e006": {
+   "en": "What Waymo built",
+   "zh": "Waymo 构建了什么",
+   "cls": "span.lbl"
+  },
+  "6f467af9e2": {
+   "en": "Multi-modality sensor fusion; mining and augmenting rare examples",
+   "zh": "多模态传感器融合；挖掘并扩充罕见样本",
+   "cls": "li"
+  },
+  "67149ee6df": {
+   "en": "Auto-labeling plus an efficient ML development ecosystem",
+   "zh": "自动标注，加上高效的机器学习开发生态",
+   "cls": "li"
+  },
+  "e9e8417708": {
+   "en": "Next step: leverage the knowledge and reasoning of LLMs / VLMs",
+   "zh": "下一步：利用大语言模型/视觉语言模型的知识与推理能力",
+   "cls": "li"
+  },
+  "795110a471": {
+   "en": "UP-VL: label-free 3D perception",
+   "zh": "UP-VL：无标签3D 感知",
+   "cls": "span.lbl"
+  },
+  "301654f061": {
+   "en": "Human labeling is slow and inaccurate for scaling → focus on a perception database (billions of points and images)",
+   "zh": "人工标注速度慢且不够准确，难以规模化 → 聚焦于感知数据库（数十亿个点和图像）",
+   "cls": "li"
+  },
+  "f81877b083": {
+   "en": "UP-VL: unsupervised multi-modal auto-labeling + 3D perception trained with vision-language distillation — no human annotations",
+   "zh": "UP-VL：无监督多模态自动标注 + 通过视觉语言蒸馏训练的3D 感知，无需人工标注",
+   "cls": "li"
+  },
+  "f0659c6581": {
+   "en": "A hybrid paradigm: combine classic methods with end-to-end approaches",
+   "zh": "一种混合范式：将经典方法与端到端方法结合",
+   "cls": "li"
+  },
+  "0c797dab29": {
+   "en": "Waymo — ‘driving is a conversation’: LLM-inspired discrete motion tokens over a causal scene decoder.",
+   "zh": "Waymo —“驾驶是一场对话”：受大语言模型启发的离散运动 token，搭配因果场景解码器。",
+   "cls": "figcaption"
+  },
+  "3e3d4287d8": {
+   "en": "Argoverse Challenges — Scene Flow, Forecasting & Occupancy",
+   "zh": "Argoverse Challenges — Scene Flow, Forecasting & Occupancy",
+   "cls": "attr:data-toc"
+  },
+  "407a483518": {
+   "en": "{1}Kyle Vedder (Argoverse){/1} · CVPR 2024 Argoverse Challenges",
+   "zh": "{1}Kyle Vedder (Argoverse){/1} · CVPR 2024 Argoverse Challenges",
+   "cls": "div.byline"
+  },
+  "4552ef4e5a": {
+   "en": "Scene flow",
+   "zh": "场景流",
+   "cls": "span.lbl"
+  },
+  "d852c3af8d": {
+   "en": "Datasets of image, lidar and more; scene flow spans background, vehicles and pedestrians",
+   "zh": "包含图像、激光雷达等的数据集；场景流涵盖背景、车辆和行人",
+   "cls": "li"
+  },
+  "5022423793": {
+   "en": "A simple Kalman filter tracked changes between consecutive frames to detect moving objects",
+   "zh": "一个简单的卡尔曼滤波器跟踪连续帧之间的变化，以检测运动物体",
+   "cls": "li"
+  },
+  "3c55f4705c": {
+   "en": "Flow4D & clustering",
+   "zh": "Flow4D 与聚类",
+   "cls": "span.lbl"
+  },
+  "01e54c246e": {
+   "en": "Flow4D: early and temporal fusion, fusing lidar and camera information",
+   "zh": "Flow4D：早期融合与时间融合，融合激光雷达和摄像头信息",
+   "cls": "li"
+  },
+  "a506de70a7": {
+   "en": "Clustering + ICP: high-quality priors; improved clustering via foreground/background estimation",
+   "zh": "聚类 + ICP：高质量先验；通过前景/背景估计改进聚类",
+   "cls": "li"
+  },
+  "2a0aa52c06": {
+   "en": "Forecasting & 4D occupancy",
+   "zh": "预测与 4D 占用",
+   "cls": "span.lbl"
+  },
+  "8b3704caef": {
+   "en": "End-to-end forecasting: various sensor-fusion methods, but performance issues on the AV stack — ongoing work",
+   "zh": "端到端预测：有多种传感器融合方法，但在自动驾驶技术栈上存在性能问题，相关工作仍在进行",
+   "cls": "li"
+  },
+  "8f2f608325": {
+   "en": "4D occupancy forecasting without annotations via an implicit model; parallel processing of large query sets",
+   "zh": "通过隐式模型在无标注的情况下进行 4D 占用预测；并行处理大规模查询集",
+   "cls": "li"
+  },
+  "e66d523160": {
+   "en": "A large receptive field helps find lidar evidence; most foreground motion is in the BEV plane",
+   "zh": "较大的感受野有助于找到激光雷达证据；大多数前景运动发生在 BEV 平面内",
+   "cls": "li"
+  },
+  "51bcb11d29": {
+   "en": "Flow4D — early fusion of multi-frame lidar into a 4D voxel network for scene-flow estimation.",
+   "zh": "Flow4D — 将多帧激光雷达早期融合进 4D 体素网络，用于场景流估计。",
+   "cls": "figcaption"
+  },
+  "6ac55ef7c2": {
+   "en": "Towards Scalable and Robust Autonomy",
+   "zh": "Towards Scalable and Robust Autonomy",
+   "cls": "attr:data-toc"
+  },
+  "a1fa062aab": {
+   "en": "{1}Nick Roy{/1} · Zoox · MIT",
+   "zh": "{1}Nick Roy{/1} · Zoox · MIT",
+   "cls": "div.byline"
+  },
+  "cbfa7d9748": {
+   "en": "Architecture & end-to-end",
+   "zh": "架构与端到端",
+   "cls": "span.lbl"
+  },
+  "8d1adbb086": {
+   "en": "A general ADS architecture; end-to-end AI can replace individual modules, connecting sensors directly to motors",
+   "zh": "通用的 ADS 架构；端到端 AI 可以替代单个模块，将传感器直接连接到电机",
+   "cls": "li"
+  },
+  "4e159f2668": {
+   "en": "Learned estimators trained with domain knowledge help generate data — but the number of sensors is a challenge",
+   "zh": "结合领域知识训练的学习式估计器有助于生成数据，但传感器数量是一个挑战",
+   "cls": "li"
+  },
+  "a3483b0a5c": {
+   "en": "Robustness in the wild",
+   "zh": "真实环境中的鲁棒性",
+   "cls": "span.lbl"
+  },
+  "e468f44c34": {
+   "en": "Debris is hard to detect and is often mistaken for noise; buses must be perceived and avoided",
+   "zh": "碎片难以检测，常被误认为噪声；必须感知并避让公交车",
+   "cls": "li"
+  },
+  "cc5cf7b3aa": {
+   "en": "Significant out-of-domain uncertainty is computationally heavy and vulnerable to aliasing",
+   "zh": "显著的域外不确定性计算量很大，并且容易受到混叠影响",
+   "cls": "li"
+  },
+  "0005027d89": {
+   "en": "Planning",
+   "zh": "规划",
+   "cls": "span.lbl"
+  },
+  "66dad1c58c": {
+   "en": "Reinforcement learning is used for the planning module",
+   "zh": "规划模块使用强化学习",
+   "cls": "li"
+  },
+  "e25c1a683c": {
+   "en": "Open question: how to match standard methods with end-to-end approaches",
+   "zh": "开放问题：如何让标准方法与端到端方法相匹配",
+   "cls": "li"
+  },
+  "1004f9c0b6": {
+   "en": "Robust autonomy in the wild — detecting road debris and other rare, out-of-domain hazards.",
+   "zh": "真实环境中的鲁棒自主性 — 检测道路碎片和其他罕见的域外危险。",
+   "cls": "figcaption"
+  },
+  "200d93941a": {
+   "en": "04 · Conclusions",
+   "zh": "04 · 结论",
+   "cls": "div.kicker"
+  },
+  "762a799bdd": {
+   "en": "Synthesis across the workshop",
+   "zh": "整个研讨会的综合",
+   "cls": "h2"
+  },
+  "716f3fa8e1": {
+   "en": "Trends",
+   "zh": "趋势",
+   "cls": "h4"
+  },
+  "4907e8d0aa": {
+   "en": "Open-source simulators and a common scenario format (MetaDrive / ScenarioNet) are closing the academia–industry gap.",
+   "zh": "开源仿真器和统一的场景格式（MetaDrive / ScenarioNet）正在缩小学术界与产业界的差距。",
+   "cls": "li"
+  },
+  "0d0d86493b": {
+   "en": "Foundation / vision-language models are moving into every layer of the AV stack — labeling, generation, planning.",
+   "zh": "基础模型/视觉语言模型正在进入自动驾驶技术栈的每一层——标注、生成、规划。",
+   "cls": "li"
+  },
+  "2f6e7c8ddf": {
+   "en": "The field is converging on end-to-end, simulation-first development.",
+   "zh": "该领域正在趋向于端到端、仿真优先的开发方式。",
+   "cls": "li"
+  },
+  "40b0906c4f": {
+   "en": "Vision",
+   "zh": "愿景",
+   "cls": "h4"
+  },
+  "1f3be12d6a": {
+   "en": "Label-free 3D perception at scale (UP-VL) and auto-generated safety-critical scenarios.",
+   "zh": "大规模无标签3D 感知（UP-VL）和自动生成的安全关键场景。",
+   "cls": "li"
+  },
+  "a4e45a1c0c": {
+   "en": "Realistic generative simulation — harsh weather and accidents — from internet-scale video.",
+   "zh": "基于互联网规模视频的逼真生成式仿真——恶劣天气和事故。",
+   "cls": "li"
+  },
+  "0b4896b9e5": {
+   "en": "Robust autonomy that handles the long tail: debris, rare events, out-of-domain uncertainty.",
+   "zh": "能处理长尾的鲁棒自主性：碎片、罕见事件、域外不确定性。",
+   "cls": "li"
+  },
+  "5d8c81594f": {
+   "en": "Implications for us",
+   "zh": "对我们的启示",
+   "cls": "h4"
+  },
+  "e16248563c": {
+   "en": "Invest in open simulation, benchmarking and a shared scenario format.",
+   "zh": "投入开源仿真、基准测试和共享的场景格式。",
+   "cls": "li"
+  },
+  "7ed5956072": {
+   "en": "Adopt VLM-powered auto-labeling and generative data to cover rare cases cheaply.",
+   "zh": "采用由视觉语言模型驱动的自动标注和生成式数据，以低成本覆盖罕见情况。",
+   "cls": "li"
+  },
+  "5383f77387": {
+   "en": "Treat long-tail robustness and safety validation as first-class, not add-ons.",
+   "zh": "将长尾鲁棒性和安全确认视为一等公民，而不是附加项。",
+   "cls": "li"
+  },
+  "2b92ebc383": {
+   "en": "05 · References",
+   "zh": "05 · 参考文献",
+   "cls": "div.kicker"
+  },
+  "675f04727d": {
+   "en": "References & sources",
+   "zh": "参考文献与来源",
+   "cls": "h2"
+  },
+  "7009ca5502": {
+   "en": "© 2026 {1}ALI{/1} — {2}Tech Insight{/2} v1.5.0",
+   "zh": "© 2026 {1}ALI{/1} — {2}Tech Insight{/2} v1.5.0",
+   "cls": "div.site-copyright"
+  },
+  "f2b5ae47ba": {
+   "en": "CVPR 2024 — Workshop on Autonomous Driving — Tech Insight Report",
+   "zh": "CVPR 2024 — 自动驾驶研讨会 — Tech Insight 报告",
+   "cls": "doctitle"
+  },
+  "ee45c30326": {
+   "en": "Report",
+   "zh": "报告",
+   "cls": "div.kicker"
+  },
+  "d3ba521533": {
+   "en": "CVPR 2024 — Workshop on Autonomous Driving",
+   "zh": "CVPR 2024 — 自动驾驶研讨会",
+   "cls": "h1"
+  },
+  "a1388f3303": {
+   "en": "IEEE/CVF CVPR 2024 — Workshop on Autonomous Driving (WAD) · Seattle, WA, USA · June 17, 2024",
+   "zh": "IEEE/CVF CVPR 2024 — 自动驾驶研讨会（WAD）· 美国华盛顿州西雅图 · 2024 年 6 月 17 日",
+   "cls": "p.topic"
+  },
+  "13b8fe38a9": {
+   "en": "Workshop",
+   "zh": "研讨会",
+   "cls": "attr:data-toc"
+  },
+  "f5cbdf6bfb": {
+   "en": "Contents",
+   "zh": "目录",
+   "cls": "attr:data-toc"
+  },
+  "b4e6a31089": {
+   "en": "Intro",
+   "zh": "简介",
+   "cls": "attr:data-group"
+  },
+  "e45c8e1311": {
+   "en": "Workshop at a glance",
+   "zh": "研讨会概览",
+   "cls": "attr:data-toc"
+  },
+  "036bc02f76": {
+   "en": "IEEE/CVF CVPR 2024 — Workshop on Autonomous Driving (WAD) — Seattle, WA, USA",
+   "zh": "IEEE/CVF CVPR 2024 — 自动驾驶研讨会（WAD）— 美国华盛顿州西雅图",
+   "cls": "h2"
+  },
+  "98116ac6b6": {
+   "en": "Insight 01 · Simulation & benchmarking",
+   "zh": "洞察 01 · 仿真与基准测试",
+   "cls": "div.kicker"
+  },
+  "f7be6733bd": {
+   "en": "Insight 02 · Simulation & benchmarking",
+   "zh": "洞察 02 · 仿真与基准测试",
+   "cls": "div.kicker"
+  },
+  "cad1f173b1": {
+   "en": "Insight 03 · Foundation models & scaling",
+   "zh": "洞察 03 · 基础模型与规模化",
+   "cls": "div.kicker"
+  },
+  "1962831f87": {
+   "en": "Insight 04 · Foundation models & scaling",
+   "zh": "洞察 04 · 基础模型与规模化",
+   "cls": "div.kicker"
+  },
+  "83582f82df": {
+   "en": "Insight 05 · Perception, forecasting & robust autonomy",
+   "zh": "洞察 05 · 感知、预测与鲁棒自主性",
+   "cls": "div.kicker"
+  },
+  "06ae181db6": {
+   "en": "Insight 06 · Perception, forecasting & robust autonomy",
+   "zh": "洞察 06 · 感知、预测与鲁棒自主性",
+   "cls": "div.kicker"
+  },
+  "b536777ff1": {
+   "en": "Conclusions",
+   "zh": "结论",
+   "cls": "attr:data-toc"
+  },
+  "b83d80c2ba": {
+   "en": "<div class=\"fit\"><div class=\"concl\"><div class=\"col c1\"><h4>Trends</h4><ul><li>Open-source simulators and a common scenario format (MetaDrive / ScenarioNet) are closing the academia–industry gap.</li><li>Foundation / vision-language models are moving into every layer of the AV stack — labeling, generation, planning.</li><li>The field is converging on end-to-end, simulation-first development.</li></ul></div><div class=\"col c2\"><h4>Vision</h4><ul><li>Label-free 3D perception at scale (UP-VL) and auto-generated safety-critical scenarios.</li><li>Realistic generative simulation — harsh weather and accidents — from internet-scale video.</li><li>Robust autonomy that handles the long tail: debris, rare events, out-of-domain uncertainty.</li></ul></div><div class=\"col c3\"><h4>Implications for us</h4><ul><li>Invest in open simulation, benchmarking and a shared scenario format.</li><li>Adopt VLM-powered auto-labeling and generative data to cover rare cases cheaply.</li><li>Treat long-tail robustness and safety validation as first-class, not add-ons.</li></ul></div></div></div>",
+   "zh": "<div class=\"fit\"><div class=\"concl\"><div class=\"col c1\"><h4>趋势</h4><ul><li>开源仿真器和统一的场景格式（MetaDrive / ScenarioNet）正在缩小学术界与产业界的差距。</li><li>基础模型/视觉语言模型正在进入自动驾驶技术栈的每一层——标注、生成、规划。</li><li>该领域正在趋向于端到端、仿真优先的开发方式。</li></ul></div><div class=\"col c2\"><h4>愿景</h4><ul><li>大规模无标签3D 感知（UP-VL）和自动生成的安全关键场景。</li><li>基于互联网规模视频的逼真生成式仿真——恶劣天气和事故。</li><li>能处理长尾的鲁棒自主性：碎片、罕见事件、域外不确定性。</li></ul></div><div class=\"col c3\"><h4>对我们的启示</h4><ul><li>投入开源仿真、基准测试和共享的场景格式。</li><li>采用由视觉语言模型驱动的自动标注和生成式数据，以低成本覆盖罕见情况。</li><li>将长尾鲁棒性和安全确认视为一等公民，而不是附加项。</li></ul></div></div></div>",
+   "cls": "section.slide"
+  },
+  "fa39f733bd": {
+   "en": "Wrap-up",
+   "zh": "总结",
+   "cls": "attr:data-group"
+  },
+  "b2ec1abf35": {
+   "en": "Contents (T)",
+   "zh": "目录 (T)",
+   "cls": "button.toc-btn"
+  },
+  "b276f450bb": {
+   "en": "CVPR 2024 — Workshop on Autonomous Driving — Tech Insight Slides",
+   "zh": "CVPR 2024 — 自动驾驶研讨会 — Tech Insight 幻灯片",
+   "cls": "doctitle"
+  },
+  "4718b93d9d": {
+   "en": "Tech Insight",
+   "zh": "Tech Insight",
+   "cls": "pptx"
+  },
+  "88aa4763ef": {
+   "en": "Tech Insight Report",
+   "zh": "Tech Insight 报告",
+   "cls": "pptx"
+  },
+  "83d36b3e5f": {
+   "en": "Seattle, WA, USA · June 17, 2024",
+   "zh": "美国华盛顿州西雅图 · 2024 年 6 月 17 日",
+   "cls": "pptx"
+  },
+  "d219c68101": {
+   "en": "Location",
+   "zh": "地点",
+   "cls": "pptx"
+  },
+  "230daca3bf": {
+   "en": "Seattle, WA, USA",
+   "zh": "美国华盛顿州西雅图",
+   "cls": "pptx"
+  },
+  "eb9a4bc1c0": {
+   "en": "Date",
+   "zh": "日期",
+   "cls": "pptx"
+  },
+  "7d48aef10e": {
+   "en": "June 17, 2024",
+   "zh": "2024 年 6 月 17 日",
+   "cls": "pptx"
+  },
+  "fe7f55b8bf": {
+   "en": "Focus",
+   "zh": "主题",
+   "cls": "pptx"
+  },
+  "3b0de4dbbb": {
+   "en": "Autonomous Driving — Simulation, Foundation Models & Robust Autonomy",
+   "zh": "自动驾驶 — 仿真、基础模型与鲁棒自主性",
+   "cls": "pptx"
+  },
+  "c7fb4a1c86": {
+   "en": "CONTENTS",
+   "zh": "目录",
+   "cls": "pptx"
+  },
+  "e9681cbeab": {
+   "en": "WORKSHOP AT A GLANCE",
+   "zh": "研讨会概览",
+   "cls": "pptx"
+  },
+  "e5600835a7": {
+   "en": "June 17",
+   "zh": "6 月 17 日",
+   "cls": "pptx"
+  },
+  "f7a314b016": {
+   "en": "Seattle, WA",
+   "zh": "华盛顿州西雅图",
+   "cls": "pptx"
+  },
+  "9cfad83bb5": {
+   "en": "CVPR 2024",
+   "zh": "CVPR 2024",
+   "cls": "pptx"
+  },
+  "0a54fed28b": {
+   "en": "WAD workshop",
+   "zh": "WAD 研讨会",
+   "cls": "pptx"
+  },
+  "f2d7dceb90": {
+   "en": "8 talks",
+   "zh": "8 场报告",
+   "cls": "pptx"
+  },
+  "b91b177288": {
+   "en": "+ challenges",
+   "zh": "+ 挑战赛",
+   "cls": "pptx"
+  },
+  "6161669fcb": {
+   "en": "6 topics",
+   "zh": "6 个主题",
+   "cls": "pptx"
+  },
+  "b60b724a2a": {
+   "en": "deep-dived here",
+   "zh": "在此深入解读",
+   "cls": "pptx"
+  },
+  "9c909d67a7": {
+   "en": "About: A full-day CVPR 2024 workshop bringing academia and industry together (UCLA, Tübingen, NVIDIA, Waymo, Zoox/MIT, Wayve, Argoverse) on the state of autonomous driving. This report distills the talks with substantive notes.",
+   "zh": "简介：一场为期一整天的 CVPR 2024 研讨会，汇集学术界和产业界（UCLA、Tübingen、NVIDIA、Waymo、Zoox/MIT、Wayve、Argoverse），讨论自动驾驶的现状。本报告提炼各场报告并附有详实的笔记。",
+   "cls": "pptx"
+  },
+  "cedf0c18f2": {
+   "en": "INSIGHT 01 · Simulation & benchmarking",
+   "zh": "洞察 01 · 仿真与基准测试",
+   "cls": "pptx"
+  },
+  "0c5624964a": {
+   "en": "Bolei Zhou · UCLA · MetaDrive / ScenarioNet",
+   "zh": "Bolei Zhou · UCLA · MetaDrive / ScenarioNet",
+   "cls": "pptx"
+  },
+  "cf3939df5f": {
+   "en": "THE GAP TO CLOSE",
+   "zh": "需要弥合的差距",
+   "cls": "pptx"
+  },
+  "fae4047575": {
+   "en": "• Academia is limited by hardware/GPU constraints; access to real-world data and simulators bridges the gap to industry",
+   "zh": "• 学术界受限于硬件/GPU；获取真实世界数据和仿真器可以弥合与产业界的差距",
+   "cls": "pptx"
+  },
+  "48fc5d8862": {
+   "en": "• AV companies release real-world datasets — but they need a common format",
+   "zh": "• 自动驾驶公司发布真实世界数据集，但这些数据集需要统一的格式",
+   "cls": "pptx"
+  },
+  "6f84aef3df": {
+   "en": "• An open-source simulator that mimics real-world quality is essential",
+   "zh": "• 能够模拟真实世界质量的开源仿真器至关重要",
+   "cls": "pptx"
+  },
+  "0f82c2c5af": {
+   "en": "METADRIVE & SCENARIONET",
+   "zh": "METADRIVE 与 SCENARIONET",
+   "cls": "pptx"
+  },
+  "71026ab49c": {
+   "en": "• MetaDrive: a lightweight, data-driven simulator",
+   "zh": "• MetaDrive：一个轻量级、数据驱动的仿真器",
+   "cls": "pptx"
+  },
+  "84c33604cd": {
+   "en": "• ScenarioNet: a large-scale repository built from low-resolution labeled data — 500,000 scenarios so far",
+   "zh": "• ScenarioNet：基于低分辨率标注数据构建的大规模场景库，目前已有 500,000 个场景",
+   "cls": "pptx"
+  },
+  "91e1fc3ed0": {
+   "en": "• Users add their own modules; a two-stage method turns noisy, fragmented data into coherent scenarios",
+   "zh": "• 用户可以添加自己的模块；两阶段方法将有噪声、碎片化的数据转化为连贯的场景",
+   "cls": "pptx"
+  },
+  "091f367a90": {
+   "en": "SAFETY & REALISM",
+   "zh": "安全与真实感",
+   "cls": "pptx"
+  },
+  "4a29915945": {
+   "en": "• Safety-critical scenarios are rare → closed-loop adversarial training adds adversarial scenarios and risk-aware driving",
+   "zh": "• 安全关键场景很罕见 → 闭环对抗训练增加对抗场景和风险感知驾驶",
+   "cls": "pptx"
+  },
+  "30674e8292": {
+   "en": "• Text-to-image VLMs create diverse, high-quality images; simulator-conditioned generation (SimGen) yields realistic scenes",
+   "zh": "• 文生图视觉语言模型能生成多样、高质量的图像；以仿真器为条件的生成（SimGen）可产生逼真的场景",
+   "cls": "pptx"
+  },
+  "037e9cef8b": {
+   "en": "• Work underway on urban environments for small-robot city simulation",
+   "zh": "• 正在开展面向小型机器人城市仿真的城市环境工作",
+   "cls": "pptx"
+  },
+  "587558b99c": {
+   "en": "INSIGHT 02 · Simulation & benchmarking",
+   "zh": "洞察 02 · 仿真与基准测试",
+   "cls": "pptx"
+  },
+  "8122fab04e": {
+   "en": "Kashyap Chitta · University of Tübingen · Tübingen AI Center",
+   "zh": "Kashyap Chitta · University of Tübingen · Tübingen AI Center",
+   "cls": "pptx"
+  },
+  "4687167352": {
+   "en": "WHY NON-REACTIVE SIM",
+   "zh": "为什么用非反应式仿真",
+   "cls": "pptx"
+  },
+  "b9a1a7506b": {
+   "en": "• 75% of driving data is just driving straight; current sims are limited, not very realistic, and GPU-hungry",
+   "zh": "• 75% 的驾驶数据只是直线行驶；现有仿真器能力有限、不够逼真，而且非常消耗 GPU",
+   "cls": "pptx"
+  },
+  "96b82a1333": {
+   "en": "• Bypass these constraints with minimal rendering in a 2D bird's-eye-view simulation",
+   "zh": "• 通过2D 鸟瞰图仿真中的最小化渲染来绕开这些限制",
+   "cls": "pptx"
+  },
+  "9d9e90ff5b": {
+   "en": "THE SETUP",
+   "zh": "设置",
+   "cls": "pptx"
+  },
+  "47143182c8": {
+   "en": "• The ego vehicle is restricted to its first frame; the whole simulation runs without new sensor data (assume the initial data is complete)",
+   "zh": "• 自车被限制在其第一帧；整个仿真在没有新传感器数据的情况下运行（假设初始数据是完整的）",
+   "cls": "pptx"
+  },
+  "cc1c66b6e3": {
+   "en": "• The ego vehicle is invisible to other vehicles' sensors — hence ‘non-reactive’",
+   "zh": "• 自车对其他车辆的传感器不可见，因此称为“非反应式”",
+   "cls": "pptx"
+  },
+  "79e07b35ff": {
+   "en": "WHAT IT MEASURES",
+   "zh": "衡量什么",
+   "cls": "pptx"
+  },
+  "28477f1f43": {
+   "en": "• No collisions · driving-area compliance · time-to-collision",
+   "zh": "• 无碰撞 · 行驶区域合规 · 碰撞时间",
+   "cls": "pptx"
+  },
+  "36df0cf89e": {
+   "en": "• Ego progress · comfort of driving — all in a lightweight 2D BEV",
+   "zh": "• 自车行进进度 · 驾驶舒适度，全部在轻量级的2D BEV 中完成",
+   "cls": "pptx"
+  },
+  "0a9ee38970": {
+   "en": "INSIGHT 03 · Foundation models & scaling",
+   "zh": "洞察 03 · 基础模型与规模化",
+   "cls": "pptx"
+  },
+  "1b1a49244c": {
+   "en": "Sanja Fidler · NVIDIA",
+   "zh": "Sanja Fidler · NVIDIA",
+   "cls": "pptx"
+  },
+  "c0023da05a": {
+   "en": "FROM RULES TO END-TO-END",
+   "zh": "从规则到端到端",
+   "cls": "pptx"
+  },
+  "d8205be93f": {
+   "en": "• NVIDIA spans ADAS across hardware, infrastructure, simulation, NVIDIA Drive and research",
+   "zh": "• NVIDIA 的 ADAS 覆盖硬件、基础设施、仿真、NVIDIA Drive 和研究",
+   "cls": "pptx"
+  },
+  "579c30cc8a": {
+   "en": "• Shift from rule-based systems to AI / end-to-end models, which simplify ADS software",
+   "zh": "• 从基于规则的系统转向 AI/端到端模型，这简化了 ADS 软件",
+   "cls": "pptx"
+  },
+  "7e74463195": {
+   "en": "• Rare cases need rapid processing — slow iteration is not acceptable",
+   "zh": "• 罕见情况需要快速处理，缓慢的迭代是不可接受的",
+   "cls": "pptx"
+  },
+  "9dcd2f2ef6": {
+   "en": "FOUNDATION MODELS IN THE STACK",
+   "zh": "技术栈中的基础模型",
+   "cls": "pptx"
+  },
+  "685dac70d0": {
+   "en": "• Vision-Language Models enable auto-labeling, captioning and clustering; video captions feed later analysis",
+   "zh": "• 视觉语言模型支持自动标注、生成描述和聚类；视频描述为后续分析提供输入",
+   "cls": "pptx"
+  },
+  "145ade255e": {
+   "en": "• New tools: Picasso (text-to-image), NeMo, ViLA (captioning), DLSS 3.0; the Blackwell GPU adds generative AI",
+   "zh": "• 新工具：Picasso（文生图）、NeMo、ViLA（生成描述）、DLSS 3.0；Blackwell GPU 加入了生成式 AI",
+   "cls": "pptx"
+  },
+  "8bced9f126": {
+   "en": "• FM-powered AV stack: images → trajectory tokens → pretrained backbone → driving stack, benchmarked in simulation",
+   "zh": "• 基于基础模型的自动驾驶技术栈：图像 → 轨迹 token → 预训练骨干网络 → 驾驶技术栈，并在仿真中进行基准测试",
+   "cls": "pptx"
+  },
+  "a742397e56": {
+   "en": "MODELING THE LONG TAIL",
+   "zh": "建模长尾场景",
+   "cls": "pptx"
+  },
+  "c33793ff9b": {
+   "en": "• Model harsh-weather video from internet video, given the rarity of real accident data",
+   "zh": "• 真实事故数据稀少，因此用互联网视频来建模恶劣天气视频",
+   "cls": "pptx"
+  },
+  "de887abbf8": {
+   "en": "• Use enough tokens to model small objects (e.g. pillars) without slowing down; dynamic scenes (motorcycles) stay hard",
+   "zh": "• 使用足够多的 token 来建模小物体（如立柱）而不降低速度；动态场景（如摩托车）依然困难",
+   "cls": "pptx"
+  },
+  "6fc3c22edd": {
+   "en": "• A simulation-first approach using neural reconstruction graphics",
+   "zh": "• 采用以仿真为先的方法，使用神经重建图形技术",
+   "cls": "pptx"
+  },
+  "bbb039a541": {
+   "en": "INSIGHT 04 · Foundation models & scaling",
+   "zh": "洞察 04 · 基础模型与规模化",
+   "cls": "pptx"
+  },
+  "236294bb38": {
+   "en": "Congcong Li · Waymo",
+   "zh": "Congcong Li · Waymo",
+   "cls": "pptx"
+  },
+  "c32570c4a8": {
+   "en": "THE PROBLEM",
+   "zh": "问题",
+   "cls": "pptx"
+  },
+  "e637f74877": {
+   "en": "• Each year ~50 million injuries and 1.35 million deaths occur on the streets",
+   "zh": "• 每年街头约有 5000 万人受伤、135 万人死亡",
+   "cls": "pptx"
+  },
+  "ecbd99e04c": {
+   "en": "• Long-tail handling is the critical challenge for scaling autonomous driving",
+   "zh": "• 处理长尾问题是规模化自动驾驶的关键挑战",
+   "cls": "pptx"
+  },
+  "322dfb538f": {
+   "en": "WHAT WAYMO BUILT",
+   "zh": "WAYMO 的构建内容",
+   "cls": "pptx"
+  },
+  "1f29a299b8": {
+   "en": "• Multi-modality sensor fusion; mining and augmenting rare examples",
+   "zh": "• 多模态传感器融合；挖掘并增强罕见样本",
+   "cls": "pptx"
+  },
+  "43f7d11bbc": {
+   "en": "• Auto-labeling plus an efficient ML development ecosystem",
+   "zh": "• 自动标注，加上高效的机器学习开发生态",
+   "cls": "pptx"
+  },
+  "24eb0d9fac": {
+   "en": "• Next step: leverage the knowledge and reasoning of LLMs / VLMs",
+   "zh": "• 下一步：利用大语言模型 / 视觉语言模型的知识与推理能力",
+   "cls": "pptx"
+  },
+  "fada47927a": {
+   "en": "UP-VL: LABEL-FREE 3D PERCEPTION",
+   "zh": "UP-VL：无标注 3D 感知",
+   "cls": "pptx"
+  },
+  "c30f967245": {
+   "en": "• Human labeling is slow and inaccurate for scaling → focus on a perception database (billions of points and images)",
+   "zh": "• 人工标注速度慢且不够准确，难以规模化 → 聚焦感知数据库（数十亿个点和图像）",
+   "cls": "pptx"
+  },
+  "84ca1222ab": {
+   "en": "• UP-VL: unsupervised multi-modal auto-labeling + 3D perception trained with vision-language distillation — no human annotations",
+   "zh": "• UP-VL：无监督多模态自动标注 + 通过视觉语言蒸馏训练的 3D 感知，无需人工标注",
+   "cls": "pptx"
+  },
+  "e0a05116ad": {
+   "en": "• A hybrid paradigm: combine classic methods with end-to-end approaches",
+   "zh": "• 一种混合范式：将经典方法与端到端方法结合",
+   "cls": "pptx"
+  },
+  "bf3de96bd3": {
+   "en": "INSIGHT 05 · Perception, forecasting & robust autonomy",
+   "zh": "洞察 05 · 感知、预测与鲁棒自主性",
+   "cls": "pptx"
+  },
+  "8277db1bc2": {
+   "en": "Kyle Vedder (Argoverse) · CVPR 2024 Argoverse Challenges",
+   "zh": "Kyle Vedder (Argoverse) · CVPR 2024 Argoverse Challenges",
+   "cls": "pptx"
+  },
+  "c36ab47cd5": {
+   "en": "SCENE FLOW",
+   "zh": "场景流",
+   "cls": "pptx"
+  },
+  "a15b98c5f2": {
+   "en": "• Datasets of image, lidar and more; scene flow spans background, vehicles and pedestrians",
+   "zh": "• 包含图像、激光雷达等的数据集；场景流涵盖背景、车辆和行人",
+   "cls": "pptx"
+  },
+  "7c2e52e269": {
+   "en": "• A simple Kalman filter tracked changes between consecutive frames to detect moving objects",
+   "zh": "• 用简单的卡尔曼滤波器跟踪连续帧之间的变化，以检测运动物体",
+   "cls": "pptx"
+  },
+  "f2994d8878": {
+   "en": "FLOW4D & CLUSTERING",
+   "zh": "FLOW4D 与聚类",
+   "cls": "pptx"
+  },
+  "2e0c48ad75": {
+   "en": "• Flow4D: early and temporal fusion, fusing lidar and camera information",
+   "zh": "• Flow4D：早期融合与时序融合，融合激光雷达和相机信息",
+   "cls": "pptx"
+  },
+  "b1877f9394": {
+   "en": "• Clustering + ICP: high-quality priors; improved clustering via foreground/background estimation",
+   "zh": "• 聚类 + ICP：高质量先验；通过前景/背景估计改进聚类",
+   "cls": "pptx"
+  },
+  "1718060923": {
+   "en": "FORECASTING & 4D OCCUPANCY",
+   "zh": "预测与 4D 占用",
+   "cls": "pptx"
+  },
+  "c44be7f8f2": {
+   "en": "• End-to-end forecasting: various sensor-fusion methods, but performance issues on the AV stack — ongoing work",
+   "zh": "• 端到端预测：有多种传感器融合方法，但在自动驾驶系统中存在性能问题，相关工作仍在进行",
+   "cls": "pptx"
+  },
+  "34b86c5d33": {
+   "en": "• 4D occupancy forecasting without annotations via an implicit model; parallel processing of large query sets",
+   "zh": "• 通过隐式模型在无标注情况下进行 4D 占用预测；并行处理大规模查询集",
+   "cls": "pptx"
+  },
+  "6fd3f6eb7e": {
+   "en": "• A large receptive field helps find lidar evidence; most foreground motion is in the BEV plane",
+   "zh": "• 大感受野有助于找到激光雷达证据；大部分前景运动发生在 BEV 平面内",
+   "cls": "pptx"
+  },
+  "c5bf3c8b05": {
+   "en": "INSIGHT 06 · Perception, forecasting & robust autonomy",
+   "zh": "洞察 06 · 感知、预测与鲁棒自主性",
+   "cls": "pptx"
+  },
+  "62d44d45f7": {
+   "en": "Nick Roy · Zoox · MIT",
+   "zh": "Nick Roy · Zoox · MIT",
+   "cls": "pptx"
+  },
+  "7c6f6164a1": {
+   "en": "ARCHITECTURE & END-TO-END",
+   "zh": "架构与端到端",
+   "cls": "pptx"
+  },
+  "f5d212443f": {
+   "en": "• A general ADS architecture; end-to-end AI can replace individual modules, connecting sensors directly to motors",
+   "zh": "• 通用的 ADS 架构；端到端 AI 可以替代单个模块，将传感器直接连接到电机",
+   "cls": "pptx"
+  },
+  "7fd85dcbb3": {
+   "en": "• Learned estimators trained with domain knowledge help generate data — but the number of sensors is a challenge",
+   "zh": "• 结合领域知识训练的学习式估计器有助于生成数据，但传感器数量是一个挑战",
+   "cls": "pptx"
+  },
+  "6ea2e4a6e3": {
+   "en": "ROBUSTNESS IN THE WILD",
+   "zh": "真实环境中的鲁棒性",
+   "cls": "pptx"
+  },
+  "b78c6d65d2": {
+   "en": "• Debris is hard to detect and is often mistaken for noise; buses must be perceived and avoided",
+   "zh": "• 碎片难以检测，常被误认为噪声；必须感知并避让公交车",
+   "cls": "pptx"
+  },
+  "7f4462942e": {
+   "en": "• Significant out-of-domain uncertainty is computationally heavy and vulnerable to aliasing",
+   "zh": "• 显著的域外不确定性计算量很大，且容易受到混叠影响",
+   "cls": "pptx"
+  },
+  "4554961e51": {
+   "en": "PLANNING",
+   "zh": "规划",
+   "cls": "pptx"
+  },
+  "69a7b11062": {
+   "en": "• Reinforcement learning is used for the planning module",
+   "zh": "• 规划模块使用强化学习",
+   "cls": "pptx"
+  },
+  "77afaa875e": {
+   "en": "• Open question: how to match standard methods with end-to-end approaches",
+   "zh": "• 开放问题：如何让标准方法与端到端方法相匹配",
+   "cls": "pptx"
+  },
+  "69bae0ee91": {
+   "en": "CONCLUSIONS",
+   "zh": "结论",
+   "cls": "pptx"
+  },
+  "ad4e97f195": {
+   "en": "TRENDS",
+   "zh": "趋势",
+   "cls": "pptx"
+  },
+  "01d9f78e85": {
+   "en": "• Open-source simulators and a common scenario format (MetaDrive / ScenarioNet) are closing the academia–industry gap.",
+   "zh": "• 开源仿真器和通用场景格式（MetaDrive / ScenarioNet）正在缩小学术界与工业界的差距。",
+   "cls": "pptx"
+  },
+  "8c09ea5e54": {
+   "en": "• Foundation / vision-language models are moving into every layer of the AV stack — labeling, generation, planning.",
+   "zh": "• 基础模型 / 视觉语言模型正在进入自动驾驶系统的每一层：标注、生成、规划。",
+   "cls": "pptx"
+  },
+  "f039ca99e4": {
+   "en": "• The field is converging on end-to-end, simulation-first development.",
+   "zh": "• 该领域正在向端到端、以仿真为先的开发方式收敛。",
+   "cls": "pptx"
+  },
+  "927e4493b3": {
+   "en": "VISION",
+   "zh": "愿景",
+   "cls": "pptx"
+  },
+  "944649adbd": {
+   "en": "• Label-free 3D perception at scale (UP-VL) and auto-generated safety-critical scenarios.",
+   "zh": "• 大规模无标注 3D 感知（UP-VL）以及自动生成的安全关键场景。",
+   "cls": "pptx"
+  },
+  "2d0d83a39d": {
+   "en": "• Realistic generative simulation — harsh weather and accidents — from internet-scale video.",
+   "zh": "• 基于互联网规模视频的逼真生成式仿真，涵盖恶劣天气和事故。",
+   "cls": "pptx"
+  },
+  "bf0609e4d6": {
+   "en": "• Robust autonomy that handles the long tail: debris, rare events, out-of-domain uncertainty.",
+   "zh": "• 能处理长尾问题的鲁棒自主性：碎片、罕见事件、域外不确定性。",
+   "cls": "pptx"
+  },
+  "ab88151343": {
+   "en": "IMPLICATIONS FOR US",
+   "zh": "对我们的启示",
+   "cls": "pptx"
+  },
+  "88d7b65c63": {
+   "en": "• Invest in open simulation, benchmarking and a shared scenario format.",
+   "zh": "• 投入开放仿真、基准测试和共享的场景格式。",
+   "cls": "pptx"
+  },
+  "6da43e8051": {
+   "en": "• Adopt VLM-powered auto-labeling and generative data to cover rare cases cheaply.",
+   "zh": "• 采用由视觉语言模型驱动的自动标注和生成式数据，以低成本覆盖罕见情况。",
+   "cls": "pptx"
+  },
+  "28422dbde6": {
+   "en": "• Treat long-tail robustness and safety validation as first-class, not add-ons.",
+   "zh": "• 把长尾鲁棒性和安全确认视为一等公民，而不是附加项。",
+   "cls": "pptx"
+  },
+  "5d16a62568": {
+   "en": "{1}{/1}Tech Insight",
+   "zh": "{1}{/1}Tech Insight",
+   "cls": "span.brand"
+  },
+  "b4510362a5": {
+   "en": "Insights",
+   "zh": "洞察",
+   "cls": "a"
+  },
+  "5d20d0fee3": {
+   "en": "References",
+   "zh": "参考文献",
+   "cls": "a"
+  }
+ }
+}

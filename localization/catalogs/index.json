@@ -1,0 +1,570 @@
+{
+ "folder": "index",
+ "strings": {
+  "5d16a62568": {
+   "en": "{1}{/1}Tech Insight",
+   "zh": "{1}{/1}Tech Insight",
+   "cls": "div.brand"
+  },
+  "114f7380ea": {
+   "en": "Tech-conference insight reports",
+   "zh": "技术会议洞察报告",
+   "cls": "h1"
+  },
+  "5b639bfd82": {
+   "en": "Open Day 2026",
+   "zh": "开放日 2026",
+   "cls": "h2"
+  },
+  "7d7a44eead": {
+   "en": "Intelligent Agents for Software Engineering",
+   "zh": "软件工程智能体",
+   "cls": "div.full"
+  },
+  "ba513b01f2": {
+   "en": "Open day",
+   "zh": "开放日",
+   "cls": "span.badge"
+  },
+  "843ed46e6c": {
+   "en": "Waterloo, Canada · November 2026 · {1}6 parts{/1}",
+   "zh": "加拿大滑铁卢 · 2026 年 11 月 · {1}6 个部分{/1}",
+   "cls": "div.meta"
+  },
+  "cedfc720a9": {
+   "en": "Agentic software engineering and its challenges",
+   "zh": "智能体软件工程及其挑战",
+   "cls": "div.focus"
+  },
+  "4096cd81cd": {
+   "en": "Agents & orchestration",
+   "zh": "智能体与编排",
+   "cls": "li"
+  },
+  "1bacc4c911": {
+   "en": "Mental model & Artifact Graph",
+   "zh": "心智模型与 Artifact Graph",
+   "cls": "li"
+  },
+  "7b606dad2a": {
+   "en": "Self-evolution",
+   "zh": "自我进化",
+   "cls": "li"
+  },
+  "dbe29e4a96": {
+   "en": "Challenges ahead",
+   "zh": "未来的挑战",
+   "cls": "li"
+  },
+  "8e5f6a8ed7": {
+   "en": "{1}Report · HTML{/1} {2}Slides · HTML{/2} {3}Slides · PPTX EN{/3} {4}Slides · PPTX CN{/4}",
+   "zh": "{1}报告 · HTML{/1} {2}幻灯片 · HTML{/2} {3}幻灯片 · PPTX EN{/3} {4}幻灯片 · PPTX CN{/4}",
+   "cls": "div.links"
+  },
+  "caf7bebc40": {
+   "en": "ICLR 2026",
+   "zh": "ICLR 2026",
+   "cls": "h2"
+  },
+  "4e586c7de5": {
+   "en": "14th International Conference on Learning Representations",
+   "zh": "14th International Conference on Learning Representations",
+   "cls": "div.full"
+  },
+  "8a1e29b3dd": {
+   "en": "Conference",
+   "zh": "会议",
+   "cls": "span.badge"
+  },
+  "da3bd4f31d": {
+   "en": "Rio de Janeiro, Brazil · April 2026 · {1}12 papers{/1}",
+   "zh": "巴西里约热内卢 · 2026 年 4 月 · {1}12 篇论文{/1}",
+   "cls": "div.meta"
+  },
+  "09b70ea609": {
+   "en": "Limitations and reliability challenges in LLM-based agent systems",
+   "zh": "基于大语言模型的智能体系统的局限与可靠性挑战",
+   "cls": "div.focus"
+  },
+  "0dcc840b2b": {
+   "en": "Why agents fail",
+   "zh": "智能体为何失败",
+   "cls": "li"
+  },
+  "c0ec96a76c": {
+   "en": "Reliable planning, tools & execution",
+   "zh": "可靠的规划、工具与执行",
+   "cls": "li"
+  },
+  "c602d732b1": {
+   "en": "Better training & prompting",
+   "zh": "更好的训练与提示",
+   "cls": "li"
+  },
+  "16e31b7a11": {
+   "en": "Safety, constraints & security",
+   "zh": "安全、约束与防护",
+   "cls": "li"
+  },
+  "21075a6149": {
+   "en": "NeurIPS 2025",
+   "zh": "NeurIPS 2025",
+   "cls": "h2"
+  },
+  "32d92925de": {
+   "en": "39th Conference on Neural Information Processing Systems",
+   "zh": "39th Conference on Neural Information Processing Systems",
+   "cls": "div.full"
+  },
+  "8b7e1c2e82": {
+   "en": "San Diego, USA & Mexico City, Mexico · December 2–7, 2025 · {1}7 papers{/1}",
+   "zh": "美国圣迭戈和墨西哥城 · 2025 年 12 月 2–7 日 · {1}7 篇论文{/1}",
+   "cls": "div.meta"
+  },
+  "39d664f041": {
+   "en": "Emerging trends in reliable LLM-based software applications",
+   "zh": "可靠的大语言模型软件应用中的新趋势",
+   "cls": "div.focus"
+  },
+  "b82d00d3fe": {
+   "en": "Self-verifying reasoning & code",
+   "zh": "自我验证的推理与代码",
+   "cls": "li"
+  },
+  "60c854423d": {
+   "en": "Efficient, knowledge-aware agents",
+   "zh": "高效、具备知识感知的智能体",
+   "cls": "li"
+  },
+  "47db5b9be7": {
+   "en": "Reliability, safety & security",
+   "zh": "可靠性、安全与防护",
+   "cls": "li"
+  },
+  "2edb334681": {
+   "en": "IJCAI 2025",
+   "zh": "IJCAI 2025",
+   "cls": "h2"
+  },
+  "ff11df239c": {
+   "en": "34th International Joint Conference on Artificial Intelligence",
+   "zh": "34th International Joint Conference on Artificial Intelligence",
+   "cls": "div.full"
+  },
+  "2ec25e2b39": {
+   "en": "Montreal, Canada · August 16–22, 2025 · {1}8 papers{/1}",
+   "zh": "加拿大蒙特利尔 · 2025 年 8 月 16–22 日 · {1}8 篇论文{/1}",
+   "cls": "div.meta"
+  },
+  "ae2afcfb6e": {
+   "en": "Trustworthy and explainable AI",
+   "zh": "可信且可解释的人工智能",
+   "cls": "div.focus"
+  },
+  "dd81b5af63": {
+   "en": "Safety & reasoning foundations",
+   "zh": "安全与推理基础",
+   "cls": "li"
+  },
+  "ae5db759eb": {
+   "en": "Explainability & robustness",
+   "zh": "可解释性与鲁棒性",
+   "cls": "li"
+  },
+  "ebb71a5ecc": {
+   "en": "Trustworthy & fair LLMs / multimodal LLMs",
+   "zh": "可信且公平的大语言模型 / 多模态大语言模型",
+   "cls": "li"
+  },
+  "ab091c15db": {
+   "en": "Key AI Innovations 2025",
+   "zh": "Key AI Innovations 2025",
+   "cls": "h2"
+  },
+  "5a3ddfb2ce": {
+   "en": "LLM Applications, Multi-Agent Systems & Safety Considerations",
+   "zh": "大语言模型应用、多智能体系统与安全考量",
+   "cls": "div.full"
+  },
+  "4e6a710d7f": {
+   "en": "Talk",
+   "zh": "报告",
+   "cls": "span.badge"
+  },
+  "2b4bb5db63": {
+   "en": "Online · February 28, 2025 · {1}13 topics{/1}",
+   "zh": "线上 · 2025 年 2 月 28 日 · {1}13 个主题{/1}",
+   "cls": "div.meta"
+  },
+  "bce6e2ceb9": {
+   "en": "LLM applications, single- & multi-agent systems, evaluations & guardrails",
+   "zh": "大语言模型应用、单智能体与多智能体系统、评估与护栏",
+   "cls": "div.focus"
+  },
+  "d48565003f": {
+   "en": "LLM-based systems across industry — personalization, service, content, data, code, security, assistants (~81 companies)",
+   "zh": "各行业的大语言模型系统——个性化、服务、内容、数据、代码、安全、助手（约 81 家公司）",
+   "cls": "li"
+  },
+  "2f8a42f30f": {
+   "en": "Single AI agent systems — architecture (ReAct, Reflexion, LATS), RAG & Agentic RAG, memory and tools",
+   "zh": "单智能体系统——架构（ReAct、Reflexion、LATS）、RAG 与 Agentic RAG、记忆与工具",
+   "cls": "li"
+  },
+  "7b4714496a": {
+   "en": "Multi AI agent systems — collaboration, coordination and frameworks (LangGraph, CrewAI, AutoGen)",
+   "zh": "多智能体系统——协作、协调与框架（LangGraph、CrewAI、AutoGen）",
+   "cls": "li"
+  },
+  "ca89cd8e3c": {
+   "en": "Evaluations & guardrails — LLM evaluation, RAG evaluation, and LLM-as-a-Judge",
+   "zh": "评估与护栏——大语言模型评估、RAG 评估与 LLM-as-a-Judge",
+   "cls": "li"
+  },
+  "f24a7a693b": {
+   "en": "NeurIPS 2024",
+   "zh": "NeurIPS 2024",
+   "cls": "h2"
+  },
+  "c2c78fc96c": {
+   "en": "38th Annual Conference on Neural Information Processing Systems",
+   "zh": "38th Annual Conference on Neural Information Processing Systems",
+   "cls": "div.full"
+  },
+  "03401272ee": {
+   "en": "Vancouver, Canada · December 10–15, 2024 · {1}9 talks{/1}",
+   "zh": "加拿大温哥华 · 2024 年 12 月 10–15 日 · {1}9 场报告{/1}",
+   "cls": "div.meta"
+  },
+  "10a19681e9": {
+   "en": "Trustworthy AI — toward safe, explainable, tool-based AI",
+   "zh": "可信人工智能——迈向安全、可解释、工具化的人工智能",
+   "cls": "div.focus"
+  },
+  "feb6ec60b6": {
+   "en": "Where AI is heading — Sutskever on scaling, Bengio on explanatory ‘Tool AI’",
+   "zh": "人工智能的走向——Sutskever 谈规模化，Bengio 谈解释性的“Tool AI”",
+   "cls": "li"
+  },
+  "6439874f69": {
+   "en": "Provable & secure-by-design safety — Tegmark (guaranteed-safe AI), Dawn Song",
+   "zh": "可证明且设计即安全的安全性——Tegmark（有安全保证的人工智能）、Dawn Song",
+   "cls": "li"
+  },
+  "f83ed7e295": {
+   "en": "Safer models in practice — fine-tuning and toxicity, guardrail pretraining",
+   "zh": "实践中更安全的模型——微调与毒性、护栏预训练",
+   "cls": "li"
+  },
+  "006bc85812": {
+   "en": "Trustworthiness & agent evaluation — safeguards/monitoring, Embodied Agent Interface & AgentBoard",
+   "zh": "可信性与智能体评估——防护/监控、Embodied Agent Interface 与 AgentBoard",
+   "cls": "li"
+  },
+  "864ab10a41": {
+   "en": "OpenMind Banff Retreat 2024",
+   "zh": "OpenMind Banff Retreat 2024",
+   "cls": "h2"
+  },
+  "4b2a977311": {
+   "en": "OpenMind Research Institute — Banff Research Retreat",
+   "zh": "OpenMind Research Institute — Banff Research Retreat",
+   "cls": "div.full"
+  },
+  "09f796b17b": {
+   "en": "Research retreat",
+   "zh": "研究静修会",
+   "cls": "span.badge"
+  },
+  "50861f12e2": {
+   "en": "Banff Centre, Alberta, Canada · October 18–20, 2024 · {1}9 themes{/1}",
+   "zh": "加拿大艾伯塔省班夫中心 · 2024 年 10 月 18–20 日 · {1}9 个主题{/1}",
+   "cls": "div.meta"
+  },
+  "9aa41e8e91": {
+   "en": "Continual learning — minds that learn from a stream of experience",
+   "zh": "持续学习——从经验流中学习的心智",
+   "cls": "div.focus"
+  },
+  "19046356e6": {
+   "en": "Minds, and why continual learning — Sutton’s RL-first view of intelligence",
+   "zh": "心智，以及为什么需要持续学习——Sutton 以强化学习为先的智能观",
+   "cls": "li"
+  },
+  "ce456b223a": {
+   "en": "Agents in a big world — the Big World Hypothesis, decision-aware models",
+   "zh": "大世界中的智能体——大世界假说、决策感知模型",
+   "cls": "li"
+  },
+  "a09f05c188": {
+   "en": "From batch to streaming — making streaming deep RL work",
+   "zh": "从批处理到流式——让流式深度强化学习行之有效",
+   "cls": "li"
+  },
+  "963cd98330": {
+   "en": "Industry relevance and the challenges of continual learning",
+   "zh": "产业相关性与持续学习的挑战",
+   "cls": "li"
+  },
+  "d3ba521533": {
+   "en": "CVPR 2024 — Workshop on Autonomous Driving",
+   "zh": "CVPR 2024 — Workshop on Autonomous Driving",
+   "cls": "h2"
+  },
+  "3a55bf6751": {
+   "en": "IEEE/CVF CVPR 2024 — Workshop on Autonomous Driving (WAD)",
+   "zh": "IEEE/CVF CVPR 2024 — Workshop on Autonomous Driving (WAD)",
+   "cls": "div.full"
+  },
+  "13b8fe38a9": {
+   "en": "Workshop",
+   "zh": "工作坊",
+   "cls": "span.badge"
+  },
+  "533a91ce31": {
+   "en": "Seattle, WA, USA · June 17, 2024 · {1}6 talks{/1}",
+   "zh": "美国华盛顿州西雅图 · 2024 年 6 月 17 日 · {1}6 场报告{/1}",
+   "cls": "div.meta"
+  },
+  "65a6500527": {
+   "en": "Autonomous driving — simulation, foundation models & robust autonomy",
+   "zh": "自动驾驶——仿真、基础模型与鲁棒自主性",
+   "cls": "div.focus"
+  },
+  "86f93fde92": {
+   "en": "Simulation & benchmarking — MetaDrive / ScenarioNet, non-reactive simulation",
+   "zh": "仿真与基准测试——MetaDrive / ScenarioNet、非反应式仿真",
+   "cls": "li"
+  },
+  "4408b1ce29": {
+   "en": "Foundation models & scaling — NVIDIA FM stack, Waymo UP-VL label-free perception",
+   "zh": "基础模型与规模化——NVIDIA FM 技术栈、Waymo UP-VL 免标注感知",
+   "cls": "li"
+  },
+  "c2d619ce04": {
+   "en": "Perception, forecasting & robust autonomy — Argoverse challenges, Zoox robust autonomy",
+   "zh": "感知、预测与鲁棒自主性——Argoverse 挑战赛、Zoox 鲁棒自主性",
+   "cls": "li"
+  },
+  "23ff88b1d3": {
+   "en": "HKSTP Robotics Symposium 2024",
+   "zh": "HKSTP Robotics Symposium 2024",
+   "cls": "h2"
+  },
+  "a9f06c3ab0": {
+   "en": "2024 HKSTP Symposium on Innovative Robotics and Applications",
+   "zh": "2024 HKSTP Symposium on Innovative Robotics and Applications",
+   "cls": "div.full"
+  },
+  "5d01a85052": {
+   "en": "Symposium",
+   "zh": "研讨会",
+   "cls": "span.badge"
+  },
+  "091aa3a510": {
+   "en": "Hong Kong Science Park (INNO²), Hong Kong · 23 May 2024 · {1}8 talks{/1}",
+   "zh": "香港科学园（INNO²），香港 · 2024 年 5 月 23 日 · {1}8 场报告{/1}",
+   "cls": "div.meta"
+  },
+  "2f98aeda7f": {
+   "en": "Innovative robotics — foundation models, grasping & human-robot collaboration",
+   "zh": "创新机器人——基础模型、抓取与人机协作",
+   "cls": "div.focus"
+  },
+  "b8f5152e43": {
+   "en": "Foundation models for grasping & control — FoundationGrasp, LLM-as-controller",
+   "zh": "用于抓取与控制的基础模型——FoundationGrasp、LLM-as-controller",
+   "cls": "li"
+  },
+  "c7c2d9976c": {
+   "en": "Human-robot collaboration & sensing — SERoCS, tactile smart grippers, self-healing sensors",
+   "zh": "人机协作与传感——SERoCS、触觉智能夹爪、自修复传感器",
+   "cls": "li"
+  },
+  "83d0570155": {
+   "en": "Robust autonomy & smart transport — robust perception, smart-transport co-design",
+   "zh": "鲁棒自主性与智能交通——鲁棒感知、智能交通协同设计",
+   "cls": "li"
+  },
+  "34ccd6f9c9": {
+   "en": "Huawei Large Models Strategy Workshop",
+   "zh": "Huawei Large Models Strategy Workshop",
+   "cls": "h2"
+  },
+  "af77347611": {
+   "en": "Huawei Strategy Workshop — Large Models & Distributed Systems",
+   "zh": "Huawei Strategy Workshop — Large Models & Distributed Systems",
+   "cls": "div.full"
+  },
+  "65bb8e0479": {
+   "en": "Strategy workshop",
+   "zh": "战略工作坊",
+   "cls": "span.badge"
+  },
+  "41fcc15673": {
+   "en": "Shenzhen & Dongguan, China · May 2024 · {1}11 topics{/1}",
+   "zh": "中国深圳与东莞 · 2024 年 5 月 · {1}11 个主题{/1}",
+   "cls": "div.meta"
+  },
+  "e0a9e4fd1d": {
+   "en": "Large models — scaling, capabilities & distributed systems",
+   "zh": "大模型——规模化、能力与分布式系统",
+   "cls": "div.focus"
+  },
+  "1fb00ff18a": {
+   "en": "Why large models work — scaling laws and generative compression",
+   "zh": "大模型为何有效——缩放定律与生成式压缩",
+   "cls": "li"
+  },
+  "a2bd4825ae": {
+   "en": "2024 progress — reasoning, 2M context windows, lower hallucination and cost",
+   "zh": "2024 年进展——推理、2M 上下文窗口、更少的幻觉与更低的成本",
+   "cls": "li"
+  },
+  "a56d56542a": {
+   "en": "The road ahead — multimodal ‘world models’",
+   "zh": "前路——多模态“世界模型”",
+   "cls": "li"
+  },
+  "e9ff1919d5": {
+   "en": "Systems — accelerating distributed Mixture-of-Experts (MoE) and memory sharding",
+   "zh": "系统——加速分布式混合专家（MoE）与内存分片",
+   "cls": "li"
+  },
+  "ee3c0d256d": {
+   "en": "HKSTP Systems Engineering Workshop 2024",
+   "zh": "HKSTP Systems Engineering Workshop 2024",
+   "cls": "h2"
+  },
+  "5ff75cb778": {
+   "en": "2024 HKSTP Systems Engineering Workshop for Complex Intelligent Systems",
+   "zh": "2024 HKSTP Systems Engineering Workshop for Complex Intelligent Systems",
+   "cls": "div.full"
+  },
+  "e0c4141770": {
+   "en": "Hong Kong Science Park, Hong Kong · May 2024 · {1}11 talks{/1}",
+   "zh": "香港科学园，香港 · 2024 年 5 月 · {1}11 场报告{/1}",
+   "cls": "div.meta"
+  },
+  "15498f5ede": {
+   "en": "Dependability & trustworthiness of complex intelligent systems",
+   "zh": "复杂智能系统的可靠性与可信性",
+   "cls": "div.focus"
+  },
+  "7baf9494e8": {
+   "en": "Dependability & reliability modeling — RBD, fault trees, Markov chains",
+   "zh": "可靠性与可用性建模——RBD、故障树、马尔可夫链",
+   "cls": "li"
+  },
+  "2fcc79f79a": {
+   "en": "Testing, verification & formal methods — combinatorial testing, probabilistic model checking",
+   "zh": "测试、验证与形式化方法——组合测试、概率模型检测",
+   "cls": "li"
+  },
+  "ed4ecae080": {
+   "en": "Trustworthy & cognitive AI — fair/explainable AI, data-centric LLM quality assurance",
+   "zh": "可信与认知人工智能——公平/可解释人工智能、以数据为中心的大语言模型质量保证",
+   "cls": "li"
+  },
+  "002e95bab8": {
+   "en": "Autonomous systems in the real world — safe learning (L1 control), digital twins",
+   "zh": "现实世界中的自主系统——安全学习（L1 控制）、数字孪生",
+   "cls": "li"
+  },
+  "68c7a9ef2d": {
+   "en": "IEEE SysCon 2024",
+   "zh": "IEEE SysCon 2024",
+   "cls": "h2"
+  },
+  "c773950aa3": {
+   "en": "18th Annual IEEE International Systems Conference",
+   "zh": "18th Annual IEEE International Systems Conference",
+   "cls": "div.full"
+  },
+  "d24f1f3713": {
+   "en": "Montréal, Québec, Canada · April 15–18, 2024 · {1}17 papers{/1}",
+   "zh": "加拿大魁北克省蒙特利尔 · 2024 年 4 月 15–18 日 · {1}17 篇论文{/1}",
+   "cls": "div.meta"
+  },
+  "80df09a071": {
+   "en": "Innovations across autonomous systems, AI, digital twins & MBSE",
+   "zh": "自主系统、人工智能、数字孪生与 MBSE 领域的创新",
+   "cls": "div.focus"
+  },
+  "6bfd98f344": {
+   "en": "Autonomous navigation & SLAM — UAV/AUV localization, 3D EKF-SLAM",
+   "zh": "自主导航与 SLAM——UAV/AUV 定位、3D EKF-SLAM",
+   "cls": "li"
+  },
+  "ce6685b5a6": {
+   "en": "Planning, routing & safety — GNN routing, on-demand triple modular redundancy, behavior trees",
+   "zh": "规划、路由与安全——GNN 路由、按需三模冗余、行为树",
+   "cls": "li"
+  },
+  "73ce493183": {
+   "en": "Prediction, AI & neuromorphic — LSTM trajectory prediction, 3D spiking neural networks",
+   "zh": "预测、人工智能与类脑计算——LSTM 轨迹预测、3D 脉冲神经网络",
+   "cls": "li"
+  },
+  "ccbc5fe2ac": {
+   "en": "Digital twins & MBSE — Colored Petri Nets, eVTOL air-ambulance case study",
+   "zh": "数字孪生与 MBSE——着色 Petri 网、eVTOL 空中救护案例研究",
+   "cls": "li"
+  },
+  "98f9cfc455": {
+   "en": "AAAI 2024",
+   "zh": "AAAI 2024",
+   "cls": "h2"
+  },
+  "190f6ce5b2": {
+   "en": "38th Annual AAAI Conference on Artificial Intelligence",
+   "zh": "38th Annual AAAI Conference on Artificial Intelligence",
+   "cls": "div.full"
+  },
+  "d2429bc8ad": {
+   "en": "Vancouver, Canada · February 20–27, 2024 · {1}13 papers{/1}",
+   "zh": "加拿大温哥华 · 2024 年 2 月 20–27 日 · {1}13 篇论文{/1}",
+   "cls": "div.meta"
+  },
+  "d04b7c0897": {
+   "en": "Reliable LLMs, foundation models, simulation & autonomous driving",
+   "zh": "可靠的大语言模型、基础模型、仿真与自动驾驶",
+   "cls": "div.focus"
+  },
+  "2fb3ef2628": {
+   "en": "Reliable LLM reasoning — Chain-of-Thought citations, SYRELM symbolic solvers, LLMs as rational players",
+   "zh": "可靠的大语言模型推理——Chain-of-Thought 引用、SYRELM 符号求解器、作为理性博弈者的大语言模型",
+   "cls": "li"
+  },
+  "599d13792f": {
+   "en": "Applied foundation models — PathAsst (pathology), KG-TREAT (healthcare + knowledge graphs)",
+   "zh": "基础模型的应用——PathAsst（病理）、KG-TREAT（医疗 + 知识图谱）",
+   "cls": "li"
+  },
+  "768b06eb41": {
+   "en": "Simulation, perception & autonomous driving — SPDiff crowd diffusion, Vampire, Waabi keynote",
+   "zh": "仿真、感知与自动驾驶——SPDiff 人群扩散、Vampire、Waabi 主题报告",
+   "cls": "li"
+  },
+  "98be694277": {
+   "en": "Robust & efficient learning — spiking neural networks, graph OOD generalization",
+   "zh": "鲁棒且高效的学习——脉冲神经网络、图 OOD 泛化",
+   "cls": "li"
+  },
+  "ebb35d2ac2": {
+   "en": "© 2026 {1}ALI{/1} — {2}Tech Insight{/2} v1.12.0",
+   "zh": "© 2026 {1}ALI{/1} — {2}Tech Insight{/2} v1.12.0",
+   "cls": "div.copyright"
+  },
+  "1231f68da3": {
+   "en": "Tech-Conference Insight Reports — AI & Systems Engineering",
+   "zh": "技术会议洞察报告——人工智能与系统工程",
+   "cls": "doctitle"
+  },
+  "33e6295f88": {
+   "en": "Concise insight reports — long-form HTML report, browser slide deck and PowerPoint — for 13 recent AI and systems-engineering conferences, each distilled into themed cards covering the key papers, talks, methods and findings.",
+   "zh": "精炼的洞察报告——长篇 HTML 报告、浏览器幻灯片和 PowerPoint——涵盖 13 场近期人工智能与系统工程会议，每场提炼为按主题划分的卡片，涵盖关键论文、报告、方法与发现。",
+   "cls": "metadesc"
+  }
+ }
+}

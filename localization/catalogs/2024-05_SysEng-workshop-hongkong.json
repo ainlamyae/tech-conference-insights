@@ -1,0 +1,1905 @@
+{
+ "folder": "2024-05_SysEng-workshop-hongkong",
+ "strings": {
+  "3ccb65db15": {
+   "en": "[1] “Reliability and Availability Modeling of Complex Systems in Practice,” HKSTP Systems Engineering Workshop, 2024.",
+   "zh": "[1] “Reliability and Availability Modeling of Complex Systems in Practice,” HKSTP Systems Engineering Workshop, 2024.",
+   "cls": "keep"
+  },
+  "2cdf8e4f82": {
+   "en": "[2] H. Pham, “Early Detection of Degraded Complex Systems: Self-Healing in Uncertain Situations with Time Delay,” HKSTP SE Workshop, 2024.",
+   "zh": "[2] H. Pham, “Early Detection of Degraded Complex Systems: Self-Healing in Uncertain Situations with Time Delay,” HKSTP SE Workshop, 2024.",
+   "cls": "keep"
+  },
+  "367b4e7c10": {
+   "en": "[3] W. E. Wong, “Combinatorial Testing for Complex Systems: Functional and Non-Functional Perspectives,” HKSTP SE Workshop, 2024.",
+   "zh": "[3] W. E. Wong, “Combinatorial Testing for Complex Systems: Functional and Non-Functional Perspectives,” HKSTP SE Workshop, 2024.",
+   "cls": "keep"
+  },
+  "4ae2a2119a": {
+   "en": "[4] J.-S. Dong, “Trusted AI and Beyond: ChatGPT Reasoning with Sport Analytics Application,” HKSTP SE Workshop, 2024.",
+   "zh": "[4] J.-S. Dong, “Trusted AI and Beyond: ChatGPT Reasoning with Sport Analytics Application,” HKSTP SE Workshop, 2024.",
+   "cls": "keep"
+  },
+  "851277ac40": {
+   "en": "[5] X. Yao, “From Trustworthy Systems to Trustworthy Artificial Intelligence,” HKSTP SE Workshop, 2024.",
+   "zh": "[5] X. Yao, “From Trustworthy Systems to Trustworthy Artificial Intelligence,” HKSTP SE Workshop, 2024.",
+   "cls": "keep"
+  },
+  "3fb3488e1e": {
+   "en": "[6] “Data-centric Quality Assurance for Trustworthy AI and LLM Systems,” HKSTP SE Workshop, 2024 (Fujitsu / SEI).",
+   "zh": "[6] “Data-centric Quality Assurance for Trustworthy AI and LLM Systems,” HKSTP SE Workshop, 2024 (Fujitsu / SEI).",
+   "cls": "keep"
+  },
+  "57627ce6bf": {
+   "en": "[7] Y. Wang, “System Science and Autonomous AI Systems,” HKSTP SE Workshop, 2024.",
+   "zh": "[7] Y. Wang, “System Science and Autonomous AI Systems,” HKSTP SE Workshop, 2024.",
+   "cls": "keep"
+  },
+  "efea14fef2": {
+   "en": "[8] J. Wang, “Ensuring Reliability of Autonomous Vehicular Systems and Beyond,” HKSTP SE Workshop, 2024.",
+   "zh": "[8] J. Wang, “Ensuring Reliability of Autonomous Vehicular Systems and Beyond,” HKSTP SE Workshop, 2024.",
+   "cls": "keep"
+  },
+  "97b75c0ea0": {
+   "en": "[9] N. Hovakimyan, “Safe Learning for Autonomous Systems,” HKSTP SE Workshop, 2024.",
+   "zh": "[9] N. Hovakimyan, “Safe Learning for Autonomous Systems,” HKSTP SE Workshop, 2024.",
+   "cls": "keep"
+  },
+  "52bd29f987": {
+   "en": "[10] A. Parlikad, “Digital Twins for Complex Systems,” HKSTP SE Workshop, 2024.",
+   "zh": "[10] A. Parlikad, “Digital Twins for Complex Systems,” HKSTP SE Workshop, 2024.",
+   "cls": "keep"
+  },
+  "01c430956b": {
+   "en": "[11] A. Belz, “Artificial Intuition, Research Portfolios and Decision Systems,” HKSTP SE Workshop, 2024.",
+   "zh": "[11] A. Belz, “Artificial Intuition, Research Portfolios and Decision Systems,” HKSTP SE Workshop, 2024.",
+   "cls": "keep"
+  },
+  "816c8ec36d": {
+   "en": "{1}{2}{/2}Tech Insight{/1}{3}Contents{/3}{4}·{/4}{5}Workshop{/5}{6}·{/6}{7}Insights{/7}{8}·{/8}{9}Conclusions{/9}{10}·{/10}{11}References{/11}",
+   "zh": "{1}{2}{/2}Tech Insight{/1}{3}目录{/3}{4}·{/4}{5}研讨会{/5}{6}·{/6}{7}洞察{/7}{8}·{/8}{9}结论{/9}{10}·{/10}{11}参考文献{/11}",
+   "cls": "nav.bar"
+  },
+  "105f731a27": {
+   "en": "HKSTP 2024 — Systems Engineering Workshop · Tech Insight Report",
+   "zh": "HKSTP 2024 — 系统工程研讨会 · Tech Insight 报告",
+   "cls": "div.kicker"
+  },
+  "5ff75cb778": {
+   "en": "2024 HKSTP Systems Engineering Workshop for Complex Intelligent Systems",
+   "zh": "2024 HKSTP Systems Engineering Workshop for Complex Intelligent Systems",
+   "cls": "h1"
+  },
+  "eba79996c1": {
+   "en": "{1}Hong Kong Science Park, Hong Kong · May 2024{/1}",
+   "zh": "{1}香港科学园，香港 · 2024 年 5 月{/1}",
+   "cls": "p.lede"
+  },
+  "dde8101ad0": {
+   "en": "A read of the 2024 HKSTP Systems Engineering Workshop: international researchers on the dependability, reliability and trustworthiness of complex, AI-driven systems — from classical reliability modeling (RBD, fault trees, Markov chains) to safe learning, trustworthy & fair AI, and data-centric quality assurance for LLM systems. The running thread: systems engineering must be re-founded for software whose behavior is learned, not specified.",
+   "zh": "解读 2024 HKSTP 系统工程研讨会：来自各国的研究者围绕复杂 AI 驱动系统的可依赖性、可靠性和可信赖性展开讨论——从经典的可靠性建模（RBD、故障树、马尔可夫链）到安全学习、可信与公平 AI，以及面向 LLM 系统的以数据为中心的质量保证。贯穿始终的主线是：对于行为由学习获得而非预先规定的软件，系统工程必须重新奠基。",
+   "cls": "p.lede"
+  },
+  "f2b3c54d7e": {
+   "en": "Location{1}Hong Kong Science Park, Hong Kong{/1}",
+   "zh": "地点{1}香港科学园，香港{/1}",
+   "cls": "div"
+  },
+  "335516c62f": {
+   "en": "Date{1}May 2024{/1}",
+   "zh": "日期{1}2024 年 5 月{/1}",
+   "cls": "div"
+  },
+  "c98e56d633": {
+   "en": "Focus{1}Dependability & Trustworthiness of Complex Intelligent Systems{/1}",
+   "zh": "主题{1}复杂智能系统的可依赖性与可信赖性{/1}",
+   "cls": "div"
+  },
+  "f91f503b91": {
+   "en": "01 · Contents",
+   "zh": "01 · 目录",
+   "cls": "div.kicker"
+  },
+  "3f9a0ad8ce": {
+   "en": "Talks covered, by theme",
+   "zh": "按主题划分的报告内容",
+   "cls": "h2"
+  },
+  "3e10d3d903": {
+   "en": "A · Dependability & reliability modeling",
+   "zh": "A · 可依赖性与可靠性建模",
+   "cls": "attr:data-group"
+  },
+  "82f6f9f544": {
+   "en": "{1}01{/1}{2}Reliability & Availability Modeling of Complex Systems in Practice{/2}",
+   "zh": "{1}01{/1}{2}Reliability & Availability Modeling of Complex Systems in Practice{/2}",
+   "cls": "div"
+  },
+  "8ee669840e": {
+   "en": "{1}02{/1}{2}Early Detection of Degraded Systems: Self-Healing with Time Delay{/2}",
+   "zh": "{1}02{/1}{2}Early Detection of Degraded Systems: Self-Healing with Time Delay{/2}",
+   "cls": "div"
+  },
+  "f156aea3c6": {
+   "en": "B · Testing, verification & formal methods",
+   "zh": "B · 测试、验证与形式化方法",
+   "cls": "attr:data-group"
+  },
+  "e05d918833": {
+   "en": "{1}03{/1}{2}Combinatorial Testing for Complex Systems{/2}",
+   "zh": "{1}03{/1}{2}Combinatorial Testing for Complex Systems{/2}",
+   "cls": "div"
+  },
+  "67f38070ec": {
+   "en": "{1}04{/1}{2}Trusted AI & Probabilistic Model Checking{/2}",
+   "zh": "{1}04{/1}{2}Trusted AI & Probabilistic Model Checking{/2}",
+   "cls": "div"
+  },
+  "22e3d041b0": {
+   "en": "C · Trustworthy & cognitive AI",
+   "zh": "C · 可信与认知 AI",
+   "cls": "attr:data-group"
+  },
+  "494ff26f70": {
+   "en": "{1}05{/1}{2}From Trustworthy Systems to Trustworthy AI{/2}",
+   "zh": "{1}05{/1}{2}From Trustworthy Systems to Trustworthy AI{/2}",
+   "cls": "div"
+  },
+  "1c4488a0ce": {
+   "en": "{1}06{/1}{2}Data-centric Quality Assurance for AI & LLM Systems{/2}",
+   "zh": "{1}06{/1}{2}Data-centric Quality Assurance for AI & LLM Systems{/2}",
+   "cls": "div"
+  },
+  "d09d03adda": {
+   "en": "{1}07{/1}{2}System Science & Autonomous AI Systems{/2}",
+   "zh": "{1}07{/1}{2}System Science & Autonomous AI Systems{/2}",
+   "cls": "div"
+  },
+  "ab82dd92e0": {
+   "en": "D · Autonomous systems in the real world",
+   "zh": "D · 真实世界中的自主系统",
+   "cls": "attr:data-group"
+  },
+  "5f525f023c": {
+   "en": "{1}08{/1}{2}Ensuring Reliability of Autonomous Vehicular Systems{/2}",
+   "zh": "{1}08{/1}{2}Ensuring Reliability of Autonomous Vehicular Systems{/2}",
+   "cls": "div"
+  },
+  "bcffbfe23c": {
+   "en": "{1}09{/1}{2}Safe Learning for Autonomous Systems{/2}",
+   "zh": "{1}09{/1}{2}Safe Learning for Autonomous Systems{/2}",
+   "cls": "div"
+  },
+  "a2e5048f86": {
+   "en": "{1}10{/1}{2}Digital Twins for Complex Systems{/2}",
+   "zh": "{1}10{/1}{2}Digital Twins for Complex Systems{/2}",
+   "cls": "div"
+  },
+  "50a57feac4": {
+   "en": "{1}11{/1}{2}Artificial Intuition, Research Portfolios & Decision Systems{/2}",
+   "zh": "{1}11{/1}{2}Artificial Intuition, Research Portfolios & Decision Systems{/2}",
+   "cls": "div"
+  },
+  "98ad1f1b30": {
+   "en": "02 · Workshop at a glance",
+   "zh": "02 · 研讨会概览",
+   "cls": "div.kicker"
+  },
+  "491947ba8f": {
+   "en": "2024 HKSTP Systems Engineering Workshop for Complex Intelligent Systems — Hong Kong Science Park, Hong Kong, May 2024",
+   "zh": "2024 HKSTP Systems Engineering Workshop for Complex Intelligent Systems — 香港科学园，香港，2024 年 5 月",
+   "cls": "h2"
+  },
+  "9dc3c73766": {
+   "en": "{1}May 2024{/1}{2}Hong Kong{/2}",
+   "zh": "{1}2024 年 5 月{/1}{2}香港{/2}",
+   "cls": "div.tile"
+  },
+  "39d0dbd3d5": {
+   "en": "{1}HKSTP{/1}{2}organizer{/2}",
+   "zh": "{1}HKSTP{/1}{2}主办方{/2}",
+   "cls": "div.tile"
+  },
+  "4bf6298813": {
+   "en": "{1}11 talks{/1}{2}deep-dived here{/2}",
+   "zh": "{1}11 场报告{/1}{2}此处深入解读{/2}",
+   "cls": "div.tile"
+  },
+  "23f12499da": {
+   "en": "{1}Dependable AI{/1}{2}the theme{/2}",
+   "zh": "{1}可依赖 AI{/1}{2}主题{/2}",
+   "cls": "div.tile"
+  },
+  "befb43cdb3": {
+   "en": "{1}About:{/1} Hosted by Hong Kong Science & Technology Parks (HKSTP), the workshop gathered systems- and software-engineering researchers on making complex intelligent systems dependable and trustworthy.",
+   "zh": "{1}简介：{/1}研讨会由香港科技园公司（HKSTP）主办，汇聚系统工程与软件工程领域的研究者，探讨如何让复杂智能系统可依赖、可信赖。",
+   "cls": "p.overview-themes"
+  },
+  "d4e6d4fa42": {
+   "en": "Classical dependability tools are being combined with data-driven methods (LLMs, RL, Gaussian processes); distribution shift and uncertainty recur across control, testing and LLM talks; and trustworthiness — safety, reliability, fairness, explainability — is treated as the gate for deploying AI.",
+   "zh": "经典的可依赖性工具正与数据驱动方法（LLM、RL、高斯过程）相结合；分布偏移和不确定性反复出现在控制、测试和 LLM 的报告中；可信赖性——安全、可靠、公平、可解释——被视为部署 AI 的关卡。",
+   "cls": "p.overview-themes"
+  },
+  "74e3fba778": {
+   "en": "03 · Insights",
+   "zh": "03 · 洞察",
+   "cls": "div.kicker"
+  },
+  "d657233760": {
+   "en": "The workshop, talk by talk",
+   "zh": "逐场报告解读",
+   "cls": "h2"
+  },
+  "10dee3cd10": {
+   "en": "Reliability & Availability Modeling of Complex Systems in Practice",
+   "zh": "Reliability & Availability Modeling of Complex Systems in Practice",
+   "cls": "attr:data-toc"
+  },
+  "a5642411d4": {
+   "en": "{1}Dependability modeling{/1} · RBD · fault trees · Markov chains",
+   "zh": "{1}可依赖性建模{/1} · RBD · 故障树 · 马尔可夫链",
+   "cls": "div.byline"
+  },
+  "edcc315a60": {
+   "en": "Dependability fundamentals",
+   "zh": "可依赖性基础",
+   "cls": "span.lbl"
+  },
+  "b939cc98ff": {
+   "en": "Dependability = justified reliance on the delivered service; a taxonomy of Attributes (availability, reliability, safety, maintainability), Means and Threats",
+   "zh": "可依赖性 = 对所提供服务的合理依赖；其分类包括属性（可用性、可靠性、安全性、可维护性）、手段和威胁",
+   "cls": "li"
+  },
+  "13d1cba2ed": {
+   "en": "The causal chain Fault → Error → Failure",
+   "zh": "因果链：故障（Fault）→ 错误（Error）→ 失效（Failure）",
+   "cls": "li"
+  },
+  "5c0e85940d": {
+   "en": "Four means: fault prevention, removal (debugging), tolerance (redundancy), forecasting",
+   "zh": "四种手段：故障预防、故障排除（调试）、故障容忍（冗余）、故障预测",
+   "cls": "li"
+  },
+  "465510a6b3": {
+   "en": "Quantitative assessment",
+   "zh": "定量评估",
+   "cls": "span.lbl"
+  },
+  "ecb7afd08c": {
+   "en": "Data-driven vs model-driven paths; discrete-event vs analytic simulation; prefer a numerical solution over simulation when feasible",
+   "zh": "数据驱动与模型驱动两条路径；离散事件仿真与解析仿真；可行时优先采用数值解而非仿真",
+   "cls": "li"
+  },
+  "367e2da80f": {
+   "en": "Complexity dimensions: huge models (100s–1000s of components), user-oriented measures, non-exponential distributions (SMP, MRGP), performability",
+   "zh": "复杂性维度：庞大的模型（100–1000 个以上组件）、面向用户的度量、非指数分布（SMP、MRGP）、可表现性",
+   "cls": "li"
+  },
+  "37dc80a650": {
+   "en": "Methods & state-space explosion",
+   "zh": "方法与状态空间爆炸",
+   "cls": "span.lbl"
+  },
+  "45e9399224": {
+   "en": "Simple methods (RBD, fault trees, reliability graphs) assume independence — fast but miss dependencies (shared repair, spares, imperfect coverage)",
+   "zh": "简单方法（RBD、故障树、可靠性图）假设相互独立——速度快，但会漏掉依赖关系（共享维修、备件、不完全覆盖）",
+   "cls": "li"
+  },
+  "dc5de467f5": {
+   "en": "State-space methods (DTMC/CTMC, SMP, phase-type) capture dependency but explode; mitigate via hierarchical composition or fixed-point iteration",
+   "zh": "状态空间方法（DTMC/CTMC、SMP、相型分布）能刻画依赖关系，但会爆炸；可通过分层组合或不动点迭代缓解",
+   "cls": "li"
+  },
+  "726f6c9449": {
+   "en": "Case study — IBM HA SIP",
+   "zh": "案例研究 — IBM HA SIP",
+   "cls": "span.lbl"
+  },
+  "27425fb495": {
+   "en": "A high-availability SIP system on IBM BladeCenter + WebSphere for a telco customer",
+   "zh": "为电信客户在 IBM BladeCenter + WebSphere 上构建的高可用 SIP 系统",
+   "cls": "li"
+  },
+  "aaf696506c": {
+   "en": "Quantify steady-state availability and a user-oriented DPM (defects-per-million) metric",
+   "zh": "量化稳态可用性和面向用户的 DPM（每百万缺陷数）指标",
+   "cls": "li"
+  },
+  "c105c6f331": {
+   "en": "Quantitative dependability assessment — data-driven and model-driven paths to a numerical reliability solution.",
+   "zh": "定量可依赖性评估——通过数据驱动和模型驱动两条路径得到数值化的可靠性解。",
+   "cls": "figcaption"
+  },
+  "6c09062f55": {
+   "en": "Early Detection of Degraded Systems: Self-Healing with Time Delay",
+   "zh": "Early Detection of Degraded Systems: Self-Healing with Time Delay",
+   "cls": "attr:data-toc"
+  },
+  "fa7a749ad3": {
+   "en": "{1}Hoang Pham{/1} · Rutgers University",
+   "zh": "{1}Hoang Pham{/1} · Rutgers University",
+   "cls": "div.byline"
+  },
+  "320de0c8a6": {
+   "en": "Why degradation matters",
+   "zh": "退化为何重要",
+   "cls": "span.lbl"
+  },
+  "c4dddc1c0f": {
+   "en": "Many systems degrade rather than fail outright; the danger is a degraded-but-undetected state revealed only after a random delay",
+   "zh": "许多系统是逐渐退化而不是直接失效；危险在于处于退化但未被检测到的状态，只有经过随机延迟后才会暴露",
+   "cls": "li"
+  },
+  "c9e2389d6a": {
+   "en": "Scale: a 10,000-machine data center sees ~1,000 crashes/day; ~4% of machines hit undetected errors (Google)",
+   "zh": "规模：一个 10,000 台机器的数据中心每天约有 1,000 次崩溃；约 4% 的机器遇到未被检测到的错误（Google）",
+   "cls": "li"
+  },
+  "40dd9ee35d": {
+   "en": "Reliability model with delay",
+   "zh": "带延迟的可靠性模型",
+   "cls": "span.lbl"
+  },
+  "d85071b63a": {
+   "en": "Reliability R(t) = P1(t) + P2(t): operating normally OR degraded-but-undetected; availability sums the available states",
+   "zh": "可靠性 R(t) = P1(t) + P2(t)：正常运行，或处于退化但未被检测的状态；可用性是各可用状态之和",
+   "cls": "li"
+  },
+  "b4f0934d60": {
+   "en": "A self-healing / self-repair state diagram with delayed, dependent transitions (Pham, IEEE Trans. Reliability, 2024)",
+   "zh": "带有延迟、相互依赖转移的自修复 / 自我修复状态图（Pham，IEEE Trans. Reliability，2024）",
+   "cls": "li"
+  },
+  "a965375725": {
+   "en": "A biological analogue",
+   "zh": "一个生物学类比",
+   "cls": "span.lbl"
+  },
+  "bd5fb71e39": {
+   "en": "Models Healthy cells (H), Infected cells (I) and Virus (V) with delayed transitions — a self-healing analogy",
+   "zh": "用带延迟的转移为健康细胞（H）、感染细胞（I）和病毒（V）建模——一种自修复类比",
+   "cls": "li"
+  },
+  "deed8fc279": {
+   "en": "A self-healing / self-repair state diagram with delayed, dependent degradation and recovery transitions.",
+   "zh": "带有延迟、相互依赖的退化与恢复转移的自修复 / 自我修复状态图。",
+   "cls": "figcaption"
+  },
+  "dd134a8cf5": {
+   "en": "Combinatorial Testing for Complex Systems",
+   "zh": "Combinatorial Testing for Complex Systems",
+   "cls": "attr:data-toc"
+  },
+  "b3484f57ef": {
+   "en": "{1}W. Eric Wong{/1} · University of Texas at Dallas",
+   "zh": "{1}W. Eric Wong{/1} · University of Texas at Dallas",
+   "cls": "div.byline"
+  },
+  "37b22064d3": {
+   "en": "Method: CT + RBD + BVA",
+   "zh": "方法：CT + RBD + BVA",
+   "cls": "span.lbl"
+  },
+  "5fe35225de": {
+   "en": "Security attributes differ from reliability (vulnerability vs probability of failure-free operation)",
+   "zh": "安全属性不同于可靠性（脆弱性与无故障运行概率）",
+   "cls": "li"
+  },
+  "951efdf3dd": {
+   "en": "Combine Combinatorial Testing with Reliability-Block-Diagram structure and Boundary Value Analysis to generate efficient test cases",
+   "zh": "将组合测试与可靠性框图结构和边界值分析相结合，生成高效的测试用例",
+   "cls": "li"
+  },
+  "612e12d292": {
+   "en": "Results",
+   "zh": "结果",
+   "cls": "span.lbl"
+  },
+  "c42da18173": {
+   "en": "Across packages, combinatorial coverage finds more — and different — bugs with fewer test cases than exhaustive runs",
+   "zh": "在各个软件包上，组合覆盖比穷举运行用更少的测试用例发现更多且不同的缺陷",
+   "cls": "li"
+  },
+  "7630aef2df": {
+   "en": "Claimed ~50% less development and ~90% less maintenance effort for autonomous-system assurance",
+   "zh": "据称自主系统保障的开发工作量减少约 50%，维护工作量减少约 90%",
+   "cls": "li"
+  },
+  "5d092c61cd": {
+   "en": "Depends on the input model",
+   "zh": "取决于输入模型",
+   "cls": "span.lbl"
+  },
+  "8bcca5ae7b": {
+   "en": "Effectiveness hinges on input-space model quality: number of parameters, values per parameter, cases generated, bugs detected",
+   "zh": "效果取决于输入空间模型的质量：参数个数、每个参数的取值数、生成的用例数、检出的缺陷数",
+   "cls": "li"
+  },
+  "6ad9f3e53a": {
+   "en": "AV example: primary vs backup sensors, emergency braking, ‘abnormal sensor’ cases, sun glare, and expansion paths",
+   "zh": "自动驾驶示例：主传感器与备用传感器、紧急制动、‘传感器异常’场景、太阳眩光以及扩展路径",
+   "cls": "li"
+  },
+  "b9e0fcbcbb": {
+   "en": "Combinatorial-testing bug-detection results — fewer test cases catching more (and different) bugs.",
+   "zh": "组合测试的缺陷检测结果——用更少的测试用例发现更多（且不同的）缺陷。",
+   "cls": "figcaption"
+  },
+  "e186d2cfb1": {
+   "en": "Trusted AI & Probabilistic Model Checking",
+   "zh": "Trusted AI & Probabilistic Model Checking",
+   "cls": "attr:data-toc"
+  },
+  "8b2ed34de5": {
+   "en": "{1}Jin-Song Dong{/1} · National University of Singapore",
+   "zh": "{1}Jin-Song Dong{/1} · National University of Singapore",
+   "cls": "div.byline"
+  },
+  "7b9ffed206": {
+   "en": "AI failures → formal methods",
+   "zh": "AI 失败 → 形式化方法",
+   "cls": "span.lbl"
+  },
+  "c349ce4528": {
+   "en": "AI has big wins but costly, unexplained failures (Knight Capital, Microsoft Tay, Tesla/Amazon incidents)",
+   "zh": "AI 成果显著，但失败代价高昂且无法解释（Knight Capital、Microsoft Tay、Tesla / Amazon 事件）",
+   "cls": "li"
+  },
+  "fb6be23a11": {
+   "en": "Model checking works: 2007 ACM Turing Award; Microsoft SLAM finds Windows driver bugs; the PAT toolkit has 400k+ downloads",
+   "zh": "模型检测行之有效：2007 年 ACM 图灵奖；Microsoft SLAM 发现 Windows 驱动程序缺陷；PAT 工具包下载量超过 400k",
+   "cls": "li"
+  },
+  "17aee5b92e": {
+   "en": "Probabilistic model checking",
+   "zh": "概率模型检测",
+   "cls": "span.lbl"
+  },
+  "469d336580": {
+   "en": "PMC computes system reliability from component reliability; here applied to sports-winning probability",
+   "zh": "PMC 由组件可靠性计算系统可靠性；此处应用于体育比赛的获胜概率",
+   "cls": "li"
+  },
+  "25bf2de5ef": {
+   "en": "‘Tennis strategy is an MDP’ (ICDCS 2015): compute winning probability and the optimal strategy",
+   "zh": "‘网球策略是一个 MDP’（ICDCS 2015）：计算获胜概率和最优策略",
+   "cls": "li"
+  },
+  "3ced48c185": {
+   "en": "LLMs in the loop",
+   "zh": "LLM 在回路中",
+   "cls": "span.lbl"
+  },
+  "86c4e7340f": {
+   "en": "A GPT-4 sports-analytics pipeline: video statistics → vision-language extraction → model processor → outcome prediction and strategy",
+   "zh": "一条 GPT-4 体育分析流水线：视频统计 → 视觉语言提取 → 模型处理器 → 结果预测与策略",
+   "cls": "li"
+  },
+  "503becfc2d": {
+   "en": "An LLM / GPT-4 sports-analytics pipeline: video statistics → extraction → model → winning probability & strategy.",
+   "zh": "一条 LLM / GPT-4 体育分析流水线：视频统计 → 提取 → 模型 → 获胜概率与策略。",
+   "cls": "figcaption"
+  },
+  "5df6c493a7": {
+   "en": "From Trustworthy Systems to Trustworthy AI",
+   "zh": "From Trustworthy Systems to Trustworthy AI",
+   "cls": "attr:data-toc"
+  },
+  "8203d31fa6": {
+   "en": "{1}Xin Yao{/1} · trustworthy & evolutionary AI",
+   "zh": "{1}Xin Yao{/1} · 可信与进化式 AI",
+   "cls": "div.byline"
+  },
+  "7102830bbf": {
+   "en": "Trust & requirements",
+   "zh": "信任与需求",
+   "cls": "span.lbl"
+  },
+  "84baf8c5c7": {
+   "en": "Trust and trustworthiness are asymmetrically bidirectional, context-dependent and learnable",
+   "zh": "信任与可信赖性是不对称的双向关系，依赖于情境，并且可以学习",
+   "cls": "li"
+  },
+  "ee33e3bef6": {
+   "en": "Six attributes of trustworthy systems: resilience, security, privacy, safety, reliability, availability",
+   "zh": "可信赖系统的六项属性：韧性、安全性（security）、隐私、安全性（safety）、可靠性、可用性",
+   "cls": "li"
+  },
+  "5de2d16c52": {
+   "en": "Trustworthy & fair AI",
+   "zh": "可信与公平 AI",
+   "cls": "span.lbl"
+  },
+  "6553fb5d1e": {
+   "en": "AI ethics is hierarchical (individual / society / environment); map each principle to a technique — transparency→explainable AI, fairness→fair AI, non-maleficence→safe/robust AI, privacy→federated/differential learning",
+   "zh": "AI 伦理是分层的（个人 / 社会 / 环境）；将每项原则对应到一种技术——透明性→可解释 AI，公平性→公平 AI，不作恶→安全 / 鲁棒 AI，隐私→联邦 / 差分学习",
+   "cls": "li"
+  },
+  "f1c7b298f9": {
+   "en": "20+ fairness metrics in five families; feature-attribution explanations judged by faithfulness, sensitivity and complexity",
+   "zh": "5 大类共 20 多种公平性度量；特征归因解释按忠实性、敏感性和复杂度来评判",
+   "cls": "li"
+  },
+  "33182d46cf": {
+   "en": "An evolutionary approach",
+   "zh": "一种进化式方法",
+   "cls": "span.lbl"
+  },
+  "8a579d5f9b": {
+   "en": "A multi-objective evolutionary method (MOFAE) optimizes explanations across metrics; evolutionary constrained learning regulates ML behavior",
+   "zh": "一种多目标进化方法（MOFAE）在多个度量上优化解释；进化式约束学习用于调控 ML 行为",
+   "cls": "li"
+  },
+  "4506f65bac": {
+   "en": "Evolutionary computation is a promising engine for fair, explainable and safe AI",
+   "zh": "进化计算是实现公平、可解释和安全 AI 的有前景的引擎",
+   "cls": "li"
+  },
+  "ed42fe89ae": {
+   "en": "AI ethics as a hierarchical, multi-dimensional map from principles to research directions.",
+   "zh": "AI 伦理：从原则到研究方向的分层、多维图谱。",
+   "cls": "figcaption"
+  },
+  "7310657bd7": {
+   "en": "Data-centric Quality Assurance for AI & LLM Systems",
+   "zh": "Data-centric Quality Assurance for AI & LLM Systems",
+   "cls": "attr:data-toc"
+  },
+  "1bd944f6d4": {
+   "en": "{1}Fujitsu / SEI{/1} · data-centric AI quality assurance",
+   "zh": "{1}Fujitsu / SEI{/1} · 以数据为中心的 AI 质量保证",
+   "cls": "div.byline"
+  },
+  "2fb8284084": {
+   "en": "A new AI-system paradigm",
+   "zh": "一种新的 AI 系统范式",
+   "cls": "span.lbl"
+  },
+  "eee5821fe7": {
+   "en": "Modern AI systems combine 30+ AI models and 50+ traditional components (e.g. STT → NLP intent → response generation → TTS); a ‘Universal AI-CPS’ on NVIDIA Omniverse",
+   "zh": "现代 AI 系统结合了 30 多个 AI 模型和 50 多个传统组件（例如 STT → NLP 意图 → 响应生成 → TTS）；基于 NVIDIA Omniverse 的 ‘Universal AI-CPS’",
+   "cls": "li"
+  },
+  "bbb9b8c49e": {
+   "en": "ISR-LLM: an iterative self-refined LLM for long-horizon task planning (ICRA 2024)",
+   "zh": "ISR-LLM：用于长时程任务规划的迭代自我精炼 LLM（ICRA 2024）",
+   "cls": "li"
+  },
+  "7dbbe674e7": {
+   "en": "Behavior is learned, not specified → explainability is key and new QA methods are needed",
+   "zh": "行为是学习得到的，而非预先规定的 → 可解释性至关重要，需要新的质量保证方法",
+   "cls": "li"
+  },
+  "0338387615": {
+   "en": "Three core directions",
+   "zh": "三个核心方向",
+   "cls": "span.lbl"
+  },
+  "aba9c81fb9": {
+   "en": "Unit level: quality across the ML lifecycle; DeepGauge test-coverage criteria; data-centric out-of-distribution & uncertainty analysis",
+   "zh": "单元层面：贯穿 ML 生命周期的质量；DeepGauge 测试覆盖准则；以数据为中心的分布外与不确定性分析",
+   "cls": "li"
+  },
+  "31ca5186b2": {
+   "en": "System level: quality assurance and reliability support at integration and system stages",
+   "zh": "系统层面：在集成和系统阶段提供质量保证和可靠性支持",
+   "cls": "li"
+  },
+  "eb77451739": {
+   "en": "Human-centered, explainable MLSysOps across data, model, code and system",
+   "zh": "跨数据、模型、代码和系统的以人为中心、可解释的 MLSysOps",
+   "cls": "li"
+  },
+  "e3e1412775": {
+   "en": "GenAI / LLM assurance",
+   "zh": "GenAI / LLM 保障",
+   "cls": "span.lbl"
+  },
+  "e9c6bc4626": {
+   "en": "LLM trustworthiness is at a very early stage; internals are hard to test and debug",
+   "zh": "LLM 的可信赖性尚处于非常早期的阶段；其内部机制难以测试和调试",
+   "cls": "li"
+  },
+  "0a0da43ac0": {
+   "en": "Tools: the LUNA model-analysis framework; LLM-agent orchestration decomposed into Profile, Memory, Planning and Action",
+   "zh": "工具：LUNA 模型分析框架；将大语言模型智能体编排分解为 Profile、Memory、Planning 和 Action",
+   "cls": "li"
+  },
+  "5617632fed": {
+   "en": "LLM-agent orchestration as a complex system — Profile, Memory, Planning and Action modules.",
+   "zh": "作为复杂系统的大语言模型智能体编排——Profile、Memory、Planning 和 Action 模块。",
+   "cls": "figcaption"
+  },
+  "75ec31b460": {
+   "en": "System Science & Autonomous AI Systems",
+   "zh": "System Science & Autonomous AI Systems",
+   "cls": "attr:data-toc"
+  },
+  "86315e63f3": {
+   "en": "{1}Yingxu Wang{/1} · University of Calgary",
+   "zh": "{1}Yingxu Wang{/1} · University of Calgary",
+   "cls": "div.byline"
+  },
+  "778cb39199": {
+   "en": "A hyperstructural model",
+   "zh": "一种超结构模型",
+   "cls": "span.lbl"
+  },
+  "3674ec02f3": {
+   "en": "A formal abstract system S ≜ (C, B, Rᶜ, Rᵇ, Rᶠ, Rⁱ, Rᵒ): components, behaviors and internal/external relation sets",
+   "zh": "形式化抽象系统 S ≜ (C, B, Rᶜ, Rᵇ, Rᶠ, Rⁱ, Rᵒ)：组件、行为以及内部 / 外部关系集",
+   "cls": "li"
+  },
+  "6be8400bf2": {
+   "en": "Abstract intelligence transfers information / knowledge into behavior",
+   "zh": "抽象智能将信息 / 知识转化为行为",
+   "cls": "li"
+  },
+  "f5446c9e4d": {
+   "en": "Autonomy classification",
+   "zh": "自主性分类",
+   "cls": "span.lbl"
+  },
+  "9565e52263": {
+   "en": "System autonomy by cognitive × behavioral axes: reflexive, imperative, adaptive, autonomous — autonomous intelligence is the 4th (quaternary) level",
+   "zh": "按认知 × 行为两个维度划分的系统自主性：反射式、命令式、自适应、自主——自主智能是第 4 级（四元）水平",
+   "cls": "li"
+  },
+  "fda3f3f4e2": {
+   "en": "Machine thinking via LRMB (Layered Reference Model of the Brain): sensation, action, perception, memory, cognition, inference, intelligence",
+   "zh": "通过 LRMB（Layered Reference Model of the Brain，大脑分层参考模型）实现机器思维：感觉、行动、感知、记忆、认知、推断、智能",
+   "cls": "li"
+  },
+  "6fa1284c60": {
+   "en": "Trustworthiness of autonomous systems",
+   "zh": "自主系统的可信赖性",
+   "cls": "span.lbl"
+  },
+  "a9b6085835": {
+   "en": "A tripartite model: structural, behavioral and dynamic trustworthiness",
+   "zh": "一种三方模型：结构可信赖性、行为可信赖性和动态可信赖性",
+   "cls": "li"
+  },
+  "6a03961dfa": {
+   "en": "A formal model links levels of system intelligence by inclusion",
+   "zh": "一个形式化模型通过包含关系把各级系统智能联系起来",
+   "cls": "li"
+  },
+  "98146c5b8f": {
+   "en": "The tripartite model of autonomous-system trustworthiness — structural, behavioral, dynamic.",
+   "zh": "自主系统可信赖性的三方模型——结构、行为、动态。",
+   "cls": "figcaption"
+  },
+  "ba5321e2cd": {
+   "en": "Ensuring Reliability of Autonomous Vehicular Systems",
+   "zh": "Ensuring Reliability of Autonomous Vehicular Systems",
+   "cls": "attr:data-toc"
+  },
+  "6de3b4dadb": {
+   "en": "{1}Jianping Wang{/1} · City University of Hong Kong",
+   "zh": "{1}Jianping Wang{/1} · City University of Hong Kong",
+   "cls": "div.byline"
+  },
+  "19c4f2a4bb": {
+   "en": "Architecture & vulnerabilities",
+   "zh": "架构与脆弱性",
+   "cls": "span.lbl"
+  },
+  "0ad1bbc25e": {
+   "en": "The AD stack on a driving OS (Apollo 3.5/5.0): perception → localization → prediction → planning → control",
+   "zh": "运行在驾驶操作系统上的自动驾驶栈（Apollo 3.5/5.0）：感知 → 定位 → 预测 → 规划 → 控制",
+   "cls": "li"
+  },
+  "5fd71ca1d8": {
+   "en": "Vulnerabilities: perception-model uncertainty, dynamic per-module compute time, and adverse weather (fog/rain/snow degrade cameras, LiDAR and comms)",
+   "zh": "脆弱性：感知模型的不确定性、各模块动态变化的计算时间，以及恶劣天气（雾 / 雨 / 雪会削弱摄像头、LiDAR 和通信）",
+   "cls": "li"
+  },
+  "75464e4072": {
+   "en": "Countermeasures by layer",
+   "zh": "按层划分的应对措施",
+   "cls": "span.lbl"
+  },
+  "4abf6dddcf": {
+   "en": "Hardware limits → edge computing; software (model uncertainty, timing) → digital twins & cooperative sensing",
+   "zh": "硬件限制 → 边缘计算；软件（模型不确定性、时序）→ 数字孪生与协同感知",
+   "cls": "li"
+  },
+  "469b029589": {
+   "en": "Attacks (physical / adversarial / cyber) → robust driving; adverse weather → robust V2X",
+   "zh": "攻击（物理 / 对抗 / 网络）→ 鲁棒驾驶；恶劣天气 → 鲁棒 V2X",
+   "cls": "li"
+  },
+  "88497b327e": {
+   "en": "Robust driving & scheduling",
+   "zh": "鲁棒驾驶与调度",
+   "cls": "span.lbl"
+  },
+  "869dd6cb6d": {
+   "en": "Adversarial-attack-aware motion planning stays safe where naive planning fails; multi-agent prediction + camera/LiDAR/radar fusion handle occlusion",
+   "zh": "具备对抗攻击感知能力的运动规划在朴素规划失效的情况下仍保持安全；多智能体预测 + 摄像头 / LiDAR / 雷达融合可应对遮挡",
+   "cls": "li"
+  },
+  "65ca06e27f": {
+   "en": "Onboard scheduling uses an Age-of-Information metric and an RL agent (reward ∝ 1/AoI), improving miss ratio and response vs Apollo baselines",
+   "zh": "车载调度使用信息年龄（Age-of-Information）指标和 RL 智能体（奖励 ∝ 1/AoI），相比 Apollo 基线改善了错过率和响应",
+   "cls": "li"
+  },
+  "a90a4ec4f8": {
+   "en": "Countermeasures mapped to AV vulnerabilities — edge computing, digital twins, cooperative sensing, robust V2X.",
+   "zh": "与自动驾驶车辆脆弱性对应的应对措施——边缘计算、数字孪生、协同感知、鲁棒 V2X。",
+   "cls": "figcaption"
+  },
+  "1aa79f5343": {
+   "en": "Safe Learning for Autonomous Systems",
+   "zh": "Safe Learning for Autonomous Systems",
+   "cls": "attr:data-toc"
+  },
+  "51aaebd9ba": {
+   "en": "{1}Naira Hovakimyan{/1} · University of Illinois Urbana-Champaign",
+   "zh": "{1}Naira Hovakimyan{/1} · University of Illinois Urbana-Champaign",
+   "cls": "div.byline"
+  },
+  "5abe8aac74": {
+   "en": "Control theory vs ML",
+   "zh": "控制理论与 ML",
+   "cls": "span.lbl"
+  },
+  "30f632b623": {
+   "en": "Safety-critical systems need guarantees because failures can be deadly; safely obtaining training data is hard",
+   "zh": "安全关键系统需要保证，因为失效可能致命；而安全地获取训练数据很困难",
+   "cls": "li"
+  },
+  "cb45417387": {
+   "en": "Control-theoretic tools (structured, deterministic) are strong on safety/robustness; ML tools (general, stochastic) are strong on empirical performance",
+   "zh": "控制理论工具（结构化、确定性）在安全 / 鲁棒性上很强；ML 工具（通用、随机性）在经验性能上很强",
+   "cls": "li"
+  },
+  "efefdf4329": {
+   "en": "Distributional robustness",
+   "zh": "分布鲁棒性",
+   "cls": "span.lbl"
+  },
+  "0da918c136": {
+   "en": "Train-vs-real distribution shift can break the control objective; control the size of the guaranteed set, or be agnostic to the training distribution",
+   "zh": "训练与真实分布之间的偏移可能破坏控制目标；可控制有保证集合的大小，或对训练分布保持无关",
+   "cls": "li"
+  },
+  "868e558f06": {
+   "en": "Distributionally robust optimization with finite samples; verified by Monte-Carlo; incremental stochastic stability",
+   "zh": "有限样本下的分布鲁棒优化；通过蒙特卡洛验证；增量随机稳定性",
+   "cls": "li"
+  },
+  "0f41d0e84b": {
+   "en": "L1 adaptive control + learning",
+   "zh": "L1 自适应控制 + 学习",
+   "cls": "span.lbl"
+  },
+  "e5abaea1f0": {
+   "en": "L1 adaptive control gives guaranteed uniform performance bounds, decoupling estimation from control (small-gain + Lyapunov)",
+   "zh": "L1 自适应控制给出有保证的一致性能界，将估计与控制解耦（小增益 + Lyapunov）",
+   "cls": "li"
+  },
+  "6a21b98035": {
+   "en": "Commercialized with NASA, Caterpillar and JOUAV; extended via contraction metrics, L1-MPC, and contraction-L1 with Gaussian-process learning",
+   "zh": "已与 NASA、Caterpillar 和 JOUAV 合作实现商业化；并通过收缩度量、L1-MPC 以及结合高斯过程学习的 contraction-L1 得到扩展",
+   "cls": "li"
+  },
+  "196e59dc11": {
+   "en": "Control-theoretic tools (safety & robustness) versus data-driven ML tools (empirical performance).",
+   "zh": "控制理论工具（安全与鲁棒性）与数据驱动的 ML 工具（经验性能）的对比。",
+   "cls": "figcaption"
+  },
+  "86dcc069b2": {
+   "en": "Digital Twins for Complex Systems",
+   "zh": "Digital Twins for Complex Systems",
+   "cls": "attr:data-toc"
+  },
+  "89c6ccb8bc": {
+   "en": "{1}Ajith Parlikad{/1} · University of Cambridge",
+   "zh": "{1}Ajith Parlikad{/1} · University of Cambridge",
+   "cls": "div.byline"
+  },
+  "c352b62c26": {
+   "en": "What a digital twin is",
+   "zh": "什么是数字孪生",
+   "cls": "span.lbl"
+  },
+  "d2bcdc31e1": {
+   "en": "An integrated multi-physics, multi-scale, probabilistic simulation updated by sensors (NASA 2012); a digital replica that improves decision-making (CDBB 2018)",
+   "zh": "由传感器更新的集成式多物理场、多尺度、概率仿真（NASA 2012）；能改进决策的数字副本（CDBB 2018）",
+   "cls": "li"
+  },
+  "ae8228d084": {
+   "en": "A twin should see, learn, think, act, communicate, cooperate and achieve",
+   "zh": "孪生体应当能看、学、思、行、沟通、协作并达成目标",
+   "cls": "li"
+  },
+  "c1083a918b": {
+   "en": "Collaborative twins",
+   "zh": "协作式孪生体",
+   "cls": "span.lbl"
+  },
+  "38002692f5": {
+   "en": "Connected assets help each other ‘in times of trouble’ via shared information / computation — faster, coordinated recovery",
+   "zh": "互联资产通过共享信息 / 计算在‘危难之时’互相帮助——更快、更协调的恢复",
+   "cls": "li"
+  },
+  "91771d3683": {
+   "en": "Spans robotics, AI, V2X, perception and blockchain across cyber-physical and cyber-cyber systems",
+   "zh": "涵盖机器人、AI、V2X、感知和区块链，跨越信息物理系统与信息—信息系统",
+   "cls": "li"
+  },
+  "917f3ee1ec": {
+   "en": "Real cases",
+   "zh": "真实案例",
+   "cls": "span.lbl"
+  },
+  "b782e1de12": {
+   "en": "Japan’s FUKUI self-driving public transit; an Oct 2023 incident where an AV failed to stop and collided, triggering new safety measures",
+   "zh": "日本福井的自动驾驶公共交通；2023 年 10 月一起自动驾驶车辆未能停车并发生碰撞的事故，促使出台新的安全措施",
+   "cls": "li"
+  },
+  "3cedb1d066": {
+   "en": "Collaborative digital twins helping each other recover ‘in times of trouble’.",
+   "zh": "协作式数字孪生在‘危难之时’互相帮助恢复。",
+   "cls": "figcaption"
+  },
+  "ad64116f12": {
+   "en": "Artificial Intuition, Research Portfolios & Decision Systems",
+   "zh": "Artificial Intuition, Research Portfolios & Decision Systems",
+   "cls": "attr:data-toc"
+  },
+  "1f0a18b165": {
+   "en": "{1}Andrea Belz{/1} · research-portfolio analytics",
+   "zh": "{1}Andrea Belz{/1} · 研究组合分析",
+   "cls": "div.byline"
+  },
+  "5601230e87": {
+   "en": "Find the tech before investing",
+   "zh": "投资之前先找到技术",
+   "cls": "span.lbl"
+  },
+  "012ecdf7bc": {
+   "en": "An NLP pipeline compiles and augments abstracts, clusters research portfolios, then evaluates clusters and removes redundancy",
+   "zh": "一条 NLP 流水线汇编并扩充摘要，对研究组合进行聚类，然后评估聚类并去除冗余",
+   "cls": "li"
+  },
+  "5bbb267ae1": {
+   "en": "Pipeline: documents → YAKE keywords → Mistral-7B metadata → Sentence-Transformer embeddings → labeled clusters (optics, flight system, remote sensing…)",
+   "zh": "流水线：文档 → YAKE 关键词 → Mistral-7B 元数据 → Sentence-Transformer 嵌入 → 带标签的聚类（光学、飞行系统、遥感……）",
+   "cls": "li"
+  },
+  "1c110a58a8": {
+   "en": "Choosing the number of clusters",
+   "zh": "选择聚类数量",
+   "cls": "span.lbl"
+  },
+  "eefde838ef": {
+   "en": "Too few clusters = poor coverage; too many = overlap",
+   "zh": "聚类太少 = 覆盖不足；太多 = 重叠",
+   "cls": "li"
+  },
+  "5b4f99c85b": {
+   "en": "A new redundancy measure R = max cosine similarity between label vectors, plotted vs the number of clusters to pick the knee",
+   "zh": "一种新的冗余度量 R = 标签向量之间的最大余弦相似度，随聚类数量作图以选取拐点",
+   "cls": "li"
+  },
+  "c26e86475e": {
+   "en": "Using the labels",
+   "zh": "使用这些标签",
+   "cls": "span.lbl"
+  },
+  "558a2b3fce": {
+   "en": "A k×ĉ coverage matrix yields coverage scores / predicted labels when similarity exceeds a threshold (MMR)",
+   "zh": "k×ĉ 覆盖矩阵在相似度超过阈值（MMR）时给出覆盖分数 / 预测标签",
+   "cls": "li"
+  },
+  "4eb80af20b": {
+   "en": "An NLP portfolio pipeline — YAKE + Mistral-7B + Sentence-Transformer → clustering → coverage labels.",
+   "zh": "一条 NLP 研究组合流水线——YAKE + Mistral-7B + Sentence-Transformer → 聚类 → 覆盖标签。",
+   "cls": "figcaption"
+  },
+  "200d93941a": {
+   "en": "04 · Conclusions",
+   "zh": "04 · 结论",
+   "cls": "div.kicker"
+  },
+  "762a799bdd": {
+   "en": "Synthesis across the workshop",
+   "zh": "整个研讨会的综合",
+   "cls": "h2"
+  },
+  "716f3fa8e1": {
+   "en": "Trends",
+   "zh": "趋势",
+   "cls": "h4"
+  },
+  "25719b91e2": {
+   "en": "Classical dependability tools (RBD, fault trees, Markov chains, combinatorial testing, probabilistic model checking) are being combined with data-driven methods — not replaced.",
+   "zh": "经典可依赖性工具（RBD、故障树、马尔可夫链、组合测试、概率模型检测）正与数据驱动方法结合，而不是被取代。",
+   "cls": "li"
+  },
+  "b7a6a3e6b8": {
+   "en": "Distribution shift and uncertainty quantification recur across the control, testing and LLM talks.",
+   "zh": "分布偏移和不确定性量化反复出现在控制、测试和 LLM 的报告中。",
+   "cls": "li"
+  },
+  "8213b14d35": {
+   "en": "Autonomous driving is the shared case study grounding abstract reliability and safety methods.",
+   "zh": "自动驾驶是共同的案例研究，使抽象的可靠性和安全方法落到实处。",
+   "cls": "li"
+  },
+  "40b0906c4f": {
+   "en": "Vision",
+   "zh": "愿景",
+   "cls": "h4"
+  },
+  "6189da56b1": {
+   "en": "Trustworthiness — resilience, security, privacy, safety, reliability, availability, fairness, explainability — is the gate for deploying AI.",
+   "zh": "可信赖性——韧性、安全性（security）、隐私、安全性（safety）、可靠性、可用性、公平性、可解释性——是部署 AI 的关卡。",
+   "cls": "li"
+  },
+  "8bc3ec7b81": {
+   "en": "Self-aware, cooperative systems: self-healing degradation, cognitive autonomy models, and collaborative digital twins.",
+   "zh": "具备自我感知的协作系统：退化的自修复、认知自主模型，以及协作式数字孪生。",
+   "cls": "li"
+  },
+  "5735bab0f2": {
+   "en": "Formal and guaranteed methods (L1 control, model checking) scaled to data-driven systems.",
+   "zh": "把形式化和有保证的方法（L1 控制、模型检测）扩展到数据驱动系统。",
+   "cls": "li"
+  },
+  "5d8c81594f": {
+   "en": "Implications for us",
+   "zh": "对我们的启示",
+   "cls": "h4"
+  },
+  "7a4e6485cf": {
+   "en": "Treat explainability and formal / guaranteed methods as prerequisites, not add-ons (L1 guarantees, PAT/SLAM, DeepGauge, LUNA).",
+   "zh": "把可解释性以及形式化 / 有保证的方法视为前提，而不是附加项（L1 保证、PAT/SLAM、DeepGauge、LUNA）。",
+   "cls": "li"
+  },
+  "db215bffb3": {
+   "en": "Govern the ML lifecycle with data-centric quality assurance and out-of-distribution analysis.",
+   "zh": "通过以数据为中心的质量保证和分布外分析来治理 ML 生命周期。",
+   "cls": "li"
+  },
+  "b0d88e6399": {
+   "en": "GenAI / LLM assurance is immature — the biggest open frontier is testing agentic systems whose behavior is learned, not specified.",
+   "zh": "GenAI / LLM 保障尚不成熟——最大的未解前沿是测试行为由学习获得而非预先规定的智能体系统。",
+   "cls": "li"
+  },
+  "2b92ebc383": {
+   "en": "05 · References",
+   "zh": "05 · 参考文献",
+   "cls": "div.kicker"
+  },
+  "675f04727d": {
+   "en": "References & sources",
+   "zh": "参考文献与来源",
+   "cls": "h2"
+  },
+  "89959e5d6d": {
+   "en": "© 2026 {1}ALI{/1} — {2}Tech Insight{/2} v1.2.0",
+   "zh": "© 2026 {1}ALI{/1} — {2}Tech Insight{/2} v1.2.0",
+   "cls": "div.site-copyright"
+  },
+  "8fd57e17c1": {
+   "en": "HKSTP 2024 — Systems Engineering Workshop — Tech Insight Report",
+   "zh": "HKSTP 2024 — 系统工程研讨会 — Tech Insight 报告",
+   "cls": "doctitle"
+  },
+  "ee45c30326": {
+   "en": "Report",
+   "zh": "报告",
+   "cls": "div.kicker"
+  },
+  "37a1fa6251": {
+   "en": "HKSTP 2024 — Systems Engineering Workshop",
+   "zh": "HKSTP 2024 — 系统工程研讨会",
+   "cls": "h1"
+  },
+  "ef5eae271d": {
+   "en": "2024 HKSTP Systems Engineering Workshop for Complex Intelligent Systems · Hong Kong Science Park, Hong Kong · May 2024",
+   "zh": "2024 HKSTP Systems Engineering Workshop for Complex Intelligent Systems · 香港科学园，香港 · 2024 年 5 月",
+   "cls": "p.topic"
+  },
+  "13b8fe38a9": {
+   "en": "Workshop",
+   "zh": "研讨会",
+   "cls": "attr:data-toc"
+  },
+  "f5cbdf6bfb": {
+   "en": "Contents",
+   "zh": "目录",
+   "cls": "attr:data-toc"
+  },
+  "b4e6a31089": {
+   "en": "Intro",
+   "zh": "简介",
+   "cls": "attr:data-group"
+  },
+  "e45c8e1311": {
+   "en": "Workshop at a glance",
+   "zh": "研讨会概览",
+   "cls": "attr:data-toc"
+  },
+  "2661f8d890": {
+   "en": "2024 HKSTP Systems Engineering Workshop for Complex Intelligent Systems — Hong Kong Science Park, Hong Kong",
+   "zh": "2024 HKSTP Systems Engineering Workshop for Complex Intelligent Systems — 香港科学园，香港",
+   "cls": "h2"
+  },
+  "20576a5470": {
+   "en": "Insight 01 · Dependability & reliability modeling",
+   "zh": "洞察 01 · 可依赖性与可靠性建模",
+   "cls": "div.kicker"
+  },
+  "f6e3b78711": {
+   "en": "Insight 02 · Dependability & reliability modeling",
+   "zh": "洞察 02 · 可依赖性与可靠性建模",
+   "cls": "div.kicker"
+  },
+  "7a48d3a28c": {
+   "en": "Insight 03 · Testing, verification & formal methods",
+   "zh": "洞察 03 · 测试、验证与形式化方法",
+   "cls": "div.kicker"
+  },
+  "77502c1ff8": {
+   "en": "Insight 04 · Testing, verification & formal methods",
+   "zh": "洞察 04 · 测试、验证与形式化方法",
+   "cls": "div.kicker"
+  },
+  "bd532a2764": {
+   "en": "Insight 05 · Trustworthy & cognitive AI",
+   "zh": "洞察 05 · 可信与认知 AI",
+   "cls": "div.kicker"
+  },
+  "b30f4cda1c": {
+   "en": "Insight 06 · Trustworthy & cognitive AI",
+   "zh": "洞察 06 · 可信与认知 AI",
+   "cls": "div.kicker"
+  },
+  "8e0737a875": {
+   "en": "Insight 07 · Trustworthy & cognitive AI",
+   "zh": "洞察 07 · 可信与认知 AI",
+   "cls": "div.kicker"
+  },
+  "707c9c3064": {
+   "en": "Insight 08 · Autonomous systems in the real world",
+   "zh": "洞察 08 · 真实世界中的自主系统",
+   "cls": "div.kicker"
+  },
+  "c218f4c49c": {
+   "en": "Insight 09 · Autonomous systems in the real world",
+   "zh": "洞察 09 · 真实世界中的自主系统",
+   "cls": "div.kicker"
+  },
+  "c00836fe5e": {
+   "en": "Insight 10 · Autonomous systems in the real world",
+   "zh": "洞察 10 · 真实世界中的自主系统",
+   "cls": "div.kicker"
+  },
+  "3bc2ece12e": {
+   "en": "Insight 11 · Autonomous systems in the real world",
+   "zh": "洞察 11 · 真实世界中的自主系统",
+   "cls": "div.kicker"
+  },
+  "b536777ff1": {
+   "en": "Conclusions",
+   "zh": "结论",
+   "cls": "attr:data-toc"
+  },
+  "322805c821": {
+   "en": "<div class=\"fit\"><div class=\"concl\"><div class=\"col c1\"><h4>Trends</h4><ul><li>Classical dependability tools (RBD, fault trees, Markov chains, combinatorial testing, probabilistic model checking) are being combined with data-driven methods — not replaced.</li><li>Distribution shift and uncertainty quantification recur across the control, testing and LLM talks.</li><li>Autonomous driving is the shared case study grounding abstract reliability and safety methods.</li></ul></div><div class=\"col c2\"><h4>Vision</h4><ul><li>Trustworthiness — resilience, security, privacy, safety, reliability, availability, fairness, explainability — is the gate for deploying AI.</li><li>Self-aware, cooperative systems: self-healing degradation, cognitive autonomy models, and collaborative digital twins.</li><li>Formal and guaranteed methods (L1 control, model checking) scaled to data-driven systems.</li></ul></div><div class=\"col c3\"><h4>Implications for us</h4><ul><li>Treat explainability and formal / guaranteed methods as prerequisites, not add-ons (L1 guarantees, PAT/SLAM, DeepGauge, LUNA).</li><li>Govern the ML lifecycle with data-centric quality assurance and out-of-distribution analysis.</li><li>GenAI / LLM assurance is immature — the biggest open frontier is testing agentic systems whose behavior is learned, not specified.</li></ul></div></div></div>",
+   "zh": "<div class=\"fit\"><div class=\"concl\"><div class=\"col c1\"><h4>趋势</h4><ul><li>经典可依赖性工具（RBD、故障树、马尔可夫链、组合测试、概率模型检测）正与数据驱动方法结合，而不是被取代。</li><li>分布偏移和不确定性量化反复出现在控制、测试和 LLM 的报告中。</li><li>自动驾驶是共同的案例研究，使抽象的可靠性和安全方法落到实处。</li></ul></div><div class=\"col c2\"><h4>愿景</h4><ul><li>可信赖性——韧性、安全性（security）、隐私、安全性（safety）、可靠性、可用性、公平性、可解释性——是部署 AI 的关卡。</li><li>具备自我感知的协作系统：退化的自修复、认知自主模型，以及协作式数字孪生。</li><li>把形式化和有保证的方法（L1 控制、模型检测）扩展到数据驱动系统。</li></ul></div><div class=\"col c3\"><h4>对我们的启示</h4><ul><li>把可解释性以及形式化 / 有保证的方法视为前提，而不是附加项（L1 保证、PAT/SLAM、DeepGauge、LUNA）。</li><li>通过以数据为中心的质量保证和分布外分析来治理 ML 生命周期。</li><li>GenAI / LLM 保障尚不成熟——最大的未解前沿是测试行为由学习获得而非预先规定的智能体系统。</li></ul></div></div></div>",
+   "cls": "section.slide"
+  },
+  "fa39f733bd": {
+   "en": "Wrap-up",
+   "zh": "总结",
+   "cls": "attr:data-group"
+  },
+  "b2ec1abf35": {
+   "en": "Contents (T)",
+   "zh": "目录 (T)",
+   "cls": "button.toc-btn"
+  },
+  "93109b7dbc": {
+   "en": "HKSTP 2024 — Systems Engineering Workshop — Tech Insight Slides",
+   "zh": "HKSTP 2024 — 系统工程研讨会 — Tech Insight 幻灯片",
+   "cls": "doctitle"
+  },
+  "4718b93d9d": {
+   "en": "Tech Insight",
+   "zh": "Tech Insight",
+   "cls": "pptx"
+  },
+  "88aa4763ef": {
+   "en": "Tech Insight Report",
+   "zh": "Tech Insight 报告",
+   "cls": "pptx"
+  },
+  "608dec2d5c": {
+   "en": "Hong Kong Science Park, Hong Kong · May 2024",
+   "zh": "香港科学园，香港 · 2024 年 5 月",
+   "cls": "pptx"
+  },
+  "d219c68101": {
+   "en": "Location",
+   "zh": "地点",
+   "cls": "pptx"
+  },
+  "3a16c4806b": {
+   "en": "Hong Kong Science Park, Hong Kong",
+   "zh": "香港科学园，香港",
+   "cls": "pptx"
+  },
+  "eb9a4bc1c0": {
+   "en": "Date",
+   "zh": "日期",
+   "cls": "pptx"
+  },
+  "a4fd8dee38": {
+   "en": "May 2024",
+   "zh": "2024 年 5 月",
+   "cls": "pptx"
+  },
+  "fe7f55b8bf": {
+   "en": "Focus",
+   "zh": "主题",
+   "cls": "pptx"
+  },
+  "eb97f10f3b": {
+   "en": "Dependability & Trustworthiness of Complex Intelligent Systems",
+   "zh": "复杂智能系统的可依赖性与可信赖性",
+   "cls": "pptx"
+  },
+  "c7fb4a1c86": {
+   "en": "CONTENTS",
+   "zh": "目录",
+   "cls": "pptx"
+  },
+  "e9681cbeab": {
+   "en": "WORKSHOP AT A GLANCE",
+   "zh": "研讨会概览",
+   "cls": "pptx"
+  },
+  "2f488ffc82": {
+   "en": "Hong Kong",
+   "zh": "香港",
+   "cls": "pptx"
+  },
+  "b8f53fa43e": {
+   "en": "HKSTP",
+   "zh": "HKSTP",
+   "cls": "pptx"
+  },
+  "d47297fa68": {
+   "en": "organizer",
+   "zh": "主办方",
+   "cls": "pptx"
+  },
+  "f151a12fbb": {
+   "en": "11 talks",
+   "zh": "11 场报告",
+   "cls": "pptx"
+  },
+  "b60b724a2a": {
+   "en": "deep-dived here",
+   "zh": "在此深入解读",
+   "cls": "pptx"
+  },
+  "96b9baf3a9": {
+   "en": "Dependable AI",
+   "zh": "可依赖 AI",
+   "cls": "pptx"
+  },
+  "58593fe5a5": {
+   "en": "the theme",
+   "zh": "主题",
+   "cls": "pptx"
+  },
+  "441cd4f954": {
+   "en": "About: Hosted by Hong Kong Science & Technology Parks (HKSTP), the workshop gathered systems- and software-engineering researchers on making complex intelligent systems dependable and trustworthy.",
+   "zh": "简介：研讨会由香港科技园公司（HKSTP）主办，汇聚系统工程与软件工程领域的研究者，探讨如何让复杂智能系统可依赖、可信赖。",
+   "cls": "pptx"
+  },
+  "92b2173a39": {
+   "en": "INSIGHT 01 · Dependability & reliability modeling",
+   "zh": "洞察 01 · 可依赖性与可靠性建模",
+   "cls": "pptx"
+  },
+  "4e7c748e5e": {
+   "en": "Dependability modeling · RBD · fault trees · Markov chains",
+   "zh": "可依赖性建模 · RBD · 故障树 · 马尔可夫链",
+   "cls": "pptx"
+  },
+  "5109adf862": {
+   "en": "DEPENDABILITY FUNDAMENTALS",
+   "zh": "可依赖性基础",
+   "cls": "pptx"
+  },
+  "0d305e52e4": {
+   "en": "• Dependability = justified reliance on the delivered service; a taxonomy of Attributes (availability, reliability, safety, maintainability), Means and Threats",
+   "zh": "• 可依赖性 = 对所提供服务的合理依赖；其分类包括属性（可用性、可靠性、安全性、可维护性）、手段和威胁",
+   "cls": "pptx"
+  },
+  "299200183a": {
+   "en": "• The causal chain Fault → Error → Failure",
+   "zh": "• 因果链：故障（Fault）→ 错误（Error）→ 失效（Failure）",
+   "cls": "pptx"
+  },
+  "358e3fa9f1": {
+   "en": "• Four means: fault prevention, removal (debugging), tolerance (redundancy), forecasting",
+   "zh": "• 四种手段：故障预防、故障消除（调试）、故障容忍（冗余）、故障预测",
+   "cls": "pptx"
+  },
+  "e601dbf36a": {
+   "en": "QUANTITATIVE ASSESSMENT",
+   "zh": "定量评估",
+   "cls": "pptx"
+  },
+  "a18148e7eb": {
+   "en": "• Data-driven vs model-driven paths; discrete-event vs analytic simulation; prefer a numerical solution over simulation when feasible",
+   "zh": "• 数据驱动与模型驱动路径；离散事件仿真与解析仿真；在可行时优先采用数值解而非仿真",
+   "cls": "pptx"
+  },
+  "64afffc084": {
+   "en": "• Complexity dimensions: huge models (100s–1000s of components), user-oriented measures, non-exponential distributions (SMP, MRGP), performability",
+   "zh": "• 复杂性维度：超大模型（数百至数千个组件）、面向用户的度量、非指数分布（SMP、MRGP）、可执行性（performability）",
+   "cls": "pptx"
+  },
+  "dc38910f14": {
+   "en": "METHODS & STATE-SPACE EXPLOSION",
+   "zh": "方法与状态空间爆炸",
+   "cls": "pptx"
+  },
+  "7c940c7bc6": {
+   "en": "• Simple methods (RBD, fault trees, reliability graphs) assume independence — fast but miss dependencies (shared repair, spares, imperfect coverage)",
+   "zh": "• 简单方法（RBD、故障树、可靠性图）假设相互独立，速度快，但无法体现依赖关系（共享维修、备件、不完全覆盖）",
+   "cls": "pptx"
+  },
+  "8e7591208c": {
+   "en": "• State-space methods (DTMC/CTMC, SMP, phase-type) capture dependency but explode; mitigate via hierarchical composition or fixed-point iteration",
+   "zh": "• 状态空间方法（DTMC/CTMC、SMP、phase-type）能刻画依赖关系，但会发生状态爆炸；可通过分层组合或不动点迭代缓解",
+   "cls": "pptx"
+  },
+  "52dfad9901": {
+   "en": "CASE STUDY — IBM HA SIP",
+   "zh": "案例研究 — IBM HA SIP",
+   "cls": "pptx"
+  },
+  "c529ac833a": {
+   "en": "• A high-availability SIP system on IBM BladeCenter + WebSphere for a telco customer",
+   "zh": "• 面向电信客户、基于 IBM BladeCenter + WebSphere 的高可用 SIP 系统",
+   "cls": "pptx"
+  },
+  "ddaf43b87a": {
+   "en": "• Quantify steady-state availability and a user-oriented DPM (defects-per-million) metric",
+   "zh": "• 量化稳态可用性，以及面向用户的 DPM（每百万缺陷数）指标",
+   "cls": "pptx"
+  },
+  "51bc129568": {
+   "en": "INSIGHT 02 · Dependability & reliability modeling",
+   "zh": "洞察 02 · 可依赖性与可靠性建模",
+   "cls": "pptx"
+  },
+  "5cd5d76047": {
+   "en": "Hoang Pham · Rutgers University",
+   "zh": "Hoang Pham · Rutgers University",
+   "cls": "pptx"
+  },
+  "3b25d65d60": {
+   "en": "WHY DEGRADATION MATTERS",
+   "zh": "为什么退化很重要",
+   "cls": "pptx"
+  },
+  "7284dc2f22": {
+   "en": "• Many systems degrade rather than fail outright; the danger is a degraded-but-undetected state revealed only after a random delay",
+   "zh": "• 许多系统是逐步退化而不是直接失效；危险在于处于退化但未被检测到的状态，经过一段随机延迟后才暴露",
+   "cls": "pptx"
+  },
+  "35eda9e056": {
+   "en": "• Scale: a 10,000-machine data center sees ~1,000 crashes/day; ~4% of machines hit undetected errors (Google)",
+   "zh": "• 规模：一个拥有 10,000 台机器的数据中心每天约发生 1,000 次崩溃；约 4% 的机器遇到未被检测到的错误（Google）",
+   "cls": "pptx"
+  },
+  "62883d0c1b": {
+   "en": "RELIABILITY MODEL WITH DELAY",
+   "zh": "带延迟的可靠性模型",
+   "cls": "pptx"
+  },
+  "1577944ed9": {
+   "en": "• Reliability R(t) = P1(t) + P2(t): operating normally OR degraded-but-undetected; availability sums the available states",
+   "zh": "• 可靠度 R(t) = P1(t) + P2(t)：正常运行，或处于退化但未被检测到的状态；可用度为各可用状态之和",
+   "cls": "pptx"
+  },
+  "93dd27ef0f": {
+   "en": "• A self-healing / self-repair state diagram with delayed, dependent transitions (Pham, IEEE Trans. Reliability, 2024)",
+   "zh": "• 带有延迟且相互依赖转移的自愈/自修复状态图（Pham, IEEE Trans. Reliability, 2024）",
+   "cls": "pptx"
+  },
+  "9c3ab2ae8d": {
+   "en": "A BIOLOGICAL ANALOGUE",
+   "zh": "一个生物学类比",
+   "cls": "pptx"
+  },
+  "b57d290e6b": {
+   "en": "• Models Healthy cells (H), Infected cells (I) and Virus (V) with delayed transitions — a self-healing analogy",
+   "zh": "• 用带延迟转移的模型描述健康细胞（H）、感染细胞（I）和病毒（V），这是一种自愈类比",
+   "cls": "pptx"
+  },
+  "bc7f5a5c13": {
+   "en": "INSIGHT 03 · Testing, verification & formal methods",
+   "zh": "洞察 03 · 测试、验证与形式化方法",
+   "cls": "pptx"
+  },
+  "9a2d9b7cd3": {
+   "en": "W. Eric Wong · University of Texas at Dallas",
+   "zh": "W. Eric Wong · University of Texas at Dallas",
+   "cls": "pptx"
+  },
+  "c7ec82fa26": {
+   "en": "METHOD: CT + RBD + BVA",
+   "zh": "方法：CT + RBD + BVA",
+   "cls": "pptx"
+  },
+  "54dbc6eb6c": {
+   "en": "• Security attributes differ from reliability (vulnerability vs probability of failure-free operation)",
+   "zh": "• 安全属性不同于可靠性（脆弱性与无失效运行的概率）",
+   "cls": "pptx"
+  },
+  "1f20c15095": {
+   "en": "• Combine Combinatorial Testing with Reliability-Block-Diagram structure and Boundary Value Analysis to generate efficient test cases",
+   "zh": "• 将组合测试（Combinatorial Testing）与可靠性框图（Reliability-Block-Diagram）结构和边界值分析（Boundary Value Analysis）结合，生成高效的测试用例",
+   "cls": "pptx"
+  },
+  "3f16f13a6e": {
+   "en": "RESULTS",
+   "zh": "结果",
+   "cls": "pptx"
+  },
+  "93fcc8f26c": {
+   "en": "• Across packages, combinatorial coverage finds more — and different — bugs with fewer test cases than exhaustive runs",
+   "zh": "• 在多个软件包上，组合覆盖用比穷举运行更少的测试用例，发现了更多且不同的缺陷",
+   "cls": "pptx"
+  },
+  "2762ebe427": {
+   "en": "• Claimed ~50% less development and ~90% less maintenance effort for autonomous-system assurance",
+   "zh": "• 宣称自主系统保障可减少约 50% 的开发工作量和约 90% 的维护工作量",
+   "cls": "pptx"
+  },
+  "c5ea93d225": {
+   "en": "DEPENDS ON THE INPUT MODEL",
+   "zh": "取决于输入模型",
+   "cls": "pptx"
+  },
+  "27e20ba839": {
+   "en": "• Effectiveness hinges on input-space model quality: number of parameters, values per parameter, cases generated, bugs detected",
+   "zh": "• 效果取决于输入空间模型的质量：参数个数、每个参数的取值个数、生成的用例数、检出的缺陷数",
+   "cls": "pptx"
+  },
+  "9b2568e5e7": {
+   "en": "• AV example: primary vs backup sensors, emergency braking, ‘abnormal sensor’ cases, sun glare, and expansion paths",
+   "zh": "• 自动驾驶示例：主传感器与备用传感器、紧急制动、“异常传感器”用例、太阳眩光，以及扩展路径",
+   "cls": "pptx"
+  },
+  "532ce358b7": {
+   "en": "INSIGHT 04 · Testing, verification & formal methods",
+   "zh": "洞察 04 · 测试、验证与形式化方法",
+   "cls": "pptx"
+  },
+  "4c3db12853": {
+   "en": "Jin-Song Dong · National University of Singapore",
+   "zh": "Jin-Song Dong · National University of Singapore",
+   "cls": "pptx"
+  },
+  "cbb804e112": {
+   "en": "AI FAILURES → FORMAL METHODS",
+   "zh": "AI 失败 → 形式化方法",
+   "cls": "pptx"
+  },
+  "6d5d13f0a2": {
+   "en": "• AI has big wins but costly, unexplained failures (Knight Capital, Microsoft Tay, Tesla/Amazon incidents)",
+   "zh": "• AI 取得了巨大成功，但也出现了代价高昂、无法解释的失败（Knight Capital、Microsoft Tay、Tesla/Amazon 事故）",
+   "cls": "pptx"
+  },
+  "5551226226": {
+   "en": "• Model checking works: 2007 ACM Turing Award; Microsoft SLAM finds Windows driver bugs; the PAT toolkit has 400k+ downloads",
+   "zh": "• 模型检测行之有效：2007 年 ACM 图灵奖；Microsoft SLAM 可发现 Windows 驱动缺陷；PAT 工具包下载量超过 40 万次",
+   "cls": "pptx"
+  },
+  "b36ac2cff4": {
+   "en": "PROBABILISTIC MODEL CHECKING",
+   "zh": "概率模型检测",
+   "cls": "pptx"
+  },
+  "ab93d37bf6": {
+   "en": "• PMC computes system reliability from component reliability; here applied to sports-winning probability",
+   "zh": "• PMC 根据组件可靠度计算系统可靠度；此处应用于体育比赛的获胜概率",
+   "cls": "pptx"
+  },
+  "0ea4ee457c": {
+   "en": "• ‘Tennis strategy is an MDP’ (ICDCS 2015): compute winning probability and the optimal strategy",
+   "zh": "• “网球策略是一个 MDP”（ICDCS 2015）：计算获胜概率和最优策略",
+   "cls": "pptx"
+  },
+  "ec7f4fddb3": {
+   "en": "LLMS IN THE LOOP",
+   "zh": "大语言模型参与其中",
+   "cls": "pptx"
+  },
+  "4d3f3a18b3": {
+   "en": "• A GPT-4 sports-analytics pipeline: video statistics → vision-language extraction → model processor → outcome prediction and strategy",
+   "zh": "• 一条 GPT-4 体育分析流水线：视频统计 → 视觉语言提取 → 模型处理器 → 结果预测与策略",
+   "cls": "pptx"
+  },
+  "4dcf23873e": {
+   "en": "INSIGHT 05 · Trustworthy & cognitive AI",
+   "zh": "洞察 05 · 可信与认知 AI",
+   "cls": "pptx"
+  },
+  "0088ee621e": {
+   "en": "Xin Yao · trustworthy & evolutionary AI",
+   "zh": "Xin Yao · 可信与进化式 AI",
+   "cls": "pptx"
+  },
+  "8750ba79a4": {
+   "en": "TRUST & REQUIREMENTS",
+   "zh": "可信性与需求",
+   "cls": "pptx"
+  },
+  "6fa7fe0ab3": {
+   "en": "• Trust and trustworthiness are asymmetrically bidirectional, context-dependent and learnable",
+   "zh": "• 信任与可信性是非对称双向的、依赖情境的，并且可以学习",
+   "cls": "pptx"
+  },
+  "d587d987ec": {
+   "en": "• Six attributes of trustworthy systems: resilience, security, privacy, safety, reliability, availability",
+   "zh": "• 可信系统的六个属性：韧性、安全性（security）、隐私、安全（safety）、可靠性、可用性",
+   "cls": "pptx"
+  },
+  "d449610f8c": {
+   "en": "TRUSTWORTHY & FAIR AI",
+   "zh": "可信与公平的 AI",
+   "cls": "pptx"
+  },
+  "557bd0530d": {
+   "en": "• AI ethics is hierarchical (individual / society / environment); map each principle to a technique — transparency→explainable AI, fairness→fair AI, non-maleficence→safe/robust AI, privacy→federated/differential learning",
+   "zh": "• AI 伦理是分层的（个人/社会/环境）；将每条原则对应到一种技术：透明性→可解释 AI，公平性→公平 AI，不作恶→安全/鲁棒 AI，隐私→联邦/差分学习",
+   "cls": "pptx"
+  },
+  "896e2299c9": {
+   "en": "• 20+ fairness metrics in five families; feature-attribution explanations judged by faithfulness, sensitivity and complexity",
+   "zh": "• 5 大类共 20 多种公平性指标；特征归因解释按忠实性、敏感性和复杂度来评判",
+   "cls": "pptx"
+  },
+  "98bc5d5512": {
+   "en": "AN EVOLUTIONARY APPROACH",
+   "zh": "一种进化式方法",
+   "cls": "pptx"
+  },
+  "af0757412e": {
+   "en": "• A multi-objective evolutionary method (MOFAE) optimizes explanations across metrics; evolutionary constrained learning regulates ML behavior",
+   "zh": "• 多目标进化方法（MOFAE）在多个指标上优化解释；进化式约束学习用于规范机器学习的行为",
+   "cls": "pptx"
+  },
+  "6a3c3399c0": {
+   "en": "• Evolutionary computation is a promising engine for fair, explainable and safe AI",
+   "zh": "• 进化计算是实现公平、可解释和安全 AI 的有前景的引擎",
+   "cls": "pptx"
+  },
+  "d895c8fed8": {
+   "en": "INSIGHT 06 · Trustworthy & cognitive AI",
+   "zh": "洞察 06 · 可信与认知 AI",
+   "cls": "pptx"
+  },
+  "c41a2bb027": {
+   "en": "Fujitsu / SEI · data-centric AI quality assurance",
+   "zh": "Fujitsu / SEI · 以数据为中心的 AI 质量保证",
+   "cls": "pptx"
+  },
+  "0a8b7b47c5": {
+   "en": "A NEW AI-SYSTEM PARADIGM",
+   "zh": "一种新的 AI 系统范式",
+   "cls": "pptx"
+  },
+  "e2830a7906": {
+   "en": "• Modern AI systems combine 30+ AI models and 50+ traditional components (e.g. STT → NLP intent → response generation → TTS); a ‘Universal AI-CPS’ on NVIDIA Omniverse",
+   "zh": "• 现代 AI 系统结合了 30 多个 AI 模型和 50 多个传统组件（例如 STT → NLP 意图 → 响应生成 → TTS）；基于 NVIDIA Omniverse 的“Universal AI-CPS”",
+   "cls": "pptx"
+  },
+  "9c0ada3466": {
+   "en": "• ISR-LLM: an iterative self-refined LLM for long-horizon task planning (ICRA 2024)",
+   "zh": "• ISR-LLM：用于长时程任务规划的迭代自我优化大语言模型（ICRA 2024）",
+   "cls": "pptx"
+  },
+  "6be209b5d9": {
+   "en": "• Behavior is learned, not specified → explainability is key and new QA methods are needed",
+   "zh": "• 行为是学习得到的，而非预先规定的 → 可解释性是关键，需要新的质量保证方法",
+   "cls": "pptx"
+  },
+  "583d5526f0": {
+   "en": "THREE CORE DIRECTIONS",
+   "zh": "三个核心方向",
+   "cls": "pptx"
+  },
+  "1ba21d9e5f": {
+   "en": "• Unit level: quality across the ML lifecycle; DeepGauge test-coverage criteria; data-centric out-of-distribution & uncertainty analysis",
+   "zh": "• 单元层面：覆盖整个机器学习生命周期的质量；DeepGauge 测试覆盖准则；以数据为中心的分布外与不确定性分析",
+   "cls": "pptx"
+  },
+  "bb3bb28cfd": {
+   "en": "• System level: quality assurance and reliability support at integration and system stages",
+   "zh": "• 系统层面：在集成和系统阶段提供质量保证与可靠性支持",
+   "cls": "pptx"
+  },
+  "587a82d32a": {
+   "en": "• Human-centered, explainable MLSysOps across data, model, code and system",
+   "zh": "• 以人为中心、可解释的 MLSysOps，覆盖数据、模型、代码和系统",
+   "cls": "pptx"
+  },
+  "f8635342f5": {
+   "en": "GENAI / LLM ASSURANCE",
+   "zh": "生成式 AI / 大语言模型保障",
+   "cls": "pptx"
+  },
+  "c3d3352cb2": {
+   "en": "• LLM trustworthiness is at a very early stage; internals are hard to test and debug",
+   "zh": "• 大语言模型的可信性尚处于很早期的阶段；其内部机制难以测试和调试",
+   "cls": "pptx"
+  },
+  "657535096b": {
+   "en": "• Tools: the LUNA model-analysis framework; LLM-agent orchestration decomposed into Profile, Memory, Planning and Action",
+   "zh": "• 工具：LUNA 模型分析框架；大语言模型智能体编排被分解为 Profile、Memory、Planning 和 Action",
+   "cls": "pptx"
+  },
+  "9aa32a923c": {
+   "en": "INSIGHT 07 · Trustworthy & cognitive AI",
+   "zh": "洞察 07 · 可信与认知 AI",
+   "cls": "pptx"
+  },
+  "3b72434ad5": {
+   "en": "Yingxu Wang · University of Calgary",
+   "zh": "Yingxu Wang · University of Calgary",
+   "cls": "pptx"
+  },
+  "7f6af36856": {
+   "en": "A HYPERSTRUCTURAL MODEL",
+   "zh": "一种超结构模型",
+   "cls": "pptx"
+  },
+  "9496a82a61": {
+   "en": "• A formal abstract system S ≜ (C, B, Rᶜ, Rᵇ, Rᶠ, Rⁱ, Rᵒ): components, behaviors and internal/external relation sets",
+   "zh": "• 形式化抽象系统 S ≜ (C, B, Rᶜ, Rᵇ, Rᶠ, Rⁱ, Rᵒ)：组件、行为以及内部/外部关系集",
+   "cls": "pptx"
+  },
+  "b79656967a": {
+   "en": "• Abstract intelligence transfers information / knowledge into behavior",
+   "zh": "• 抽象智能将信息/知识转化为行为",
+   "cls": "pptx"
+  },
+  "f300b1fa50": {
+   "en": "AUTONOMY CLASSIFICATION",
+   "zh": "自主性分类",
+   "cls": "pptx"
+  },
+  "048a042076": {
+   "en": "• System autonomy by cognitive × behavioral axes: reflexive, imperative, adaptive, autonomous — autonomous intelligence is the 4th (quaternary) level",
+   "zh": "• 按认知 × 行为两个维度划分系统自主性：反射式、命令式、自适应、自主——自主智能是第 4 级（四元）水平",
+   "cls": "pptx"
+  },
+  "cbcd7e30cc": {
+   "en": "• Machine thinking via LRMB (Layered Reference Model of the Brain): sensation, action, perception, memory, cognition, inference, intelligence",
+   "zh": "• 通过 LRMB（Layered Reference Model of the Brain，大脑分层参考模型）实现机器思维：感觉、行动、感知、记忆、认知、推断、智能",
+   "cls": "pptx"
+  },
+  "dd37ae8fa2": {
+   "en": "TRUSTWORTHINESS OF AUTONOMOUS SYSTEMS",
+   "zh": "自主系统的可信性",
+   "cls": "pptx"
+  },
+  "d3e6f96071": {
+   "en": "• A tripartite model: structural, behavioral and dynamic trustworthiness",
+   "zh": "• 三方模型：结构可信性、行为可信性和动态可信性",
+   "cls": "pptx"
+  },
+  "665b116e78": {
+   "en": "• A formal model links levels of system intelligence by inclusion",
+   "zh": "• 一个形式化模型以包含关系连接各级系统智能",
+   "cls": "pptx"
+  },
+  "f8d826253c": {
+   "en": "INSIGHT 08 · Autonomous systems in the real world",
+   "zh": "洞察 08 · 真实世界中的自主系统",
+   "cls": "pptx"
+  },
+  "9d6796dbe9": {
+   "en": "Jianping Wang · City University of Hong Kong",
+   "zh": "Jianping Wang · City University of Hong Kong",
+   "cls": "pptx"
+  },
+  "669a186407": {
+   "en": "ARCHITECTURE & VULNERABILITIES",
+   "zh": "架构与脆弱性",
+   "cls": "pptx"
+  },
+  "227312330f": {
+   "en": "• The AD stack on a driving OS (Apollo 3.5/5.0): perception → localization → prediction → planning → control",
+   "zh": "• 运行在驾驶操作系统（Apollo 3.5/5.0）上的 AD 技术栈：感知 → 定位 → 预测 → 规划 → 控制",
+   "cls": "pptx"
+  },
+  "7ccc690f79": {
+   "en": "• Vulnerabilities: perception-model uncertainty, dynamic per-module compute time, and adverse weather (fog/rain/snow degrade cameras, LiDAR and comms)",
+   "zh": "• 脆弱性：感知模型的不确定性、各模块动态变化的计算时间，以及恶劣天气（雾/雨/雪会降低摄像头、LiDAR 和通信的性能）",
+   "cls": "pptx"
+  },
+  "5b2b22c8a8": {
+   "en": "COUNTERMEASURES BY LAYER",
+   "zh": "分层应对措施",
+   "cls": "pptx"
+  },
+  "7dd83527f4": {
+   "en": "• Hardware limits → edge computing; software (model uncertainty, timing) → digital twins & cooperative sensing",
+   "zh": "• 硬件限制 → 边缘计算；软件（模型不确定性、时序）→ 数字孪生与协同感知",
+   "cls": "pptx"
+  },
+  "1739e72136": {
+   "en": "• Attacks (physical / adversarial / cyber) → robust driving; adverse weather → robust V2X",
+   "zh": "• 攻击（物理/对抗/网络）→ 鲁棒驾驶；恶劣天气 → 鲁棒 V2X",
+   "cls": "pptx"
+  },
+  "8630833788": {
+   "en": "ROBUST DRIVING & SCHEDULING",
+   "zh": "鲁棒驾驶与调度",
+   "cls": "pptx"
+  },
+  "128564f78b": {
+   "en": "• Adversarial-attack-aware motion planning stays safe where naive planning fails; multi-agent prediction + camera/LiDAR/radar fusion handle occlusion",
+   "zh": "• 具备对抗攻击感知的运动规划在朴素规划失效的情况下仍能保持安全；多智能体预测加上摄像头/LiDAR/雷达融合可应对遮挡",
+   "cls": "pptx"
+  },
+  "92219f1eda": {
+   "en": "• Onboard scheduling uses an Age-of-Information metric and an RL agent (reward ∝ 1/AoI), improving miss ratio and response vs Apollo baselines",
+   "zh": "• 车载调度使用信息年龄（Age-of-Information）指标和强化学习（RL）智能体（奖励 ∝ 1/AoI），相比 Apollo 基线改善了错失率和响应",
+   "cls": "pptx"
+  },
+  "efa09568b7": {
+   "en": "INSIGHT 09 · Autonomous systems in the real world",
+   "zh": "洞察 09 · 真实世界中的自主系统",
+   "cls": "pptx"
+  },
+  "fa8611c775": {
+   "en": "Naira Hovakimyan · University of Illinois Urbana-Champaign",
+   "zh": "Naira Hovakimyan · University of Illinois Urbana-Champaign",
+   "cls": "pptx"
+  },
+  "f70463d0ee": {
+   "en": "CONTROL THEORY VS ML",
+   "zh": "控制理论与机器学习",
+   "cls": "pptx"
+  },
+  "dd82fa2315": {
+   "en": "• Safety-critical systems need guarantees because failures can be deadly; safely obtaining training data is hard",
+   "zh": "• 安全关键系统需要保证，因为失效可能致命；安全地获取训练数据很困难",
+   "cls": "pptx"
+  },
+  "379908820a": {
+   "en": "• Control-theoretic tools (structured, deterministic) are strong on safety/robustness; ML tools (general, stochastic) are strong on empirical performance",
+   "zh": "• 控制理论工具（结构化、确定性）在安全性/鲁棒性方面很强；机器学习工具（通用、随机性）在经验性能方面很强",
+   "cls": "pptx"
+  },
+  "23b81fc18c": {
+   "en": "DISTRIBUTIONAL ROBUSTNESS",
+   "zh": "分布鲁棒性",
+   "cls": "pptx"
+  },
+  "0e452f6f4a": {
+   "en": "• Train-vs-real distribution shift can break the control objective; control the size of the guaranteed set, or be agnostic to the training distribution",
+   "zh": "• 训练分布与真实分布的偏移可能破坏控制目标；可以控制有保证集合的大小，或者对训练分布保持无关",
+   "cls": "pptx"
+  },
+  "856d82a7e1": {
+   "en": "• Distributionally robust optimization with finite samples; verified by Monte-Carlo; incremental stochastic stability",
+   "zh": "• 有限样本下的分布鲁棒优化；通过蒙特卡洛方法验证；增量随机稳定性",
+   "cls": "pptx"
+  },
+  "f6df26674a": {
+   "en": "L1 ADAPTIVE CONTROL + LEARNING",
+   "zh": "L1 自适应控制 + 学习",
+   "cls": "pptx"
+  },
+  "7cbc9d77de": {
+   "en": "• L1 adaptive control gives guaranteed uniform performance bounds, decoupling estimation from control (small-gain + Lyapunov)",
+   "zh": "• L1 自适应控制提供有保证的一致性能界，将估计与控制解耦（小增益 + Lyapunov）",
+   "cls": "pptx"
+  },
+  "75c8c0f589": {
+   "en": "• Commercialized with NASA, Caterpillar and JOUAV; extended via contraction metrics, L1-MPC, and contraction-L1 with Gaussian-process learning",
+   "zh": "• 已与 NASA、Caterpillar 和 JOUAV 实现商业化；通过收缩度量、L1-MPC，以及结合高斯过程学习的 contraction-L1 得到扩展",
+   "cls": "pptx"
+  },
+  "204a5a32cc": {
+   "en": "INSIGHT 10 · Autonomous systems in the real world",
+   "zh": "洞察 10 · 真实世界中的自主系统",
+   "cls": "pptx"
+  },
+  "77acce2fda": {
+   "en": "Ajith Parlikad · University of Cambridge",
+   "zh": "Ajith Parlikad · University of Cambridge",
+   "cls": "pptx"
+  },
+  "f7a4d072e8": {
+   "en": "WHAT A DIGITAL TWIN IS",
+   "zh": "什么是数字孪生",
+   "cls": "pptx"
+  },
+  "dff6329020": {
+   "en": "• An integrated multi-physics, multi-scale, probabilistic simulation updated by sensors (NASA 2012); a digital replica that improves decision-making (CDBB 2018)",
+   "zh": "• 由传感器更新的集成式多物理、多尺度、概率仿真（NASA 2012）；能改进决策的数字副本（CDBB 2018）",
+   "cls": "pptx"
+  },
+  "66cb87c215": {
+   "en": "• A twin should see, learn, think, act, communicate, cooperate and achieve",
+   "zh": "• 孪生体应能看、学、想、行动、通信、协作并达成目标",
+   "cls": "pptx"
+  },
+  "b434ba02cc": {
+   "en": "COLLABORATIVE TWINS",
+   "zh": "协作式孪生",
+   "cls": "pptx"
+  },
+  "38277fd25f": {
+   "en": "• Connected assets help each other ‘in times of trouble’ via shared information / computation — faster, coordinated recovery",
+   "zh": "• 互联的资产通过共享信息/计算在“危难之时”互相帮助——更快、更协调地恢复",
+   "cls": "pptx"
+  },
+  "8bc588ed92": {
+   "en": "• Spans robotics, AI, V2X, perception and blockchain across cyber-physical and cyber-cyber systems",
+   "zh": "• 涵盖机器人、AI、V2X、感知和区块链，跨越信息物理系统与纯信息系统",
+   "cls": "pptx"
+  },
+  "dddbfe07f5": {
+   "en": "REAL CASES",
+   "zh": "真实案例",
+   "cls": "pptx"
+  },
+  "c86364683c": {
+   "en": "• Japan’s FUKUI self-driving public transit; an Oct 2023 incident where an AV failed to stop and collided, triggering new safety measures",
+   "zh": "• 日本的 FUKUI 自动驾驶公共交通；2023 年 10 月一起自动驾驶车辆未能停车并发生碰撞的事故，促使出台新的安全措施",
+   "cls": "pptx"
+  },
+  "9227fafd25": {
+   "en": "INSIGHT 11 · Autonomous systems in the real world",
+   "zh": "洞察 11 · 真实世界中的自主系统",
+   "cls": "pptx"
+  },
+  "9c744aa084": {
+   "en": "Andrea Belz · research-portfolio analytics",
+   "zh": "Andrea Belz · 研究组合分析",
+   "cls": "pptx"
+  },
+  "5601fa77a1": {
+   "en": "FIND THE TECH BEFORE INVESTING",
+   "zh": "投资之前先找到技术",
+   "cls": "pptx"
+  },
+  "9a53258721": {
+   "en": "• An NLP pipeline compiles and augments abstracts, clusters research portfolios, then evaluates clusters and removes redundancy",
+   "zh": "• 一条 NLP 流水线汇集并扩充摘要，对研究组合进行聚类，然后评估聚类并去除冗余",
+   "cls": "pptx"
+  },
+  "61699b6a86": {
+   "en": "• Pipeline: documents → YAKE keywords → Mistral-7B metadata → Sentence-Transformer embeddings → labeled clusters (optics, flight system, remote sensing…)",
+   "zh": "• 流水线：文档 → YAKE 关键词 → Mistral-7B 元数据 → Sentence-Transformer 嵌入 → 带标签的聚类（光学、飞行系统、遥感……）",
+   "cls": "pptx"
+  },
+  "db32041dde": {
+   "en": "CHOOSING THE NUMBER OF CLUSTERS",
+   "zh": "如何选择聚类数量",
+   "cls": "pptx"
+  },
+  "4ab113b4b9": {
+   "en": "• Too few clusters = poor coverage; too many = overlap",
+   "zh": "• 聚类太少 = 覆盖不足；太多 = 重叠",
+   "cls": "pptx"
+  },
+  "cb9aa8cbcf": {
+   "en": "• A new redundancy measure R = max cosine similarity between label vectors, plotted vs the number of clusters to pick the knee",
+   "zh": "• 一种新的冗余度量 R = 标签向量之间的最大余弦相似度，随聚类数量变化作图以找出拐点",
+   "cls": "pptx"
+  },
+  "c3bc448589": {
+   "en": "USING THE LABELS",
+   "zh": "使用标签",
+   "cls": "pptx"
+  },
+  "ea11615361": {
+   "en": "• A k×ĉ coverage matrix yields coverage scores / predicted labels when similarity exceeds a threshold (MMR)",
+   "zh": "• 当相似度超过阈值（MMR）时，k×ĉ 覆盖矩阵给出覆盖得分/预测标签",
+   "cls": "pptx"
+  },
+  "69bae0ee91": {
+   "en": "CONCLUSIONS",
+   "zh": "结论",
+   "cls": "pptx"
+  },
+  "ad4e97f195": {
+   "en": "TRENDS",
+   "zh": "趋势",
+   "cls": "pptx"
+  },
+  "3c3e5cf4e4": {
+   "en": "• Classical dependability tools (RBD, fault trees, Markov chains, combinatorial testing, probabilistic model checking) are being combined with data-driven methods — not replaced.",
+   "zh": "• 经典的可依赖性工具（RBD、故障树、马尔可夫链、组合测试、概率模型检测）正在与数据驱动方法结合，而不是被取代。",
+   "cls": "pptx"
+  },
+  "0105d851a5": {
+   "en": "• Distribution shift and uncertainty quantification recur across the control, testing and LLM talks.",
+   "zh": "• 分布偏移和不确定性量化在控制、测试和大语言模型的报告中反复出现。",
+   "cls": "pptx"
+  },
+  "44b78a7036": {
+   "en": "• Autonomous driving is the shared case study grounding abstract reliability and safety methods.",
+   "zh": "• 自动驾驶是共同的案例研究，使抽象的可靠性与安全方法落地。",
+   "cls": "pptx"
+  },
+  "927e4493b3": {
+   "en": "VISION",
+   "zh": "愿景",
+   "cls": "pptx"
+  },
+  "f2d5757a8e": {
+   "en": "• Trustworthiness — resilience, security, privacy, safety, reliability, availability, fairness, explainability — is the gate for deploying AI.",
+   "zh": "• 可信性——韧性、安全性（security）、隐私、安全（safety）、可靠性、可用性、公平性、可解释性——是部署 AI 的门槛。",
+   "cls": "pptx"
+  },
+  "bfed3f42c0": {
+   "en": "• Self-aware, cooperative systems: self-healing degradation, cognitive autonomy models, and collaborative digital twins.",
+   "zh": "• 自感知、协作的系统：自愈式退化、认知自主模型和协作式数字孪生。",
+   "cls": "pptx"
+  },
+  "96a8b81e7b": {
+   "en": "• Formal and guaranteed methods (L1 control, model checking) scaled to data-driven systems.",
+   "zh": "• 形式化和有保证的方法（L1 控制、模型检测）扩展到数据驱动系统。",
+   "cls": "pptx"
+  },
+  "ab88151343": {
+   "en": "IMPLICATIONS FOR US",
+   "zh": "对我们的启示",
+   "cls": "pptx"
+  },
+  "6fd54e7eff": {
+   "en": "• Treat explainability and formal / guaranteed methods as prerequisites, not add-ons (L1 guarantees, PAT/SLAM, DeepGauge, LUNA).",
+   "zh": "• 将可解释性以及形式化/有保证的方法视为前提条件，而不是附加项（L1 保证、PAT/SLAM、DeepGauge、LUNA）。",
+   "cls": "pptx"
+  },
+  "801f7e2173": {
+   "en": "• Govern the ML lifecycle with data-centric quality assurance and out-of-distribution analysis.",
+   "zh": "• 用以数据为中心的质量保证和分布外分析来管理机器学习生命周期。",
+   "cls": "pptx"
+  },
+  "15e9e16fe4": {
+   "en": "• GenAI / LLM assurance is immature — the biggest open frontier is testing agentic systems whose behavior is learned, not specified.",
+   "zh": "• 生成式 AI / 大语言模型保障尚不成熟——最大的开放前沿是测试行为靠学习而非预先规定的智能体系统。",
+   "cls": "pptx"
+  },
+  "5d16a62568": {
+   "en": "{1}{/1}Tech Insight",
+   "zh": "{1}{/1}Tech Insight",
+   "cls": "span.brand"
+  },
+  "b4510362a5": {
+   "en": "Insights",
+   "zh": "洞察",
+   "cls": "a"
+  },
+  "5d20d0fee3": {
+   "en": "References",
+   "zh": "参考文献",
+   "cls": "a"
+  }
+ }
+}

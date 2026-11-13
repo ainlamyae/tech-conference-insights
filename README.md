@@ -9,7 +9,7 @@ Concise **insight reports** for recent AI and systems-engineering conferences. E
 
 All four are **self-contained** — images are embedded — so they open on their own with no extra files. The two HTML files have an **English | Chinese** button (in the report: top bar; in the slides: bottom right, beside the slide number, key `L`).
 
-**Start at [`index.html`](index.html)** for a linked overview of every conference. The index is versioned — each conference added to the repo bumps the version shown in its footer.
+**Start at [`index.html`](index.html)** for a linked overview of every conference (it has the same **English | Chinese** button). The index is versioned — each conference added to the repo bumps the version shown in its footer.
 
 ## Conferences
 
@@ -27,6 +27,7 @@ All four are **self-contained** — images are embedded — so they open on thei
 | **IJCAI 2025** | Montreal, Canada · August 16–22, 2025 | 8 papers | [report](2025-08_IJCAI-montreal/IJCAI-2025-tech-insight-report.html) · [slides](2025-08_IJCAI-montreal/IJCAI-2025-tech-insight-slides.html) · [pptx EN](2025-08_IJCAI-montreal/IJCAI-2025-tech-insight-slides-EN.pptx) · [pptx CN](2025-08_IJCAI-montreal/IJCAI-2025-tech-insight-slides-CN.pptx) |
 | **NeurIPS 2025** | San Diego, USA & Mexico City, Mexico · December 2–7, 2025 | 7 papers | [report](2025-11_NeurIPS-mexico-city/NeurIPS-2025-tech-insight-report.html) · [slides](2025-11_NeurIPS-mexico-city/NeurIPS-2025-tech-insight-slides.html) · [pptx EN](2025-11_NeurIPS-mexico-city/NeurIPS-2025-tech-insight-slides-EN.pptx) · [pptx CN](2025-11_NeurIPS-mexico-city/NeurIPS-2025-tech-insight-slides-CN.pptx) |
 | **ICLR 2026** | Rio de Janeiro, Brazil · April 2026 | 12 papers | [report](2026-04_ICLR-rio-de-janeiro/ICLR-2026-tech-insight-report.html) · [slides](2026-04_ICLR-rio-de-janeiro/ICLR-2026-tech-insight-slides.html) · [pptx EN](2026-04_ICLR-rio-de-janeiro/ICLR-2026-tech-insight-slides-EN.pptx) · [pptx CN](2026-04_ICLR-rio-de-janeiro/ICLR-2026-tech-insight-slides-CN.pptx) |
+| **Open Day 2026** | Waterloo, Canada · November 2026 | 6 parts | [report](2026-11_Open-day-waterloo/2026-11_Open-day-waterloo-tech-insight-report.html) · [slides](2026-11_Open-day-waterloo/2026-11_Open-day-waterloo-tech-insight-slides.html) · [pptx EN](2026-11_Open-day-waterloo/2026-11_Open-day-waterloo-tech-insight-slides-EN.pptx) · [pptx CN](2026-11_Open-day-waterloo/2026-11_Open-day-waterloo-tech-insight-slides-CN.pptx) |
 
 ## Layout
 
@@ -37,7 +38,9 @@ All four are **self-contained** — images are embedded — so they open on thei
   <Name>-<year>-tech-insight-slides-EN.pptx  # PowerPoint, English
   <Name>-<year>-tech-insight-slides-CN.pptx  # PowerPoint, Chinese
 index.html     # linked, versioned overview of all conferences
-template/      # shared house style (STYLE-GUIDE.md + HTML/PPTX templates)
+template/      # shared house style: Type A conference templates; template/talk = Type B talk/topic templates
+              # (STYLE-GUIDE.md + HTML/PPTX templates)
+localization/ # English | Chinese toolkit: glossary, approved Chinese strings, tools, toggle snippet
 ```
 
 ## License

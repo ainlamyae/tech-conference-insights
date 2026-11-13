@@ -1,0 +1,1655 @@
+{
+ "folder": "2024-05_Huawei-strategy-workshop-shenzhen-dongguan",
+ "strings": {
+  "9c4e20b4ce": {
+   "en": "[1] “Evolution Pattern of Large Models: Scaling Laws,” Huawei Large Models Strategy Workshop, 2024.",
+   "zh": "[1] “Evolution Pattern of Large Models: Scaling Laws,” Huawei Large Models Strategy Workshop, 2024.",
+   "cls": "keep"
+  },
+  "4e8d9fa7c3": {
+   "en": "[2] “Technical Nature of Large Models: Generative Compression,” Huawei Large Models Strategy Workshop, 2024.",
+   "zh": "[2] “Technical Nature of Large Models: Generative Compression,” Huawei Large Models Strategy Workshop, 2024.",
+   "cls": "keep"
+  },
+  "3304539f5c": {
+   "en": "[3] “R&D Mode of Large Models: Big Engineering × Disruptive Innovation,” Huawei Large Models Strategy Workshop, 2024.",
+   "zh": "[3] “R&D Mode of Large Models: Big Engineering × Disruptive Innovation,” Huawei Large Models Strategy Workshop, 2024.",
+   "cls": "keep"
+  },
+  "c2f5231c21": {
+   "en": "[4] “Progress of Large Models in 2024: Capability, Context, Trust and Cost,” Huawei Large Models Strategy Workshop, 2024.",
+   "zh": "[4] “Progress of Large Models in 2024: Capability, Context, Trust and Cost,” Huawei Large Models Strategy Workshop, 2024.",
+   "cls": "keep"
+  },
+  "e00d5947e1": {
+   "en": "[5] “Future Outlook of Large Multi-Modality Models,” Huawei Large Models Strategy Workshop, 2024.",
+   "zh": "[5] “Future Outlook of Large Multi-Modality Models,” Huawei Large Models Strategy Workshop, 2024.",
+   "cls": "keep"
+  },
+  "c10f142a42": {
+   "en": "[6] “Open-Source Reference Point: InternLM2,” Huawei Large Models Strategy Workshop, 2024.",
+   "zh": "[6] “Open-Source Reference Point: InternLM2,” Huawei Large Models Strategy Workshop, 2024.",
+   "cls": "keep"
+  },
+  "8f019938af": {
+   "en": "[7] “Large-Model Evolution vs Biological Intelligence,” Huawei Large Models Strategy Workshop, 2024.",
+   "zh": "[7] “Large-Model Evolution vs Biological Intelligence,” Huawei Large Models Strategy Workshop, 2024.",
+   "cls": "keep"
+  },
+  "526b806ff1": {
+   "en": "[8] Y. Wang et al., “From Human Intelligence to AI 2.0,” Huawei Strategy Workshop (Tsinghua NICS-efc), 2024.",
+   "zh": "[8] Y. Wang et al., “From Human Intelligence to AI 2.0,” Huawei Strategy Workshop (Tsinghua NICS-efc), 2024.",
+   "cls": "keep"
+  },
+  "3d495cdd34": {
+   "en": "[9] “Domain-Specific Small Models (Infini-3B),” Huawei Strategy Workshop, 2024.",
+   "zh": "[9] “Domain-Specific Small Models (Infini-3B),” Huawei Strategy Workshop, 2024.",
+   "cls": "keep"
+  },
+  "17bf30e38d": {
+   "en": "[10] “Accelerating Distributed MoE (Mixture of Experts),” Huawei Strategy Workshop (CAS / ICT), 2024.",
+   "zh": "[10] “Accelerating Distributed MoE (Mixture of Experts),” Huawei Strategy Workshop (CAS / ICT), 2024.",
+   "cls": "keep"
+  },
+  "bc76eda0a1": {
+   "en": "[11] “Memory Capacity & DLRM Motivation,” Huawei Strategy Workshop (CAS / ICT), 2024.",
+   "zh": "[11] “Memory Capacity & DLRM Motivation,” Huawei Strategy Workshop (CAS / ICT), 2024.",
+   "cls": "keep"
+  },
+  "816c8ec36d": {
+   "en": "{1}{2}{/2}Tech Insight{/1}{3}Contents{/3}{4}·{/4}{5}Workshop{/5}{6}·{/6}{7}Insights{/7}{8}·{/8}{9}Conclusions{/9}{10}·{/10}{11}References{/11}",
+   "zh": "{1}{2}{/2}Tech Insight{/1}{3}目录{/3}{4}·{/4}{5}研讨会{/5}{6}·{/6}{7}洞察{/7}{8}·{/8}{9}结论{/9}{10}·{/10}{11}参考文献{/11}",
+   "cls": "nav.bar"
+  },
+  "210331925e": {
+   "en": "Huawei 2024 — Large Models Strategy Workshop · Tech Insight Report",
+   "zh": "华为 2024 — 大模型战略研讨会 · Tech Insight 报告",
+   "cls": "div.kicker"
+  },
+  "af77347611": {
+   "en": "Huawei Strategy Workshop — Large Models & Distributed Systems",
+   "zh": "Huawei Strategy Workshop — Large Models & Distributed Systems",
+   "cls": "h1"
+  },
+  "3d860d3c89": {
+   "en": "{1}Shenzhen & Dongguan, China · May 2024{/1}",
+   "zh": "{1}中国深圳和东莞 · 2024 年 5 月{/1}",
+   "cls": "p.lede"
+  },
+  "fe02a8a9ef": {
+   "en": "An internal Huawei strategy workshop reading the state and trajectory of large models: why they work (scaling laws, generative compression), the year's concrete progress (reasoning, long context, lower hallucination and cost), the road to multimodal ‘world models’, and the systems engineering — distributed Mixture-of-Experts — needed to train them at scale.",
+   "zh": "华为内部的一次战略研讨会，研判大模型的现状与走向：它们为何有效（缩放定律、生成式压缩），这一年的具体进展（推理、长上下文、更少的幻觉和更低的成本），通向多模态“世界模型”的道路，以及大规模训练所需的系统工程，即分布式 Mixture-of-Experts。",
+   "cls": "p.lede"
+  },
+  "bb6849ba5a": {
+   "en": "Location{1}Shenzhen & Dongguan, China{/1}",
+   "zh": "地点{1}中国深圳和东莞{/1}",
+   "cls": "div"
+  },
+  "335516c62f": {
+   "en": "Date{1}May 2024{/1}",
+   "zh": "日期{1}2024 年 5 月{/1}",
+   "cls": "div"
+  },
+  "6dd1dac8b6": {
+   "en": "Focus{1}Large Models — Scaling, Capabilities & Distributed Systems{/1}",
+   "zh": "主题{1}大模型：缩放、能力与分布式系统{/1}",
+   "cls": "div"
+  },
+  "f91f503b91": {
+   "en": "01 · Contents",
+   "zh": "01 · 目录",
+   "cls": "div.kicker"
+  },
+  "2740cf99db": {
+   "en": "Topics covered, by theme",
+   "zh": "按主题划分的议题",
+   "cls": "h2"
+  },
+  "f7937b4bd6": {
+   "en": "A · Why large models work",
+   "zh": "A · 大模型为何有效",
+   "cls": "attr:data-group"
+  },
+  "6d7d0ccc11": {
+   "en": "{1}01{/1}{2}Evolution Pattern of Large Models: Scaling Laws{/2}",
+   "zh": "{1}01{/1}{2}Evolution Pattern of Large Models: Scaling Laws{/2}",
+   "cls": "div"
+  },
+  "42592b3ddd": {
+   "en": "{1}02{/1}{2}Technical Nature of Large Models: Generative Compression{/2}",
+   "zh": "{1}02{/1}{2}Technical Nature of Large Models: Generative Compression{/2}",
+   "cls": "div"
+  },
+  "33cc09fc06": {
+   "en": "{1}03{/1}{2}R&D Mode: Big Engineering × Disruptive Innovation{/2}",
+   "zh": "{1}03{/1}{2}R&D Mode: Big Engineering × Disruptive Innovation{/2}",
+   "cls": "div"
+  },
+  "238ce949d3": {
+   "en": "B · 2024 progress & the road ahead",
+   "zh": "B · 2024 年进展与未来之路",
+   "cls": "attr:data-group"
+  },
+  "b2cd9859f5": {
+   "en": "{1}04{/1}{2}The Year's Progress: Capability, Context, Trust & Cost{/2}",
+   "zh": "{1}04{/1}{2}The Year's Progress: Capability, Context, Trust & Cost{/2}",
+   "cls": "div"
+  },
+  "a487300f75": {
+   "en": "{1}05{/1}{2}Future Outlook of Large Multi-Modality Models{/2}",
+   "zh": "{1}05{/1}{2}Future Outlook of Large Multi-Modality Models{/2}",
+   "cls": "div"
+  },
+  "5511858d38": {
+   "en": "{1}06{/1}{2}Open-Source Reference Point: InternLM2{/2}",
+   "zh": "{1}06{/1}{2}Open-Source Reference Point: InternLM2{/2}",
+   "cls": "div"
+  },
+  "2869d610fc": {
+   "en": "{1}07{/1}{2}Large-Model Evolution vs Biological Intelligence{/2}",
+   "zh": "{1}07{/1}{2}Large-Model Evolution vs Biological Intelligence{/2}",
+   "cls": "div"
+  },
+  "3b4f9fd636": {
+   "en": "C · Systems: distributed training & MoE",
+   "zh": "C · 系统：分布式训练与 MoE",
+   "cls": "attr:data-group"
+  },
+  "9f78b58bf1": {
+   "en": "{1}08{/1}{2}From Human Intelligence to AI 2.0{/2}",
+   "zh": "{1}08{/1}{2}From Human Intelligence to AI 2.0{/2}",
+   "cls": "div"
+  },
+  "2e7382595a": {
+   "en": "{1}09{/1}{2}Domain-Specific Small Models (Infini-3B){/2}",
+   "zh": "{1}09{/1}{2}Domain-Specific Small Models (Infini-3B){/2}",
+   "cls": "div"
+  },
+  "3a6ba8082e": {
+   "en": "{1}10{/1}{2}Accelerating Distributed MoE & the All-to-All Bottleneck{/2}",
+   "zh": "{1}10{/1}{2}Accelerating Distributed MoE & the All-to-All Bottleneck{/2}",
+   "cls": "div"
+  },
+  "2774c98766": {
+   "en": "{1}11{/1}{2}Memory Capacity & DLRM Motivation{/2}",
+   "zh": "{1}11{/1}{2}Memory Capacity & DLRM Motivation{/2}",
+   "cls": "div"
+  },
+  "98ad1f1b30": {
+   "en": "02 · Workshop at a glance",
+   "zh": "02 · 研讨会概览",
+   "cls": "div.kicker"
+  },
+  "305a869bd3": {
+   "en": "Huawei Strategy Workshop — Large Models & Distributed Systems — Shenzhen & Dongguan, China, May 2024",
+   "zh": "Huawei Strategy Workshop — Large Models & Distributed Systems — 2024 年 5 月，中国深圳和东莞",
+   "cls": "h2"
+  },
+  "f18c76191a": {
+   "en": "{1}May 2024{/1}{2}Shenzhen · Dongguan{/2}",
+   "zh": "{1}2024 年 5 月{/1}{2}深圳 · 东莞{/2}",
+   "cls": "div.tile"
+  },
+  "920edf79fd": {
+   "en": "{1}Huawei{/1}{2}strategy workshop{/2}",
+   "zh": "{1}华为{/1}{2}战略研讨会{/2}",
+   "cls": "div.tile"
+  },
+  "dd2c1db8dc": {
+   "en": "{1}11 topics{/1}{2}deep-dived here{/2}",
+   "zh": "{1}11 个议题{/1}{2}在此深入解读{/2}",
+   "cls": "div.tile"
+  },
+  "ba6a2740ee": {
+   "en": "{1}Large models{/1}{2}the theme{/2}",
+   "zh": "{1}大模型{/1}{2}主题{/2}",
+   "cls": "div.tile"
+  },
+  "16a7e798b7": {
+   "en": "{1}About:{/1} An internal Huawei AI strategy workshop surveying large-model fundamentals, 2024 progress, and the distributed-systems engineering (MoE) behind training at scale. Slides reference Pangu, Tsinghua NICS-efc and CAS / ICT.",
+   "zh": "{1}简介：{/1}华为内部的一次 AI 战略研讨会，梳理大模型基础、2024 年进展，以及支撑大规模训练的分布式系统工程（MoE）。幻灯片引用了 Pangu、Tsinghua NICS-efc 和 CAS / ICT。",
+   "cls": "p.overview-themes"
+  },
+  "39c308bddb": {
+   "en": "Two laws anchor LLMs — power-law scaling and lossy compression; 2024's gains are measurable (reasoning, 2M context, less hallucination, cheaper inference); the frontier is multimodal world models; and efficiency is a systems problem — chip↔model↔interconnect co-design and all-to-all communication in distributed MoE.",
+   "zh": "两条定律是大语言模型的基石：幂律缩放和有损压缩；2024 年的进步可以衡量（推理、2M 上下文、更少的幻觉、更便宜的推理）；前沿是多模态世界模型；而效率是系统问题：芯片↔模型↔互连的协同设计，以及分布式 MoE 中的 all-to-all 通信。",
+   "cls": "p.overview-themes"
+  },
+  "74e3fba778": {
+   "en": "03 · Insights",
+   "zh": "03 · 洞察",
+   "cls": "div.kicker"
+  },
+  "8a964864bd": {
+   "en": "The workshop, topic by topic",
+   "zh": "研讨会逐个议题解读",
+   "cls": "h2"
+  },
+  "b8c7cf0fc0": {
+   "en": "Evolution Pattern of Large Models: Scaling Laws",
+   "zh": "Evolution Pattern of Large Models: Scaling Laws",
+   "cls": "attr:data-toc"
+  },
+  "88f167a00c": {
+   "en": "{1}Large Models strategy{/1} · scaling laws & emergence",
+   "zh": "{1}大模型战略{/1} · 缩放定律与涌现",
+   "cls": "div.byline"
+  },
+  "70326300fc": {
+   "en": "Power scaling laws",
+   "zh": "幂律缩放定律",
+   "cls": "span.lbl"
+  },
+  "76dfc847ee": {
+   "en": "Model performance (loss, accuracy) improves linearly as resources (data, parameters, compute) grow exponentially",
+   "zh": "当资源（数据、参数、算力）呈指数增长时，模型性能（损失、准确率）线性提升",
+   "cls": "li"
+  },
+  "a7faebf671": {
+   "en": "Loss ≈ A·N^(−α) + B·D^(−β) + E, where N = model size and D = data scale",
+   "zh": "Loss ≈ A·N^(−α) + B·D^(−β) + E，其中 N = 模型规模，D = 数据规模",
+   "cls": "li"
+  },
+  "352654dba4": {
+   "en": "Loss-vs-size curves hold across parameter counts",
+   "zh": "损失与规模的曲线在不同参数量下都成立",
+   "cls": "li"
+  },
+  "3de35ff541": {
+   "en": "Emergent intelligence — quantity → quality",
+   "zh": "智能涌现：量变到质变",
+   "cls": "span.lbl"
+  },
+  "64fcf43a02": {
+   "en": "Big data: ≥ 10¹¹ tokens",
+   "zh": "大数据：≥ 10¹¹ 个 token",
+   "cls": "li"
+  },
+  "0190855f38": {
+   "en": "Large compute: ≥ 10³ A100 cards",
+   "zh": "大算力：≥ 10³ 张 A100 卡",
+   "cls": "li"
+  },
+  "a3122b3f21": {
+   "en": "Large parameters: ≥ 10¹¹ parameters",
+   "zh": "大参数：≥ 10¹¹ 个参数",
+   "cls": "li"
+  },
+  "399bcbce36": {
+   "en": "Power-law scaling — loss falls predictably as model / data / compute grow; emergence at scale.",
+   "zh": "幂律缩放：随着模型 / 数据 / 算力增长，损失可预测地下降；规模达到一定程度后出现涌现。",
+   "cls": "figcaption"
+  },
+  "85731cdf25": {
+   "en": "Technical Nature of Large Models: Generative Compression",
+   "zh": "Technical Nature of Large Models: Generative Compression",
+   "cls": "attr:data-toc"
+  },
+  "6ed6babd3a": {
+   "en": "{1}Large Models strategy{/1} · generative compression",
+   "zh": "{1}大模型战略{/1} · 生成式压缩",
+   "cls": "div.byline"
+  },
+  "9c68ea57cb": {
+   "en": "Core idea",
+   "zh": "核心思想",
+   "cls": "span.lbl"
+  },
+  "2da0794b3f": {
+   "en": "Autoregressive LLM training compresses massive text into a model file (example: Llama 2 70B)",
+   "zh": "自回归大语言模型的训练把海量文本压缩进一个模型文件（例如 Llama 2 70B）",
+   "cls": "li"
+  },
+  "596c669a23": {
+   "en": "The compression pipeline (corpus → compute → model)",
+   "zh": "压缩流水线（语料 → 算力 → 模型）",
+   "cls": "span.lbl"
+  },
+  "2bb3baf581": {
+   "en": "Corpus: ~10 TB of mostly-Internet text",
+   "zh": "语料：约 10 TB，主要是互联网文本",
+   "cls": "li"
+  },
+  "aff008b07e": {
+   "en": "Compute: ~6,000 GPUs, ~1e24 FLOPs",
+   "zh": "算力：约 6,000 块 GPU，约 1e24 FLOPs",
+   "cls": "li"
+  },
+  "121bf7adf3": {
+   "en": "Model: 70B parameters, ~140 GB file",
+   "zh": "模型：70B 参数，文件约 140 GB",
+   "cls": "li"
+  },
+  "750c2096f3": {
+   "en": "Why it matters",
+   "zh": "为何重要",
+   "cls": "span.lbl"
+  },
+  "0774321f2e": {
+   "en": "Hinton: ‘the essence of deep learning might be compression’",
+   "zh": "Hinton：“深度学习的本质可能就是压缩”",
+   "cls": "li"
+  },
+  "52d4a7aed8": {
+   "en": "Ilya Sutskever: ‘compression may be the essence of LLM learning’",
+   "zh": "Ilya Sutskever：“压缩可能就是大语言模型学习的本质”",
+   "cls": "li"
+  },
+  "76f05eafc8": {
+   "en": "Generative compression — ~10 TB of corpus compressed into a 140 GB, 70B-parameter model.",
+   "zh": "生成式压缩：约 10 TB 语料被压缩进一个 140 GB、70B 参数的模型。",
+   "cls": "figcaption"
+  },
+  "bd7c414a22": {
+   "en": "R&D Mode: Big Engineering × Disruptive Innovation",
+   "zh": "R&D Mode: Big Engineering × Disruptive Innovation",
+   "cls": "attr:data-toc"
+  },
+  "2ead1f1950": {
+   "en": "{1}Large Models strategy{/1} · R&D operating model",
+   "zh": "{1}大模型战略{/1} · 研发运作模式",
+   "cls": "div.byline"
+  },
+  "e8a102abff": {
+   "en": "Big engineering",
+   "zh": "大工程",
+   "cls": "span.lbl"
+  },
+  "a5551eaa24": {
+   "en": "Large-scale parameters, large compute, big data, and the training framework",
+   "zh": "大规模参数、大算力、大数据，以及训练框架",
+   "cls": "li"
+  },
+  "514f95bf63": {
+   "en": "Disruptive innovation",
+   "zh": "颠覆式创新",
+   "cls": "span.lbl"
+  },
+  "e217b21605": {
+   "en": "Emergent intelligence, architecture, trustworthiness, efficiency",
+   "zh": "智能涌现、架构、可信、效率",
+   "cls": "li"
+  },
+  "c019e5e243": {
+   "en": "Generalization — the product",
+   "zh": "泛化：最终产物",
+   "cls": "span.lbl"
+  },
+  "67f7976635": {
+   "en": "General tasks, general modalities, general scenarios — toward a world model",
+   "zh": "通用任务、通用模态、通用场景，迈向世界模型",
+   "cls": "li"
+  },
+  "f07ee239fb": {
+   "en": "Challenge: efficiently integrating big engineering with disruptive innovation on one platform",
+   "zh": "挑战：在同一个平台上高效整合大工程与颠覆式创新",
+   "cls": "li"
+  },
+  "a95151d281": {
+   "en": "Big engineering × disruptive innovation → generalization (toward a world model).",
+   "zh": "大工程 × 颠覆式创新 → 泛化（迈向世界模型）。",
+   "cls": "figcaption"
+  },
+  "53d0077915": {
+   "en": "The Year's Progress: Capability, Context, Trust & Cost",
+   "zh": "The Year's Progress: Capability, Context, Trust & Cost",
+   "cls": "attr:data-toc"
+  },
+  "63e5765b47": {
+   "en": "{1}2024 progress{/1} · capability · context · trust · cost",
+   "zh": "{1}2024 年进展{/1} · 能力 · 上下文 · 可信 · 成本",
+   "cls": "div.byline"
+  },
+  "80c96a88bf": {
+   "en": "Reasoning, math & coding",
+   "zh": "推理、数学与编程",
+   "cls": "span.lbl"
+  },
+  "d26a086903": {
+   "en": "GPT-4o markedly stronger on data, code and discipline tasks (vs GPT-4T, Claude 3 Opus, Gemini Ultra/Pro, Llama 3 400B)",
+   "zh": "GPT-4o 在数据、代码和学科任务上明显更强（对比 GPT-4T、Claude 3 Opus、Gemini Ultra/Pro、Llama 3 400B）",
+   "cls": "li"
+  },
+  "8a51348f4d": {
+   "en": "Closed-source leaders do better on harder math (primary → college tiers)",
+   "zh": "闭源领先模型在更难的数学题上表现更好（从小学到大学各层级）",
+   "cls": "li"
+  },
+  "66317be075": {
+   "en": "Context windows exploded",
+   "zh": "上下文窗口急剧扩大",
+   "cls": "span.lbl"
+  },
+  "9046d71278": {
+   "en": "2k (2022) → 32k+ (2023) → 100k–200k (Claude 3, GPT-4 Turbo) → 2M (KimiChat, Gemini 1.5 Pro) in ~18 months",
+   "zh": "2k（2022）→ 32k+（2023）→ 100k–200k（Claude 3、GPT-4 Turbo）→ 2M（KimiChat、Gemini 1.5 Pro），约 18 个月内完成",
+   "cls": "li"
+  },
+  "d67756e643": {
+   "en": "2M enables full-novel analysis and project-level code — ‘context windows vs memory’",
+   "zh": "2M 使整本小说分析和项目级代码成为可能：“上下文窗口 vs 记忆”",
+   "cls": "li"
+  },
+  "1ee03b5d56": {
+   "en": "Trust & cost",
+   "zh": "可信与成本",
+   "cls": "span.lbl"
+  },
+  "b46463e349": {
+   "en": "Fewer hallucinations: GPT-4o beats GPT-4V on HallusionBench (still open for multimodal)",
+   "zh": "更少的幻觉：GPT-4o 在 HallusionBench 上优于 GPT-4V（多模态方面仍有待解决）",
+   "cls": "li"
+  },
+  "2bb8fa3551": {
+   "en": "Cheaper & faster: GPT-4o 2× faster / 50% cheaper; Gemini 1.5 Flash 3× faster / up to 90% cheaper; cost ~$0.2–30 per 1M tokens",
+   "zh": "更便宜、更快：GPT-4o 快 2 倍 / 便宜 50%；Gemini 1.5 Flash 快 3 倍 / 最多便宜 90%；成本约为每 1M token 0.2–30 美元",
+   "cls": "li"
+  },
+  "fb6fd10b59": {
+   "en": "2024's progress: reasoning, exploding context windows, lower hallucination and falling inference cost.",
+   "zh": "2024 年的进展：推理、急剧扩大的上下文窗口、更低的幻觉率和不断下降的推理成本。",
+   "cls": "figcaption"
+  },
+  "0050155c2f": {
+   "en": "Future Outlook of Large Multi-Modality Models",
+   "zh": "Future Outlook of Large Multi-Modality Models",
+   "cls": "attr:data-toc"
+  },
+  "35c1083e65": {
+   "en": "{1}2024 progress{/1} · toward world models",
+   "zh": "{1}2024 年进展{/1} · 迈向世界模型",
+   "cls": "div.byline"
+  },
+  "930c757085": {
+   "en": "Three future directions",
+   "zh": "三个未来方向",
+   "cls": "span.lbl"
+  },
+  "46dbbcf034": {
+   "en": "Accurate perception of long-form content (e.g. understanding a two-hour movie)",
+   "zh": "准确感知长内容（例如理解一部两小时的电影）",
+   "cls": "li"
+  },
+  "bac73a8458": {
+   "en": "More modalities — from language / vision / audio to science: protein, DNA (AlphaFold)",
+   "zh": "更多模态：从语言 / 视觉 / 音频扩展到科学领域，如蛋白质、DNA（AlphaFold）",
+   "cls": "li"
+  },
+  "84cdaaeda5": {
+   "en": "A complete world model — dynamic multi-modal modeling and prediction",
+   "zh": "完整的世界模型：动态多模态建模与预测",
+   "cls": "li"
+  },
+  "97225a73a7": {
+   "en": "Toward multimodal world models — long-video understanding and scientific modalities (AlphaFold).",
+   "zh": "迈向多模态世界模型：长视频理解和科学模态（AlphaFold）。",
+   "cls": "figcaption"
+  },
+  "c974b6eb6b": {
+   "en": "Open-Source Reference Point: InternLM2",
+   "zh": "Open-Source Reference Point: InternLM2",
+   "cls": "attr:data-toc"
+  },
+  "557830e2cc": {
+   "en": "{1}open-source reference{/1} · InternLM2",
+   "zh": "{1}开源参照点{/1} · InternLM2",
+   "cls": "div.byline"
+  },
+  "f3798f81c7": {
+   "en": "Models",
+   "zh": "模型",
+   "cls": "span.lbl"
+  },
+  "458e38568e": {
+   "en": "7B: beats same-size open-source models, surpassing Google Gemma",
+   "zh": "7B：超越同规模开源模型，也超过 Google Gemma",
+   "cls": "li"
+  },
+  "53bcb60e56": {
+   "en": "20B: handles complex scenarios; rivals GPT-3.5 on key capabilities",
+   "zh": "20B：可处理复杂场景；关键能力上可与 GPT-3.5 相当",
+   "cls": "li"
+  },
+  "3886c78d38": {
+   "en": "Full-chain open-source toolchain",
+   "zh": "全链路开源工具链",
+   "cls": "span.lbl"
+  },
+  "adb39a5abe": {
+   "en": "Five stages: data processing, pre-training, fine-tuning, deployment, evaluation",
+   "zh": "五个阶段：数据处理、预训练、微调、部署、评估",
+   "cls": "li"
+  },
+  "1fbc28dee8": {
+   "en": "Context 20k → 1M, tool calling, strong math / data analysis",
+   "zh": "上下文从 20k 扩展到 1M，支持工具调用，数学 / 数据分析能力强",
+   "cls": "li"
+  },
+  "8753276b02": {
+   "en": "Repo: github.com/InternLM/InternLM",
+   "zh": "代码仓库：github.com/InternLM/InternLM",
+   "cls": "li"
+  },
+  "acf293b558": {
+   "en": "InternLM2 — 7B / 20B capability and a five-stage, full-chain open-source toolchain.",
+   "zh": "InternLM2：7B / 20B 的能力，以及五阶段全链路开源工具链。",
+   "cls": "figcaption"
+  },
+  "1b57d4fb77": {
+   "en": "Large-Model Evolution vs Biological Intelligence",
+   "zh": "Large-Model Evolution vs Biological Intelligence",
+   "cls": "attr:data-toc"
+  },
+  "881231d243": {
+   "en": "{1}closing reflections{/1} · evolution analogy & efficiency",
+   "zh": "{1}总结思考{/1} · 进化类比与效率",
+   "cls": "div.byline"
+  },
+  "792c136e8b": {
+   "en": "LM evolution mirrors biology",
+   "zh": "语言模型的演化与生物学相呼应",
+   "cls": "span.lbl"
+  },
+  "9924cb7195": {
+   "en": "LLM ↔ invertebrates (~500M yrs); multimodal ↔ mammals (~200M yrs); embodied ↔ humans (~3M yrs)",
+   "zh": "大语言模型 ↔ 无脊椎动物（约 500M 年）；多模态 ↔ 哺乳动物（约 200M 年）；具身 ↔ 人类（约 3M 年）",
+   "cls": "li"
+  },
+  "2c9a2c0de2": {
+   "en": "Examples: ChatGPT → Gemini / InternMultiModal → RT-2, GR-1, FIGURE",
+   "zh": "示例：ChatGPT → Gemini / InternMultiModal → RT-2、GR-1、FIGURE",
+   "cls": "li"
+  },
+  "2a05859567": {
+   "en": "Is vision harder than language?",
+   "zh": "视觉比语言更难吗？",
+   "cls": "span.lbl"
+  },
+  "d9097bd2a7": {
+   "en": "Neurons vision:language ≈ 10:1; vision evolved ~500M yrs vs language ~250k yrs",
+   "zh": "视觉与语言的神经元数量比约为 10:1；视觉已进化约 500M 年，语言约 250k 年",
+   "cls": "li"
+  },
+  "5f56f65a2c": {
+   "en": "Lifetime info: ~2B words (language) vs ~90T tokens (vision) — do vision modalities have different scaling laws?",
+   "zh": "一生接触的信息量：约 2B 个词（语言）对约 90T 个 token（视觉）：视觉模态的缩放定律是否不同？",
+   "cls": "li"
+  },
+  "b7a45727ca": {
+   "en": "Chain-wide co-optimization",
+   "zh": "全链路协同优化",
+   "cls": "span.lbl"
+  },
+  "ea571b862f": {
+   "en": "Innovation spans chip, interconnect, framework, data, model, evaluation, deployment",
+   "zh": "创新涵盖芯片、互连、框架、数据、模型、评估和部署",
+   "cls": "li"
+  },
+  "0f4f9770b0": {
+   "en": "A Chip ↔ Model ↔ Interconnection triangle to maximize full-chain energy efficiency",
+   "zh": "芯片 ↔ 模型 ↔ 互连三角，以最大化全链路能效",
+   "cls": "li"
+  },
+  "862a7d3010": {
+   "en": "Is vision harder than language? Neurons, evolution time and lifetime information compared.",
+   "zh": "视觉比语言更难吗？对神经元数量、进化时间和一生接触的信息量进行了比较。",
+   "cls": "figcaption"
+  },
+  "f1a4b4a52d": {
+   "en": "From Human Intelligence to AI 2.0",
+   "zh": "From Human Intelligence to AI 2.0",
+   "cls": "attr:data-toc"
+  },
+  "5d269bf7a3": {
+   "en": "{1}Yu Wang et al.{/1} · Tsinghua NICS-efc · AI 1.0 → AI 2.0",
+   "zh": "{1}Yu Wang et al.{/1} · Tsinghua NICS-efc · AI 1.0 → AI 2.0",
+   "cls": "div.byline"
+  },
+  "453c5e9d6a": {
+   "en": "Two systems of thought (Kahneman)",
+   "zh": "两种思维系统（Kahneman）",
+   "cls": "span.lbl"
+  },
+  "80f9426d88": {
+   "en": "System 1: fast, automatic, intuitive (perception)",
+   "zh": "系统 1：快速、自动、直觉式（感知）",
+   "cls": "li"
+  },
+  "704668fae3": {
+   "en": "System 2: slow, analytical, reasoning (cognition) — from ‘Thinking, Fast and Slow’",
+   "zh": "系统 2：缓慢、分析式、推理式（认知），出自《Thinking, Fast and Slow》",
+   "cls": "li"
+  },
+  "151f21c3f8": {
+   "en": "AI 1.0 → AI 2.0",
+   "zh": "AI 1.0 → AI 2.0",
+   "cls": "pptx"
+  },
+  "4dde09a2bf": {
+   "en": "AI 1.0 (perceptive): dedicated discriminative models (CNN / RNN) — ‘based on fitting’",
+   "zh": "AI 1.0（感知型）：专用的判别式模型（CNN / RNN），“基于拟合”",
+   "cls": "li"
+  },
+  "60743f6eac": {
+   "en": "AI 2.0 (cognitive): general generative models; a Transformer-based LLM as the foundation model for general multimodal tasks",
+   "zh": "AI 2.0（认知型）：通用生成式模型；以基于 Transformer 的大语言模型作为通用多模态任务的基础模型",
+   "cls": "li"
+  },
+  "a60b60aaf7": {
+   "en": "System 1 / System 2 thinking (Kahneman) and the shift from AI 1.0 to AI 2.0.",
+   "zh": "系统 1 / 系统 2 思维（Kahneman）以及从 AI 1.0 到 AI 2.0 的转变。",
+   "cls": "figcaption"
+  },
+  "89eee95893": {
+   "en": "Domain-Specific Small Models (Infini-3B)",
+   "zh": "Domain-Specific Small Models (Infini-3B)",
+   "cls": "attr:data-toc"
+  },
+  "d24af41976": {
+   "en": "{1}systems & efficiency{/1} · small models that beat LLMs",
+   "zh": "{1}系统与效率{/1} · 胜过大语言模型的小模型",
+   "cls": "div.byline"
+  },
+  "57589ad44e": {
+   "en": "Small models can surpass LLMs",
+   "zh": "小模型可以超越大语言模型",
+   "cls": "span.lbl"
+  },
+  "668f669de5": {
+   "en": "Soft-hardware co-optimization + scenario customization let small models beat larger ones",
+   "zh": "软硬件协同优化 + 场景定制，使小模型胜过更大的模型",
+   "cls": "li"
+  },
+  "cbd9a0e382": {
+   "en": "Infini-3B: 3B parameters with 7B-class performance (>50% fewer params); +15% inference vs Llama-2-7B; long context & agents",
+   "zh": "Infini-3B：3B 参数，达到 7B 级性能（参数减少 >50%）；推理比 Llama-2-7B 提升 15%；支持长上下文和智能体",
+   "cls": "li"
+  },
+  "0c81abc87b": {
+   "en": "How",
+   "zh": "如何做到",
+   "cls": "span.lbl"
+  },
+  "d75e434d99": {
+   "en": "Scenario-customized training closes the gap with ultra-large models",
+   "zh": "场景定制训练缩小了与超大模型的差距",
+   "cls": "li"
+  },
+  "acabba33bf": {
+   "en": "High-fidelity quantization for cross-platform deployment; edge-cloud collaboration unlocks more apps",
+   "zh": "高保真量化实现跨平台部署；端云协同解锁更多应用",
+   "cls": "li"
+  },
+  "30b32aa2df": {
+   "en": "Infini-3B — 3B parameters with 7B-class performance (>50% fewer parameters).",
+   "zh": "Infini-3B：3B 参数，达到 7B 级性能（参数减少 >50%）。",
+   "cls": "figcaption"
+  },
+  "e1a449ca0a": {
+   "en": "Accelerating Distributed MoE & the All-to-All Bottleneck",
+   "zh": "Accelerating Distributed MoE & the All-to-All Bottleneck",
+   "cls": "attr:data-toc"
+  },
+  "9d1b440356": {
+   "en": "{1}CAS / ICT · NICS-efc{/1} · distributed Mixture-of-Experts",
+   "zh": "{1}CAS / ICT · NICS-efc{/1} · 分布式混合专家（Mixture-of-Experts）",
+   "cls": "div.byline"
+  },
+  "76e14f3ba5": {
+   "en": "MoE in Transformers",
+   "zh": "Transformer 中的 MoE",
+   "cls": "span.lbl"
+  },
+  "331da2db91": {
+   "en": "FFN layers are replaced by MoE layers = gate + experts; each expert is an FFN with distinct parameters",
+   "zh": "FFN 层被 MoE 层取代，MoE 层 = 门控 + 专家；每个专家都是一个参数各不相同的 FFN",
+   "cls": "li"
+  },
+  "4c9e267c45": {
+   "en": "The gate selects experts per sample (Top-2 in training, Top-1 in inference); a load-balancing loss keeps experts even",
+   "zh": "门控按样本选择专家（训练时 Top-2，推理时 Top-1）；负载均衡损失使各专家负载均匀",
+   "cls": "li"
+  },
+  "9127eca118": {
+   "en": "Distributed MoE (hybrid parallelism)",
+   "zh": "分布式 MoE（混合并行）",
+   "cls": "span.lbl"
+  },
+  "7fb8ddfce3": {
+   "en": "Expert parallelism: one unique expert per device; data parallelism replicates the non-expert parameters",
+   "zh": "专家并行：每个设备一个独有的专家；数据并行复制非专家参数",
+   "cls": "li"
+  },
+  "a070c3a845": {
+   "en": "All-to-all communication sends samples to experts and restores them — equal-sized both ways, the core distributed cost",
+   "zh": "All-to-all 通信把样本发送给专家并再还原回来——两个方向数据量相等，是分布式的核心开销",
+   "cls": "li"
+  },
+  "b501005fde": {
+   "en": "Distributed MoE — expert / data parallelism and the two all-to-all communication passes.",
+   "zh": "分布式 MoE——专家并行 / 数据并行以及两次 all-to-all 通信。",
+   "cls": "figcaption"
+  },
+  "7a7c128b79": {
+   "en": "Memory Capacity & DLRM Motivation",
+   "zh": "Memory Capacity & DLRM Motivation",
+   "cls": "attr:data-toc"
+  },
+  "1617eaa43b": {
+   "en": "{1}systems engineering{/1} · memory sharding · DLRM",
+   "zh": "{1}系统工程{/1} · 显存分片 · DLRM",
+   "cls": "div.byline"
+  },
+  "52df9170e3": {
+   "en": "GPU memory is the limit",
+   "zh": "GPU 显存是瓶颈",
+   "cls": "span.lbl"
+  },
+  "5e324484fb": {
+   "en": "Models far exceed GPU memory (BERT 220MB, Llama-2 13GB, GPT-3 350GB, GPT-4 3.52TB) → shard parameters, optimizer states and gradients",
+   "zh": "模型远超 GPU 显存（BERT 220MB，Llama-2 13GB，GPT-3 350GB，GPT-4 3.52TB）→ 对参数、优化器状态和梯度进行分片",
+   "cls": "li"
+  },
+  "667743415c": {
+   "en": "All-Gather params before the forward pass, Reduce-Scatter gradients after backward (DeepSpeed, Megatron-LM, HF Transformers)",
+   "zh": "前向传播前对参数执行 All-Gather，反向传播后对梯度执行 Reduce-Scatter（DeepSpeed、Megatron-LM、HF Transformers）",
+   "cls": "li"
+  },
+  "2bb9556adb": {
+   "en": "DLRM recommendation models",
+   "zh": "DLRM 推荐模型",
+   "cls": "span.lbl"
+  },
+  "7b7175b031": {
+   "en": "DLRM mixes categorical + numerical inputs; huge embedding tables force model parallelism",
+   "zh": "DLRM 混合类别型与数值型输入；庞大的 embedding 表迫使采用模型并行",
+   "cls": "li"
+  },
+  "2d054816aa": {
+   "en": "Also all-to-all bound (forward & backward); a ‘butterfly shuffle’ and time breakdown show communication dominates compute",
+   "zh": "同样受限于 all-to-all（前向与反向）；“蝶形混洗”和时间分解表明通信开销超过计算",
+   "cls": "li"
+  },
+  "90740697f1": {
+   "en": "Sharding parameters and gradients (All-Gather / Reduce-Scatter) to fit models beyond GPU memory.",
+   "zh": "对参数和梯度分片（All-Gather / Reduce-Scatter），使超出 GPU 显存的模型也能运行。",
+   "cls": "figcaption"
+  },
+  "200d93941a": {
+   "en": "04 · Conclusions",
+   "zh": "04 · 结论",
+   "cls": "div.kicker"
+  },
+  "762a799bdd": {
+   "en": "Synthesis across the workshop",
+   "zh": "整个研讨会的综合",
+   "cls": "h2"
+  },
+  "716f3fa8e1": {
+   "en": "Trends",
+   "zh": "趋势",
+   "cls": "h4"
+  },
+  "e7b0d19998": {
+   "en": "Two laws anchor LLMs: power-law scaling (L ≈ A·N^−α + B·D^−β + E) and training-as-lossy-compression (10 TB → 140 GB for Llama-2-70B).",
+   "zh": "两条规律支撑大语言模型：幂律扩展（L ≈ A·N^−α + B·D^−β + E）和作为有损压缩的训练（Llama-2-70B 从 10 TB 压缩到 140 GB）。",
+   "cls": "li"
+  },
+  "2dbdc56f3d": {
+   "en": "2024's gains are measurable: stronger reasoning / math / coding, context 2k → 2M, lower hallucination, inference cost down 50–90%.",
+   "zh": "2024 年的进步可以衡量：推理 / 数学 / 编程能力更强，上下文从 2k 增至 2M，幻觉减少，推理成本下降 50–90%。",
+   "cls": "li"
+  },
+  "7ce9d67497": {
+   "en": "Distributed all-to-all communication (MoE & DLRM) is the dominant bottleneck; models (GPT-4 ~3.52 TB) far exceed single-GPU memory.",
+   "zh": "分布式 all-to-all 通信（MoE 和 DLRM）是主要瓶颈；模型（GPT-4 约 3.52 TB）远超单块 GPU 的显存。",
+   "cls": "li"
+  },
+  "40b0906c4f": {
+   "en": "Vision",
+   "zh": "愿景",
+   "cls": "h4"
+  },
+  "6c2c9ded30": {
+   "en": "The frontier is multimodal ‘world models’ — scientific modalities (protein / DNA), long-video understanding, embodied AI.",
+   "zh": "前沿是多模态“世界模型”——科学模态（蛋白质 / DNA）、长视频理解、具身智能。",
+   "cls": "li"
+  },
+  "281cfbd5cd": {
+   "en": "A bio-evolution analogy: LLM → multimodal → embodied ≈ invertebrate → mammal → human; vision may have different scaling laws.",
+   "zh": "生物进化类比：大语言模型 → 多模态 → 具身 ≈ 无脊椎动物 → 哺乳动物 → 人类；视觉可能有不同的扩展规律。",
+   "cls": "li"
+  },
+  "52cdf55ea3": {
+   "en": "Domain-specific small models (Infini-3B) + quantization + edge-cloud as a practical efficiency path.",
+   "zh": "领域专用小模型（Infini-3B）+ 量化 + 端云协同，是切实可行的效率路径。",
+   "cls": "li"
+  },
+  "5d8c81594f": {
+   "en": "Implications for us",
+   "zh": "对我们的启示",
+   "cls": "h4"
+  },
+  "adb3c1dcfa": {
+   "en": "Efficiency is a systems problem: chip↔model↔interconnect co-design and distributed-MoE acceleration are the key platform bets.",
+   "zh": "效率是系统问题：芯片↔模型↔互连的协同设计和分布式 MoE 加速是关键的平台押注。",
+   "cls": "li"
+  },
+  "0218b8ffae": {
+   "en": "Invest in long-context / memory mechanisms and trustworthiness (hallucination reduction).",
+   "zh": "投入长上下文 / 记忆机制和可信性（减少幻觉）。",
+   "cls": "li"
+  },
+  "65188026db": {
+   "en": "Treat distributed training (sharding, all-to-all optimization) as first-class for scaling.",
+   "zh": "把分布式训练（分片、all-to-all 优化）作为扩展规模的一等公民。",
+   "cls": "li"
+  },
+  "2b92ebc383": {
+   "en": "05 · References",
+   "zh": "05 · 参考文献",
+   "cls": "div.kicker"
+  },
+  "675f04727d": {
+   "en": "References & sources",
+   "zh": "参考文献与来源",
+   "cls": "h2"
+  },
+  "7e6e67aeb2": {
+   "en": "© 2026 {1}ALI{/1} — {2}Tech Insight{/2} v1.3.0",
+   "zh": "© 2026 {1}ALI{/1} — {2}Tech Insight{/2} v1.3.0",
+   "cls": "div.site-copyright"
+  },
+  "5c23ad8088": {
+   "en": "Huawei 2024 — Large Models Strategy Workshop — Tech Insight Report",
+   "zh": "Huawei 2024 — Large Models Strategy Workshop — Tech Insight 报告",
+   "cls": "doctitle"
+  },
+  "ee45c30326": {
+   "en": "Report",
+   "zh": "报告",
+   "cls": "div.kicker"
+  },
+  "41d2f769d5": {
+   "en": "Huawei 2024 — Large Models Strategy Workshop",
+   "zh": "Huawei 2024 — Large Models Strategy Workshop",
+   "cls": "h1"
+  },
+  "d1e2650508": {
+   "en": "Huawei Strategy Workshop — Large Models & Distributed Systems · Shenzhen & Dongguan, China · May 2024",
+   "zh": "华为战略研讨会 — 大模型与分布式系统 · 中国深圳和东莞 · 2024 年 5 月",
+   "cls": "p.topic"
+  },
+  "13b8fe38a9": {
+   "en": "Workshop",
+   "zh": "研讨会",
+   "cls": "attr:data-toc"
+  },
+  "f5cbdf6bfb": {
+   "en": "Contents",
+   "zh": "目录",
+   "cls": "attr:data-toc"
+  },
+  "b4e6a31089": {
+   "en": "Intro",
+   "zh": "简介",
+   "cls": "attr:data-group"
+  },
+  "e45c8e1311": {
+   "en": "Workshop at a glance",
+   "zh": "研讨会概览",
+   "cls": "attr:data-toc"
+  },
+  "e150803231": {
+   "en": "Huawei Strategy Workshop — Large Models & Distributed Systems — Shenzhen & Dongguan, China",
+   "zh": "华为战略研讨会 — 大模型与分布式系统 — 中国深圳和东莞",
+   "cls": "h2"
+  },
+  "83f7a620ae": {
+   "en": "Insight 01 · Why large models work",
+   "zh": "洞察 01 · 大模型为何有效",
+   "cls": "div.kicker"
+  },
+  "66e91ce931": {
+   "en": "Insight 02 · Why large models work",
+   "zh": "洞察 02 · 大模型为何有效",
+   "cls": "div.kicker"
+  },
+  "add4819542": {
+   "en": "Insight 03 · Why large models work",
+   "zh": "洞察 03 · 大模型为何有效",
+   "cls": "div.kicker"
+  },
+  "4d9d0d3e44": {
+   "en": "Insight 04 · 2024 progress & the road ahead",
+   "zh": "洞察 04 · 2024 年进展与前路",
+   "cls": "div.kicker"
+  },
+  "f59303dde1": {
+   "en": "Insight 05 · 2024 progress & the road ahead",
+   "zh": "洞察 05 · 2024 年进展与前路",
+   "cls": "div.kicker"
+  },
+  "b56c6f9ca3": {
+   "en": "Insight 06 · 2024 progress & the road ahead",
+   "zh": "洞察 06 · 2024 年进展与前路",
+   "cls": "div.kicker"
+  },
+  "2bb6973d44": {
+   "en": "Insight 07 · 2024 progress & the road ahead",
+   "zh": "洞察 07 · 2024 年进展与前路",
+   "cls": "div.kicker"
+  },
+  "1b415a7982": {
+   "en": "Insight 08 · Systems: distributed training & MoE",
+   "zh": "洞察 08 · 系统：分布式训练与 MoE",
+   "cls": "div.kicker"
+  },
+  "63728aa8c5": {
+   "en": "Insight 09 · Systems: distributed training & MoE",
+   "zh": "洞察 09 · 系统：分布式训练与 MoE",
+   "cls": "div.kicker"
+  },
+  "349d3c2ba9": {
+   "en": "Insight 10 · Systems: distributed training & MoE",
+   "zh": "洞察 10 · 系统：分布式训练与 MoE",
+   "cls": "div.kicker"
+  },
+  "5016a2ed45": {
+   "en": "Insight 11 · Systems: distributed training & MoE",
+   "zh": "洞察 11 · 系统：分布式训练与 MoE",
+   "cls": "div.kicker"
+  },
+  "b536777ff1": {
+   "en": "Conclusions",
+   "zh": "结论",
+   "cls": "attr:data-toc"
+  },
+  "899f1dbba8": {
+   "en": "<div class=\"fit\"><div class=\"concl\"><div class=\"col c1\"><h4>Trends</h4><ul><li>Two laws anchor LLMs: power-law scaling (L ≈ A·N^−α + B·D^−β + E) and training-as-lossy-compression (10 TB → 140 GB for Llama-2-70B).</li><li>2024's gains are measurable: stronger reasoning / math / coding, context 2k → 2M, lower hallucination, inference cost down 50–90%.</li><li>Distributed all-to-all communication (MoE & DLRM) is the dominant bottleneck; models (GPT-4 ~3.52 TB) far exceed single-GPU memory.</li></ul></div><div class=\"col c2\"><h4>Vision</h4><ul><li>The frontier is multimodal ‘world models’ — scientific modalities (protein / DNA), long-video understanding, embodied AI.</li><li>A bio-evolution analogy: LLM → multimodal → embodied ≈ invertebrate → mammal → human; vision may have different scaling laws.</li><li>Domain-specific small models (Infini-3B) + quantization + edge-cloud as a practical efficiency path.</li></ul></div><div class=\"col c3\"><h4>Implications for us</h4><ul><li>Efficiency is a systems problem: chip↔model↔interconnect co-design and distributed-MoE acceleration are the key platform bets.</li><li>Invest in long-context / memory mechanisms and trustworthiness (hallucination reduction).</li><li>Treat distributed training (sharding, all-to-all optimization) as first-class for scaling.</li></ul></div></div></div>",
+   "zh": "<div class=\"fit\"><div class=\"concl\"><div class=\"col c1\"><h4>趋势</h4><ul><li>两条规律支撑大语言模型：幂律扩展（L ≈ A·N^−α + B·D^−β + E）和作为有损压缩的训练（Llama-2-70B 从 10 TB 压缩到 140 GB）。</li><li>2024 年的进步可以衡量：推理 / 数学 / 编程能力更强，上下文从 2k 增至 2M，幻觉减少，推理成本下降 50–90%。</li><li>分布式 all-to-all 通信（MoE & DLRM）是主要瓶颈；模型（GPT-4 约 3.52 TB）远超单块 GPU 的显存。</li></ul></div><div class=\"col c2\"><h4>愿景</h4><ul><li>前沿是多模态“世界模型”——科学模态（蛋白质 / DNA）、长视频理解、具身智能。</li><li>生物进化类比：大语言模型 → 多模态 → 具身 ≈ 无脊椎动物 → 哺乳动物 → 人类；视觉可能有不同的扩展规律。</li><li>领域专用小模型（Infini-3B）+ 量化 + 端云协同，是切实可行的效率路径。</li></ul></div><div class=\"col c3\"><h4>对我们的启示</h4><ul><li>效率是系统问题：芯片↔模型↔互连的协同设计和分布式 MoE 加速是关键的平台押注。</li><li>投入长上下文 / 记忆机制和可信性（减少幻觉）。</li><li>把分布式训练（分片、all-to-all 优化）作为扩展规模的一等公民。</li></ul></div></div></div>",
+   "cls": "section.slide"
+  },
+  "fa39f733bd": {
+   "en": "Wrap-up",
+   "zh": "总结",
+   "cls": "attr:data-group"
+  },
+  "b2ec1abf35": {
+   "en": "Contents (T)",
+   "zh": "目录 (T)",
+   "cls": "button.toc-btn"
+  },
+  "77c8125996": {
+   "en": "Huawei 2024 — Large Models Strategy Workshop — Tech Insight Slides",
+   "zh": "Huawei 2024 — Large Models Strategy Workshop — Tech Insight 幻灯片",
+   "cls": "doctitle"
+  },
+  "4718b93d9d": {
+   "en": "Tech Insight",
+   "zh": "Tech Insight",
+   "cls": "pptx"
+  },
+  "88aa4763ef": {
+   "en": "Tech Insight Report",
+   "zh": "Tech Insight 报告",
+   "cls": "pptx"
+  },
+  "3eee17172c": {
+   "en": "Shenzhen & Dongguan, China · May 2024",
+   "zh": "中国深圳和东莞 · 2024 年 5 月",
+   "cls": "pptx"
+  },
+  "d219c68101": {
+   "en": "Location",
+   "zh": "地点",
+   "cls": "pptx"
+  },
+  "dbaae2357d": {
+   "en": "Shenzhen & Dongguan, China",
+   "zh": "中国深圳和东莞",
+   "cls": "pptx"
+  },
+  "eb9a4bc1c0": {
+   "en": "Date",
+   "zh": "日期",
+   "cls": "pptx"
+  },
+  "a4fd8dee38": {
+   "en": "May 2024",
+   "zh": "2024 年 5 月",
+   "cls": "pptx"
+  },
+  "fe7f55b8bf": {
+   "en": "Focus",
+   "zh": "主题",
+   "cls": "pptx"
+  },
+  "3bdfa780d3": {
+   "en": "Large Models — Scaling, Capabilities & Distributed Systems",
+   "zh": "大模型——扩展规律、能力与分布式系统",
+   "cls": "pptx"
+  },
+  "c7fb4a1c86": {
+   "en": "CONTENTS",
+   "zh": "目录",
+   "cls": "pptx"
+  },
+  "e9681cbeab": {
+   "en": "WORKSHOP AT A GLANCE",
+   "zh": "研讨会概览",
+   "cls": "pptx"
+  },
+  "aff990e57e": {
+   "en": "Shenzhen · Dongguan",
+   "zh": "深圳 · 东莞",
+   "cls": "pptx"
+  },
+  "82069bb9df": {
+   "en": "Huawei",
+   "zh": "华为",
+   "cls": "pptx"
+  },
+  "38216d4c0f": {
+   "en": "strategy workshop",
+   "zh": "战略研讨会",
+   "cls": "pptx"
+  },
+  "2596937e78": {
+   "en": "11 topics",
+   "zh": "11 个主题",
+   "cls": "pptx"
+  },
+  "b60b724a2a": {
+   "en": "deep-dived here",
+   "zh": "在此深入解读",
+   "cls": "pptx"
+  },
+  "ccbe2dd5d6": {
+   "en": "Large models",
+   "zh": "大模型",
+   "cls": "pptx"
+  },
+  "58593fe5a5": {
+   "en": "the theme",
+   "zh": "主题",
+   "cls": "pptx"
+  },
+  "a95d4af448": {
+   "en": "About: An internal Huawei AI strategy workshop surveying large-model fundamentals, 2024 progress, and the distributed-systems engineering (MoE) behind training at scale. Slides reference Pangu, Tsinghua NICS-efc and CAS / ICT.",
+   "zh": "关于：华为内部的 AI 战略研讨会，综述大模型基础、2024 年进展，以及支撑大规模训练的分布式系统工程（MoE）。幻灯片涉及盘古、清华 NICS-efc 和 CAS / ICT。",
+   "cls": "pptx"
+  },
+  "abfa54534f": {
+   "en": "INSIGHT 01 · Why large models work",
+   "zh": "洞察 01 · 大模型为何有效",
+   "cls": "pptx"
+  },
+  "715776cbd1": {
+   "en": "Large Models strategy · scaling laws & emergence",
+   "zh": "大模型战略 · 扩展规律与涌现",
+   "cls": "pptx"
+  },
+  "49ee7d42c8": {
+   "en": "POWER SCALING LAWS",
+   "zh": "幂律扩展规律",
+   "cls": "pptx"
+  },
+  "c79e807864": {
+   "en": "• Model performance (loss, accuracy) improves linearly as resources (data, parameters, compute) grow exponentially",
+   "zh": "• 随着资源（数据、参数、算力）呈指数增长，模型性能（损失、准确率）线性提升",
+   "cls": "pptx"
+  },
+  "f9706e0f23": {
+   "en": "• Loss ≈ A·N^(−α) + B·D^(−β) + E, where N = model size and D = data scale",
+   "zh": "• Loss ≈ A·N^(−α) + B·D^(−β) + E，其中 N = 模型规模，D = 数据规模",
+   "cls": "pptx"
+  },
+  "290990ea1e": {
+   "en": "• Loss-vs-size curves hold across parameter counts",
+   "zh": "• 损失-规模曲线在不同参数量下均成立",
+   "cls": "pptx"
+  },
+  "4faf470ec6": {
+   "en": "EMERGENT INTELLIGENCE — QUANTITY → QUALITY",
+   "zh": "智能涌现——量变到质变",
+   "cls": "pptx"
+  },
+  "bbdc476b95": {
+   "en": "• Big data: ≥ 10¹¹ tokens",
+   "zh": "• 大数据：≥ 10¹¹ 个 token",
+   "cls": "pptx"
+  },
+  "aec6334ca0": {
+   "en": "• Large compute: ≥ 10³ A100 cards",
+   "zh": "• 大算力：≥ 10³ 张 A100 卡",
+   "cls": "pptx"
+  },
+  "eac6059085": {
+   "en": "• Large parameters: ≥ 10¹¹ parameters",
+   "zh": "• 大参数：≥ 10¹¹ 个参数",
+   "cls": "pptx"
+  },
+  "1494db73ad": {
+   "en": "INSIGHT 02 · Why large models work",
+   "zh": "洞察 02 · 大模型为何有效",
+   "cls": "pptx"
+  },
+  "3ffcdd3637": {
+   "en": "Large Models strategy · generative compression",
+   "zh": "大模型战略 · 生成式压缩",
+   "cls": "pptx"
+  },
+  "47e0a7b9de": {
+   "en": "CORE IDEA",
+   "zh": "核心思想",
+   "cls": "pptx"
+  },
+  "4df06ea69e": {
+   "en": "• Autoregressive LLM training compresses massive text into a model file (example: Llama 2 70B)",
+   "zh": "• 自回归大语言模型训练把海量文本压缩成一个模型文件（例：Llama 2 70B）",
+   "cls": "pptx"
+  },
+  "8edecc8914": {
+   "en": "THE COMPRESSION PIPELINE (CORPUS → COMPUTE → MODEL)",
+   "zh": "压缩流水线（语料 → 算力 → 模型）",
+   "cls": "pptx"
+  },
+  "533c39d6c2": {
+   "en": "• Corpus: ~10 TB of mostly-Internet text",
+   "zh": "• 语料：约 10 TB，主要是互联网文本",
+   "cls": "pptx"
+  },
+  "840f095889": {
+   "en": "• Compute: ~6,000 GPUs, ~1e24 FLOPs",
+   "zh": "• 算力：约 6,000 块 GPU，约 1e24 FLOPs",
+   "cls": "pptx"
+  },
+  "477463c27b": {
+   "en": "• Model: 70B parameters, ~140 GB file",
+   "zh": "• 模型：700 亿参数，约 140 GB 文件",
+   "cls": "pptx"
+  },
+  "695aeb5a87": {
+   "en": "WHY IT MATTERS",
+   "zh": "意义",
+   "cls": "pptx"
+  },
+  "b6d314b137": {
+   "en": "• Hinton: ‘the essence of deep learning might be compression’",
+   "zh": "• Hinton：“深度学习的本质可能就是压缩”",
+   "cls": "pptx"
+  },
+  "568389063d": {
+   "en": "• Ilya Sutskever: ‘compression may be the essence of LLM learning’",
+   "zh": "• Ilya Sutskever：“压缩可能是大语言模型学习的本质”",
+   "cls": "pptx"
+  },
+  "b595892e25": {
+   "en": "INSIGHT 03 · Why large models work",
+   "zh": "洞察 03 · 大模型为何有效",
+   "cls": "pptx"
+  },
+  "709c52cb9e": {
+   "en": "Large Models strategy · R&D operating model",
+   "zh": "大模型战略 · 研发运作模式",
+   "cls": "pptx"
+  },
+  "3777df6af9": {
+   "en": "BIG ENGINEERING",
+   "zh": "大工程",
+   "cls": "pptx"
+  },
+  "88411da8f4": {
+   "en": "• Large-scale parameters, large compute, big data, and the training framework",
+   "zh": "• 大规模参数、大算力、大数据和训练框架",
+   "cls": "pptx"
+  },
+  "26fa701b53": {
+   "en": "DISRUPTIVE INNOVATION",
+   "zh": "颠覆性创新",
+   "cls": "pptx"
+  },
+  "3875126a1c": {
+   "en": "• Emergent intelligence, architecture, trustworthiness, efficiency",
+   "zh": "• 智能涌现、架构、可信性、效率",
+   "cls": "pptx"
+  },
+  "edec036c5b": {
+   "en": "GENERALIZATION — THE PRODUCT",
+   "zh": "泛化——成果",
+   "cls": "pptx"
+  },
+  "03c39824ff": {
+   "en": "• General tasks, general modalities, general scenarios — toward a world model",
+   "zh": "• 通用任务、通用模态、通用场景——迈向世界模型",
+   "cls": "pptx"
+  },
+  "e1cb768f1e": {
+   "en": "• Challenge: efficiently integrating big engineering with disruptive innovation on one platform",
+   "zh": "• 挑战：在一个平台上高效整合大工程与颠覆性创新",
+   "cls": "pptx"
+  },
+  "c6c327fa0d": {
+   "en": "INSIGHT 04 · 2024 progress & the road ahead",
+   "zh": "洞察 04 · 2024 年进展与前路",
+   "cls": "pptx"
+  },
+  "12ed039014": {
+   "en": "2024 progress · capability · context · trust · cost",
+   "zh": "2024 年进展 · 能力 · 上下文 · 可信 · 成本",
+   "cls": "pptx"
+  },
+  "a5573d096a": {
+   "en": "REASONING, MATH & CODING",
+   "zh": "推理、数学与编程",
+   "cls": "pptx"
+  },
+  "1aec56ecb0": {
+   "en": "• GPT-4o markedly stronger on data, code and discipline tasks (vs GPT-4T, Claude 3 Opus, Gemini Ultra/Pro, Llama 3 400B)",
+   "zh": "• GPT-4o 在数据、代码和学科任务上明显更强（对比 GPT-4T、Claude 3 Opus、Gemini Ultra/Pro、Llama 3 400B）",
+   "cls": "pptx"
+  },
+  "25c387926d": {
+   "en": "• Closed-source leaders do better on harder math (primary → college tiers)",
+   "zh": "• 闭源领先模型在更难的数学题上表现更好（从小学到大学各档）",
+   "cls": "pptx"
+  },
+  "b34e9b553d": {
+   "en": "CONTEXT WINDOWS EXPLODED",
+   "zh": "上下文窗口爆发式增长",
+   "cls": "pptx"
+  },
+  "45e32fb21e": {
+   "en": "• 2k (2022) → 32k+ (2023) → 100k–200k (Claude 3, GPT-4 Turbo) → 2M (KimiChat, Gemini 1.5 Pro) in ~18 months",
+   "zh": "• 2k（2022）→ 32k+（2023）→ 100k–200k（Claude 3、GPT-4 Turbo）→ 2M（KimiChat、Gemini 1.5 Pro），用时约 18 个月",
+   "cls": "pptx"
+  },
+  "969f555aaa": {
+   "en": "• 2M enables full-novel analysis and project-level code — ‘context windows vs memory’",
+   "zh": "• 2M 可支持整本小说分析和项目级代码——“上下文窗口 vs 记忆”",
+   "cls": "pptx"
+  },
+  "770726137b": {
+   "en": "TRUST & COST",
+   "zh": "可信与成本",
+   "cls": "pptx"
+  },
+  "6d23eca2f0": {
+   "en": "• Fewer hallucinations: GPT-4o beats GPT-4V on HallusionBench (still open for multimodal)",
+   "zh": "• 幻觉更少：GPT-4o 在 HallusionBench 上优于 GPT-4V（多模态方面仍待解决）",
+   "cls": "pptx"
+  },
+  "4cbed19473": {
+   "en": "• Cheaper & faster: GPT-4o 2× faster / 50% cheaper; Gemini 1.5 Flash 3× faster / up to 90% cheaper; cost ~$0.2–30 per 1M tokens",
+   "zh": "• 更便宜更快：GPT-4o 快 2 倍 / 便宜 50%；Gemini 1.5 Flash 快 3 倍 / 最多便宜 90%；成本约每 100 万 token $0.2–30",
+   "cls": "pptx"
+  },
+  "2ead47e9de": {
+   "en": "INSIGHT 05 · 2024 progress & the road ahead",
+   "zh": "洞察 05 · 2024 年进展与前路",
+   "cls": "pptx"
+  },
+  "b4426fd802": {
+   "en": "2024 progress · toward world models",
+   "zh": "2024 年进展 · 迈向世界模型",
+   "cls": "pptx"
+  },
+  "723733d0fa": {
+   "en": "THREE FUTURE DIRECTIONS",
+   "zh": "三个未来方向",
+   "cls": "pptx"
+  },
+  "6d4b4d31bd": {
+   "en": "• Accurate perception of long-form content (e.g. understanding a two-hour movie)",
+   "zh": "• 对长内容的准确感知（例如理解一部两小时的电影）",
+   "cls": "pptx"
+  },
+  "3505a30b70": {
+   "en": "• More modalities — from language / vision / audio to science: protein, DNA (AlphaFold)",
+   "zh": "• 更多模态——从语言 / 视觉 / 音频到科学：蛋白质、DNA（AlphaFold）",
+   "cls": "pptx"
+  },
+  "f84cecb0b0": {
+   "en": "• A complete world model — dynamic multi-modal modeling and prediction",
+   "zh": "• 完整的世界模型——动态多模态建模与预测",
+   "cls": "pptx"
+  },
+  "2e1c334407": {
+   "en": "INSIGHT 06 · 2024 progress & the road ahead",
+   "zh": "洞察 06 · 2024 年进展与前路",
+   "cls": "pptx"
+  },
+  "e3f29e3e37": {
+   "en": "open-source reference · InternLM2",
+   "zh": "开源参考 · InternLM2",
+   "cls": "pptx"
+  },
+  "441baeb74e": {
+   "en": "MODELS",
+   "zh": "模型",
+   "cls": "pptx"
+  },
+  "1a168d7855": {
+   "en": "• 7B: beats same-size open-source models, surpassing Google Gemma",
+   "zh": "• 7B：优于同规模开源模型，超过 Google Gemma",
+   "cls": "pptx"
+  },
+  "4331957772": {
+   "en": "• 20B: handles complex scenarios; rivals GPT-3.5 on key capabilities",
+   "zh": "• 20B：可处理复杂场景；关键能力上可与 GPT-3.5 相当",
+   "cls": "pptx"
+  },
+  "1816b532cc": {
+   "en": "FULL-CHAIN OPEN-SOURCE TOOLCHAIN",
+   "zh": "全链路开源工具链",
+   "cls": "pptx"
+  },
+  "f9622d043e": {
+   "en": "• Five stages: data processing, pre-training, fine-tuning, deployment, evaluation",
+   "zh": "• 五个阶段：数据处理、预训练、微调、部署、评估",
+   "cls": "pptx"
+  },
+  "281e2ee083": {
+   "en": "• Context 20k → 1M, tool calling, strong math / data analysis",
+   "zh": "• 上下文从 20k 增至 1M，支持工具调用，数学 / 数据分析能力强",
+   "cls": "pptx"
+  },
+  "3928871b2a": {
+   "en": "• Repo: github.com/InternLM/InternLM",
+   "zh": "• 代码仓库：github.com/InternLM/InternLM",
+   "cls": "pptx"
+  },
+  "5c4875a691": {
+   "en": "INSIGHT 07 · 2024 progress & the road ahead",
+   "zh": "洞察 07 · 2024 年进展与前路",
+   "cls": "pptx"
+  },
+  "6d3c795017": {
+   "en": "closing reflections · evolution analogy & efficiency",
+   "zh": "总结思考 · 进化类比与效率",
+   "cls": "pptx"
+  },
+  "89d038a9e9": {
+   "en": "LM EVOLUTION MIRRORS BIOLOGY",
+   "zh": "语言模型的演进映照生物学",
+   "cls": "pptx"
+  },
+  "be4120f492": {
+   "en": "• LLM ↔ invertebrates (~500M yrs); multimodal ↔ mammals (~200M yrs); embodied ↔ humans (~3M yrs)",
+   "zh": "• 大语言模型 ↔ 无脊椎动物（约 500M 年）；多模态 ↔ 哺乳动物（约 200M 年）；具身 ↔ 人类（约 3M 年）",
+   "cls": "pptx"
+  },
+  "512a30d1da": {
+   "en": "• Examples: ChatGPT → Gemini / InternMultiModal → RT-2, GR-1, FIGURE",
+   "zh": "• 示例：ChatGPT → Gemini / InternMultiModal → RT-2、GR-1、FIGURE",
+   "cls": "pptx"
+  },
+  "bd5725641c": {
+   "en": "IS VISION HARDER THAN LANGUAGE?",
+   "zh": "视觉比语言更难吗？",
+   "cls": "pptx"
+  },
+  "7e50db77a1": {
+   "en": "• Neurons vision:language ≈ 10:1; vision evolved ~500M yrs vs language ~250k yrs",
+   "zh": "• 神经元数量 视觉：语言 ≈ 10:1；视觉进化了约 500M 年，语言约 250k 年",
+   "cls": "pptx"
+  },
+  "9c5f8cc155": {
+   "en": "• Lifetime info: ~2B words (language) vs ~90T tokens (vision) — do vision modalities have different scaling laws?",
+   "zh": "• 一生接收的信息：约 20 亿词（语言）对比约 90T 个 token（视觉）——视觉模态是否有不同的扩展规律？",
+   "cls": "pptx"
+  },
+  "55ac1c2215": {
+   "en": "CHAIN-WIDE CO-OPTIMIZATION",
+   "zh": "全链路协同优化",
+   "cls": "pptx"
+  },
+  "37327da5ae": {
+   "en": "• Innovation spans chip, interconnect, framework, data, model, evaluation, deployment",
+   "zh": "• 创新涵盖芯片、互连、框架、数据、模型、评估、部署",
+   "cls": "pptx"
+  },
+  "a6321ae044": {
+   "en": "• A Chip ↔ Model ↔ Interconnection triangle to maximize full-chain energy efficiency",
+   "zh": "• 芯片 ↔ 模型 ↔ 互连三角关系，使全链路能效最大化",
+   "cls": "pptx"
+  },
+  "2be81d3d1b": {
+   "en": "INSIGHT 08 · Systems: distributed training & MoE",
+   "zh": "洞察 08 · 系统：分布式训练与 MoE",
+   "cls": "pptx"
+  },
+  "c29e595ad2": {
+   "en": "Yu Wang et al. · Tsinghua NICS-efc · AI 1.0 → AI 2.0",
+   "zh": "Yu Wang et al. · Tsinghua NICS-efc · AI 1.0 → AI 2.0",
+   "cls": "pptx"
+  },
+  "dcd91f889e": {
+   "en": "TWO SYSTEMS OF THOUGHT (KAHNEMAN)",
+   "zh": "两种思维系统（卡尼曼）",
+   "cls": "pptx"
+  },
+  "52a09c6790": {
+   "en": "• System 1: fast, automatic, intuitive (perception)",
+   "zh": "• 系统 1：快速、自动、直觉（感知）",
+   "cls": "pptx"
+  },
+  "1d22ce2314": {
+   "en": "• System 2: slow, analytical, reasoning (cognition) — from ‘Thinking, Fast and Slow’",
+   "zh": "• 系统 2：缓慢、分析、推理（认知）——出自《思考，快与慢》",
+   "cls": "pptx"
+  },
+  "51bab07f13": {
+   "en": "• AI 1.0 (perceptive): dedicated discriminative models (CNN / RNN) — ‘based on fitting’",
+   "zh": "• AI 1.0（感知型）：专用判别模型（CNN / RNN）——“基于拟合”",
+   "cls": "pptx"
+  },
+  "50dd69f7db": {
+   "en": "• AI 2.0 (cognitive): general generative models; a Transformer-based LLM as the foundation model for general multimodal tasks",
+   "zh": "• AI 2.0（认知型）：通用生成模型；基于 Transformer 的大语言模型作为通用多模态任务的基础模型",
+   "cls": "pptx"
+  },
+  "f343f6cbcf": {
+   "en": "INSIGHT 09 · Systems: distributed training & MoE",
+   "zh": "洞察 09 · 系统：分布式训练与 MoE",
+   "cls": "pptx"
+  },
+  "408012d825": {
+   "en": "systems & efficiency · small models that beat LLMs",
+   "zh": "系统与效率 · 超越大语言模型的小模型",
+   "cls": "pptx"
+  },
+  "fcbb505490": {
+   "en": "SMALL MODELS CAN SURPASS LLMS",
+   "zh": "小模型可以超越大语言模型",
+   "cls": "pptx"
+  },
+  "69cfd5c6bb": {
+   "en": "• Soft-hardware co-optimization + scenario customization let small models beat larger ones",
+   "zh": "• 软硬件协同优化加场景定制，使小模型胜过更大的模型",
+   "cls": "pptx"
+  },
+  "d9a52c96f8": {
+   "en": "• Infini-3B: 3B parameters with 7B-class performance (>50% fewer params); +15% inference vs Llama-2-7B; long context & agents",
+   "zh": "• Infini-3B：30 亿参数达到 7B 级性能（参数减少 >50%）；推理比 Llama-2-7B 提升 15%；支持长上下文和智能体",
+   "cls": "pptx"
+  },
+  "ceec1eb27d": {
+   "en": "HOW",
+   "zh": "如何做到",
+   "cls": "pptx"
+  },
+  "b0382362c2": {
+   "en": "• Scenario-customized training closes the gap with ultra-large models",
+   "zh": "• 场景定制训练缩小与超大模型的差距",
+   "cls": "pptx"
+  },
+  "cb6fb5f273": {
+   "en": "• High-fidelity quantization for cross-platform deployment; edge-cloud collaboration unlocks more apps",
+   "zh": "• 高保真量化实现跨平台部署；端云协同解锁更多应用",
+   "cls": "pptx"
+  },
+  "aa9ddbdfea": {
+   "en": "INSIGHT 10 · Systems: distributed training & MoE",
+   "zh": "洞察 10 · 系统：分布式训练与 MoE",
+   "cls": "pptx"
+  },
+  "4a2a24a27e": {
+   "en": "CAS / ICT · NICS-efc · distributed Mixture-of-Experts",
+   "zh": "CAS / ICT · NICS-efc · 分布式混合专家（Mixture-of-Experts）",
+   "cls": "pptx"
+  },
+  "11922fd55c": {
+   "en": "MOE IN TRANSFORMERS",
+   "zh": "TRANSFORMER 中的 MOE",
+   "cls": "pptx"
+  },
+  "6205940de7": {
+   "en": "• FFN layers are replaced by MoE layers = gate + experts; each expert is an FFN with distinct parameters",
+   "zh": "• FFN 层被 MoE 层取代，MoE 层 = 门控 + 专家；每个专家都是一个参数各不相同的 FFN",
+   "cls": "pptx"
+  },
+  "0d9a394c7e": {
+   "en": "• The gate selects experts per sample (Top-2 in training, Top-1 in inference); a load-balancing loss keeps experts even",
+   "zh": "• 门控按样本选择专家（训练时 Top-2，推理时 Top-1）；负载均衡损失使各专家负载均匀",
+   "cls": "pptx"
+  },
+  "abc493f3b3": {
+   "en": "DISTRIBUTED MOE (HYBRID PARALLELISM)",
+   "zh": "分布式 MOE（混合并行）",
+   "cls": "pptx"
+  },
+  "e3a83f35d3": {
+   "en": "• Expert parallelism: one unique expert per device; data parallelism replicates the non-expert parameters",
+   "zh": "• 专家并行：每个设备一个独有的专家；数据并行复制非专家参数",
+   "cls": "pptx"
+  },
+  "4291c27de9": {
+   "en": "• All-to-all communication sends samples to experts and restores them — equal-sized both ways, the core distributed cost",
+   "zh": "• All-to-all 通信把样本发送给专家并再还原回来——两个方向数据量相等，是分布式的核心开销",
+   "cls": "pptx"
+  },
+  "78084e6748": {
+   "en": "INSIGHT 11 · Systems: distributed training & MoE",
+   "zh": "洞察 11 · 系统：分布式训练与 MoE",
+   "cls": "pptx"
+  },
+  "020959978e": {
+   "en": "systems engineering · memory sharding · DLRM",
+   "zh": "系统工程 · 显存分片 · DLRM",
+   "cls": "pptx"
+  },
+  "ae977e2093": {
+   "en": "GPU MEMORY IS THE LIMIT",
+   "zh": "GPU 显存是瓶颈",
+   "cls": "pptx"
+  },
+  "9bcd70e898": {
+   "en": "• Models far exceed GPU memory (BERT 220MB, Llama-2 13GB, GPT-3 350GB, GPT-4 3.52TB) → shard parameters, optimizer states and gradients",
+   "zh": "• 模型远超 GPU 显存（BERT 220MB，Llama-2 13GB，GPT-3 350GB，GPT-4 3.52TB）→ 对参数、优化器状态和梯度进行分片",
+   "cls": "pptx"
+  },
+  "7537730504": {
+   "en": "• All-Gather params before the forward pass, Reduce-Scatter gradients after backward (DeepSpeed, Megatron-LM, HF Transformers)",
+   "zh": "• 前向传播前对参数执行 All-Gather，反向传播后对梯度执行 Reduce-Scatter（DeepSpeed、Megatron-LM、HF Transformers）",
+   "cls": "pptx"
+  },
+  "b6a0f8ed4f": {
+   "en": "DLRM RECOMMENDATION MODELS",
+   "zh": "DLRM 推荐模型",
+   "cls": "pptx"
+  },
+  "a534ce1644": {
+   "en": "• DLRM mixes categorical + numerical inputs; huge embedding tables force model parallelism",
+   "zh": "• DLRM 混合类别型与数值型输入；庞大的 embedding 表迫使采用模型并行",
+   "cls": "pptx"
+  },
+  "2518ef15c6": {
+   "en": "• Also all-to-all bound (forward & backward); a ‘butterfly shuffle’ and time breakdown show communication dominates compute",
+   "zh": "• 同样受限于 all-to-all（前向与反向）；“蝶形混洗”和时间分解表明通信开销超过计算",
+   "cls": "pptx"
+  },
+  "69bae0ee91": {
+   "en": "CONCLUSIONS",
+   "zh": "结论",
+   "cls": "pptx"
+  },
+  "ad4e97f195": {
+   "en": "TRENDS",
+   "zh": "趋势",
+   "cls": "pptx"
+  },
+  "99a937a541": {
+   "en": "• Two laws anchor LLMs: power-law scaling (L ≈ A·N^−α + B·D^−β + E) and training-as-lossy-compression (10 TB → 140 GB for Llama-2-70B).",
+   "zh": "• 两条规律支撑大语言模型：幂律扩展（L ≈ A·N^−α + B·D^−β + E）和作为有损压缩的训练（Llama-2-70B 从 10 TB 压缩到 140 GB）。",
+   "cls": "pptx"
+  },
+  "55db71c2d5": {
+   "en": "• 2024's gains are measurable: stronger reasoning / math / coding, context 2k → 2M, lower hallucination, inference cost down 50–90%.",
+   "zh": "• 2024 年的进步可以衡量：推理 / 数学 / 编程能力更强，上下文从 2k 增至 2M，幻觉减少，推理成本下降 50–90%。",
+   "cls": "pptx"
+  },
+  "355d10757e": {
+   "en": "• Distributed all-to-all communication (MoE & DLRM) is the dominant bottleneck; models (GPT-4 ~3.52 TB) far exceed single-GPU memory.",
+   "zh": "• 分布式 all-to-all 通信（MoE 和 DLRM）是主要瓶颈；模型（GPT-4 约 3.52 TB）远超单块 GPU 的显存。",
+   "cls": "pptx"
+  },
+  "927e4493b3": {
+   "en": "VISION",
+   "zh": "愿景",
+   "cls": "pptx"
+  },
+  "894d16c599": {
+   "en": "• The frontier is multimodal ‘world models’ — scientific modalities (protein / DNA), long-video understanding, embodied AI.",
+   "zh": "• 前沿是多模态“世界模型”——科学模态（蛋白质 / DNA）、长视频理解、具身智能。",
+   "cls": "pptx"
+  },
+  "1243709b2e": {
+   "en": "• A bio-evolution analogy: LLM → multimodal → embodied ≈ invertebrate → mammal → human; vision may have different scaling laws.",
+   "zh": "• 生物进化类比：大语言模型 → 多模态 → 具身 ≈ 无脊椎动物 → 哺乳动物 → 人类；视觉可能有不同的扩展规律。",
+   "cls": "pptx"
+  },
+  "0a5151ce75": {
+   "en": "• Domain-specific small models (Infini-3B) + quantization + edge-cloud as a practical efficiency path.",
+   "zh": "• 领域专用小模型（Infini-3B）+ 量化 + 端云协同，是切实可行的效率路径。",
+   "cls": "pptx"
+  },
+  "ab88151343": {
+   "en": "IMPLICATIONS FOR US",
+   "zh": "对我们的启示",
+   "cls": "pptx"
+  },
+  "8a67c74503": {
+   "en": "• Efficiency is a systems problem: chip↔model↔interconnect co-design and distributed-MoE acceleration are the key platform bets.",
+   "zh": "• 效率是系统问题：芯片↔模型↔互连的协同设计和分布式 MoE 加速是关键的平台押注。",
+   "cls": "pptx"
+  },
+  "c9bbad330f": {
+   "en": "• Invest in long-context / memory mechanisms and trustworthiness (hallucination reduction).",
+   "zh": "• 投入长上下文 / 记忆机制和可信性（减少幻觉）。",
+   "cls": "pptx"
+  },
+  "bfbb7d59fd": {
+   "en": "• Treat distributed training (sharding, all-to-all optimization) as first-class for scaling.",
+   "zh": "• 把分布式训练（分片、all-to-all 优化）作为扩展规模的一等公民。",
+   "cls": "pptx"
+  },
+  "5d16a62568": {
+   "en": "{1}{/1}Tech Insight",
+   "zh": "{1}{/1}Tech Insight",
+   "cls": "span.brand"
+  },
+  "b4510362a5": {
+   "en": "Insights",
+   "zh": "洞察",
+   "cls": "a"
+  },
+  "5d20d0fee3": {
+   "en": "References",
+   "zh": "参考文献",
+   "cls": "a"
+  }
+ }
+}

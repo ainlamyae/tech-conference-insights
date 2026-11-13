@@ -1,0 +1,1260 @@
+{
+ "folder": "2024-12_NeurIPS-vancouver",
+ "strings": {
+  "0b91271706": {
+   "en": "[1] I. Sutskever et al., “Sequence to Sequence Learning with Neural Networks,” arXiv:1409.3215 (NeurIPS 2024 Test-of-Time).",
+   "zh": "[1] I. Sutskever et al., “Sequence to Sequence Learning with Neural Networks,” arXiv:1409.3215 (NeurIPS 2024 Test-of-Time).",
+   "cls": "keep"
+  },
+  "d4453a4221": {
+   "en": "[2] Y. Bengio et al., “Explanatory (Tool) AI instead of Autonomous Agents,” NeurIPS 2024 workshop talk.",
+   "zh": "[2] Y. Bengio et al., “Explanatory (Tool) AI instead of Autonomous Agents,” NeurIPS 2024 workshop talk.",
+   "cls": "keep"
+  },
+  "c092f379c0": {
+   "en": "[3] D. Dalrymple et al., “Towards Guaranteed Safe AI: A Framework for Ensuring Robust and Reliable AI Systems,” arXiv:2405.06624, 2024.",
+   "zh": "[3] D. Dalrymple et al., “Towards Guaranteed Safe AI: A Framework for Ensuring Robust and Reliable AI Systems,” arXiv:2405.06624, 2024.",
+   "cls": "keep"
+  },
+  "d357ab4e94": {
+   "en": "[4] Z. Chen et al., “AgentPoison: Red-teaming LLM Agents via Poisoning Memory or Knowledge Bases,” arXiv:2407.12784, 2024.",
+   "zh": "[4] Z. Chen et al., “AgentPoison: Red-teaming LLM Agents via Poisoning Memory or Knowledge Bases,” arXiv:2407.12784, 2024.",
+   "cls": "keep"
+  },
+  "e289b3262a": {
+   "en": "[5] W. Hawkins et al., “The Effect of Fine-tuning on Language Model Toxicity,” NeurIPS 2024.",
+   "zh": "[5] W. Hawkins et al., “The Effect of Fine-tuning on Language Model Toxicity,” NeurIPS 2024.",
+   "cls": "keep"
+  },
+  "88566c6c3e": {
+   "en": "[6] E. Lin et al., “Guardrail Instruction Pretraining for Efficient Safeguarding (Guardformer),” NeurIPS 2024.",
+   "zh": "[6] E. Lin et al., “Guardrail Instruction Pretraining for Efficient Safeguarding (Guardformer),” NeurIPS 2024.",
+   "cls": "keep"
+  },
+  "07767fccb4": {
+   "en": "[7] et al., “Trustworthy Systems Engineering — Insights,” NeurIPS 2024 (trust & safety thread).",
+   "zh": "[7] et al., “Trustworthy Systems Engineering — Insights,” NeurIPS 2024 (trust & safety thread).",
+   "cls": "keep"
+  },
+  "1f0d092552": {
+   "en": "[8] et al., “Safeguards and Monitoring for Autonomous AI Agents,” NeurIPS 2024.",
+   "zh": "[8] et al., “Safeguards and Monitoring for Autonomous AI Agents,” NeurIPS 2024.",
+   "cls": "keep"
+  },
+  "7975b5b7fb": {
+   "en": "[9] et al., “AI Agent Evaluation and Limitations (Embodied Agent Interface; AgentBoard),” NeurIPS 2024.",
+   "zh": "[9] et al., “AI Agent Evaluation and Limitations (Embodied Agent Interface; AgentBoard),” NeurIPS 2024.",
+   "cls": "keep"
+  },
+  "c411c7496b": {
+   "en": "{1}{2}{/2}Tech Insight{/1}{3}Contents{/3}{4}·{/4}{5}Statistics{/5}{6}·{/6}{7}Insights{/7}{8}·{/8}{9}Conclusions{/9}{10}·{/10}{11}References{/11}",
+   "zh": "{1}{2}{/2}Tech Insight{/1}{3}目录{/3}{4}·{/4}{5}统计{/5}{6}·{/6}{7}洞察{/7}{8}·{/8}{9}结论{/9}{10}·{/10}{11}参考文献{/11}",
+   "cls": "nav.bar"
+  },
+  "84fbba9df7": {
+   "en": "NeurIPS 2024 · Tech Insight Report",
+   "zh": "NeurIPS 2024 · Tech Insight 报告",
+   "cls": "div.kicker"
+  },
+  "627e16b5a4": {
+   "en": "NeurIPS 2024 — 38th Annual Conference on Neural Information Processing Systems",
+   "zh": "NeurIPS 2024 — 第 38 届神经信息处理系统年会",
+   "cls": "h1"
+  },
+  "ca38c4eb78": {
+   "en": "{1}Vancouver, Canada · December 10–15, 2024{/1}",
+   "zh": "{1}加拿大温哥华 · 2024 年 12 月 10–15 日{/1}",
+   "cls": "p.lede"
+  },
+  "58aad8d69b": {
+   "en": "A read of NeurIPS 2024 through a trust-and-safety lens: the field's leaders argued for explainable ‘Tool AI’, provable safety, secure-by-design systems, and tighter control of fine-tuning and guardrails — the shift from raw capability to AI we can actually trust.",
+   "zh": "从可信与安全的视角解读 NeurIPS 2024：业界领军者主张可解释的“Tool AI”、可证明的安全、安全内建（secure-by-design）的系统，以及对微调和护栏更严格的控制 — 即从单纯追求能力转向我们真正可以信任的 AI。",
+   "cls": "p.lede"
+  },
+  "b868538edd": {
+   "en": "Location{1}Vancouver, Canada{/1}",
+   "zh": "地点{1}加拿大温哥华{/1}",
+   "cls": "div"
+  },
+  "8c00eca8ed": {
+   "en": "Dates{1}December 10–15, 2024{/1}",
+   "zh": "日期{1}2024 年 12 月 10–15 日{/1}",
+   "cls": "div"
+  },
+  "7812256620": {
+   "en": "Focus{1}Trustworthy AI — Toward Safe, Explainable, Tool-based AI{/1}",
+   "zh": "主题{1}可信 AI — 迈向安全、可解释、基于工具的 AI{/1}",
+   "cls": "div"
+  },
+  "f91f503b91": {
+   "en": "01 · Contents",
+   "zh": "01 · 目录",
+   "cls": "div.kicker"
+  },
+  "c204d81574": {
+   "en": "Papers covered, by theme",
+   "zh": "按主题划分的论文",
+   "cls": "h2"
+  },
+  "de7f3e2333": {
+   "en": "A · Where AI is heading",
+   "zh": "A · AI 的发展方向",
+   "cls": "attr:data-group"
+  },
+  "242e7ade7a": {
+   "en": "{1}01{/1}{2}Superintelligent Agents & the Seq2Seq Legacy (Keynote){/2}",
+   "zh": "{1}01{/1}{2}Superintelligent Agents & the Seq2Seq Legacy (Keynote){/2}",
+   "cls": "div"
+  },
+  "45d21a0a44": {
+   "en": "{1}02{/1}{2}Explanatory ‘Tool AI’ instead of Agents (Workshop){/2}",
+   "zh": "{1}02{/1}{2}Explanatory ‘Tool AI’ instead of Agents (Workshop){/2}",
+   "cls": "div"
+  },
+  "ae4f6ea7a4": {
+   "en": "B · Provable & secure-by-design safety",
+   "zh": "B · 可证明与安全内建的安全性",
+   "cls": "attr:data-group"
+  },
+  "0fa07bd2c4": {
+   "en": "{1}03{/1}{2}Guaranteed-Safe AI via Formal Methods (Workshop){/2}",
+   "zh": "{1}03{/1}{2}Guaranteed-Safe AI via Formal Methods (Workshop){/2}",
+   "cls": "div"
+  },
+  "11d0bcfb37": {
+   "en": "{1}04{/1}{2}Safe & Responsible AI: Secure-by-Design (Workshop){/2}",
+   "zh": "{1}04{/1}{2}Safe & Responsible AI: Secure-by-Design (Workshop){/2}",
+   "cls": "div"
+  },
+  "56afcffb45": {
+   "en": "C · Safer models in practice",
+   "zh": "C · 实践中更安全的模型",
+   "cls": "attr:data-group"
+  },
+  "02700a048a": {
+   "en": "{1}05{/1}{2}How Fine-tuning Changes LM Toxicity (Oral){/2}",
+   "zh": "{1}05{/1}{2}How Fine-tuning Changes LM Toxicity (Oral){/2}",
+   "cls": "div"
+  },
+  "820745bdd5": {
+   "en": "{1}06{/1}{2}Guardrail Instruction Pretraining (Guardformer){/2}",
+   "zh": "{1}06{/1}{2}Guardrail Instruction Pretraining (Guardformer){/2}",
+   "cls": "div"
+  },
+  "339dd4b1b9": {
+   "en": "D · Trustworthiness & agent evaluation",
+   "zh": "D · 可信性与智能体评估",
+   "cls": "attr:data-group"
+  },
+  "d2db60c35f": {
+   "en": "{1}07{/1}{2}Trustworthy Systems Engineering — the Map{/2}",
+   "zh": "{1}07{/1}{2}Trustworthy Systems Engineering — the Map{/2}",
+   "cls": "div"
+  },
+  "67cd329a19": {
+   "en": "{1}08{/1}{2}Safeguards & Monitoring for Autonomous AI Agents{/2}",
+   "zh": "{1}08{/1}{2}Safeguards & Monitoring for Autonomous AI Agents{/2}",
+   "cls": "div"
+  },
+  "54b84eb8b0": {
+   "en": "{1}09{/1}{2}AI Agent Evaluation & Limitations{/2}",
+   "zh": "{1}09{/1}{2}AI Agent Evaluation & Limitations{/2}",
+   "cls": "div"
+  },
+  "324dbde335": {
+   "en": "02 · Conference statistics",
+   "zh": "02 · 会议统计",
+   "cls": "div.kicker"
+  },
+  "a15602c32b": {
+   "en": "38th Annual Conference on Neural Information Processing Systems — Vancouver, Canada, December 10–15, 2024",
+   "zh": "第 38 届神经信息处理系统年会 — 加拿大温哥华，2024 年 12 月 10–15 日",
+   "cls": "h2"
+  },
+  "b5278c871f": {
+   "en": "{1}15,671{/1}{2}submissions{/2}",
+   "zh": "{1}15,671{/1}{2}投稿数{/2}",
+   "cls": "div.tile"
+  },
+  "e9bb1c8aa5": {
+   "en": "{1}4,037{/1}{2}accepted{/2}",
+   "zh": "{1}4,037{/1}{2}录用数{/2}",
+   "cls": "div.tile"
+  },
+  "b7bcead19d": {
+   "en": "{1}25.8%{/1}{2}acceptance rate{/2}",
+   "zh": "{1}25.8%{/1}{2}录用率{/2}",
+   "cls": "div.tile"
+  },
+  "07fe98f9ba": {
+   "en": "{1}Vancouver{/1}{2}Dec 10–15{/2}",
+   "zh": "{1}温哥华{/1}{2}12 月 10–15 日{/2}",
+   "cls": "div.tile"
+  },
+  "107cc3c97f": {
+   "en": "{1}Also:{/1} The 38th NeurIPS, at the Vancouver Convention Center. This report covers five safety-focused talks — Sutskever, Bengio, Tegmark, Dawn Song, Hawkins — plus a guardrails paper.",
+   "zh": "{1}另：{/1}第 38 届 NeurIPS 在温哥华会议中心举行。本报告涵盖五场聚焦安全的演讲 — Sutskever、Bengio、Tegmark、Dawn Song、Hawkins — 以及一篇关于护栏的论文。",
+   "cls": "p.overview-themes"
+  },
+  "c16624c49d": {
+   "en": "A strong ‘Trustworthy AI’ thread ran through the program: Tool / Explanatory AI, monitoring systems, formal methods and safety-by-design, plus safety via training data, prompts, and fine-tuning control.",
+   "zh": "“可信 AI”是贯穿整个会议日程的一条主线：Tool / 可解释 AI、监控系统、形式化方法和安全内建，以及通过训练数据、提示词和微调控制实现的安全。",
+   "cls": "p.overview-themes"
+  },
+  "74e3fba778": {
+   "en": "03 · Insights",
+   "zh": "03 · 洞察",
+   "cls": "div.kicker"
+  },
+  "ae28e85df8": {
+   "en": "Paper-by-paper tech insights",
+   "zh": "逐篇论文的技术洞察",
+   "cls": "h2"
+  },
+  "16355c13fc": {
+   "en": "Superintelligent Agents & the Seq2Seq Legacy (Keynote)",
+   "zh": "Superintelligent Agents & the Seq2Seq Legacy (Keynote)",
+   "cls": "attr:data-toc"
+  },
+  "38c55badcf": {
+   "en": "{1}Ilya Sutskever (keynote){/1} · OpenAI co-founder",
+   "zh": "{1}Ilya Sutskever（主旨演讲）{/1} · OpenAI 联合创始人",
+   "cls": "div.byline"
+  },
+  "9fe00acebc": {
+   "en": "Goal",
+   "zh": "目标",
+   "cls": "span.lbl"
+  },
+  "8730ac5140": {
+   "en": "Look back at the 2014 sequence-to-sequence breakthrough and ahead to where scaling leads — superintelligent agents.",
+   "zh": "回顾 2014 年的序列到序列突破，并展望规模化将通向何处 — 超级智能体。",
+   "cls": "p"
+  },
+  "bb9d653f4e": {
+   "en": "Challenge",
+   "zh": "挑战",
+   "cls": "span.lbl"
+  },
+  "a323126a47": {
+   "en": "Progress is bottlenecked by data (‘data exhaustion’) and by compute that must scale with reasoning demand.",
+   "zh": "进展受限于数据（“数据耗尽”），以及必须随推理需求扩展的算力。",
+   "cls": "p"
+  },
+  "88306943fe": {
+   "en": "Method",
+   "zh": "方法",
+   "cls": "span.lbl"
+  },
+  "69c3c2ac89": {
+   "en": "Recap: autoregressive seq2seq + deep LSTMs trained on large data started the scaling era",
+   "zh": "回顾：自回归 seq2seq + 在大数据上训练的深度 LSTM 开启了规模化时代",
+   "cls": "li"
+  },
+  "c222a1c680": {
+   "en": "Argue that scaling data and compute keeps driving capability",
+   "zh": "主张扩大数据和算力会持续推动能力提升",
+   "cls": "li"
+  },
+  "eae39f131c": {
+   "en": "Point to adaptive compute and aggressive data collection as the key levers",
+   "zh": "指出自适应计算和积极的数据收集是关键杠杆",
+   "cls": "li"
+  },
+  "aea0247b2a": {
+   "en": "Novelty",
+   "zh": "创新点",
+   "cls": "span.lbl"
+  },
+  "0a6cc6fd5c": {
+   "en": "A first-principles case that today's agents are the continuation of the 2014 scaling bet.",
+   "zh": "从第一性原理出发论证：当今的智能体是 2014 年规模化赌注的延续。",
+   "cls": "p"
+  },
+  "62036a7016": {
+   "en": "Impact",
+   "zh": "影响",
+   "cls": "span.lbl"
+  },
+  "07d19e041a": {
+   "en": "To stay competitive, prioritize data acquisition and adaptive computing for agent products.",
+   "zh": "要保持竞争力，智能体产品应优先获取数据并采用自适应计算。",
+   "cls": "p"
+  },
+  "74f1a45728": {
+   "en": "The 2014 sequence-to-sequence (encoder–decoder) idea that kicked off the scaling era.",
+   "zh": "2014 年的序列到序列（编码器–解码器）思想，开启了规模化时代。",
+   "cls": "figcaption"
+  },
+  "986cf69f08": {
+   "en": "Explanatory ‘Tool AI’ instead of Agents (Workshop)",
+   "zh": "Explanatory ‘Tool AI’ instead of Agents (Workshop)",
+   "cls": "attr:data-toc"
+  },
+  "86a011f9e0": {
+   "en": "{1}Yoshua Bengio (workshop){/1} · Mila / Université de Montréal",
+   "zh": "{1}Yoshua Bengio（研讨会）{/1} · Mila / Université de Montréal",
+   "cls": "div.byline"
+  },
+  "b2d32203af": {
+   "en": "Get the scientific benefits of AI without the risks of autonomous agents.",
+   "zh": "在享受 AI 的科学收益的同时，避免自主智能体的风险。",
+   "cls": "p"
+  },
+  "b6c63e4eb4": {
+   "en": "Goal-driven autonomous agents bring misalignment and reward-hacking risks that can outweigh their benefits.",
+   "zh": "目标驱动的自主智能体会带来错位和奖励破解风险，这些风险可能超过其收益。",
+   "cls": "p"
+  },
+  "7156b6aec9": {
+   "en": "Build passive, interpretable ‘Tool AI’ / ‘Scientist AI’ that explains rather than acts",
+   "zh": "构建被动、可解释的“Tool AI”/“Scientist AI”，只解释而不行动",
+   "cls": "li"
+  },
+  "f65936b31e": {
+   "en": "Add a parallel ‘Security AI’ that monitors consistency and risk",
+   "zh": "并行加入一个监控一致性与风险的“Security AI”",
+   "cls": "li"
+  },
+  "e2e2ee28da": {
+   "en": "Favor understanding the reasons behind behavior over imitating it",
+   "zh": "更看重理解行为背后的原因，而不是模仿行为",
+   "cls": "li"
+  },
+  "9ac3190bb7": {
+   "en": "Reframes safety as a design choice: non-autonomous, explanatory AI by default.",
+   "zh": "把安全重新定义为一种设计选择：默认采用非自主的、可解释的 AI。",
+   "cls": "p"
+  },
+  "2c12fb1d2b": {
+   "en": "Pursue interpretable, controllable tool-AI and independent monitoring before deploying agents.",
+   "zh": "在部署智能体之前，先发展可解释、可控的工具型 AI 和独立监控。",
+   "cls": "p"
+  },
+  "8387ac1a56": {
+   "en": "Guaranteed-Safe AI via Formal Methods (Workshop)",
+   "zh": "Guaranteed-Safe AI via Formal Methods (Workshop)",
+   "cls": "attr:data-toc"
+  },
+  "678c85c28c": {
+   "en": "{1}Max Tegmark (workshop){/1} · MIT",
+   "zh": "{1}Max Tegmark（研讨会）{/1} · MIT",
+   "cls": "div.byline"
+  },
+  "8cd1b931e3": {
+   "en": "Make AI provably safe with formal verification, and favor safe Tool AI over AGI.",
+   "zh": "用形式化验证让 AI 可证明地安全，并且相比 AGI 更倾向于安全的 Tool AI。",
+   "cls": "p"
+  },
+  "0b893412c1": {
+   "en": "AGI is hard to control, and the ML and formal-verification communities are fragmented with poorly integrated tools.",
+   "zh": "AGI 难以控制，而机器学习与形式化验证两个社区相互割裂，工具也缺乏整合。",
+   "cls": "p"
+  },
+  "c905944497": {
+   "en": "Build provably safe systems using formal verification",
+   "zh": "用形式化验证构建可证明安全的系统",
+   "cls": "li"
+  },
+  "fac8c6405b": {
+   "en": "Replace risky neural components with verified tools where possible",
+   "zh": "尽可能用经过验证的工具替换有风险的神经网络组件",
+   "cls": "li"
+  },
+  "2b5e914494": {
+   "en": "Scale verification by uniting ML + formal-methods communities and shared benchmarks",
+   "zh": "通过联合机器学习与形式化方法社区并共享基准测试来扩大验证规模",
+   "cls": "li"
+  },
+  "8c59530af5": {
+   "en": "A concrete ‘Guaranteed Safe AI’ framework for provable reliability.",
+   "zh": "一个具体的“Guaranteed Safe AI”框架，用于实现可证明的可靠性。",
+   "cls": "p"
+  },
+  "ab2c7b4c29": {
+   "en": "Invest in verification tooling and benchmarks; treat safety as a design guarantee, not an add-on.",
+   "zh": "投入验证工具和基准测试；把安全视为设计保证，而不是附加功能。",
+   "cls": "p"
+  },
+  "71b093372f": {
+   "en": "Guaranteed Safe AI — pair a world model and a safety spec with formal verification.",
+   "zh": "Guaranteed Safe AI — 将世界模型和安全规格与形式化验证相结合。",
+   "cls": "figcaption"
+  },
+  "f058439cc6": {
+   "en": "A verified ‘proof checker’ turns an AI's output into a safe tool.",
+   "zh": "经过验证的“证明检查器”把 AI 的输出变成安全的工具。",
+   "cls": "figcaption"
+  },
+  "fc0e3f8cab": {
+   "en": "Safe & Responsible AI: Secure-by-Design (Workshop)",
+   "zh": "Safe & Responsible AI: Secure-by-Design (Workshop)",
+   "cls": "attr:data-toc"
+  },
+  "a3e2496157": {
+   "en": "{1}Dawn Song (workshop){/1} · UC Berkeley",
+   "zh": "{1}Dawn Song（研讨会）{/1} · UC Berkeley",
+   "cls": "div.byline"
+  },
+  "f88d236106": {
+   "en": "Map the full spectrum of AI risks and push for secure-by-design systems.",
+   "zh": "梳理 AI 风险的完整谱系，并推动安全内建的系统。",
+   "cls": "p"
+  },
+  "63b097229d": {
+   "en": "AI faces misuse, malfunction and systemic risks; agents are attackable (e.g. memory / knowledge-base poisoning).",
+   "zh": "AI 面临滥用、故障和系统性风险；智能体易受攻击（如记忆/知识库投毒）。",
+   "cls": "p"
+  },
+  "acc1765d52": {
+   "en": "Catalogue risks (misuse, malfunction, systemic) and trust properties (robustness, fairness, privacy, transparency)",
+   "zh": "整理风险（滥用、故障、系统性）和可信属性（鲁棒性、公平性、隐私、透明性）",
+   "cls": "li"
+  },
+  "745d6151ee": {
+   "en": "Use formal verification to construct secure programs and generate secure code",
+   "zh": "用形式化验证构建安全的程序并生成安全的代码",
+   "cls": "li"
+  },
+  "6eaa6d0ec4": {
+   "en": "Monitor pre- and post-deployment risks and strengthen societal resilience",
+   "zh": "监控部署前后的风险，并增强社会韧性",
+   "cls": "li"
+  },
+  "d2332896d1": {
+   "en": "Shows agent-specific attacks like AgentPoison (a RAG/memory backdoor) and a secure-by-design response.",
+   "zh": "展示了针对智能体的攻击，如 AgentPoison（一种 RAG/记忆后门），以及安全内建的应对方案。",
+   "cls": "p"
+  },
+  "de7b9e86c3": {
+   "en": "Build security in from the start; red-team agent memory / RAG; track risks across the lifecycle.",
+   "zh": "从一开始就内建安全；对智能体记忆/RAG 做红队测试；在整个生命周期中跟踪风险。",
+   "cls": "p"
+  },
+  "f5dd361103": {
+   "en": "The broad spectrum of AI risks and trustworthiness properties Dawn Song maps out.",
+   "zh": "Dawn Song 梳理出的 AI 风险和可信属性的广泛谱系。",
+   "cls": "figcaption"
+  },
+  "3c5c524bef": {
+   "en": "AgentPoison — a backdoor planted in an agent's memory / knowledge base (RAG).",
+   "zh": "AgentPoison — 植入智能体记忆/知识库（RAG）中的后门。",
+   "cls": "figcaption"
+  },
+  "bcda0b5617": {
+   "en": "How Fine-tuning Changes LM Toxicity (Oral)",
+   "zh": "How Fine-tuning Changes LM Toxicity (Oral)",
+   "cls": "attr:data-toc"
+  },
+  "1ada2451b3": {
+   "en": "{1}Will Hawkins (oral){/1} · Google DeepMind / Oxford",
+   "zh": "{1}Will Hawkins（口头报告）{/1} · Google DeepMind / Oxford",
+   "cls": "div.byline"
+  },
+  "25d3ecf218": {
+   "en": "Measure how different kinds of fine-tuning change a language model's toxicity.",
+   "zh": "衡量不同类型的微调如何改变语言模型的毒性。",
+   "cls": "p"
+  },
+  "c3bc5032af": {
+   "en": "Fine-tuning is everywhere, but its effect on toxicity — especially community fine-tunes — is unpredictable.",
+   "zh": "微调无处不在，但它对毒性的影响 — 尤其是社区微调模型 — 难以预测。",
+   "cls": "p"
+  },
+  "8b5e597ba0": {
+   "en": "Compare instruction-tuning vs parameter-efficient (LoRA) fine-tuning",
+   "zh": "比较指令微调与参数高效（LoRA）微调",
+   "cls": "li"
+  },
+  "f8c29f6fd5": {
+   "en": "Fine-tune on non-adversarial data and measure toxicity shifts",
+   "zh": "在非对抗性数据上微调，并衡量毒性变化",
+   "cls": "li"
+  },
+  "d1474f3f21": {
+   "en": "Study community fine-tunes for unexpected deviations",
+   "zh": "研究社区微调模型中的意外偏离",
+   "cls": "li"
+  },
+  "787b6cc04f": {
+   "en": "Even small, non-adversarial LoRA fine-tuning can significantly move toxicity rates.",
+   "zh": "即使是小规模、非对抗性的 LoRA 微调，也能显著改变毒性比率。",
+   "cls": "p"
+  },
+  "e92b6bc51a": {
+   "en": "Govern the fine-tuning pipeline carefully — especially external / community tuning — to keep safety robust.",
+   "zh": "谨慎管控微调流水线 — 尤其是外部/社区微调 — 以保持安全性的稳健。",
+   "cls": "p"
+  },
+  "d0ebc44d8f": {
+   "en": "How instruction-tuning and small LoRA fine-tunes shift language-model toxicity.",
+   "zh": "指令微调和小规模 LoRA 微调如何改变语言模型的毒性。",
+   "cls": "figcaption"
+  },
+  "437889aaf0": {
+   "en": "Guardrail Instruction Pretraining (Guardformer)",
+   "zh": "Guardrail Instruction Pretraining (Guardformer)",
+   "cls": "attr:data-toc"
+  },
+  "50f39c5830": {
+   "en": "{1}Eric Lin{/1} · Dynamo AI",
+   "zh": "{1}Eric Lin{/1} · Dynamo AI",
+   "cls": "div.byline"
+  },
+  "382d7119d4": {
+   "en": "Build smaller, stronger guardrail models using synthetic instruction pretraining.",
+   "zh": "利用合成的指令预训练，构建更小、更强的护栏模型。",
+   "cls": "p"
+  },
+  "ef71f8b1b9": {
+   "en": "Guardrail models must enforce custom safety policies efficiently, but real labelled data is limited.",
+   "zh": "护栏模型必须高效执行自定义安全策略，但真实的标注数据有限。",
+   "cls": "p"
+  },
+  "4a3adee9bd": {
+   "en": "Generate synthetic policies, compliant / non-compliant prompts, rationales and labels",
+   "zh": "生成合成的策略、合规/不合规的提示词、理由和标签",
+   "cls": "li"
+  },
+  "dc8686feef": {
+   "en": "Do guardrail-specific instruction pretraining on that synthetic data",
+   "zh": "在这些合成数据上进行面向护栏的指令预训练",
+   "cls": "li"
+  },
+  "1f8b1151aa": {
+   "en": "Produce Guardformer, a compact guardrail model",
+   "zh": "得到 Guardformer，一个紧凑的护栏模型",
+   "cls": "li"
+  },
+  "e5862fa76e": {
+   "en": "Synthetic-data training beats real-data training and yields a smaller model that outperforms SoTA.",
+   "zh": "用合成数据训练优于用真实数据训练，得到的更小模型性能超过当前最优（SoTA）。",
+   "cls": "p"
+  },
+  "1c21503756": {
+   "en": "Use synthetic instruction pretraining to build adaptable, efficient safety guardrails.",
+   "zh": "用合成的指令预训练，构建适应性强、高效的安全护栏。",
+   "cls": "p"
+  },
+  "a91cddbed8": {
+   "en": "The Guardformer pipeline — synthetic policies and prompts pretrain a compact guardrail model.",
+   "zh": "Guardformer 流水线 — 合成的策略和提示词用于预训练紧凑的护栏模型。",
+   "cls": "figcaption"
+  },
+  "f55276d864": {
+   "en": "Trustworthy Systems Engineering — the Map",
+   "zh": "Trustworthy Systems Engineering — the Map",
+   "cls": "attr:data-toc"
+  },
+  "73c5cf9b4c": {
+   "en": "{1}Trustworthy AI (overview){/1} · NeurIPS 2024 trust & safety thread",
+   "zh": "{1}可信 AI（概述）{/1} · NeurIPS 2024 的可信与安全主线",
+   "cls": "div.byline"
+  },
+  "d2c4a150bd": {
+   "en": "Map the solution space for making LLM-centred AI agents trustworthy.",
+   "zh": "梳理让以大语言模型为核心的 AI 智能体变得可信的解决方案空间。",
+   "cls": "p"
+  },
+  "59fac4520a": {
+   "en": "The LLM is the centrepiece of agent architecture; its hallucination and uncertainty undermine trust with cascading system effects — and one size does not fit all.",
+   "zh": "大语言模型是智能体架构的核心；它的幻觉和不确定性会削弱信任，并在系统中产生连锁影响 — 而且没有放之四海而皆准的办法。",
+   "cls": "p"
+  },
+  "812f82050a": {
+   "en": "Trustworthy-LLM options: Tool AI, Explanatory AI, a monitoring system with a world model, formal methods",
+   "zh": "可信大语言模型的选项：Tool AI、可解释 AI、带世界模型的监控系统、形式化方法",
+   "cls": "li"
+  },
+  "d53d65a4f1": {
+   "en": "Safety-by-design branches: safe training data, prompt control, and fine-tuning",
+   "zh": "安全内建的几条路径：安全的训练数据、提示词控制和微调",
+   "cls": "li"
+  },
+  "383a1eb5e5": {
+   "en": "Separate true AI agents (reasoning, goal-driven, self-learning) from task tools (no goals or state)",
+   "zh": "区分真正的 AI 智能体（会推理、目标驱动、自我学习）与任务工具（没有目标或状态）",
+   "cls": "li"
+  },
+  "04f7d42569": {
+   "en": "A single map linking agent risks to concrete trustworthiness techniques.",
+   "zh": "一张把智能体风险与具体可信技术联系起来的统一地图。",
+   "cls": "p"
+  },
+  "9242e32444": {
+   "en": "Pick the right mix of tool-AI, monitoring and formal methods per use case, not a single fix.",
+   "zh": "针对每个用例选择合适的 Tool AI、监控和形式化方法组合，而不是单一的解决办法。",
+   "cls": "p"
+  },
+  "1787c6686f": {
+   "en": "A map of trustworthy-LLM techniques — Tool AI, explanatory AI, monitoring, formal methods and safety-by-design.",
+   "zh": "可信大语言模型技术地图 — Tool AI、可解释 AI、监控、形式化方法和安全内建。",
+   "cls": "figcaption"
+  },
+  "02d0dc1103": {
+   "en": "Safeguards & Monitoring for Autonomous AI Agents",
+   "zh": "Safeguards & Monitoring for Autonomous AI Agents",
+   "cls": "attr:data-toc"
+  },
+  "605f8d8520": {
+   "en": "{1}Safeguards & monitoring{/1} · NeurIPS 2024",
+   "zh": "{1}防护与监控{/1} · NeurIPS 2024",
+   "cls": "div.byline"
+  },
+  "6577db2e61": {
+   "en": "Keep safeguards effective when LLMs are specialized and deployed as agents.",
+   "zh": "当大语言模型被专门化并作为智能体部署时，保持防护措施有效。",
+   "cls": "p"
+  },
+  "a915f01c8f": {
+   "en": "Fine-tuning for a domain (coding, chatbots) can erode previously built-in safety; specialized models often skip extra alignment.",
+   "zh": "针对某个领域（编程、聊天机器人）微调，可能削弱原有的内置安全性；专用模型往往不再做额外的对齐。",
+   "cls": "p"
+  },
+  "10d3c930bc": {
+   "en": "Use model merging to retain domain specialization and safety alignment together",
+   "zh": "用模型合并同时保留领域专长和安全对齐",
+   "cls": "li"
+  },
+  "964abfcfbf": {
+   "en": "Sandbox agents and monitor them continuously",
+   "zh": "把智能体放入沙箱并持续监控",
+   "cls": "li"
+  },
+  "ade755379c": {
+   "en": "Watch for unexpected actions — e.g. an agent disabling screen recording and losing data",
+   "zh": "留意意外行为 — 例如智能体关闭屏幕录制并导致数据丢失",
+   "cls": "li"
+  },
+  "1671ac7fd0": {
+   "en": "Model merging as a practical way to keep safety during specialization.",
+   "zh": "模型合并是在专门化过程中保持安全性的一种实用方法。",
+   "cls": "p"
+  },
+  "d560179f74": {
+   "en": "Treat sandboxing and monitoring as mandatory for any deployed autonomous agent.",
+   "zh": "对任何已部署的自主智能体，沙箱和监控都应是强制要求。",
+   "cls": "p"
+  },
+  "f375de491d": {
+   "en": "AI Agent Evaluation & Limitations",
+   "zh": "AI Agent Evaluation & Limitations",
+   "cls": "attr:data-toc"
+  },
+  "8e0c687186": {
+   "en": "{1}Embodied Agent Interface · AgentBoard{/1} · NeurIPS 2024",
+   "zh": "{1}Embodied Agent Interface · AgentBoard{/1} · NeurIPS 2024",
+   "cls": "div.byline"
+  },
+  "f4a83de9d8": {
+   "en": "Evaluate LLMs as agents with fine-grained, consistent benchmarks.",
+   "zh": "用细粒度、一致的基准测试把大语言模型作为智能体来评估。",
+   "cls": "p"
+  },
+  "a02827166f": {
+   "en": "Agent / embodied evaluation is inconsistent — varied domains, differing I/O, and judging only by final success rate.",
+   "zh": "智能体/具身评估不一致 — 领域各异、输入输出不同，且只按最终成功率评判。",
+   "cls": "p"
+  },
+  "5d7c1b50ba": {
+   "en": "Embodied Agent Interface (Stanford, Northwestern, Amazon, MIT): goal interpretation, subgoal decomposition, action sequencing, transition modeling in VirtualHome / BEHAVIOR",
+   "zh": "Embodied Agent Interface（Stanford、Northwestern、Amazon、MIT）：在 VirtualHome / BEHAVIOR 中评估目标解读、子目标分解、动作排序、转移建模",
+   "cls": "li"
+  },
+  "590d525264": {
+   "en": "AgentBoard: multi-turn evaluation using progress rate, not just success",
+   "zh": "AgentBoard：用进度率而不仅是成功率进行多轮评估",
+   "cls": "li"
+  },
+  "b7fc30e9b6": {
+   "en": "Fine-grained metrics flag hallucination, affordance and planning errors",
+   "zh": "细粒度指标能发现幻觉、可供性和规划错误",
+   "cls": "li"
+  },
+  "73c5ec583d": {
+   "en": "Decomposed, progress-rate evaluation shows where agents fail, not just whether.",
+   "zh": "分解式、基于进度率的评估能显示智能体在哪里失败，而不只是是否失败。",
+   "cls": "p"
+  },
+  "b79afc2cd8": {
+   "en": "LLMs still struggle on long multi-goal tasks (>10 goals ≈ 40% success; ~41% trajectory-feasibility errors) — track subcomponents to improve.",
+   "zh": "大语言模型在长的多目标任务上仍然吃力（目标数 >10 时成功率约 40%；约 41% 为轨迹可行性错误）— 需跟踪各子组件以改进。",
+   "cls": "p"
+  },
+  "e0361165ed": {
+   "en": "Fine-grained agent evaluation (Embodied Agent Interface / AgentBoard) across goal interpretation, planning and transitions.",
+   "zh": "跨目标解读、规划和转移的细粒度智能体评估（Embodied Agent Interface / AgentBoard）。",
+   "cls": "figcaption"
+  },
+  "200d93941a": {
+   "en": "04 · Conclusions",
+   "zh": "04 · 结论",
+   "cls": "div.kicker"
+  },
+  "a292606210": {
+   "en": "Synthesis across the papers",
+   "zh": "各篇论文的综合",
+   "cls": "h2"
+  },
+  "b4510362a5": {
+   "en": "Insights",
+   "zh": "洞察",
+   "cls": "h4"
+  },
+  "8add2964d7": {
+   "en": "Leaders are converging on ‘Tool / Explanatory AI’ and provable safety over unchecked autonomous agents.",
+   "zh": "业界领军者正趋向于“Tool / 可解释 AI”和可证明的安全，而不是不受约束的自主智能体。",
+   "cls": "li"
+  },
+  "d6dea56b93": {
+   "en": "Security is first-class: agents are attackable (e.g. RAG / memory poisoning) and need secure-by-design defenses.",
+   "zh": "安全是首要问题：智能体易受攻击（如 RAG/记忆投毒），需要安全内建的防御。",
+   "cls": "li"
+  },
+  "cec32e1958": {
+   "en": "Everyday levers — fine-tuning hygiene and guardrail models — materially change model safety.",
+   "zh": "日常的杠杆 — 微调规范和护栏模型 — 会显著改变模型的安全性。",
+   "cls": "li"
+  },
+  "40b0906c4f": {
+   "en": "Vision",
+   "zh": "愿景",
+   "cls": "h4"
+  },
+  "abd70ad86a": {
+   "en": "A monitoring ‘Security AI’ that continuously checks powerful systems.",
+   "zh": "一个持续检查强大系统的监控型“Security AI”。",
+   "cls": "li"
+  },
+  "a88dbdc192": {
+   "en": "Formal verification scaled by uniting the ML and formal-methods communities.",
+   "zh": "通过联合机器学习与形式化方法社区来扩大形式化验证规模。",
+   "cls": "li"
+  },
+  "31a27b57bf": {
+   "en": "Synthetic data as a practical engine for safety guardrails.",
+   "zh": "合成数据是安全护栏的实用引擎。",
+   "cls": "li"
+  },
+  "5d8c81594f": {
+   "en": "Implications for us",
+   "zh": "对我们的启示",
+   "cls": "h4"
+  },
+  "77ec45b5bb": {
+   "en": "Favor interpretable, controllable tool-AI and independent monitoring before deploying agents.",
+   "zh": "在部署智能体之前，优先发展可解释、可控的工具型 AI 和独立监控。",
+   "cls": "li"
+  },
+  "3f22809440": {
+   "en": "Invest in verification tooling, benchmarks and secure-by-design agent architectures.",
+   "zh": "投入验证工具、基准测试和安全内建的智能体架构。",
+   "cls": "li"
+  },
+  "3fb3470fe0": {
+   "en": "Govern the fine-tuning pipeline and adopt efficient guardrail models.",
+   "zh": "管控微调流水线，并采用高效的护栏模型。",
+   "cls": "li"
+  },
+  "2b92ebc383": {
+   "en": "05 · References",
+   "zh": "05 · 参考文献",
+   "cls": "div.kicker"
+  },
+  "5d20d0fee3": {
+   "en": "References",
+   "zh": "参考文献",
+   "cls": "h2"
+  },
+  "f69c7a2dfe": {
+   "en": "© 2026 {1}ALI{/1} — {2}Tech Insight{/2} v1.7.0",
+   "zh": "© 2026 {1}ALI{/1} — {2}Tech Insight{/2} v1.7.0",
+   "cls": "div.site-copyright"
+  },
+  "b39437d800": {
+   "en": "NeurIPS 2024 — Tech Insight Report",
+   "zh": "NeurIPS 2024 — Tech Insight 报告",
+   "cls": "doctitle"
+  },
+  "ee45c30326": {
+   "en": "Report",
+   "zh": "报告",
+   "cls": "div.kicker"
+  },
+  "f24a7a693b": {
+   "en": "NeurIPS 2024",
+   "zh": "NeurIPS 2024",
+   "cls": "h1"
+  },
+  "5221c59cb8": {
+   "en": "38th Annual Conference on Neural Information Processing Systems · Vancouver, Canada · December 10–15, 2024",
+   "zh": "第 38 届神经信息处理系统年会 · 加拿大温哥华 · 2024 年 12 月 10–15 日",
+   "cls": "p.topic"
+  },
+  "8a1e29b3dd": {
+   "en": "Conference",
+   "zh": "会议",
+   "cls": "attr:data-toc"
+  },
+  "f5cbdf6bfb": {
+   "en": "Contents",
+   "zh": "目录",
+   "cls": "attr:data-toc"
+  },
+  "b4e6a31089": {
+   "en": "Intro",
+   "zh": "简介",
+   "cls": "attr:data-group"
+  },
+  "e3e91f3034": {
+   "en": "Conference statistics",
+   "zh": "会议统计",
+   "cls": "attr:data-toc"
+  },
+  "5301832825": {
+   "en": "38th Annual Conference on Neural Information Processing Systems — Vancouver, Canada",
+   "zh": "第 38 届神经信息处理系统年会 — 加拿大温哥华",
+   "cls": "h2"
+  },
+  "778fa47d10": {
+   "en": "Insight 01 · Where AI is heading",
+   "zh": "洞察 01 · AI 的发展方向",
+   "cls": "div.kicker"
+  },
+  "e51cf5765c": {
+   "en": "Insight 02 · Where AI is heading",
+   "zh": "洞察 02 · AI 的发展方向",
+   "cls": "div.kicker"
+  },
+  "6daecb70fd": {
+   "en": "Insight 03 · Provable & secure-by-design safety",
+   "zh": "洞察 03 · 可证明与安全内建的安全性",
+   "cls": "div.kicker"
+  },
+  "c7c377ec00": {
+   "en": "Insight 04 · Provable & secure-by-design safety",
+   "zh": "洞察 04 · 可证明与安全内建的安全性",
+   "cls": "div.kicker"
+  },
+  "261a77cbfc": {
+   "en": "Insight 05 · Safer models in practice",
+   "zh": "洞察 05 · 实践中更安全的模型",
+   "cls": "div.kicker"
+  },
+  "f8a0282ba4": {
+   "en": "Insight 06 · Safer models in practice",
+   "zh": "洞察 06 · 实践中更安全的模型",
+   "cls": "div.kicker"
+  },
+  "1e202c0164": {
+   "en": "Insight 07 · Trustworthiness & agent evaluation",
+   "zh": "洞察 07 · 可信性与智能体评估",
+   "cls": "div.kicker"
+  },
+  "6cb26fcc9e": {
+   "en": "Insight 08 · Trustworthiness & agent evaluation",
+   "zh": "洞察 08 · 可信性与智能体评估",
+   "cls": "div.kicker"
+  },
+  "82de0667d1": {
+   "en": "Insight 09 · Trustworthiness & agent evaluation",
+   "zh": "洞察 09 · 可信性与智能体评估",
+   "cls": "div.kicker"
+  },
+  "b536777ff1": {
+   "en": "Conclusions",
+   "zh": "结论",
+   "cls": "attr:data-toc"
+  },
+  "41a909151e": {
+   "en": "<div class=\"fit\"><div class=\"concl\"><div class=\"col c1\"><h4>Insights</h4><ul><li>Leaders are converging on ‘Tool / Explanatory AI’ and provable safety over unchecked autonomous agents.</li><li>Security is first-class: agents are attackable (e.g. RAG / memory poisoning) and need secure-by-design defenses.</li><li>Everyday levers — fine-tuning hygiene and guardrail models — materially change model safety.</li></ul></div><div class=\"col c2\"><h4>Vision</h4><ul><li>A monitoring ‘Security AI’ that continuously checks powerful systems.</li><li>Formal verification scaled by uniting the ML and formal-methods communities.</li><li>Synthetic data as a practical engine for safety guardrails.</li></ul></div><div class=\"col c3\"><h4>Implications for us</h4><ul><li>Favor interpretable, controllable tool-AI and independent monitoring before deploying agents.</li><li>Invest in verification tooling, benchmarks and secure-by-design agent architectures.</li><li>Govern the fine-tuning pipeline and adopt efficient guardrail models.</li></ul></div></div></div>",
+   "zh": "<div class=\"fit\"><div class=\"concl\"><div class=\"col c1\"><h4>洞察</h4><ul><li>业界领军者正趋向于“Tool / 可解释 AI”和可证明的安全，而不是不受约束的自主智能体。</li><li>安全是首要问题：智能体易受攻击（如 RAG/记忆投毒），需要安全内建的防御。</li><li>日常的杠杆 — 微调规范和护栏模型 — 会显著改变模型的安全性。</li></ul></div><div class=\"col c2\"><h4>愿景</h4><ul><li>一个持续检查强大系统的监控型“Security AI”。</li><li>通过联合机器学习与形式化方法社区来扩大形式化验证规模。</li><li>合成数据是安全护栏的实用引擎。</li></ul></div><div class=\"col c3\"><h4>对我们的启示</h4><ul><li>在部署智能体之前，优先发展可解释、可控的工具型 AI 和独立监控。</li><li>投入验证工具、基准测试和安全内建的智能体架构。</li><li>管控微调流水线，并采用高效的护栏模型。</li></ul></div></div></div>",
+   "cls": "section.slide"
+  },
+  "fa39f733bd": {
+   "en": "Wrap-up",
+   "zh": "总结",
+   "cls": "attr:data-group"
+  },
+  "b2ec1abf35": {
+   "en": "Contents (T)",
+   "zh": "目录 (T)",
+   "cls": "button.toc-btn"
+  },
+  "862168fa67": {
+   "en": "NeurIPS 2024 — Tech Insight Slides",
+   "zh": "NeurIPS 2024 — Tech Insight 幻灯片",
+   "cls": "doctitle"
+  },
+  "4718b93d9d": {
+   "en": "Tech Insight",
+   "zh": "Tech Insight",
+   "cls": "pptx"
+  },
+  "88aa4763ef": {
+   "en": "Tech Insight Report",
+   "zh": "Tech Insight 报告",
+   "cls": "pptx"
+  },
+  "c2c78fc96c": {
+   "en": "38th Annual Conference on Neural Information Processing Systems",
+   "zh": "第 38 届神经信息处理系统年会",
+   "cls": "pptx"
+  },
+  "914c815035": {
+   "en": "Vancouver, Canada · December 10–15, 2024",
+   "zh": "加拿大温哥华 · 2024 年 12 月 10–15 日",
+   "cls": "pptx"
+  },
+  "d219c68101": {
+   "en": "Location",
+   "zh": "地点",
+   "cls": "pptx"
+  },
+  "196dc92a1b": {
+   "en": "Vancouver, Canada",
+   "zh": "加拿大温哥华",
+   "cls": "pptx"
+  },
+  "842b7b5d71": {
+   "en": "Dates",
+   "zh": "日期",
+   "cls": "pptx"
+  },
+  "8a1e422966": {
+   "en": "December 10–15, 2024",
+   "zh": "2024 年 12 月 10–15 日",
+   "cls": "pptx"
+  },
+  "fe7f55b8bf": {
+   "en": "Focus",
+   "zh": "主题",
+   "cls": "pptx"
+  },
+  "92ddf46f87": {
+   "en": "Trustworthy AI — Toward Safe, Explainable, Tool-based AI",
+   "zh": "可信 AI — 迈向安全、可解释、基于工具的 AI",
+   "cls": "pptx"
+  },
+  "c7fb4a1c86": {
+   "en": "CONTENTS",
+   "zh": "目录",
+   "cls": "pptx"
+  },
+  "dd1a92a165": {
+   "en": "CONFERENCE STATISTICS",
+   "zh": "会议统计",
+   "cls": "pptx"
+  },
+  "8729316a87": {
+   "en": "submissions",
+   "zh": "投稿数",
+   "cls": "pptx"
+  },
+  "51c817ab85": {
+   "en": "accepted",
+   "zh": "录用数",
+   "cls": "pptx"
+  },
+  "d51ed57f66": {
+   "en": "acceptance rate",
+   "zh": "录用率",
+   "cls": "pptx"
+  },
+  "48f0bdc7c8": {
+   "en": "Vancouver",
+   "zh": "温哥华",
+   "cls": "pptx"
+  },
+  "c7eee93f98": {
+   "en": "Dec 10–15",
+   "zh": "12 月 10–15 日",
+   "cls": "pptx"
+  },
+  "87c3fad5af": {
+   "en": "Also: The 38th NeurIPS, at the Vancouver Convention Center. This report covers five safety-focused talks — Sutskever, Bengio, Tegmark, Dawn Song, Hawkins — plus a guardrails paper.",
+   "zh": "另：第 38 届 NeurIPS 在温哥华会议中心举行。本报告涵盖五场聚焦安全的演讲 — Sutskever、Bengio、Tegmark、Dawn Song、Hawkins — 以及一篇关于护栏的论文。",
+   "cls": "pptx"
+  },
+  "ed8a6dec66": {
+   "en": "INSIGHT 01 · Where AI is heading",
+   "zh": "洞察 01 · AI 的发展方向",
+   "cls": "pptx"
+  },
+  "f9d0bd99a5": {
+   "en": "Ilya Sutskever (keynote) · OpenAI co-founder",
+   "zh": "Ilya Sutskever（主旨演讲） · OpenAI 联合创始人",
+   "cls": "pptx"
+  },
+  "5fc1004412": {
+   "en": "GOAL",
+   "zh": "目标",
+   "cls": "pptx"
+  },
+  "e9166b5b8a": {
+   "en": "CHALLENGE",
+   "zh": "挑战",
+   "cls": "pptx"
+  },
+  "098632eb27": {
+   "en": "METHOD",
+   "zh": "方法",
+   "cls": "pptx"
+  },
+  "73ff6fd273": {
+   "en": "Recap: autoregressive seq2seq + deep LSTMs trained on large data started the scaling era · Argue that scaling data and compute keeps driving capability · Point to adaptive compute and aggressive data collection as the key levers",
+   "zh": "回顾：自回归 seq2seq + 在大数据上训练的深度 LSTM 开启了规模化时代 · 主张扩大数据和算力会持续推动能力提升 · 指出自适应计算和积极的数据收集是关键杠杆",
+   "cls": "pptx"
+  },
+  "c427fc98ea": {
+   "en": "NOVELTY",
+   "zh": "创新点",
+   "cls": "pptx"
+  },
+  "c5c9f56f26": {
+   "en": "IMPACT",
+   "zh": "影响",
+   "cls": "pptx"
+  },
+  "2a43dff928": {
+   "en": "INSIGHT 02 · Where AI is heading",
+   "zh": "洞察 02 · AI 的发展方向",
+   "cls": "pptx"
+  },
+  "8647bd7423": {
+   "en": "Yoshua Bengio (workshop) · Mila / Université de Montréal",
+   "zh": "Yoshua Bengio（研讨会） · Mila / Université de Montréal",
+   "cls": "pptx"
+  },
+  "bffd3fa2b3": {
+   "en": "Build passive, interpretable ‘Tool AI’ / ‘Scientist AI’ that explains rather than acts · Add a parallel ‘Security AI’ that monitors consistency and risk · Favor understanding the reasons behind behavior over imitating it",
+   "zh": "构建被动、可解释的“Tool AI”/“Scientist AI”，只解释而不行动 · 并行加入一个监控一致性与风险的“Security AI” · 更看重理解行为背后的原因，而不是模仿行为",
+   "cls": "pptx"
+  },
+  "eda05b447d": {
+   "en": "KEY RESULTS",
+   "zh": "关键结果",
+   "cls": "pptx"
+  },
+  "0e61741c49": {
+   "en": "Tool AI",
+   "zh": "Tool AI",
+   "cls": "pptx"
+  },
+  "a3d3b96225": {
+   "en": "over autonomous agents",
+   "zh": "优于自主智能体",
+   "cls": "pptx"
+  },
+  "ebf68a8fc9": {
+   "en": "+ monitor",
+   "zh": "+ 监控",
+   "cls": "pptx"
+  },
+  "3beae69b19": {
+   "en": "a parallel ‘Security AI’",
+   "zh": "并行的“Security AI”",
+   "cls": "pptx"
+  },
+  "e016238f42": {
+   "en": "INSIGHT 03 · Provable & secure-by-design safety",
+   "zh": "洞察 03 · 可证明与安全内建的安全性",
+   "cls": "pptx"
+  },
+  "3820675988": {
+   "en": "Max Tegmark (workshop) · MIT",
+   "zh": "Max Tegmark（研讨会） · MIT",
+   "cls": "pptx"
+  },
+  "6ed223c0c4": {
+   "en": "Build provably safe systems using formal verification · Replace risky neural components with verified tools where possible · Scale verification by uniting ML + formal-methods communities and shared benchmarks",
+   "zh": "用形式化验证构建可证明安全的系统 · 尽可能用经过验证的工具替换有风险的神经网络组件 · 通过联合机器学习与形式化方法社区并共享基准测试来扩大验证规模",
+   "cls": "pptx"
+  },
+  "7d1fcc6852": {
+   "en": "INSIGHT 04 · Provable & secure-by-design safety",
+   "zh": "洞察 04 · 可证明与安全内建的安全性",
+   "cls": "pptx"
+  },
+  "afbc73c7b9": {
+   "en": "Dawn Song (workshop) · UC Berkeley",
+   "zh": "Dawn Song（研讨会） · UC Berkeley",
+   "cls": "pptx"
+  },
+  "1d7e4df42f": {
+   "en": "Catalogue risks (misuse, malfunction, systemic) and trust properties (robustness, fairness, privacy, transparency) · Use formal verification to construct secure programs and generate secure code · Monitor pre- and post-deployment risks and strengthen societal resilience",
+   "zh": "整理风险（滥用、故障、系统性）和可信属性（鲁棒性、公平性、隐私、透明性） · 用形式化验证构建安全的程序并生成安全的代码 · 监控部署前后的风险，并增强社会韧性",
+   "cls": "pptx"
+  },
+  "5c5f223d09": {
+   "en": "INSIGHT 05 · Safer models in practice",
+   "zh": "洞察 05 · 实践中更安全的模型",
+   "cls": "pptx"
+  },
+  "df8fe4468b": {
+   "en": "Will Hawkins (oral) · Google DeepMind / Oxford",
+   "zh": "Will Hawkins（口头报告） · Google DeepMind / Oxford",
+   "cls": "pptx"
+  },
+  "d4ea75410c": {
+   "en": "Compare instruction-tuning vs parameter-efficient (LoRA) fine-tuning · Fine-tune on non-adversarial data and measure toxicity shifts · Study community fine-tunes for unexpected deviations",
+   "zh": "比较指令微调与参数高效（LoRA）微调 · 在非对抗性数据上微调，并衡量毒性变化 · 研究社区微调模型中的意外偏离",
+   "cls": "pptx"
+  },
+  "a463a0ab90": {
+   "en": "INSIGHT 06 · Safer models in practice",
+   "zh": "洞察 06 · 实践中更安全的模型",
+   "cls": "pptx"
+  },
+  "fc99092586": {
+   "en": "Eric Lin · Dynamo AI",
+   "zh": "Eric Lin · Dynamo AI",
+   "cls": "pptx"
+  },
+  "c0fe79c86a": {
+   "en": "Generate synthetic policies, compliant / non-compliant prompts, rationales and labels · Do guardrail-specific instruction pretraining on that synthetic data · Produce Guardformer, a compact guardrail model",
+   "zh": "生成合成的策略、合规/不合规的提示词、理由和标签 · 在这些合成数据上进行面向护栏的指令预训练 · 得到 Guardformer，一个紧凑的护栏模型",
+   "cls": "pptx"
+  },
+  "4e6745dde1": {
+   "en": "INSIGHT 07 · Trustworthiness & agent evaluation",
+   "zh": "洞察 07 · 可信性与智能体评估",
+   "cls": "pptx"
+  },
+  "4e466d41f6": {
+   "en": "Trustworthy AI (overview) · NeurIPS 2024 trust & safety thread",
+   "zh": "可信 AI（概述） · NeurIPS 2024 的可信与安全主线",
+   "cls": "pptx"
+  },
+  "4578957d7b": {
+   "en": "Trustworthy-LLM options: Tool AI, Explanatory AI, a monitoring system with a world model, formal methods · Safety-by-design branches: safe training data, prompt control, and fine-tuning · Separate true AI agents (reasoning, goal-driven, self-learning) from task tools (no goals or state)",
+   "zh": "可信大语言模型的选项：Tool AI、可解释 AI、带世界模型的监控系统、形式化方法 · 安全内建的几条路径：安全的训练数据、提示词控制和微调 · 区分真正的 AI 智能体（会推理、目标驱动、自我学习）与任务工具（没有目标或状态）",
+   "cls": "pptx"
+  },
+  "37a33d17b4": {
+   "en": "INSIGHT 08 · Trustworthiness & agent evaluation",
+   "zh": "洞察 08 · 可信性与智能体评估",
+   "cls": "pptx"
+  },
+  "38dbcd7e9e": {
+   "en": "Safeguards & monitoring · NeurIPS 2024",
+   "zh": "防护与监控 · NeurIPS 2024",
+   "cls": "pptx"
+  },
+  "794030a0ed": {
+   "en": "Use model merging to retain domain specialization and safety alignment together · Sandbox agents and monitor them continuously · Watch for unexpected actions — e.g. an agent disabling screen recording and losing data",
+   "zh": "用模型合并同时保留领域专长和安全对齐 · 把智能体放入沙箱并持续监控 · 留意意外行为 — 例如智能体关闭屏幕录制并导致数据丢失",
+   "cls": "pptx"
+  },
+  "2ba03e4e24": {
+   "en": "Model merging",
+   "zh": "模型合并",
+   "cls": "pptx"
+  },
+  "b0380d7186": {
+   "en": "keeps safety + specialization",
+   "zh": "兼顾安全与专长",
+   "cls": "pptx"
+  },
+  "0a771c36be": {
+   "en": "Sandbox",
+   "zh": "沙箱",
+   "cls": "pptx"
+  },
+  "75a640c641": {
+   "en": "+ monitor, always",
+   "zh": "+ 持续监控",
+   "cls": "pptx"
+  },
+  "e0762b717a": {
+   "en": "INSIGHT 09 · Trustworthiness & agent evaluation",
+   "zh": "洞察 09 · 可信性与智能体评估",
+   "cls": "pptx"
+  },
+  "195834c55b": {
+   "en": "Embodied Agent Interface · AgentBoard · NeurIPS 2024",
+   "zh": "Embodied Agent Interface · AgentBoard · NeurIPS 2024",
+   "cls": "pptx"
+  },
+  "13a75d6896": {
+   "en": "Embodied Agent Interface (Stanford, Northwestern, Amazon, MIT): goal interpretation, subgoal decomposition, action sequencing, transition modeling in VirtualHome / BEHAVIOR · AgentBoard: multi-turn evaluation using progress rate, not just success · Fine-grained metrics flag hallucination, affordance and planning errors",
+   "zh": "Embodied Agent Interface（Stanford、Northwestern、Amazon、MIT）：在 VirtualHome / BEHAVIOR 中评估目标解读、子目标分解、动作排序、转移建模 · AgentBoard：用进度率而不仅是成功率进行多轮评估 · 细粒度指标能发现幻觉、可供性和规划错误",
+   "cls": "pptx"
+  },
+  "69bae0ee91": {
+   "en": "CONCLUSIONS",
+   "zh": "结论",
+   "cls": "pptx"
+  },
+  "96706c7774": {
+   "en": "INSIGHTS",
+   "zh": "洞察",
+   "cls": "pptx"
+  },
+  "1289704139": {
+   "en": "• Leaders are converging on ‘Tool / Explanatory AI’ and provable safety over unchecked autonomous agents.",
+   "zh": "• 业界领军者正趋向于“Tool / 可解释 AI”和可证明的安全，而不是不受约束的自主智能体。",
+   "cls": "pptx"
+  },
+  "6170870a45": {
+   "en": "• Security is first-class: agents are attackable (e.g. RAG / memory poisoning) and need secure-by-design defenses.",
+   "zh": "• 安全是首要问题：智能体易受攻击（如 RAG/记忆投毒），需要安全内建的防御。",
+   "cls": "pptx"
+  },
+  "e068fffc80": {
+   "en": "• Everyday levers — fine-tuning hygiene and guardrail models — materially change model safety.",
+   "zh": "• 日常的杠杆 — 微调规范和护栏模型 — 会显著改变模型的安全性。",
+   "cls": "pptx"
+  },
+  "927e4493b3": {
+   "en": "VISION",
+   "zh": "愿景",
+   "cls": "pptx"
+  },
+  "cfe38f63d2": {
+   "en": "• A monitoring ‘Security AI’ that continuously checks powerful systems.",
+   "zh": "• 一个持续检查强大系统的监控型“Security AI”。",
+   "cls": "pptx"
+  },
+  "240abaad8c": {
+   "en": "• Formal verification scaled by uniting the ML and formal-methods communities.",
+   "zh": "• 通过联合机器学习与形式化方法社区来扩大形式化验证规模。",
+   "cls": "pptx"
+  },
+  "9ece1eb30f": {
+   "en": "• Synthetic data as a practical engine for safety guardrails.",
+   "zh": "• 合成数据是安全护栏的实用引擎。",
+   "cls": "pptx"
+  },
+  "ab88151343": {
+   "en": "IMPLICATIONS FOR US",
+   "zh": "对我们的启示",
+   "cls": "pptx"
+  },
+  "71cb6444b9": {
+   "en": "• Favor interpretable, controllable tool-AI and independent monitoring before deploying agents.",
+   "zh": "• 在部署智能体之前，优先发展可解释、可控的工具型 AI 和独立监控。",
+   "cls": "pptx"
+  },
+  "b43048722f": {
+   "en": "• Invest in verification tooling, benchmarks and secure-by-design agent architectures.",
+   "zh": "• 投入验证工具、基准测试和安全内建的智能体架构。",
+   "cls": "pptx"
+  },
+  "950e5335fb": {
+   "en": "• Govern the fine-tuning pipeline and adopt efficient guardrail models.",
+   "zh": "• 管控微调流水线，并采用高效的护栏模型。",
+   "cls": "pptx"
+  },
+  "5d16a62568": {
+   "en": "{1}{/1}Tech Insight",
+   "zh": "{1}{/1}Tech Insight",
+   "cls": "span.brand"
+  },
+  "2086b21f8f": {
+   "en": "Statistics",
+   "zh": "统计",
+   "cls": "a"
+  }
+ }
+}

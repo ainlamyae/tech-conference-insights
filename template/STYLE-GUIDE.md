@@ -224,3 +224,59 @@ whole point of having a standard.
 - [ ] Numbers are in monospace; labels are UPPERCASE mono in their assigned colour.
 - [ ] Figures are real paper figures / logos — no stock art, no gradients.
 - [ ] Conclusions slide synthesises *across* papers (Insights · Vision · Implications).
+
+---
+
+## 9. Type B · Talk / topic template
+
+Type A (sections 2–8) is for **conference** deliverables: one card per paper. Type B is for a
+**talk or topic of our own** (first used for the Open Day, Waterloo, 2026-11): a few parts,
+each explained with a drawing we made. Same fonts, palette, cards and stage as Type A; what
+differs is the content model. Files are in [`talk/`](talk/).
+
+| Rule | Type A (conference) | Type B (talk) |
+|---|---|---|
+| Unit | Insight card per paper | one **part** (section) with 1 to 4 slides |
+| Slide body | five coloured fields + paper figure | headline (H2), one-sentence lede, **one animated drawing**, **3 chips** (goal / method / novelty colours) |
+| Opening | conference information, statistics | title slide with **the parts as numbered cards**, then **contents** with the same parts and numbers |
+| Numbering | contents numbered 1…n | parts numbered **01–06 on the title slide, the contents and every slide kicker** (`01 · Agents`); the closing section continues the count (`07 · Challenges`) |
+| Closing | Conclusions (Insights · Vision · Implications) | **Challenges**: up to 4 columns, each a question and 3 points with citations |
+| References | one IEEE line pinned under each card | numbered `[n]` in the slide footer (order of first use), full list in the report |
+| Drawings | figures lifted from papers | animated SVG (classes `n` fade in, `d` arrow wipe, `g` bar grows, `fade` fades out; start time in `--d:…s`) |
+| PowerPoint | static figure | the same SVG converted to **native shapes with native animation** by `svg2pptx.py` (nothing to click; plays in Slide Show) |
+| Speaker notes | none | narration in the notes of every content slide |
+
+**Type B rules**
+
+- Write numbers of two and above as **digits** ("3 minutes", "4 challenges ahead"). "one" stays a word.
+- The title slide, the contents slide and the section kickers must list **the same parts in the same order with the same numbers**. Check this before shipping.
+- Keep internal or confidential project names out of every file (slides, notes, drawings, references); use the public name.
+- References: cite published work (papers first, official engineering posts second). In the report, each reference is one text block (`<div class="r"><span>citation <a>link</a></span></div>`): never separate the citation text and its link into different flex items, or a wide gap opens between them.
+- One drawing per slide. Do not stack text on the left half; centre the drawing and put the three chips underneath.
+
+**Quick checklist (Type B)**
+
+- [ ] Title, contents and kickers show the same parts, same order, same numbers.
+- [ ] Every content slide: H2, one-sentence lede, one drawing, 3 chips, references footer.
+- [ ] Digits for numbers; no confidential names; every claim has a reference.
+- [ ] Drawings play in the HTML deck (re-play on slide entry) and in the PowerPoint (Slide Show).
+- [ ] The final folder holds only the three files: `…-tech-insight-report.html`, `…-slides.html`, `…-slides.pptx`.
+
+---
+
+## 10. Bilingual deliverables (English | Chinese) and file names
+
+Every conference folder (Type A or Type B) ends up with **4 files**:
+
+```
+<Name>-tech-insight-report.html          # English text + English | Chinese button
+<Name>-tech-insight-slides.html          # English text + English | Chinese button
+<Name>-tech-insight-slides-EN.pptx       # PowerPoint, English
+<Name>-tech-insight-slides-CN.pptx       # PowerPoint, Chinese (Simplified)
+```
+
+- The pptx name always ends with the language code (`EN` / `CN`). The HTML files hold both languages and switch with the button.
+- The button shows the language **names** (English, Chinese). No flags, no icons. Report: in the top bar. Deck: bottom right, beside the slide number; key `L`.
+- Write the English first (with this template), then localize with the toolkit in [`../localization/`](../localization/) (its README lists the 5 steps). Do not hand-edit the Chinese into the HTML or PPTX: fix the string in `localization/catalogs/<folder>.json` and re-run `apply_html.py` / `make_cn_pptx.py`.
+- Keep in English: titles of papers and talks, author names, affiliations, model/method names, references. Numbers of two and above are digits.
+- When copying a PowerPoint template, name it `<Name>-tech-insight-slides-EN.pptx`.

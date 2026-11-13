@@ -1,0 +1,2285 @@
+{
+ "folder": "2025-02_AI-Innovations-LLM-Agents",
+ "strings": {
+  "9ebe394509": {
+   "en": "[1] “LLM-based Application and Industry Overview,” Key AI Innovations talk, 2025.",
+   "zh": "[1] “LLM-based Application and Industry Overview,” Key AI Innovations talk, 2025.",
+   "cls": "keep"
+  },
+  "561b67a44c": {
+   "en": "[2] “Personalization, Recommendation & Content Generation,” Key AI Innovations talk, 2025.",
+   "zh": "[2] “Personalization, Recommendation & Content Generation,” Key AI Innovations talk, 2025.",
+   "cls": "keep"
+  },
+  "6a0782cc42": {
+   "en": "[3] “Customer Service, Data Analysis & Software Development,” Key AI Innovations talk, 2025.",
+   "zh": "[3] “Customer Service, Data Analysis & Software Development,” Key AI Innovations talk, 2025.",
+   "cls": "keep"
+  },
+  "053d5465b6": {
+   "en": "[4] “Security, Risk Management & Assistant Applications,” Key AI Innovations talk, 2025.",
+   "zh": "[4] “Security, Risk Management & Assistant Applications,” Key AI Innovations talk, 2025.",
+   "cls": "keep"
+  },
+  "71027548eb": {
+   "en": "[5] “Single AI Agent System: Architecture,” Key AI Innovations talk, 2025.",
+   "zh": "[5] “Single AI Agent System: Architecture,” Key AI Innovations talk, 2025.",
+   "cls": "keep"
+  },
+  "33bffa2b24": {
+   "en": "[6] “Single AI Agent System: Advanced RAG,” Key AI Innovations talk, 2025.",
+   "zh": "[6] “Single AI Agent System: Advanced RAG,” Key AI Innovations talk, 2025.",
+   "cls": "keep"
+  },
+  "bc9977914c": {
+   "en": "[7] “Single AI Agent System: Tool Learning Paradigms,” Key AI Innovations talk, 2025.",
+   "zh": "[7] “Single AI Agent System: Tool Learning Paradigms,” Key AI Innovations talk, 2025.",
+   "cls": "keep"
+  },
+  "13b9981945": {
+   "en": "[8] “Multi AI Agent Systems: Applications,” Key AI Innovations talk, 2025.",
+   "zh": "[8] “Multi AI Agent Systems: Applications,” Key AI Innovations talk, 2025.",
+   "cls": "keep"
+  },
+  "7a60f899e0": {
+   "en": "[9] “Multi AI Agent Systems: Collaboration & Coordination,” Key AI Innovations talk, 2025.",
+   "zh": "[9] “Multi AI Agent Systems: Collaboration & Coordination,” Key AI Innovations talk, 2025.",
+   "cls": "keep"
+  },
+  "0957ad0fa7": {
+   "en": "[10] “Multi AI Agent Systems: Development Frameworks,” Key AI Innovations talk, 2025.",
+   "zh": "[10] “Multi AI Agent Systems: Development Frameworks,” Key AI Innovations talk, 2025.",
+   "cls": "keep"
+  },
+  "3373bed3f5": {
+   "en": "[11] “LLM Evaluation: Frameworks,” Key AI Innovations talk, 2025.",
+   "zh": "[11] “LLM Evaluation: Frameworks,” Key AI Innovations talk, 2025.",
+   "cls": "keep"
+  },
+  "340bcab58b": {
+   "en": "[12] “RAG Evaluation: Metrics & Frameworks,” Key AI Innovations talk, 2025.",
+   "zh": "[12] “RAG Evaluation: Metrics & Frameworks,” Key AI Innovations talk, 2025.",
+   "cls": "keep"
+  },
+  "2db45616b3": {
+   "en": "[13] “LLM-as-a-Judge: Methodology & Frameworks,” Key AI Innovations talk, 2025.",
+   "zh": "[13] “LLM-as-a-Judge: Methodology & Frameworks,” Key AI Innovations talk, 2025.",
+   "cls": "keep"
+  },
+  "12d62e739a": {
+   "en": "{1}{2}{/2}Tech Insight{/1}{3}Contents{/3}{4}·{/4}{5}Overview{/5}{6}·{/6}{7}Insights{/7}{8}·{/8}{9}Conclusions{/9}{10}·{/10}{11}References{/11}",
+   "zh": "{1}{2}{/2}Tech Insight{/1}{3}目录{/3}{4}·{/4}{5}概览{/5}{6}·{/6}{7}洞察{/7}{8}·{/8}{9}结论{/9}{10}·{/10}{11}参考文献{/11}",
+   "cls": "nav.bar"
+  },
+  "a8dfd7f9a9": {
+   "en": "Key AI Innovations 2025 · Tech Insight Report",
+   "zh": "2025 年 AI 关键创新 · Tech Insight 报告",
+   "cls": "div.kicker"
+  },
+  "5a4a137621": {
+   "en": "Key AI Innovations 2025 — LLM Applications, Multi-Agent Systems & Safety Considerations",
+   "zh": "2025 年 AI 关键创新 — 大语言模型应用、多智能体系统与安全考量",
+   "cls": "h1"
+  },
+  "ff5536e61a": {
+   "en": "{1}Online · February 28, 2025{/1}",
+   "zh": "{1}线上 · 2025 年 2 月 28 日{/1}",
+   "cls": "p.lede"
+  },
+  "1a8331307d": {
+   "en": "A practitioner's read of the 2025 AI landscape: how industry deploys LLM-based systems, the architecture of single- and multi-agent systems (RAG, memory, tools), and the evaluations and guardrails — LLM evaluation, RAG evaluation, and LLM-as-a-Judge — needed to ship them reliably.",
+   "zh": "从实践者视角解读 2025 年的 AI 格局：业界如何部署基于大语言模型的系统、单智能体和多智能体系统的架构（RAG、记忆、工具），以及可靠交付这些系统所需的评估和护栏 — 大语言模型评估、RAG 评估和 LLM-as-a-Judge。",
+   "cls": "p.lede"
+  },
+  "f3e57f1c3e": {
+   "en": "Format{1}Online{/1}",
+   "zh": "形式{1}线上{/1}",
+   "cls": "div"
+  },
+  "8a7a7335a6": {
+   "en": "Date{1}February 28, 2025{/1}",
+   "zh": "日期{1}2025 年 2 月 28 日{/1}",
+   "cls": "div"
+  },
+  "e9765048c6": {
+   "en": "Focus{1}LLM applications, single- & multi-agent systems, evaluations & guardrails{/1}",
+   "zh": "主题{1}大语言模型应用、单智能体与多智能体系统、评估与护栏{/1}",
+   "cls": "div"
+  },
+  "f91f503b91": {
+   "en": "01 · Contents",
+   "zh": "01 · 目录",
+   "cls": "div.kicker"
+  },
+  "2740cf99db": {
+   "en": "Topics covered, by theme",
+   "zh": "按主题划分的议题",
+   "cls": "h2"
+  },
+  "c718964fe1": {
+   "en": "A · LLM-based systems & industry applications",
+   "zh": "A · 基于大语言模型的系统与行业应用",
+   "cls": "attr:data-group"
+  },
+  "40504594a0": {
+   "en": "{1}01{/1}{2}LLMs Across Industries: The Landscape{/2}",
+   "zh": "{1}01{/1}{2}LLMs Across Industries: The Landscape{/2}",
+   "cls": "div"
+  },
+  "3eaa3413fb": {
+   "en": "{1}02{/1}{2}Personalization, Recommendation & Content Generation{/2}",
+   "zh": "{1}02{/1}{2}Personalization, Recommendation & Content Generation{/2}",
+   "cls": "div"
+  },
+  "f2e9e9f8dc": {
+   "en": "{1}03{/1}{2}Customer Service, Data Analysis & Software Development{/2}",
+   "zh": "{1}03{/1}{2}Customer Service, Data Analysis & Software Development{/2}",
+   "cls": "div"
+  },
+  "0591ffaa90": {
+   "en": "{1}04{/1}{2}Security, Risk Management & Assistant Applications{/2}",
+   "zh": "{1}04{/1}{2}Security, Risk Management & Assistant Applications{/2}",
+   "cls": "div"
+  },
+  "c6f596a7ef": {
+   "en": "B · Single AI agent systems",
+   "zh": "B · 单 AI 智能体系统",
+   "cls": "attr:data-group"
+  },
+  "76a6239e12": {
+   "en": "{1}05{/1}{2}Single Agent: Definition & Architecture Methods{/2}",
+   "zh": "{1}05{/1}{2}Single Agent: Definition & Architecture Methods{/2}",
+   "cls": "div"
+  },
+  "4ec3b9b04f": {
+   "en": "{1}06{/1}{2}Single Agent: RAG and Advanced RAG{/2}",
+   "zh": "{1}06{/1}{2}Single Agent: RAG and Advanced RAG{/2}",
+   "cls": "div"
+  },
+  "65250d9c2a": {
+   "en": "{1}07{/1}{2}Single Agent: Memory, Tools & Tool Learning{/2}",
+   "zh": "{1}07{/1}{2}Single Agent: Memory, Tools & Tool Learning{/2}",
+   "cls": "div"
+  },
+  "2393d25a7e": {
+   "en": "C · Multi AI agent systems",
+   "zh": "C · 多 AI 智能体系统",
+   "cls": "attr:data-group"
+  },
+  "31ccfe0e78": {
+   "en": "{1}08{/1}{2}Multi-Agent: Rationale & Applications{/2}",
+   "zh": "{1}08{/1}{2}Multi-Agent: Rationale & Applications{/2}",
+   "cls": "div"
+  },
+  "731e9abc65": {
+   "en": "{1}09{/1}{2}Multi-Agent: Collaboration, Coordination & Orchestration{/2}",
+   "zh": "{1}09{/1}{2}Multi-Agent: Collaboration, Coordination & Orchestration{/2}",
+   "cls": "div"
+  },
+  "c604cd2764": {
+   "en": "{1}10{/1}{2}Multi-Agent: Development Frameworks & Workflow{/2}",
+   "zh": "{1}10{/1}{2}Multi-Agent: Development Frameworks & Workflow{/2}",
+   "cls": "div"
+  },
+  "cc3fdfe3da": {
+   "en": "D · Evaluations & guardrails",
+   "zh": "D · 评估与护栏",
+   "cls": "attr:data-group"
+  },
+  "4a473c675a": {
+   "en": "{1}11{/1}{2}LLM Evaluation: Criteria, Metrics & Frameworks{/2}",
+   "zh": "{1}11{/1}{2}LLM Evaluation: Criteria, Metrics & Frameworks{/2}",
+   "cls": "div"
+  },
+  "b77862ed9e": {
+   "en": "{1}12{/1}{2}RAG Evaluation: Targets, Metrics & Benchmarks{/2}",
+   "zh": "{1}12{/1}{2}RAG Evaluation: Targets, Metrics & Benchmarks{/2}",
+   "cls": "div"
+  },
+  "d2e53996ba": {
+   "en": "{1}13{/1}{2}LLM-as-a-Judge: Methodology, Attributes & Frameworks{/2}",
+   "zh": "{1}13{/1}{2}LLM-as-a-Judge: Methodology, Attributes & Frameworks{/2}",
+   "cls": "div"
+  },
+  "dac23aa927": {
+   "en": "02 · At a glance",
+   "zh": "02 · 概览",
+   "cls": "div.kicker"
+  },
+  "5a3ddfb2ce": {
+   "en": "LLM Applications, Multi-Agent Systems & Safety Considerations",
+   "zh": "LLM Applications, Multi-Agent Systems & Safety Considerations",
+   "cls": "h2"
+  },
+  "4f1371a6f2": {
+   "en": "{1}Feb 28, 2025{/1}{2}Online{/2}",
+   "zh": "{1}2025 年 2 月 28 日{/1}{2}线上{/2}",
+   "cls": "div.tile"
+  },
+  "55bca10da3": {
+   "en": "{1}81 companies{/1}{2}surveyed{/2}",
+   "zh": "{1}81 家公司{/1}{2}接受调研{/2}",
+   "cls": "div.tile"
+  },
+  "ea272ee518": {
+   "en": "{1}13 topics{/1}{2}deep-dived here{/2}",
+   "zh": "{1}13 个主题{/1}{2}在此深入探讨{/2}",
+   "cls": "div.tile"
+  },
+  "ec69c76d0e": {
+   "en": "{1}LLM systems{/1}{2}the theme{/2}",
+   "zh": "{1}大语言模型系统{/1}{2}主题{/2}",
+   "cls": "div.tile"
+  },
+  "38b374807b": {
+   "en": "{1}About:{/1} An online talk surveying how LLM-based systems are built and deployed across industry, the move from single- to multi-agent architectures, and the evaluation and guardrail practices that make them trustworthy.",
+   "zh": "{1}简介：{/1}一场线上演讲，介绍基于大语言模型的系统在行业中如何构建与部署、从单智能体到多智能体架构的转变，以及让这些系统值得信赖的评估与护栏实践。",
+   "cls": "p.overview-themes"
+  },
+  "a06328f744": {
+   "en": "Three threads: LLMs are everywhere in industry (personalization, service, code, security); systems are moving from single agents (RAG, memory, tools) to collaborating multi-agent frameworks; and evaluation & guardrails — LLM / RAG evaluation and LLM-as-a-Judge — are now first-class.",
+   "zh": "三条主线：大语言模型已遍及各行业（个性化、客服、代码、安全）；系统正从单智能体（RAG、记忆、工具）走向协作式多智能体框架；评估与护栏（大语言模型评估、RAG 评估和 LLM-as-a-Judge）已成为一等公民。",
+   "cls": "p.overview-themes"
+  },
+  "74e3fba778": {
+   "en": "03 · Insights",
+   "zh": "03 · 洞察",
+   "cls": "div.kicker"
+  },
+  "72fee6208b": {
+   "en": "The talk, topic by topic",
+   "zh": "按主题梳理这场演讲",
+   "cls": "h2"
+  },
+  "eb28c2920f": {
+   "en": "LLMs Across Industries: The Landscape",
+   "zh": "LLMs Across Industries: The Landscape",
+   "cls": "attr:data-toc"
+  },
+  "a4c5bf22b2": {
+   "en": "{1}Industry survey{/1} · 81 companies across 7 categories",
+   "zh": "{1}行业调研{/1} · 7 个类别共 81 家公司",
+   "cls": "div.byline"
+  },
+  "c1a2965510": {
+   "en": "Scope of adoption",
+   "zh": "采用范围",
+   "cls": "span.lbl"
+  },
+  "430eabcbc5": {
+   "en": "A survey of ~81 companies integrating LLMs to improve productivity, user experience and innovation",
+   "zh": "调研约 81 家公司如何集成大语言模型，以提升生产力、用户体验和创新",
+   "cls": "li"
+  },
+  "00d52ea015": {
+   "en": "Seven application categories: personalization, customer service, content, data analysis, software dev, security, assistants",
+   "zh": "7 个应用类别：个性化、客户服务、内容、数据分析、软件开发、安全、助手",
+   "cls": "li"
+  },
+  "77a6f8fa37": {
+   "en": "Representative deployments",
+   "zh": "代表性部署",
+   "cls": "span.lbl"
+  },
+  "e2a8957369": {
+   "en": "Personalization / recommendation: Instacart, Pinterest, Spotify, Swiggy",
+   "zh": "个性化 / 推荐：Instacart、Pinterest、Spotify、Swiggy",
+   "cls": "li"
+  },
+  "d537fc0876": {
+   "en": "Customer service: Airbnb, Doordash, Intercom; internal collaboration via Slack & GitHub",
+   "zh": "客户服务：Airbnb、Doordash、Intercom；通过 Slack 和 GitHub 进行内部协作",
+   "cls": "li"
+  },
+  "00ac86b536": {
+   "en": "Content generation: Amazon, eBay, Wayfair, Walmart, Yelp; Grammarly, Vimeo",
+   "zh": "内容生成：Amazon、eBay、Wayfair、Walmart、Yelp；Grammarly、Vimeo",
+   "cls": "li"
+  },
+  "bd71f87c6a": {
+   "en": "Analysis, dev, security & assistants",
+   "zh": "分析、开发、安全与助手",
+   "cls": "span.lbl"
+  },
+  "f0f72e5bce": {
+   "en": "Data analysis & decision support: Grab, Uber, Thomson Reuters",
+   "zh": "数据分析与决策支持：Grab、Uber、Thomson Reuters",
+   "cls": "li"
+  },
+  "dbc3a5f907": {
+   "en": "Software development: GitHub, GitLab, Replit (Copilot now a standard tool)",
+   "zh": "软件开发：GitHub、GitLab、Replit（Copilot 现已成为标准工具）",
+   "cls": "li"
+  },
+  "3157e6063d": {
+   "en": "Security: Zillow, Whatnot, Google; assistants: Coinbase, Digits, SumUp, TomTom, NVIDIA",
+   "zh": "安全：Zillow、Whatnot、Google；助手：Coinbase、Digits、SumUp、TomTom、NVIDIA",
+   "cls": "li"
+  },
+  "45ae2e0e75": {
+   "en": "A survey of ~81 companies deploying LLMs, by application category.",
+   "zh": "调研约 81 家部署大语言模型的公司，按应用类别划分。",
+   "cls": "figcaption"
+  },
+  "78e579d5e0": {
+   "en": "Personalization, Recommendation & Content Generation",
+   "zh": "Personalization, Recommendation & Content Generation",
+   "cls": "attr:data-toc"
+  },
+  "4e9fc565bc": {
+   "en": "{1}Amazon · Instacart · Pinterest · Grammarly{/1} · personalization & content",
+   "zh": "{1}Amazon · Instacart · Pinterest · Grammarly{/1} · 个性化与内容",
+   "cls": "div.byline"
+  },
+  "68093984c7": {
+   "en": "Recommendation challenges",
+   "zh": "推荐面临的挑战",
+   "cls": "span.lbl"
+  },
+  "1a03d458f5": {
+   "en": "Data sparsity from limited user context; cold-start for new users/items; weak explainability",
+   "zh": "用户上下文有限导致数据稀疏；新用户/新物品的冷启动；可解释性弱",
+   "cls": "li"
+  },
+  "e7ee7d0a82": {
+   "en": "Legacy collaborative filtering / matrix decomposition struggle with sparsity and high-dimensional context",
+   "zh": "传统的协同过滤 / 矩阵分解难以应对稀疏性和高维上下文",
+   "cls": "li"
+  },
+  "09af83f97c": {
+   "en": "LLM-based solutions",
+   "zh": "基于大语言模型的方案",
+   "cls": "span.lbl"
+  },
+  "0fd330b447": {
+   "en": "Natural-language understanding extracts deep preferences and mitigates sparsity",
+   "zh": "自然语言理解可提取深层偏好并缓解稀疏性",
+   "cls": "li"
+  },
+  "8ddd21ac1c": {
+   "en": "Zero/few-shot transfer solves cold start; NL generation gives explainable recommendations",
+   "zh": "零样本/少样本迁移解决冷启动；自然语言生成带来可解释的推荐",
+   "cls": "li"
+  },
+  "df41ce3843": {
+   "en": "Examples: Amazon COSMO common-sense knowledge, Instacart recommendation, Pinterest Text-to-SQL, Walmart attribute extraction",
+   "zh": "示例：Amazon COSMO 常识知识、Instacart 推荐、Pinterest Text-to-SQL、Walmart 属性抽取",
+   "cls": "li"
+  },
+  "f260b442fe": {
+   "en": "Content generation & optimization",
+   "zh": "内容生成与优化",
+   "cls": "span.lbl"
+  },
+  "c1a454a6ae": {
+   "en": "Challenges: quality control, deduplication/plagiarism, brand-tone consistency, automation vs manual",
+   "zh": "挑战：质量控制、去重/抄袭、品牌语气一致性、自动化与人工的取舍",
+   "cls": "li"
+  },
+  "7737c0cc36": {
+   "en": "Tech: quality assessment, cosine/Jaccard dedup, style fine-tuning to brand, human-review workflows",
+   "zh": "技术：质量评估、余弦/Jaccard 去重、按品牌风格微调、人工审核工作流",
+   "cls": "li"
+  },
+  "5bbc63870f": {
+   "en": "Examples: Grammarly CoEdIT (SOTA editing, fewer parameters), Vimeo RAG for video knowledge",
+   "zh": "示例：Grammarly CoEdIT（编辑任务达到 SOTA，参数更少）、Vimeo 面向视频知识的 RAG",
+   "cls": "li"
+  },
+  "6667f2b86d": {
+   "en": "From sparse signals to explainable recommendations with LLMs.",
+   "zh": "借助大语言模型，从稀疏信号到可解释的推荐。",
+   "cls": "figcaption"
+  },
+  "ac1e7c4794": {
+   "en": "Customer Service, Data Analysis & Software Development",
+   "zh": "Customer Service, Data Analysis & Software Development",
+   "cls": "attr:data-toc"
+  },
+  "358c0b7827": {
+   "en": "{1}Airbnb · Uber · GitHub · Grab{/1} · service, analytics & code",
+   "zh": "{1}Airbnb · Uber · GitHub · Grab{/1} · 服务、分析与代码",
+   "cls": "div.byline"
+  },
+  "0922688d1e": {
+   "en": "Customer service & dialogue",
+   "zh": "客户服务与对话",
+   "cls": "span.lbl"
+  },
+  "e5122d3032": {
+   "en": "Challenges: multi-round context tracking, weak domain adaptability, social-engineering risk, latency at scale",
+   "zh": "挑战：多轮上下文跟踪、领域适应性弱、社会工程风险、大规模下的延迟",
+   "cls": "li"
+  },
+  "d669dcc8c4": {
+   "en": "Tech: dialog-state tracking, domain knowledge graphs, security rules, caching / async processing",
+   "zh": "技术：对话状态跟踪、领域知识图谱、安全规则、缓存 / 异步处理",
+   "cls": "li"
+  },
+  "2b93f279d0": {
+   "en": "Examples: Airbnb Automation Platform v2, LinkedIn Hiring Assistant, Uber Genie AI copilot",
+   "zh": "示例：Airbnb Automation Platform v2、LinkedIn Hiring Assistant、Uber Genie AI copilot",
+   "cls": "li"
+  },
+  "6bc6f640b8": {
+   "en": "Data analysis & decision support",
+   "zh": "数据分析与决策支持",
+   "cls": "span.lbl"
+  },
+  "69f8b9a10d": {
+   "en": "Challenges: data noise, multi-source integration, weak reasoning, black-box explainability",
+   "zh": "挑战：数据噪声、多源集成、推理能力弱、黑盒可解释性",
+   "cls": "li"
+  },
+  "1267a57566": {
+   "en": "Tech: data cleaning, SQL engines & graph DBs, inference engines, explainable AI (LIME, SHAP)",
+   "zh": "技术：数据清洗、SQL 引擎与图数据库、推理引擎、可解释 AI（LIME、SHAP）",
+   "cls": "li"
+  },
+  "36c526acff": {
+   "en": "Examples: Uber QueryGPT multi-agent architecture, Grab automated data analysis",
+   "zh": "示例：Uber QueryGPT 多智能体架构、Grab 自动化数据分析",
+   "cls": "li"
+  },
+  "931820e1e3": {
+   "en": "Software development & code",
+   "zh": "软件开发与代码",
+   "cls": "span.lbl"
+  },
+  "cc46f4a182": {
+   "en": "Challenges: cross-file consistency, security flaws (SQL injection, XSS), optimization, train-vs-real gap",
+   "zh": "挑战：跨文件一致性、安全缺陷（SQL 注入、XSS）、优化、训练与真实环境的差距",
+   "cls": "li"
+  },
+  "5d234572f7": {
+   "en": "Tech: static analysis (SonarQube), profiling, template/library integration, automated security auditing",
+   "zh": "技术：静态分析（SonarQube）、性能剖析、模板/库集成、自动化安全审计",
+   "cls": "li"
+  },
+  "f1e4f9ca5c": {
+   "en": "Examples: Replit AI Debugger, GitLab Duo, GitHub Copilot",
+   "zh": "示例：Replit AI Debugger、GitLab Duo、GitHub Copilot",
+   "cls": "li"
+  },
+  "376402f012": {
+   "en": "An LLM code-generation pipeline — prompts drive code components and generated code.",
+   "zh": "大语言模型代码生成流水线：提示词驱动代码组件和生成的代码。",
+   "cls": "figcaption"
+  },
+  "8f7c46bc9f": {
+   "en": "Security, Risk Management & Assistant Applications",
+   "zh": "Security, Risk Management & Assistant Applications",
+   "cls": "attr:data-toc"
+  },
+  "17bc6ba62a": {
+   "en": "{1}Google SAIF · Microsoft · NVIDIA{/1} · security & assistants",
+   "zh": "{1}Google SAIF · Microsoft · NVIDIA{/1} · 安全与助手",
+   "cls": "div.byline"
+  },
+  "9b546f98f1": {
+   "en": "Security & risk management",
+   "zh": "安全与风险管理",
+   "cls": "span.lbl"
+  },
+  "8221808ba0": {
+   "en": "Challenges: disguised malicious input, evolving threats, insufficient context sensitivity",
+   "zh": "挑战：伪装的恶意输入、不断演变的威胁、对上下文的敏感度不足",
+   "cls": "li"
+  },
+  "5eda22b40a": {
+   "en": "LLM advantages: deep semantic understanding, broad threat knowledge, adaptive via fine-tuning/prompting, explanatory feedback",
+   "zh": "大语言模型的优势：深层语义理解、广泛的威胁知识、可通过微调/提示词适应、提供解释性反馈",
+   "cls": "li"
+  },
+  "e7c5195ad7": {
+   "en": "Examples: Zillow Fair Housing Classifier, Whatnot Rule Engine++, Google's Secure AI Framework (SAIF)",
+   "zh": "示例：Zillow Fair Housing Classifier、Whatnot Rule Engine++、Google 的 Secure AI Framework (SAIF)",
+   "cls": "li"
+  },
+  "a3095276a8": {
+   "en": "Assistant applications",
+   "zh": "助手类应用",
+   "cls": "span.lbl"
+  },
+  "c4e7bca774": {
+   "en": "Advantages: cross-domain generalization, long-context tracking, prompt/fine-tune scalability, NL interfaces",
+   "zh": "优势：跨领域泛化、长上下文跟踪、提示词/微调的可扩展性、自然语言界面",
+   "cls": "li"
+  },
+  "218d9a672b": {
+   "en": "Deployment modes: localized (privacy/latency), cloud (small teams), hybrid (finance/enterprise)",
+   "zh": "部署模式：本地化（隐私/延迟）、云端（小团队）、混合（金融/企业）",
+   "cls": "li"
+  },
+  "575573e750": {
+   "en": "Examples: Microsoft 365 Copilot, Instacart Ava, NVIDIA Morpheus, Digits accountant assistant",
+   "zh": "示例：Microsoft 365 Copilot、Instacart Ava、NVIDIA Morpheus、Digits 会计助手",
+   "cls": "li"
+  },
+  "10b7cf622b": {
+   "en": "Security and assistant deployments — localized, cloud and hybrid.",
+   "zh": "安全与助手类部署：本地化、云端和混合。",
+   "cls": "figcaption"
+  },
+  "d845eed678": {
+   "en": "Single Agent: Definition & Architecture Methods",
+   "zh": "Single Agent: Definition & Architecture Methods",
+   "cls": "attr:data-toc"
+  },
+  "782f7f00bf": {
+   "en": "{1}Single-agent architecture{/1} · ReAct · Reflexion · LATS",
+   "zh": "{1}单智能体架构{/1} · ReAct · Reflexion · LATS",
+   "cls": "div.byline"
+  },
+  "ebb286a058": {
+   "en": "What an AI agent is",
+   "zh": "什么是 AI 智能体",
+   "cls": "span.lbl"
+  },
+  "ab88e058c4": {
+   "en": "An LM-based entity that plans and iteratively executes tasks, taking environment inputs and triggering actions",
+   "zh": "一种基于语言模型的实体，能够规划并迭代执行任务，接收环境输入并触发行动",
+   "cls": "li"
+  },
+  "49f9301800": {
+   "en": "Composition: Brain (reasoning), Perception (I/O), Action (tool execution); capabilities: memory, tools, planning, persona",
+   "zh": "组成：大脑（推理）、感知（输入/输出）、行动（工具执行）；能力：记忆、工具、规划、角色设定",
+   "cls": "li"
+  },
+  "5b9cf198bd": {
+   "en": "“An AI agent cannot be just a single LLM” — reasoning limits push from single- toward multi-agent",
+   "zh": "“AI 智能体不能只是一个单独的大语言模型”——推理能力的局限推动系统从单智能体走向多智能体",
+   "cls": "li"
+  },
+  "300fb5e9e2": {
+   "en": "Architecture methods",
+   "zh": "架构方法",
+   "cls": "span.lbl"
+  },
+  "4ea795b54a": {
+   "en": "ReAct (reason + act) — documents thought but can loop and stall",
+   "zh": "ReAct（推理 + 行动）：记录思考过程，但可能陷入循环而停滞",
+   "cls": "li"
+  },
+  "29f4e036ff": {
+   "en": "Reflexion — self-reflection + verbal RL to cut hallucinations; AutoGPT+P — detector + classical planner",
+   "zh": "Reflexion：自我反思 + 语言式强化学习（RL），以减少幻觉；AutoGPT+P：检测器 + 经典规划器",
+   "cls": "li"
+  },
+  "1b423d8995": {
+   "en": "LATS — Monte-Carlo Tree Search for plan / reflect / correct",
+   "zh": "LATS：用蒙特卡洛树搜索进行规划 / 反思 / 纠正",
+   "cls": "li"
+  },
+  "968c79d649": {
+   "en": "Capability maturity ladder",
+   "zh": "能力成熟度阶梯",
+   "cls": "span.lbl"
+  },
+  "0dbe9d80b7": {
+   "en": "LLM → +Memory/RAG → +short-term planning (CoT) → +tools / function calling",
+   "zh": "大语言模型 → +记忆/RAG → +短期规划（CoT）→ +工具 / 函数调用",
+   "cls": "li"
+  },
+  "b7686d0539": {
+   "en": "→ +feedback (computer use, copilots) → +long-term planning → +self-learning → full task autonomy",
+   "zh": "→ +反馈（computer use、copilot）→ +长期规划 → +自学习 → 完全的任务自主",
+   "cls": "li"
+  },
+  "c919d6cbc0": {
+   "en": "Single Agent: RAG and Advanced RAG",
+   "zh": "Single Agent: RAG and Advanced RAG",
+   "cls": "attr:data-toc"
+  },
+  "fd06cbe9c4": {
+   "en": "{1}RAG & Agentic RAG{/1} · retrieval-augmented generation",
+   "zh": "{1}RAG 与 Agentic RAG{/1} · 检索增强生成",
+   "cls": "div.byline"
+  },
+  "528fbdd422": {
+   "en": "RAG objective",
+   "zh": "RAG 的目标",
+   "cls": "span.lbl"
+  },
+  "e1bda0b0a0": {
+   "en": "RAG reduces LLM limitations such as hallucination; workflows evolved simple → advanced → modular",
+   "zh": "RAG 可缓解大语言模型的幻觉等局限；工作流从简单演进到进阶，再到模块化",
+   "cls": "li"
+  },
+  "ef0058bae9": {
+   "en": "Goal: adjust retrieval per task, let the LLM decide retrieval strategy, use interactive feedback, integrate multiple sources",
+   "zh": "目标：按任务调整检索，让大语言模型决定检索策略，利用交互式反馈，整合多个来源",
+   "cls": "li"
+  },
+  "115a595494": {
+   "en": "Limits of traditional RAG",
+   "zh": "传统 RAG 的局限",
+   "cls": "span.lbl"
+  },
+  "d4fb481490": {
+   "en": "Relies on vector similarity, ignoring structural relationships between documents",
+   "zh": "依赖向量相似度，忽略文档之间的结构关系",
+   "cls": "li"
+  },
+  "cb199669b8": {
+   "en": "Lacks global consistency; weak multi-step reasoning; fixed workflows with no behavior adjustment",
+   "zh": "缺乏全局一致性；多步推理能力弱；工作流固定，无法调整行为",
+   "cls": "li"
+  },
+  "2ca7d3ebff": {
+   "en": "Graph RAG & Agentic RAG",
+   "zh": "Graph RAG 与 Agentic RAG",
+   "cls": "span.lbl"
+  },
+  "f827b0a3d5": {
+   "en": "Graph RAG: model document/entity relationships as a graph (entity ID → relation extraction → knowledge graph → optimization)",
+   "zh": "Graph RAG：将文档/实体关系建模为图（实体 ID → 关系抽取 → 知识图谱 → 优化）",
+   "cls": "li"
+  },
+  "93d92ea8ae": {
+   "en": "Agentic RAG: autonomous selection of relevant data, interactive retrieval/generation, multi-step reasoning and planning",
+   "zh": "Agentic RAG：自主选择相关数据，交互式检索/生成，多步推理与规划",
+   "cls": "li"
+  },
+  "4c67c8be17": {
+   "en": "Agentic RAG workflow — autonomous retrieval, reasoning and generation.",
+   "zh": "Agentic RAG 工作流：自主检索、推理与生成。",
+   "cls": "figcaption"
+  },
+  "77d938efc7": {
+   "en": "Single Agent: Memory, Tools & Tool Learning",
+   "zh": "Single Agent: Memory, Tools & Tool Learning",
+   "cls": "attr:data-toc"
+  },
+  "6ab250de97": {
+   "en": "{1}Memory & tools{/1} · compute interface · tool learning",
+   "zh": "{1}记忆与工具{/1} · 计算接口 · 工具学习",
+   "cls": "div.byline"
+  },
+  "0eefd3f7ad": {
+   "en": "Memory module",
+   "zh": "记忆模块",
+   "cls": "span.lbl"
+  },
+  "e2ef0b83ba": {
+   "en": "Retrieval: short-term full content; long-term filtered by Recency / Relevance / Importance; user-editable",
+   "zh": "检索：短期记忆取完整内容；长期记忆按时效性 / 相关性 / 重要性筛选；用户可编辑",
+   "cls": "li"
+  },
+  "2ba08080a5": {
+   "en": "Storage: natural language, embedding vectors, triplets (ChatDB, DB-GPT); eviction when full",
+   "zh": "存储：自然语言、嵌入向量、三元组（ChatDB、DB-GPT）；存满后淘汰",
+   "cls": "li"
+  },
+  "0a2dba2091": {
+   "en": "Reflection: hierarchical summarization and self-improvement; a central agent coordinates memory",
+   "zh": "反思：分层摘要与自我改进；由一个中心智能体协调记忆",
+   "cls": "li"
+  },
+  "e7678dcad6": {
+   "en": "Tool usage (compute interface)",
+   "zh": "工具使用（计算接口）",
+   "cls": "span.lbl"
+  },
+  "ff09332055": {
+   "en": "A tool is an external function: Perception (get_time), Action (web POST, file edits), Computation (code, calculator)",
+   "zh": "工具是一种外部函数：感知（get_time）、行动（网络 POST、文件编辑）、计算（代码、计算器）",
+   "cls": "li"
+  },
+  "d207b68bdb": {
+   "en": "Design: modular plug-in connectors, dynamic binding, security (sandboxing, permissions)",
+   "zh": "设计：模块化即插即用连接器、动态绑定、安全（沙箱、权限）",
+   "cls": "li"
+  },
+  "0d2091d7b8": {
+   "en": "Example: computer use — reads the screen, clicks, types, self-corrects across apps",
+   "zh": "示例：computer use：读取屏幕、点击、输入，并在多个应用间自我纠错",
+   "cls": "li"
+  },
+  "62d3612eb4": {
+   "en": "Tool calling & learning",
+   "zh": "工具调用与学习",
+   "cls": "span.lbl"
+  },
+  "a25a5d12af": {
+   "en": "Calling: ad-hoc (tool in prompt, parse) vs native function calling (interrupt → call → resume)",
+   "zh": "调用：临时方式（在提示词中给出工具并解析）与原生函数调用（中断 → 调用 → 恢复）",
+   "cls": "li"
+  },
+  "bc117fb9b9": {
+   "en": "Learning: in-context (task library, docs in prompt) vs training-time (self-supervised API learning, e.g. ToolFormer)",
+   "zh": "学习：上下文内学习（任务库、提示词中的文档）与训练阶段学习（自监督 API 学习，如 ToolFormer）",
+   "cls": "li"
+  },
+  "19b2c24cc0": {
+   "en": "A tool library connecting agents to external tools (tool learning).",
+   "zh": "连接智能体与外部工具的工具库（工具学习）。",
+   "cls": "figcaption"
+  },
+  "ff5ff61348": {
+   "en": "Multi-Agent: Rationale & Applications",
+   "zh": "Multi-Agent: Rationale & Applications",
+   "cls": "attr:data-toc"
+  },
+  "1c5310be25": {
+   "en": "{1}Multi-agent systems{/1} · roles & applications",
+   "zh": "{1}多智能体系统{/1} · 角色与应用",
+   "cls": "div.byline"
+  },
+  "98af0814a6": {
+   "en": "Why multi-agent",
+   "zh": "为什么用多智能体",
+   "cls": "span.lbl"
+  },
+  "6ac0ac8099": {
+   "en": "Role differentiation: agents specialize (collection, analysis, decision) and divide complex problems",
+   "zh": "角色分化：智能体各有专长（收集、分析、决策），共同分解复杂问题",
+   "cls": "li"
+  },
+  "fa8b3bf6e3": {
+   "en": "Collaboration gives diverse perspectives, fault tolerance (no single point of failure), scalability",
+   "zh": "协作带来多样视角、容错（无单点故障）和可扩展性",
+   "cls": "li"
+  },
+  "c34ad3b96c": {
+   "en": "Single-agent limits: limited specialization, no collaboration, bottleneck, less flexibility",
+   "zh": "单智能体的局限：专业化有限、无协作、存在瓶颈、灵活性较低",
+   "cls": "li"
+  },
+  "d9c6df9d38": {
+   "en": "Problem-solving applications",
+   "zh": "问题求解类应用",
+   "cls": "span.lbl"
+  },
+  "6bd15fcf35": {
+   "en": "Software dev (ChatDev, MetaGPT), research (Agent Laboratory), long-context (Chain of Agents)",
+   "zh": "软件开发（ChatDev、MetaGPT）、研究（Agent Laboratory）、长上下文（Chain of Agents）",
+   "cls": "li"
+  },
+  "8b7a02a6b4": {
+   "en": "AutoGen, StrategyLLM, TradingGPT, Mora (video); healthcare & policy, embodied/robotic agents",
+   "zh": "AutoGen、StrategyLLM、TradingGPT、Mora（视频）；医疗与政策、具身/机器人智能体",
+   "cls": "li"
+  },
+  "2b580fae68": {
+   "en": "World-simulation applications",
+   "zh": "世界模拟类应用",
+   "cls": "span.lbl"
+  },
+  "3287c8ae9d": {
+   "en": "Society (Generative Agents, Lyfe Agents), economy / trading (TradingGPT, AI Hedge Fund), war-gaming (WarAgent)",
+   "zh": "社会（Generative Agents、Lyfe Agents）、经济 / 交易（TradingGPT、AI Hedge Fund）、战争推演（WarAgent）",
+   "cls": "li"
+  },
+  "4da964a1e1": {
+   "en": "Gaming (Werewolf, Avalon, Diplomacy), recommenders (AgentCF), epidemic modeling, digital twins",
+   "zh": "游戏（Werewolf、Avalon、Diplomacy）、推荐系统（AgentCF）、流行病建模、数字孪生",
+   "cls": "li"
+  },
+  "8ffadda7e9": {
+   "en": "Multi-Agent: Collaboration, Coordination & Orchestration",
+   "zh": "Multi-Agent: Collaboration, Coordination & Orchestration",
+   "cls": "attr:data-toc"
+  },
+  "2c7239ac4a": {
+   "en": "{1}Collaboration & orchestration{/1} · protocols & structures",
+   "zh": "{1}协作与编排{/1} · 协议与结构",
+   "cls": "div.byline"
+  },
+  "ab401a7e89": {
+   "en": "Collaboration types",
+   "zh": "协作类型",
+   "cls": "span.lbl"
+  },
+  "784e61718a": {
+   "en": "Cooperation: aligned objectives leverage each agent's expertise",
+   "zh": "合作：目标一致，充分发挥各智能体的专长",
+   "cls": "li"
+  },
+  "b8936c3c8f": {
+   "en": "Competition / adversarial: conflicting objectives drive adaptive strategies (debate, games)",
+   "zh": "竞争 / 对抗：目标冲突，促使形成自适应策略（辩论、博弈）",
+   "cls": "li"
+  },
+  "943b2c40ac": {
+   "en": "Coopetition / mixed: a blend balancing trade-offs (negotiation)",
+   "zh": "竞合 / 混合：兼顾取舍的混合方式（谈判）",
+   "cls": "li"
+  },
+  "32d94d8d97": {
+   "en": "Collaboration strategies",
+   "zh": "协作策略",
+   "cls": "span.lbl"
+  },
+  "99e2f4022e": {
+   "en": "Rule-based: predefined rules — efficient/predictable but low adaptability",
+   "zh": "基于规则：预先定义规则，高效、可预测，但适应性低",
+   "cls": "li"
+  },
+  "3efe1cfa27": {
+   "en": "Role-based: segmented by expertise — modular/reusable but rigid if roles unclear",
+   "zh": "基于角色：按专长划分，模块化、可复用，但角色不清时较僵化",
+   "cls": "li"
+  },
+  "9c54c3fd35": {
+   "en": "Model-based: probabilistic decisions — adaptable/robust but complex and compute-heavy",
+   "zh": "基于模型：概率性决策，适应性强、稳健，但复杂且计算开销大",
+   "cls": "li"
+  },
+  "6eb5c6cd89": {
+   "en": "Communication structures",
+   "zh": "通信结构",
+   "cls": "span.lbl"
+  },
+  "7dfe0d0a31": {
+   "en": "Centralized (simple/efficient, but central failure collapses the system)",
+   "zh": "集中式（简单高效，但中心节点失效会导致系统崩溃）",
+   "cls": "li"
+  },
+  "922b679a41": {
+   "en": "Decentralized/distributed (resilient, scalable: swarm, MetaGPT, ChatDev) and hierarchical (DyLAN)",
+   "zh": "去中心化/分布式（有韧性、可扩展：swarm、MetaGPT、ChatDev）和分层式（DyLAN）",
+   "cls": "li"
+  },
+  "78c3a20a53": {
+   "en": "Static vs dynamic channels: predefined domain channels vs real-time adaptive management",
+   "zh": "静态与动态通道：预定义的领域通道与实时自适应管理",
+   "cls": "li"
+  },
+  "2b52bba616": {
+   "en": "Multi-agent coordination — specialized agents, an LLM and an aggregator.",
+   "zh": "多智能体协调：专业智能体、一个大语言模型和一个聚合器。",
+   "cls": "figcaption"
+  },
+  "add8c17d89": {
+   "en": "Multi-Agent: Development Frameworks & Workflow",
+   "zh": "Multi-Agent: Development Frameworks & Workflow",
+   "cls": "attr:data-toc"
+  },
+  "3b3279e2c7": {
+   "en": "{1}LangGraph · CrewAI · AutoGen{/1} · agent frameworks",
+   "zh": "{1}LangGraph · CrewAI · AutoGen{/1} · 智能体框架",
+   "cls": "div.byline"
+  },
+  "93cb088be7": {
+   "en": "What frameworks provide",
+   "zh": "框架提供什么",
+   "cls": "span.lbl"
+  },
+  "82a89be88e": {
+   "en": "Tools for agent-to-agent communication, orchestration, workflow management, tool use and decision-making",
+   "zh": "提供智能体间通信、编排、工作流管理、工具使用和决策方面的工具",
+   "cls": "li"
+  },
+  "27ec6ee9da": {
+   "en": "Enable low/no-code application building; most popular: LangGraph, CrewAI, AutoGen",
+   "zh": "支持低代码/无代码构建应用；最流行的是 LangGraph、CrewAI、AutoGen",
+   "cls": "li"
+  },
+  "9730d73b24": {
+   "en": "LangGraph & CrewAI",
+   "zh": "LangGraph 与 CrewAI",
+   "cls": "span.lbl"
+  },
+  "0882677f1b": {
+   "en": "LangGraph: graph-organized (agents = nodes, steps = edges), shared typed State, state persistence for recovery",
+   "zh": "LangGraph：以图组织（智能体 = 节点，步骤 = 边），共享的类型化 State，通过状态持久化实现恢复",
+   "cls": "li"
+  },
+  "c727e58cdd": {
+   "en": "CrewAI: Agents + Tasks grouped in a Crew; a 'flow' coordinates workflows with a manager pattern",
+   "zh": "CrewAI：Agents + Tasks 组成 Crew；“flow”以管理者模式协调工作流",
+   "cls": "li"
+  },
+  "781f7bd4e5": {
+   "en": "AutoGen",
+   "zh": "AutoGen",
+   "cls": "span.lbl"
+  },
+  "e3ef45a175": {
+   "en": "Layered: Core API (message passing, runtime), Agent Chat (prototyping), Extensions (LLM clients, RAG tools)",
+   "zh": "分层：Core API（消息传递、运行时）、Agent Chat（原型开发）、Extensions（大语言模型客户端、RAG 工具）",
+   "cls": "li"
+  },
+  "a797c5af39": {
+   "en": "Async message workflow; single or distributed runtime; serializable messages, direct-send or topic broadcast",
+   "zh": "异步消息工作流；单机或分布式运行时；可序列化的消息，直接发送或按主题广播",
+   "cls": "li"
+  },
+  "669a0a8b5d": {
+   "en": "Agent development frameworks — LangGraph, CrewAI and AutoGen.",
+   "zh": "智能体开发框架：LangGraph、CrewAI 和 AutoGen。",
+   "cls": "figcaption"
+  },
+  "bd9339af6b": {
+   "en": "LLM Evaluation: Criteria, Metrics & Frameworks",
+   "zh": "LLM Evaluation: Criteria, Metrics & Frameworks",
+   "cls": "attr:data-toc"
+  },
+  "613a5b02e9": {
+   "en": "{1}LLM evaluation{/1} · criteria, metrics & frameworks",
+   "zh": "{1}大语言模型评估{/1} · 标准、指标与框架",
+   "cls": "div.byline"
+  },
+  "5028b6b6a6": {
+   "en": "Key criteria",
+   "zh": "关键标准",
+   "cls": "span.lbl"
+  },
+  "91f3e6e669": {
+   "en": "Accuracy (vs gold/expert), Ethicality (privacy, misinformation, fairness, transparency), Fairness (bias mitigation)",
+   "zh": "准确性（对照标准答案/专家）、伦理性（隐私、虚假信息、公平、透明）、公平性（偏见缓解）",
+   "cls": "li"
+  },
+  "e7cbf2a47a": {
+   "en": "Generalization (unseen data), Robustness (adversarial resilience), Reasoning (logical / causal inference)",
+   "zh": "泛化（未见过的数据）、鲁棒性（对抗韧性）、推理（逻辑 / 因果推断）",
+   "cls": "li"
+  },
+  "7388be15cb": {
+   "en": "Metric families",
+   "zh": "指标类别",
+   "cls": "span.lbl"
+  },
+  "d5dbd75963": {
+   "en": "Classification: Accuracy, Recall, Precision, F1, Micro/Macro-F1",
+   "zh": "分类：Accuracy、Recall、Precision、F1、Micro/Macro-F1",
+   "cls": "li"
+  },
+  "805600ff41": {
+   "en": "Token-similarity: Perplexity, BLEU, ROUGE, BERTScore; QA: strict/lenient accuracy, MRR",
+   "zh": "Token 相似度：Perplexity、BLEU、ROUGE、BERTScore；问答：严格/宽松准确率、MRR",
+   "cls": "li"
+  },
+  "af39dd055c": {
+   "en": "Frameworks",
+   "zh": "框架",
+   "cls": "span.lbl"
+  },
+  "5005628792": {
+   "en": "Evidently AI: text stats/patterns, model-based evals (semantic similarity, toxicity, BERTScore)",
+   "zh": "Evidently AI：文本统计/模式，基于模型的评估（语义相似度、毒性、BERTScore）",
+   "cls": "li"
+  },
+  "1229d6c821": {
+   "en": "Aporia: restricted phrases, prompt-injection DB, Text-to-SQL security, DoS / cost / RAG access control",
+   "zh": "Aporia：受限短语、提示词注入库、Text-to-SQL 安全、DoS / 成本 / RAG 访问控制",
+   "cls": "li"
+  },
+  "e1f7481f02": {
+   "en": "Ragas: string similarity, context precision/recall, noise sensitivity, topic adherence",
+   "zh": "Ragas：字符串相似度、上下文精确率/召回率、噪声敏感度、主题遵循度",
+   "cls": "li"
+  },
+  "b254b0c110": {
+   "en": "RAG Evaluation: Targets, Metrics & Benchmarks",
+   "zh": "RAG Evaluation: Targets, Metrics & Benchmarks",
+   "cls": "attr:data-toc"
+  },
+  "5ae4a645bd": {
+   "en": "{1}RAG evaluation{/1} · targets, metrics & benchmarks",
+   "zh": "{1}RAG 评估{/1} · 目标、指标与基准测试",
+   "cls": "div.byline"
+  },
+  "20af1da44e": {
+   "en": "Evaluation targets",
+   "zh": "评估目标",
+   "cls": "span.lbl"
+  },
+  "9e71dc2f5c": {
+   "en": "Traditional-RAG problems: retrieval errors (irrelevant docs, fixed retrieval) and hallucination despite relevant data",
+   "zh": "传统 RAG 的问题：检索错误（文档不相关、检索方式固定）以及即使数据相关仍出现幻觉",
+   "cls": "li"
+  },
+  "54675d265c": {
+   "en": "Pre-generation judges retrieval quality; post-generation validates output against retrieved docs",
+   "zh": "生成前评判检索质量；生成后对照检索到的文档验证输出",
+   "cls": "li"
+  },
+  "d2045b143b": {
+   "en": "Aspects & metrics",
+   "zh": "方面与指标",
+   "cls": "span.lbl"
+  },
+  "d27b0ad5ab": {
+   "en": "Retrieval quality (context relevance) and generation quality (faithfulness, answer relevance)",
+   "zh": "检索质量（上下文相关性）和生成质量（忠实度、答案相关性）",
+   "cls": "li"
+  },
+  "d2fc1f6b3a": {
+   "en": "Also noise robustness, negative rejection, information integration, counterfactual robustness",
+   "zh": "另有噪声鲁棒性、负面拒答、信息整合、反事实鲁棒性",
+   "cls": "li"
+  },
+  "5dd80e821c": {
+   "en": "Metrics: Exact Match, Recall/Precision, Cosine Similarity, Hit Rate, MRR, NDCG, BLEU, ROUGE-L",
+   "zh": "指标：Exact Match、Recall/Precision、Cosine Similarity、Hit Rate、MRR、NDCG、BLEU、ROUGE-L",
+   "cls": "li"
+  },
+  "cca265e030": {
+   "en": "Frameworks & benchmarks",
+   "zh": "框架与基准测试",
+   "cls": "span.lbl"
+  },
+  "d97259f09b": {
+   "en": "Tools: RAGAS, ARES, TruLens",
+   "zh": "工具：RAGAS、ARES、TruLens",
+   "cls": "li"
+  },
+  "b511137999": {
+   "en": "Benchmarks: RGB, CRUD (BLEU/ROUGE-L/BertScore/RAGQuestEval), RECALL (reappearance rate)",
+   "zh": "基准测试：RGB、CRUD（BLEU/ROUGE-L/BertScore/RAGQuestEval）、RECALL（重现率）",
+   "cls": "li"
+  },
+  "aa749ed0cc": {
+   "en": "LLM-as-a-Judge: Methodology, Attributes & Frameworks",
+   "zh": "LLM-as-a-Judge: Methodology, Attributes & Frameworks",
+   "cls": "attr:data-toc"
+  },
+  "9d74703172": {
+   "en": "{1}LLM-as-a-Judge{/1} · evaluation by models",
+   "zh": "{1}LLM-as-a-Judge{/1} · 由模型进行评估",
+   "cls": "div.byline"
+  },
+  "365a3b1a39": {
+   "en": "Concept & formats",
+   "zh": "概念与形式",
+   "cls": "span.lbl"
+  },
+  "70e21a8618": {
+   "en": "LLMs judge candidate outputs; reliability concern shifts to the judge itself",
+   "zh": "由大语言模型评判候选输出；可靠性问题转移到评判者本身",
+   "cls": "li"
+  },
+  "148dce9aa4": {
+   "en": "Input: point-wise vs pair/list-wise; output: score-, ranking-, or selection-based (rubric or pairwise)",
+   "zh": "输入：逐点式与成对/列表式；输出：基于打分、排序或选择（评分细则或成对比较）",
+   "cls": "li"
+  },
+  "b509d96b12": {
+   "en": "Methodology",
+   "zh": "方法",
+   "cls": "span.lbl"
+  },
+  "52eda993ef": {
+   "en": "Model tuning: manual vs synthetic feedback; supervised fine-tuning, preference / meta-rewarding",
+   "zh": "模型调优：人工反馈与合成反馈；监督微调、偏好 / 元奖励",
+   "cls": "li"
+  },
+  "569fc12914": {
+   "en": "Prompting: position-bias swapping, multi-agent (peer rank, debate, voting), rule augmentation, multi-turn",
+   "zh": "提示词：位置偏差对调、多智能体（同伴排名、辩论、投票）、规则增强、多轮",
+   "cls": "li"
+  },
+  "f87d92f185": {
+   "en": "Mitigate positional bias with order-swapping and highest-log-probability selection",
+   "zh": "通过顺序对调和选择对数概率最高的结果来缓解位置偏差",
+   "cls": "li"
+  },
+  "31820f4cf0": {
+   "en": "Attributes, uses & frameworks",
+   "zh": "属性、用途与框架",
+   "cls": "span.lbl"
+  },
+  "6009b77bb5": {
+   "en": "Attributes: helpfulness, harmlessness, reliability (HALU-J), relevance, feasibility, quality",
+   "zh": "属性：有用性、无害性、可靠性（HALU-J）、相关性、可行性、质量",
+   "cls": "li"
+  },
+  "c344e20f65": {
+   "en": "Uses: reasoning-path selection (CoT, debate, Tree-of-Thoughts), retrieval ranking, self-judging",
+   "zh": "用途：推理路径选择（CoT、辩论、Tree-of-Thoughts）、检索排序、自我评判",
+   "cls": "li"
+  },
+  "b1458428db": {
+   "en": "Frameworks: Evidently AI, Aporia, Ragas; worked examples CRAG (self-corrective RAG) and SELF-RAG (self-reflective RAG)",
+   "zh": "框架：Evidently AI、Aporia、Ragas；实例：CRAG（自纠正 RAG）和 SELF-RAG（自反思 RAG）",
+   "cls": "li"
+  },
+  "200d93941a": {
+   "en": "04 · Conclusions",
+   "zh": "04 · 结论",
+   "cls": "div.kicker"
+  },
+  "d7b22a6928": {
+   "en": "Synthesis",
+   "zh": "综合",
+   "cls": "h2"
+  },
+  "b4510362a5": {
+   "en": "Insights",
+   "zh": "洞察",
+   "cls": "h4"
+  },
+  "dad272df7a": {
+   "en": "LLMs are pervasive in industry — personalization, customer service, content, data analysis, code and security — across ~81 surveyed companies.",
+   "zh": "大语言模型已遍及各行业，包括个性化、客户服务、内容、数据分析、代码和安全，调研覆盖约 81 家公司。",
+   "cls": "li"
+  },
+  "fd14b352d1": {
+   "en": "Systems are moving from single agents (RAG, memory, tools) toward collaborating multi-agent frameworks.",
+   "zh": "系统正从单智能体（RAG、记忆、工具）走向协作式多智能体框架。",
+   "cls": "li"
+  },
+  "2f6f73cf30": {
+   "en": "Evaluation and guardrails — LLM evaluation, RAG evaluation and LLM-as-a-Judge — are now first-class engineering concerns.",
+   "zh": "评估与护栏（大语言模型评估、RAG 评估和 LLM-as-a-Judge）已成为一等工程关注点。",
+   "cls": "li"
+  },
+  "40b0906c4f": {
+   "en": "Vision",
+   "zh": "愿景",
+   "cls": "h4"
+  },
+  "7b7844ecf2": {
+   "en": "Agentic RAG and graph RAG that reason over structured knowledge, not just vector similarity.",
+   "zh": "Agentic RAG 和 Graph RAG 能对结构化知识进行推理，而不只依赖向量相似度。",
+   "cls": "li"
+  },
+  "2c815cdfcd": {
+   "en": "Multi-agent frameworks (LangGraph, CrewAI, AutoGen) as the default way to build complex AI systems.",
+   "zh": "多智能体框架（LangGraph、CrewAI、AutoGen）成为构建复杂 AI 系统的默认方式。",
+   "cls": "li"
+  },
+  "048edabab1": {
+   "en": "Automated, model-based evaluation (LLM-as-a-Judge) woven into the development loop.",
+   "zh": "自动化、基于模型的评估（LLM-as-a-Judge）融入开发循环。",
+   "cls": "li"
+  },
+  "5d8c81594f": {
+   "en": "Implications for us",
+   "zh": "对我们的启示",
+   "cls": "h4"
+  },
+  "eb1d446a09": {
+   "en": "Pick the deployment mode (local / cloud / hybrid) to match privacy, latency and scale.",
+   "zh": "根据隐私、延迟和规模选择部署模式（本地 / 云端 / 混合）。",
+   "cls": "li"
+  },
+  "a9a7b696e5": {
+   "en": "Design agents with memory, sandboxed tools and explicit guardrails from the start.",
+   "zh": "从一开始就为智能体设计记忆、沙箱化工具和明确的护栏。",
+   "cls": "li"
+  },
+  "697da0d24d": {
+   "en": "Evaluate retrieval and generation separately, and treat the judge's own reliability as a risk.",
+   "zh": "分别评估检索和生成，并把评判者自身的可靠性视为风险。",
+   "cls": "li"
+  },
+  "2b92ebc383": {
+   "en": "05 · References",
+   "zh": "05 · 参考文献",
+   "cls": "div.kicker"
+  },
+  "675f04727d": {
+   "en": "References & sources",
+   "zh": "参考文献与来源",
+   "cls": "h2"
+  },
+  "e18360c8e0": {
+   "en": "© 2026 {1}ALI{/1} — {2}Tech Insight{/2} v1.8.0",
+   "zh": "© 2026 {1}ALI{/1} — {2}Tech Insight{/2} v1.8.0",
+   "cls": "div.site-copyright"
+  },
+  "7034b90167": {
+   "en": "Key AI Innovations 2025 — Tech Insight Report",
+   "zh": "Key AI Innovations 2025 — Tech Insight 报告",
+   "cls": "doctitle"
+  },
+  "ee45c30326": {
+   "en": "Report",
+   "zh": "报告",
+   "cls": "div.kicker"
+  },
+  "ab091c15db": {
+   "en": "Key AI Innovations 2025",
+   "zh": "Key AI Innovations 2025",
+   "cls": "h1"
+  },
+  "4c04a57377": {
+   "en": "LLM Applications, Multi-Agent Systems & Safety Considerations · Online · February 28, 2025",
+   "zh": "大语言模型应用、多智能体系统与安全考量 · 线上 · 2025 年 2 月 28 日",
+   "cls": "p.topic"
+  },
+  "0efc2e6be4": {
+   "en": "Overview",
+   "zh": "Overview",
+   "cls": "attr:data-toc"
+  },
+  "f5cbdf6bfb": {
+   "en": "Contents",
+   "zh": "目录",
+   "cls": "attr:data-toc"
+  },
+  "b4e6a31089": {
+   "en": "Intro",
+   "zh": "简介",
+   "cls": "attr:data-group"
+  },
+  "fca77b7e3a": {
+   "en": "At a glance",
+   "zh": "一览",
+   "cls": "attr:data-toc"
+  },
+  "ee1a7c4d74": {
+   "en": "Insight 01 · LLM-based systems & industry applications",
+   "zh": "洞察 01 · 基于大语言模型的系统与行业应用",
+   "cls": "div.kicker"
+  },
+  "0ef5617fd4": {
+   "en": "Insight 02 · LLM-based systems & industry applications",
+   "zh": "洞察 02 · 基于大语言模型的系统与行业应用",
+   "cls": "div.kicker"
+  },
+  "e6056f2a74": {
+   "en": "Insight 03 · LLM-based systems & industry applications",
+   "zh": "洞察 03 · 基于大语言模型的系统与行业应用",
+   "cls": "div.kicker"
+  },
+  "3626a9ea31": {
+   "en": "Insight 04 · LLM-based systems & industry applications",
+   "zh": "洞察 04 · 基于大语言模型的系统与行业应用",
+   "cls": "div.kicker"
+  },
+  "72b55f7e8f": {
+   "en": "Insight 05 · Single AI agent systems",
+   "zh": "洞察 05 · 单 AI 智能体系统",
+   "cls": "div.kicker"
+  },
+  "f4405cdd99": {
+   "en": "Insight 06 · Single AI agent systems",
+   "zh": "洞察 06 · 单 AI 智能体系统",
+   "cls": "div.kicker"
+  },
+  "466e5b1f89": {
+   "en": "Insight 07 · Single AI agent systems",
+   "zh": "洞察 07 · 单 AI 智能体系统",
+   "cls": "div.kicker"
+  },
+  "fe55443168": {
+   "en": "Insight 08 · Multi AI agent systems",
+   "zh": "洞察 08 · 多 AI 智能体系统",
+   "cls": "div.kicker"
+  },
+  "5f37675d8e": {
+   "en": "Insight 09 · Multi AI agent systems",
+   "zh": "洞察 09 · 多 AI 智能体系统",
+   "cls": "div.kicker"
+  },
+  "7cad6c5ab5": {
+   "en": "Insight 10 · Multi AI agent systems",
+   "zh": "洞察 10 · 多 AI 智能体系统",
+   "cls": "div.kicker"
+  },
+  "9766124d5c": {
+   "en": "Insight 11 · Evaluations & guardrails",
+   "zh": "洞察 11 · 评估与护栏",
+   "cls": "div.kicker"
+  },
+  "88620a933f": {
+   "en": "Insight 12 · Evaluations & guardrails",
+   "zh": "洞察 12 · 评估与护栏",
+   "cls": "div.kicker"
+  },
+  "eeb64b6ca4": {
+   "en": "Insight 13 · Evaluations & guardrails",
+   "zh": "洞察 13 · 评估与护栏",
+   "cls": "div.kicker"
+  },
+  "b536777ff1": {
+   "en": "Conclusions",
+   "zh": "结论",
+   "cls": "attr:data-toc"
+  },
+  "550aea5d5a": {
+   "en": "<div class=\"fit\"><div class=\"concl\"><div class=\"col c1\"><h4>Insights</h4><ul><li>LLMs are pervasive in industry — personalization, customer service, content, data analysis, code and security — across ~81 surveyed companies.</li><li>Systems are moving from single agents (RAG, memory, tools) toward collaborating multi-agent frameworks.</li><li>Evaluation and guardrails — LLM evaluation, RAG evaluation and LLM-as-a-Judge — are now first-class engineering concerns.</li></ul></div><div class=\"col c2\"><h4>Vision</h4><ul><li>Agentic RAG and graph RAG that reason over structured knowledge, not just vector similarity.</li><li>Multi-agent frameworks (LangGraph, CrewAI, AutoGen) as the default way to build complex AI systems.</li><li>Automated, model-based evaluation (LLM-as-a-Judge) woven into the development loop.</li></ul></div><div class=\"col c3\"><h4>Implications for us</h4><ul><li>Pick the deployment mode (local / cloud / hybrid) to match privacy, latency and scale.</li><li>Design agents with memory, sandboxed tools and explicit guardrails from the start.</li><li>Evaluate retrieval and generation separately, and treat the judge's own reliability as a risk.</li></ul></div></div></div>",
+   "zh": "<div class=\"fit\"><div class=\"concl\"><div class=\"col c1\"><h4>洞察</h4><ul><li>大语言模型已遍及各行业，包括个性化、客户服务、内容、数据分析、代码和安全，调研覆盖约 81 家公司。</li><li>系统正从单智能体（RAG、记忆、工具）走向协作式多智能体框架。</li><li>评估与护栏（大语言模型评估、RAG 评估和 LLM-as-a-Judge）已成为一等工程关注点。</li></ul></div><div class=\"col c2\"><h4>愿景</h4><ul><li>Agentic RAG 和 Graph RAG 能对结构化知识进行推理，而不只依赖向量相似度。</li><li>多智能体框架（LangGraph、CrewAI、AutoGen）成为构建复杂 AI 系统的默认方式。</li><li>自动化、基于模型的评估（LLM-as-a-Judge）融入开发循环。</li></ul></div><div class=\"col c3\"><h4>对我们的启示</h4><ul><li>根据隐私、延迟和规模选择部署模式（本地 / 云端 / 混合）。</li><li>从一开始就为智能体设计记忆、沙箱化工具和明确的护栏。</li><li>分别评估检索和生成，并把评判者自身的可靠性视为风险。</li></ul></div></div></div>",
+   "cls": "section.slide"
+  },
+  "fa39f733bd": {
+   "en": "Wrap-up",
+   "zh": "总结",
+   "cls": "attr:data-group"
+  },
+  "b2ec1abf35": {
+   "en": "Contents (T)",
+   "zh": "目录 (T)",
+   "cls": "button.toc-btn"
+  },
+  "da962703a2": {
+   "en": "Key AI Innovations 2025 — Tech Insight Slides",
+   "zh": "Key AI Innovations 2025 — Tech Insight 幻灯片",
+   "cls": "doctitle"
+  },
+  "4718b93d9d": {
+   "en": "Tech Insight",
+   "zh": "Tech Insight",
+   "cls": "pptx"
+  },
+  "f840559438": {
+   "en": "Online · February 28, 2025",
+   "zh": "线上 · 2025 年 2 月 28 日",
+   "cls": "pptx"
+  },
+  "041a5dec48": {
+   "en": "Format",
+   "zh": "形式",
+   "cls": "pptx"
+  },
+  "c3e839df60": {
+   "en": "Online",
+   "zh": "线上",
+   "cls": "pptx"
+  },
+  "eb9a4bc1c0": {
+   "en": "Date",
+   "zh": "日期",
+   "cls": "pptx"
+  },
+  "cd0d96d026": {
+   "en": "February 28, 2025",
+   "zh": "2025 年 2 月 28 日",
+   "cls": "pptx"
+  },
+  "fe7f55b8bf": {
+   "en": "Focus",
+   "zh": "主题",
+   "cls": "pptx"
+  },
+  "bce6e2ceb9": {
+   "en": "LLM applications, single- & multi-agent systems, evaluations & guardrails",
+   "zh": "大语言模型应用、单智能体与多智能体系统、评估与护栏",
+   "cls": "pptx"
+  },
+  "c7fb4a1c86": {
+   "en": "CONTENTS",
+   "zh": "目录",
+   "cls": "pptx"
+  },
+  "4e6a22430e": {
+   "en": "AT A GLANCE",
+   "zh": "一览",
+   "cls": "pptx"
+  },
+  "4e4e654985": {
+   "en": "Feb 28, 2025",
+   "zh": "2025 年 2 月 28 日",
+   "cls": "pptx"
+  },
+  "56c9d70f20": {
+   "en": "81 companies",
+   "zh": "81 家公司",
+   "cls": "pptx"
+  },
+  "5f6df39942": {
+   "en": "surveyed",
+   "zh": "接受调研",
+   "cls": "pptx"
+  },
+  "26370602d6": {
+   "en": "13 topics",
+   "zh": "13 个主题",
+   "cls": "pptx"
+  },
+  "b60b724a2a": {
+   "en": "deep-dived here",
+   "zh": "在此深入解读",
+   "cls": "pptx"
+  },
+  "8c2d6d093e": {
+   "en": "LLM systems",
+   "zh": "大语言模型系统",
+   "cls": "pptx"
+  },
+  "58593fe5a5": {
+   "en": "the theme",
+   "zh": "主题",
+   "cls": "pptx"
+  },
+  "e6c14ecc11": {
+   "en": "About: An online talk surveying how LLM-based systems are built and deployed across industry, the move from single- to multi-agent architectures, and the evaluation and guardrail practices that make them trustworthy.",
+   "zh": "简介：一场线上演讲，介绍基于大语言模型的系统在行业中如何构建与部署、从单智能体到多智能体架构的转变，以及让这些系统值得信赖的评估与护栏实践。",
+   "cls": "pptx"
+  },
+  "8e15213c9d": {
+   "en": "INSIGHT 01 · LLM-based systems & industry applications",
+   "zh": "洞察 01 · 基于大语言模型的系统与行业应用",
+   "cls": "pptx"
+  },
+  "9b39b6c62c": {
+   "en": "Industry survey · 81 companies across 7 categories",
+   "zh": "行业调研 · 7 个类别共 81 家公司",
+   "cls": "pptx"
+  },
+  "7456af1f7e": {
+   "en": "SCOPE OF ADOPTION",
+   "zh": "采用范围",
+   "cls": "pptx"
+  },
+  "5f87b3f3ca": {
+   "en": "• A survey of ~81 companies integrating LLMs to improve productivity, user experience and innovation",
+   "zh": "• 调研约 81 家公司如何集成大语言模型，以提升生产力、用户体验和创新",
+   "cls": "pptx"
+  },
+  "17c976a622": {
+   "en": "• Seven application categories: personalization, customer service, content, data analysis, software dev, security, assistants",
+   "zh": "• 7 个应用类别：个性化、客户服务、内容、数据分析、软件开发、安全、助手",
+   "cls": "pptx"
+  },
+  "82e1a9ac4c": {
+   "en": "REPRESENTATIVE DEPLOYMENTS",
+   "zh": "代表性部署",
+   "cls": "pptx"
+  },
+  "5e28b481e6": {
+   "en": "• Personalization / recommendation: Instacart, Pinterest, Spotify, Swiggy",
+   "zh": "• 个性化 / 推荐：Instacart、Pinterest、Spotify、Swiggy",
+   "cls": "pptx"
+  },
+  "7d51f72e75": {
+   "en": "• Customer service: Airbnb, Doordash, Intercom; internal collaboration via Slack & GitHub",
+   "zh": "• 客户服务：Airbnb、Doordash、Intercom；通过 Slack 和 GitHub 进行内部协作",
+   "cls": "pptx"
+  },
+  "df83a34901": {
+   "en": "• Content generation: Amazon, eBay, Wayfair, Walmart, Yelp; Grammarly, Vimeo",
+   "zh": "• 内容生成：Amazon、eBay、Wayfair、Walmart、Yelp；Grammarly、Vimeo",
+   "cls": "pptx"
+  },
+  "247e10a5c7": {
+   "en": "ANALYSIS, DEV, SECURITY & ASSISTANTS",
+   "zh": "分析、开发、安全与助手",
+   "cls": "pptx"
+  },
+  "b9753919c0": {
+   "en": "• Data analysis & decision support: Grab, Uber, Thomson Reuters",
+   "zh": "• 数据分析与决策支持：Grab、Uber、Thomson Reuters",
+   "cls": "pptx"
+  },
+  "7220260575": {
+   "en": "• Software development: GitHub, GitLab, Replit (Copilot now a standard tool)",
+   "zh": "• 软件开发：GitHub、GitLab、Replit（Copilot 现已成为标准工具）",
+   "cls": "pptx"
+  },
+  "cb9fb34bd8": {
+   "en": "• Security: Zillow, Whatnot, Google; assistants: Coinbase, Digits, SumUp, TomTom, NVIDIA",
+   "zh": "• 安全：Zillow、Whatnot、Google；助手：Coinbase、Digits、SumUp、TomTom、NVIDIA",
+   "cls": "pptx"
+  },
+  "232ec2754d": {
+   "en": "INSIGHT 02 · LLM-based systems & industry applications",
+   "zh": "洞察 02 · 基于大语言模型的系统与行业应用",
+   "cls": "pptx"
+  },
+  "e4623c577f": {
+   "en": "Amazon · Instacart · Pinterest · Grammarly · personalization & content",
+   "zh": "Amazon · Instacart · Pinterest · Grammarly · 个性化与内容",
+   "cls": "pptx"
+  },
+  "e2c913fad0": {
+   "en": "RECOMMENDATION CHALLENGES",
+   "zh": "推荐面临的挑战",
+   "cls": "pptx"
+  },
+  "54fff98d76": {
+   "en": "• Data sparsity from limited user context; cold-start for new users/items; weak explainability",
+   "zh": "• 用户上下文有限导致数据稀疏；新用户/新物品的冷启动；可解释性弱",
+   "cls": "pptx"
+  },
+  "7010f30b38": {
+   "en": "• Legacy collaborative filtering / matrix decomposition struggle with sparsity and high-dimensional context",
+   "zh": "• 传统的协同过滤 / 矩阵分解难以应对稀疏性和高维上下文",
+   "cls": "pptx"
+  },
+  "6b22cb34dc": {
+   "en": "LLM-BASED SOLUTIONS",
+   "zh": "基于大语言模型的方案",
+   "cls": "pptx"
+  },
+  "3a7302f834": {
+   "en": "• Natural-language understanding extracts deep preferences and mitigates sparsity",
+   "zh": "• 自然语言理解可提取深层偏好并缓解稀疏性",
+   "cls": "pptx"
+  },
+  "7569b9a2c4": {
+   "en": "• Zero/few-shot transfer solves cold start; NL generation gives explainable recommendations",
+   "zh": "• 零样本/少样本迁移解决冷启动；自然语言生成带来可解释的推荐",
+   "cls": "pptx"
+  },
+  "93ba1c6ded": {
+   "en": "• Examples: Amazon COSMO common-sense knowledge, Instacart recommendation, Pinterest Text-to-SQL, Walmart attribute extraction",
+   "zh": "• 示例：Amazon COSMO 常识知识、Instacart 推荐、Pinterest Text-to-SQL、Walmart 属性抽取",
+   "cls": "pptx"
+  },
+  "689ae8e820": {
+   "en": "CONTENT GENERATION & OPTIMIZATION",
+   "zh": "内容生成与优化",
+   "cls": "pptx"
+  },
+  "4c63681202": {
+   "en": "• Challenges: quality control, deduplication/plagiarism, brand-tone consistency, automation vs manual",
+   "zh": "• 挑战：质量控制、去重/抄袭、品牌语气一致性、自动化与人工的取舍",
+   "cls": "pptx"
+  },
+  "b0aee42586": {
+   "en": "• Tech: quality assessment, cosine/Jaccard dedup, style fine-tuning to brand, human-review workflows",
+   "zh": "• 技术：质量评估、余弦/Jaccard 去重、按品牌风格微调、人工审核工作流",
+   "cls": "pptx"
+  },
+  "43ac862e31": {
+   "en": "• Examples: Grammarly CoEdIT (SOTA editing, fewer parameters), Vimeo RAG for video knowledge",
+   "zh": "• 示例：Grammarly CoEdIT（编辑任务达到 SOTA，参数更少）、Vimeo 面向视频知识的 RAG",
+   "cls": "pptx"
+  },
+  "6f64b27ac4": {
+   "en": "INSIGHT 03 · LLM-based systems & industry applications",
+   "zh": "洞察 03 · 基于大语言模型的系统与行业应用",
+   "cls": "pptx"
+  },
+  "0b8fd2d02a": {
+   "en": "Airbnb · Uber · GitHub · Grab · service, analytics & code",
+   "zh": "Airbnb · Uber · GitHub · Grab · 服务、分析与代码",
+   "cls": "pptx"
+  },
+  "4b77abeb78": {
+   "en": "CUSTOMER SERVICE & DIALOGUE",
+   "zh": "客户服务与对话",
+   "cls": "pptx"
+  },
+  "9d3207a8d7": {
+   "en": "• Challenges: multi-round context tracking, weak domain adaptability, social-engineering risk, latency at scale",
+   "zh": "• 挑战：多轮上下文跟踪、领域适应性弱、社会工程风险、大规模下的延迟",
+   "cls": "pptx"
+  },
+  "a5ca576ed3": {
+   "en": "• Tech: dialog-state tracking, domain knowledge graphs, security rules, caching / async processing",
+   "zh": "• 技术：对话状态跟踪、领域知识图谱、安全规则、缓存 / 异步处理",
+   "cls": "pptx"
+  },
+  "f16840e0d8": {
+   "en": "• Examples: Airbnb Automation Platform v2, LinkedIn Hiring Assistant, Uber Genie AI copilot",
+   "zh": "• 示例：Airbnb Automation Platform v2、LinkedIn Hiring Assistant、Uber Genie AI copilot",
+   "cls": "pptx"
+  },
+  "b056c1fe1d": {
+   "en": "DATA ANALYSIS & DECISION SUPPORT",
+   "zh": "数据分析与决策支持",
+   "cls": "pptx"
+  },
+  "c6fa416114": {
+   "en": "• Challenges: data noise, multi-source integration, weak reasoning, black-box explainability",
+   "zh": "• 挑战：数据噪声、多源集成、推理能力弱、黑盒可解释性",
+   "cls": "pptx"
+  },
+  "0003e49380": {
+   "en": "• Tech: data cleaning, SQL engines & graph DBs, inference engines, explainable AI (LIME, SHAP)",
+   "zh": "• 技术：数据清洗、SQL 引擎与图数据库、推理引擎、可解释 AI（LIME、SHAP）",
+   "cls": "pptx"
+  },
+  "f371181903": {
+   "en": "• Examples: Uber QueryGPT multi-agent architecture, Grab automated data analysis",
+   "zh": "• 示例：Uber QueryGPT 多智能体架构、Grab 自动化数据分析",
+   "cls": "pptx"
+  },
+  "f1e3fd7681": {
+   "en": "SOFTWARE DEVELOPMENT & CODE",
+   "zh": "软件开发与代码",
+   "cls": "pptx"
+  },
+  "ffa5252a7b": {
+   "en": "• Challenges: cross-file consistency, security flaws (SQL injection, XSS), optimization, train-vs-real gap",
+   "zh": "• 挑战：跨文件一致性、安全缺陷（SQL 注入、XSS）、优化、训练与真实环境的差距",
+   "cls": "pptx"
+  },
+  "bdc4a4ce53": {
+   "en": "• Tech: static analysis (SonarQube), profiling, template/library integration, automated security auditing",
+   "zh": "• 技术：静态分析（SonarQube）、性能剖析、模板/库集成、自动化安全审计",
+   "cls": "pptx"
+  },
+  "6a72542e15": {
+   "en": "• Examples: Replit AI Debugger, GitLab Duo, GitHub Copilot",
+   "zh": "• 示例：Replit AI Debugger、GitLab Duo、GitHub Copilot",
+   "cls": "pptx"
+  },
+  "a4d0e9c5d3": {
+   "en": "INSIGHT 04 · LLM-based systems & industry applications",
+   "zh": "洞察 04 · 基于大语言模型的系统与行业应用",
+   "cls": "pptx"
+  },
+  "4e9db4cae3": {
+   "en": "Google SAIF · Microsoft · NVIDIA · security & assistants",
+   "zh": "Google SAIF · Microsoft · NVIDIA · 安全与助手",
+   "cls": "pptx"
+  },
+  "d08ea96bc4": {
+   "en": "SECURITY & RISK MANAGEMENT",
+   "zh": "安全与风险管理",
+   "cls": "pptx"
+  },
+  "c726b263be": {
+   "en": "• Challenges: disguised malicious input, evolving threats, insufficient context sensitivity",
+   "zh": "• 挑战：伪装的恶意输入、不断演变的威胁、对上下文的敏感度不足",
+   "cls": "pptx"
+  },
+  "048ca0401e": {
+   "en": "• LLM advantages: deep semantic understanding, broad threat knowledge, adaptive via fine-tuning/prompting, explanatory feedback",
+   "zh": "• 大语言模型的优势：深层语义理解、广泛的威胁知识、可通过微调/提示词适应、提供解释性反馈",
+   "cls": "pptx"
+  },
+  "1c77aac769": {
+   "en": "• Examples: Zillow Fair Housing Classifier, Whatnot Rule Engine++, Google's Secure AI Framework (SAIF)",
+   "zh": "• 示例：Zillow Fair Housing Classifier、Whatnot Rule Engine++、Google 的 Secure AI Framework (SAIF)",
+   "cls": "pptx"
+  },
+  "a27c26bbb1": {
+   "en": "ASSISTANT APPLICATIONS",
+   "zh": "助手类应用",
+   "cls": "pptx"
+  },
+  "bb0a73170a": {
+   "en": "• Advantages: cross-domain generalization, long-context tracking, prompt/fine-tune scalability, NL interfaces",
+   "zh": "• 优势：跨领域泛化、长上下文跟踪、提示词/微调的可扩展性、自然语言界面",
+   "cls": "pptx"
+  },
+  "63d73c39d3": {
+   "en": "• Deployment modes: localized (privacy/latency), cloud (small teams), hybrid (finance/enterprise)",
+   "zh": "• 部署模式：本地化（隐私/延迟）、云端（小团队）、混合（金融/企业）",
+   "cls": "pptx"
+  },
+  "d9d0f4e8e7": {
+   "en": "• Examples: Microsoft 365 Copilot, Instacart Ava, NVIDIA Morpheus, Digits accountant assistant",
+   "zh": "• 示例：Microsoft 365 Copilot、Instacart Ava、NVIDIA Morpheus、Digits 会计助手",
+   "cls": "pptx"
+  },
+  "f9bafc08a1": {
+   "en": "INSIGHT 05 · Single AI agent systems",
+   "zh": "洞察 05 · 单 AI 智能体系统",
+   "cls": "pptx"
+  },
+  "fcd2100bb4": {
+   "en": "Single-agent architecture · ReAct · Reflexion · LATS",
+   "zh": "单智能体架构 · ReAct · Reflexion · LATS",
+   "cls": "pptx"
+  },
+  "9afa8f5ad2": {
+   "en": "WHAT AN AI AGENT IS",
+   "zh": "什么是 AI 智能体",
+   "cls": "pptx"
+  },
+  "3814751ac4": {
+   "en": "• An LM-based entity that plans and iteratively executes tasks, taking environment inputs and triggering actions",
+   "zh": "• 一种基于语言模型的实体，能够规划并迭代执行任务，接收环境输入并触发行动",
+   "cls": "pptx"
+  },
+  "53a6a693f7": {
+   "en": "• Composition: Brain (reasoning), Perception (I/O), Action (tool execution); capabilities: memory, tools, planning, persona",
+   "zh": "• 组成：大脑（推理）、感知（输入/输出）、行动（工具执行）；能力：记忆、工具、规划、角色设定",
+   "cls": "pptx"
+  },
+  "f470a0bc3b": {
+   "en": "• “An AI agent cannot be just a single LLM” — reasoning limits push from single- toward multi-agent",
+   "zh": "• “AI 智能体不能只是一个单独的大语言模型”——推理能力的局限推动系统从单智能体走向多智能体",
+   "cls": "pptx"
+  },
+  "773f97f957": {
+   "en": "ARCHITECTURE METHODS",
+   "zh": "架构方法",
+   "cls": "pptx"
+  },
+  "6d24c2dbff": {
+   "en": "• ReAct (reason + act) — documents thought but can loop and stall",
+   "zh": "• ReAct（推理 + 行动）：记录思考过程，但可能陷入循环而停滞",
+   "cls": "pptx"
+  },
+  "aaed568a71": {
+   "en": "• Reflexion — self-reflection + verbal RL to cut hallucinations; AutoGPT+P — detector + classical planner",
+   "zh": "• Reflexion：自我反思 + 语言式强化学习（RL），以减少幻觉；AutoGPT+P：检测器 + 经典规划器",
+   "cls": "pptx"
+  },
+  "cfdf5fa637": {
+   "en": "• LATS — Monte-Carlo Tree Search for plan / reflect / correct",
+   "zh": "• LATS：用蒙特卡洛树搜索进行规划 / 反思 / 纠正",
+   "cls": "pptx"
+  },
+  "c0e85230e7": {
+   "en": "CAPABILITY MATURITY LADDER",
+   "zh": "能力成熟度阶梯",
+   "cls": "pptx"
+  },
+  "3533fbf4a4": {
+   "en": "• LLM → +Memory/RAG → +short-term planning (CoT) → +tools / function calling",
+   "zh": "• 大语言模型 → +记忆/RAG → +短期规划（CoT）→ +工具 / 函数调用",
+   "cls": "pptx"
+  },
+  "d28eb94a14": {
+   "en": "• → +feedback (computer use, copilots) → +long-term planning → +self-learning → full task autonomy",
+   "zh": "• → +反馈（computer use、copilot）→ +长期规划 → +自学习 → 完全的任务自主",
+   "cls": "pptx"
+  },
+  "1468d1d02c": {
+   "en": "INSIGHT 06 · Single AI agent systems",
+   "zh": "洞察 06 · 单 AI 智能体系统",
+   "cls": "pptx"
+  },
+  "1d2fa32755": {
+   "en": "RAG & Agentic RAG · retrieval-augmented generation",
+   "zh": "RAG 与 Agentic RAG · 检索增强生成",
+   "cls": "pptx"
+  },
+  "490075da7c": {
+   "en": "RAG OBJECTIVE",
+   "zh": "RAG 的目标",
+   "cls": "pptx"
+  },
+  "f9bebe53bd": {
+   "en": "• RAG reduces LLM limitations such as hallucination; workflows evolved simple → advanced → modular",
+   "zh": "• RAG 可缓解大语言模型的幻觉等局限；工作流从简单演进到进阶，再到模块化",
+   "cls": "pptx"
+  },
+  "532b762e3f": {
+   "en": "• Goal: adjust retrieval per task, let the LLM decide retrieval strategy, use interactive feedback, integrate multiple sources",
+   "zh": "• 目标：按任务调整检索，让大语言模型决定检索策略，利用交互式反馈，整合多个来源",
+   "cls": "pptx"
+  },
+  "739b2a1c4a": {
+   "en": "LIMITS OF TRADITIONAL RAG",
+   "zh": "传统 RAG 的局限",
+   "cls": "pptx"
+  },
+  "eaf9a2c15a": {
+   "en": "• Relies on vector similarity, ignoring structural relationships between documents",
+   "zh": "• 依赖向量相似度，忽略文档之间的结构关系",
+   "cls": "pptx"
+  },
+  "ba084fc80f": {
+   "en": "• Lacks global consistency; weak multi-step reasoning; fixed workflows with no behavior adjustment",
+   "zh": "• 缺乏全局一致性；多步推理能力弱；工作流固定，无法调整行为",
+   "cls": "pptx"
+  },
+  "4230d8d75d": {
+   "en": "GRAPH RAG & AGENTIC RAG",
+   "zh": "Graph RAG 与 Agentic RAG",
+   "cls": "pptx"
+  },
+  "d789626549": {
+   "en": "• Graph RAG: model document/entity relationships as a graph (entity ID → relation extraction → knowledge graph → optimization)",
+   "zh": "• Graph RAG：将文档/实体关系建模为图（实体 ID → 关系抽取 → 知识图谱 → 优化）",
+   "cls": "pptx"
+  },
+  "a4b8156931": {
+   "en": "• Agentic RAG: autonomous selection of relevant data, interactive retrieval/generation, multi-step reasoning and planning",
+   "zh": "• 智能体式 RAG：自主选择相关数据、交互式检索/生成、多步推理与规划",
+   "cls": "pptx"
+  },
+  "7330629c23": {
+   "en": "INSIGHT 07 · Single AI agent systems",
+   "zh": "洞察 07 · 单智能体系统",
+   "cls": "pptx"
+  },
+  "300cbe5d9d": {
+   "en": "Memory & tools · compute interface · tool learning",
+   "zh": "记忆与工具 · 计算接口 · 工具学习",
+   "cls": "pptx"
+  },
+  "ef12c541e4": {
+   "en": "MEMORY MODULE",
+   "zh": "记忆模块",
+   "cls": "pptx"
+  },
+  "f25c70db8d": {
+   "en": "• Retrieval: short-term full content; long-term filtered by Recency / Relevance / Importance; user-editable",
+   "zh": "• 检索：短期记忆取完整内容；长期记忆按时近性 / 相关性 / 重要性过滤；用户可编辑",
+   "cls": "pptx"
+  },
+  "9c3f0c201f": {
+   "en": "• Storage: natural language, embedding vectors, triplets (ChatDB, DB-GPT); eviction when full",
+   "zh": "• 存储：自然语言、嵌入向量、三元组（ChatDB、DB-GPT）；存满后淘汰旧内容",
+   "cls": "pptx"
+  },
+  "2a79b9beeb": {
+   "en": "• Reflection: hierarchical summarization and self-improvement; a central agent coordinates memory",
+   "zh": "• 反思：分层摘要与自我改进；由一个中央智能体协调记忆",
+   "cls": "pptx"
+  },
+  "40224a2049": {
+   "en": "TOOL USAGE (COMPUTE INTERFACE)",
+   "zh": "工具使用（计算接口）",
+   "cls": "pptx"
+  },
+  "fd7eaeb55c": {
+   "en": "• A tool is an external function: Perception (get_time), Action (web POST, file edits), Computation (code, calculator)",
+   "zh": "• 工具是一个外部函数：感知（get_time）、行动（web POST、文件编辑）、计算（代码、计算器）",
+   "cls": "pptx"
+  },
+  "e8fcc91fa8": {
+   "en": "• Design: modular plug-in connectors, dynamic binding, security (sandboxing, permissions)",
+   "zh": "• 设计：模块化插件式连接器、动态绑定、安全（沙箱、权限）",
+   "cls": "pptx"
+  },
+  "ee576cb920": {
+   "en": "• Example: computer use — reads the screen, clicks, types, self-corrects across apps",
+   "zh": "• 示例：计算机使用 — 读取屏幕、点击、输入，并跨应用自我纠错",
+   "cls": "pptx"
+  },
+  "6247e6764b": {
+   "en": "TOOL CALLING & LEARNING",
+   "zh": "工具调用与学习",
+   "cls": "pptx"
+  },
+  "cab2206373": {
+   "en": "• Calling: ad-hoc (tool in prompt, parse) vs native function calling (interrupt → call → resume)",
+   "zh": "• 调用：临时方式（工具写入提示词，再解析）与原生函数调用（中断 → 调用 → 恢复）",
+   "cls": "pptx"
+  },
+  "8ae54c648b": {
+   "en": "• Learning: in-context (task library, docs in prompt) vs training-time (self-supervised API learning, e.g. ToolFormer)",
+   "zh": "• 学习：上下文内学习（任务库、提示词中的文档）与训练期学习（自监督 API 学习，如 ToolFormer）",
+   "cls": "pptx"
+  },
+  "8e9b784310": {
+   "en": "INSIGHT 08 · Multi AI agent systems",
+   "zh": "洞察 08 · 多智能体系统",
+   "cls": "pptx"
+  },
+  "36fb8fda0e": {
+   "en": "Multi-agent systems · roles & applications",
+   "zh": "多智能体系统 · 角色与应用",
+   "cls": "pptx"
+  },
+  "c8656c03ba": {
+   "en": "WHY MULTI-AGENT",
+   "zh": "为什么用多智能体",
+   "cls": "pptx"
+  },
+  "efc04b098c": {
+   "en": "• Role differentiation: agents specialize (collection, analysis, decision) and divide complex problems",
+   "zh": "• 角色分化：智能体各有专长（收集、分析、决策），共同拆解复杂问题",
+   "cls": "pptx"
+  },
+  "9037998337": {
+   "en": "• Collaboration gives diverse perspectives, fault tolerance (no single point of failure), scalability",
+   "zh": "• 协作带来多样视角、容错能力（无单点故障）和可扩展性",
+   "cls": "pptx"
+  },
+  "a5dc5dc91f": {
+   "en": "• Single-agent limits: limited specialization, no collaboration, bottleneck, less flexibility",
+   "zh": "• 单智能体的局限：专业化有限、无法协作、存在瓶颈、灵活性较低",
+   "cls": "pptx"
+  },
+  "72af21b16b": {
+   "en": "PROBLEM-SOLVING APPLICATIONS",
+   "zh": "问题求解类应用",
+   "cls": "pptx"
+  },
+  "dd49526b35": {
+   "en": "• Software dev (ChatDev, MetaGPT), research (Agent Laboratory), long-context (Chain of Agents)",
+   "zh": "• 软件开发（ChatDev、MetaGPT）、研究（Agent Laboratory）、长上下文（Chain of Agents）",
+   "cls": "pptx"
+  },
+  "2f0e64de9a": {
+   "en": "• AutoGen, StrategyLLM, TradingGPT, Mora (video); healthcare & policy, embodied/robotic agents",
+   "zh": "• AutoGen、StrategyLLM、TradingGPT、Mora（视频）；医疗与政策、具身/机器人智能体",
+   "cls": "pptx"
+  },
+  "8854885be1": {
+   "en": "WORLD-SIMULATION APPLICATIONS",
+   "zh": "世界模拟类应用",
+   "cls": "pptx"
+  },
+  "6a8b3e614a": {
+   "en": "• Society (Generative Agents, Lyfe Agents), economy / trading (TradingGPT, AI Hedge Fund), war-gaming (WarAgent)",
+   "zh": "• 社会（Generative Agents、Lyfe Agents）、经济 / 交易（TradingGPT、AI Hedge Fund）、战争推演（WarAgent）",
+   "cls": "pptx"
+  },
+  "27c674c276": {
+   "en": "• Gaming (Werewolf, Avalon, Diplomacy), recommenders (AgentCF), epidemic modeling, digital twins",
+   "zh": "• 游戏（Werewolf、Avalon、Diplomacy）、推荐系统（AgentCF）、疫情建模、数字孪生",
+   "cls": "pptx"
+  },
+  "ef4f646589": {
+   "en": "INSIGHT 09 · Multi AI agent systems",
+   "zh": "洞察 09 · 多智能体系统",
+   "cls": "pptx"
+  },
+  "ca9767af43": {
+   "en": "Collaboration & orchestration · protocols & structures",
+   "zh": "协作与编排 · 协议与结构",
+   "cls": "pptx"
+  },
+  "1b3fafc08d": {
+   "en": "COLLABORATION TYPES",
+   "zh": "协作类型",
+   "cls": "pptx"
+  },
+  "83c80c06c3": {
+   "en": "• Cooperation: aligned objectives leverage each agent's expertise",
+   "zh": "• 合作：目标一致，发挥每个智能体的专长",
+   "cls": "pptx"
+  },
+  "bc59e563ae": {
+   "en": "• Competition / adversarial: conflicting objectives drive adaptive strategies (debate, games)",
+   "zh": "• 竞争 / 对抗：目标冲突，推动自适应策略（辩论、博弈）",
+   "cls": "pptx"
+  },
+  "b4db8a5585": {
+   "en": "• Coopetition / mixed: a blend balancing trade-offs (negotiation)",
+   "zh": "• 竞合 / 混合：兼顾取舍的混合形式（谈判）",
+   "cls": "pptx"
+  },
+  "ce755ff28c": {
+   "en": "COLLABORATION STRATEGIES",
+   "zh": "协作策略",
+   "cls": "pptx"
+  },
+  "2ad9ee8970": {
+   "en": "• Rule-based: predefined rules — efficient/predictable but low adaptability",
+   "zh": "• 基于规则：预定义规则 — 高效、可预测，但适应性低",
+   "cls": "pptx"
+  },
+  "043c4a42f9": {
+   "en": "• Role-based: segmented by expertise — modular/reusable but rigid if roles unclear",
+   "zh": "• 基于角色：按专长划分 — 模块化、可复用，但角色不清时较僵化",
+   "cls": "pptx"
+  },
+  "aa0f529813": {
+   "en": "• Model-based: probabilistic decisions — adaptable/robust but complex and compute-heavy",
+   "zh": "• 基于模型：概率式决策 — 适应性强、稳健，但复杂且计算开销大",
+   "cls": "pptx"
+  },
+  "9553f665f7": {
+   "en": "COMMUNICATION STRUCTURES",
+   "zh": "通信结构",
+   "cls": "pptx"
+  },
+  "acd5563a3e": {
+   "en": "• Centralized (simple/efficient, but central failure collapses the system)",
+   "zh": "• 集中式（简单高效，但中心故障会使系统崩溃）",
+   "cls": "pptx"
+  },
+  "0b03deebe7": {
+   "en": "• Decentralized/distributed (resilient, scalable: swarm, MetaGPT, ChatDev) and hierarchical (DyLAN)",
+   "zh": "• 去中心化/分布式（有韧性、可扩展：swarm、MetaGPT、ChatDev）与分层式（DyLAN）",
+   "cls": "pptx"
+  },
+  "5a86cf021d": {
+   "en": "• Static vs dynamic channels: predefined domain channels vs real-time adaptive management",
+   "zh": "• 静态与动态通道：预定义的领域通道与实时自适应管理",
+   "cls": "pptx"
+  },
+  "c867bd6e46": {
+   "en": "INSIGHT 10 · Multi AI agent systems",
+   "zh": "洞察 10 · 多智能体系统",
+   "cls": "pptx"
+  },
+  "564472e6b6": {
+   "en": "LangGraph · CrewAI · AutoGen · agent frameworks",
+   "zh": "LangGraph · CrewAI · AutoGen · 智能体框架",
+   "cls": "pptx"
+  },
+  "f94f33ddac": {
+   "en": "WHAT FRAMEWORKS PROVIDE",
+   "zh": "框架提供什么",
+   "cls": "pptx"
+  },
+  "47a1643148": {
+   "en": "• Tools for agent-to-agent communication, orchestration, workflow management, tool use and decision-making",
+   "zh": "• 提供智能体间通信、编排、工作流管理、工具使用和决策的工具",
+   "cls": "pptx"
+  },
+  "fe2282b74a": {
+   "en": "• Enable low/no-code application building; most popular: LangGraph, CrewAI, AutoGen",
+   "zh": "• 支持低代码/无代码构建应用；最流行的有 LangGraph、CrewAI、AutoGen",
+   "cls": "pptx"
+  },
+  "de4f063160": {
+   "en": "LANGGRAPH & CREWAI",
+   "zh": "LANGGRAPH 与 CREWAI",
+   "cls": "pptx"
+  },
+  "ee3886b83c": {
+   "en": "• LangGraph: graph-organized (agents = nodes, steps = edges), shared typed State, state persistence for recovery",
+   "zh": "• LangGraph：以图组织（智能体 = 节点，步骤 = 边），共享的带类型状态，状态持久化以便恢复",
+   "cls": "pptx"
+  },
+  "47631d668b": {
+   "en": "• CrewAI: Agents + Tasks grouped in a Crew; a 'flow' coordinates workflows with a manager pattern",
+   "zh": "• CrewAI：智能体 + 任务组成一个 Crew；用“flow”以管理者模式协调工作流",
+   "cls": "pptx"
+  },
+  "cd8f865b64": {
+   "en": "AUTOGEN",
+   "zh": "AUTOGEN",
+   "cls": "pptx"
+  },
+  "8d52fd32f9": {
+   "en": "• Layered: Core API (message passing, runtime), Agent Chat (prototyping), Extensions (LLM clients, RAG tools)",
+   "zh": "• 分层：Core API（消息传递、运行时）、Agent Chat（原型开发）、Extensions（大语言模型客户端、RAG 工具）",
+   "cls": "pptx"
+  },
+  "83dd453600": {
+   "en": "• Async message workflow; single or distributed runtime; serializable messages, direct-send or topic broadcast",
+   "zh": "• 异步消息工作流；单机或分布式运行时；可序列化消息，直接发送或按主题广播",
+   "cls": "pptx"
+  },
+  "75dc39f401": {
+   "en": "INSIGHT 11 · Evaluations & guardrails",
+   "zh": "洞察 11 · 评估与护栏",
+   "cls": "pptx"
+  },
+  "0f64ed4361": {
+   "en": "LLM evaluation · criteria, metrics & frameworks",
+   "zh": "大语言模型评估 · 标准、指标与框架",
+   "cls": "pptx"
+  },
+  "e9c168952c": {
+   "en": "KEY CRITERIA",
+   "zh": "关键标准",
+   "cls": "pptx"
+  },
+  "6a0134f16e": {
+   "en": "• Accuracy (vs gold/expert), Ethicality (privacy, misinformation, fairness, transparency), Fairness (bias mitigation)",
+   "zh": "• 准确性（对照金标准/专家）、伦理性（隐私、虚假信息、公平、透明）、公平性（缓解偏见）",
+   "cls": "pptx"
+  },
+  "1c0ef2ffc2": {
+   "en": "• Generalization (unseen data), Robustness (adversarial resilience), Reasoning (logical / causal inference)",
+   "zh": "• 泛化性（未见数据）、鲁棒性（对抗韧性）、推理（逻辑 / 因果推断）",
+   "cls": "pptx"
+  },
+  "7059d679ce": {
+   "en": "METRIC FAMILIES",
+   "zh": "指标类别",
+   "cls": "pptx"
+  },
+  "dc72577906": {
+   "en": "• Classification: Accuracy, Recall, Precision, F1, Micro/Macro-F1",
+   "zh": "• 分类：Accuracy、Recall、Precision、F1、Micro/Macro-F1",
+   "cls": "pptx"
+  },
+  "5ac824c54d": {
+   "en": "• Token-similarity: Perplexity, BLEU, ROUGE, BERTScore; QA: strict/lenient accuracy, MRR",
+   "zh": "• Token 相似度：Perplexity、BLEU、ROUGE、BERTScore；问答：严格/宽松准确率、MRR",
+   "cls": "pptx"
+  },
+  "968ae785d6": {
+   "en": "FRAMEWORKS",
+   "zh": "框架",
+   "cls": "pptx"
+  },
+  "c1989b49e8": {
+   "en": "• Evidently AI: text stats/patterns, model-based evals (semantic similarity, toxicity, BERTScore)",
+   "zh": "• Evidently AI：文本统计/模式，基于模型的评估（语义相似度、毒性、BERTScore）",
+   "cls": "pptx"
+  },
+  "cb6ead089a": {
+   "en": "• Aporia: restricted phrases, prompt-injection DB, Text-to-SQL security, DoS / cost / RAG access control",
+   "zh": "• Aporia：受限短语、提示词注入数据库、Text-to-SQL 安全、DoS / 成本 / RAG 访问控制",
+   "cls": "pptx"
+  },
+  "21fbea6a65": {
+   "en": "• Ragas: string similarity, context precision/recall, noise sensitivity, topic adherence",
+   "zh": "• Ragas：字符串相似度、上下文精确率/召回率、噪声敏感度、主题遵循度",
+   "cls": "pptx"
+  },
+  "d68d5f0bde": {
+   "en": "INSIGHT 12 · Evaluations & guardrails",
+   "zh": "洞察 12 · 评估与护栏",
+   "cls": "pptx"
+  },
+  "e9195c1b59": {
+   "en": "RAG evaluation · targets, metrics & benchmarks",
+   "zh": "RAG 评估 · 目标、指标与基准测试",
+   "cls": "pptx"
+  },
+  "3966ea11e1": {
+   "en": "EVALUATION TARGETS",
+   "zh": "评估目标",
+   "cls": "pptx"
+  },
+  "decfd1ab33": {
+   "en": "• Traditional-RAG problems: retrieval errors (irrelevant docs, fixed retrieval) and hallucination despite relevant data",
+   "zh": "• 传统 RAG 的问题：检索错误（文档不相关、检索方式固定），以及即使数据相关仍产生幻觉",
+   "cls": "pptx"
+  },
+  "73c5ba56bd": {
+   "en": "• Pre-generation judges retrieval quality; post-generation validates output against retrieved docs",
+   "zh": "• 生成前评判检索质量；生成后对照检索到的文档验证输出",
+   "cls": "pptx"
+  },
+  "cdc3938a41": {
+   "en": "ASPECTS & METRICS",
+   "zh": "方面与指标",
+   "cls": "pptx"
+  },
+  "1934106189": {
+   "en": "• Retrieval quality (context relevance) and generation quality (faithfulness, answer relevance)",
+   "zh": "• 检索质量（上下文相关性）和生成质量（忠实度、答案相关性）",
+   "cls": "pptx"
+  },
+  "60475097a6": {
+   "en": "• Also noise robustness, negative rejection, information integration, counterfactual robustness",
+   "zh": "• 还包括噪声鲁棒性、负例拒答、信息整合、反事实鲁棒性",
+   "cls": "pptx"
+  },
+  "2ea8762ad4": {
+   "en": "• Metrics: Exact Match, Recall/Precision, Cosine Similarity, Hit Rate, MRR, NDCG, BLEU, ROUGE-L",
+   "zh": "• 指标：Exact Match、Recall/Precision、Cosine Similarity、Hit Rate、MRR、NDCG、BLEU、ROUGE-L",
+   "cls": "pptx"
+  },
+  "1df9a26b9a": {
+   "en": "FRAMEWORKS & BENCHMARKS",
+   "zh": "框架与基准测试",
+   "cls": "pptx"
+  },
+  "9f306c6b40": {
+   "en": "• Tools: RAGAS, ARES, TruLens",
+   "zh": "• 工具：RAGAS、ARES、TruLens",
+   "cls": "pptx"
+  },
+  "120fc9c0a3": {
+   "en": "• Benchmarks: RGB, CRUD (BLEU/ROUGE-L/BertScore/RAGQuestEval), RECALL (reappearance rate)",
+   "zh": "• 基准测试：RGB、CRUD（BLEU/ROUGE-L/BertScore/RAGQuestEval）、RECALL（重现率）",
+   "cls": "pptx"
+  },
+  "008a125f97": {
+   "en": "INSIGHT 13 · Evaluations & guardrails",
+   "zh": "洞察 13 · 评估与护栏",
+   "cls": "pptx"
+  },
+  "0927218b07": {
+   "en": "LLM-as-a-Judge · evaluation by models",
+   "zh": "LLM-as-a-Judge · 用模型做评估",
+   "cls": "pptx"
+  },
+  "134c80cc1d": {
+   "en": "CONCEPT & FORMATS",
+   "zh": "概念与形式",
+   "cls": "pptx"
+  },
+  "7fda1ce6d8": {
+   "en": "• LLMs judge candidate outputs; reliability concern shifts to the judge itself",
+   "zh": "• 由大语言模型评判候选输出；可靠性问题转移到评判者本身",
+   "cls": "pptx"
+  },
+  "3c6b48c54b": {
+   "en": "• Input: point-wise vs pair/list-wise; output: score-, ranking-, or selection-based (rubric or pairwise)",
+   "zh": "• 输入：逐点与成对/列表式；输出：基于打分、排序或选择（评分标准或成对比较）",
+   "cls": "pptx"
+  },
+  "e79ceca4d1": {
+   "en": "METHODOLOGY",
+   "zh": "方法论",
+   "cls": "pptx"
+  },
+  "391e18a592": {
+   "en": "• Model tuning: manual vs synthetic feedback; supervised fine-tuning, preference / meta-rewarding",
+   "zh": "• 模型调优：人工反馈与合成反馈；监督微调、偏好 / 元奖励",
+   "cls": "pptx"
+  },
+  "0aa4f2d43c": {
+   "en": "• Prompting: position-bias swapping, multi-agent (peer rank, debate, voting), rule augmentation, multi-turn",
+   "zh": "• 提示：位置偏差交换、多智能体（同伴排名、辩论、投票）、规则增强、多轮",
+   "cls": "pptx"
+  },
+  "77744723ff": {
+   "en": "• Mitigate positional bias with order-swapping and highest-log-probability selection",
+   "zh": "• 用顺序交换和选择最高对数概率来缓解位置偏差",
+   "cls": "pptx"
+  },
+  "54146b5657": {
+   "en": "ATTRIBUTES, USES & FRAMEWORKS",
+   "zh": "属性、用途与框架",
+   "cls": "pptx"
+  },
+  "9d884cdb2e": {
+   "en": "• Attributes: helpfulness, harmlessness, reliability (HALU-J), relevance, feasibility, quality",
+   "zh": "• 属性：有用性、无害性、可靠性（HALU-J）、相关性、可行性、质量",
+   "cls": "pptx"
+  },
+  "fb9ab6a6ec": {
+   "en": "• Uses: reasoning-path selection (CoT, debate, Tree-of-Thoughts), retrieval ranking, self-judging",
+   "zh": "• 用途：推理路径选择（CoT、辩论、Tree-of-Thoughts）、检索排序、自我评判",
+   "cls": "pptx"
+  },
+  "1b79f0df2f": {
+   "en": "• Frameworks: Evidently AI, Aporia, Ragas; worked examples CRAG (self-corrective RAG) and SELF-RAG (self-reflective RAG)",
+   "zh": "• 框架：Evidently AI、Aporia、Ragas；实例有 CRAG（自纠正 RAG）和 SELF-RAG（自反思 RAG）",
+   "cls": "pptx"
+  },
+  "69bae0ee91": {
+   "en": "CONCLUSIONS",
+   "zh": "结论",
+   "cls": "pptx"
+  },
+  "96706c7774": {
+   "en": "INSIGHTS",
+   "zh": "洞察",
+   "cls": "pptx"
+  },
+  "6ad33e87a4": {
+   "en": "• LLMs are pervasive in industry — personalization, customer service, content, data analysis, code and security — across ~81 surveyed companies.",
+   "zh": "• 大语言模型在行业中无处不在 — 个性化、客户服务、内容、数据分析、代码和安全 — 覆盖约 81 家受访公司。",
+   "cls": "pptx"
+  },
+  "2fc2888a08": {
+   "en": "• Systems are moving from single agents (RAG, memory, tools) toward collaborating multi-agent frameworks.",
+   "zh": "• 系统正从单智能体（RAG、记忆、工具）转向相互协作的多智能体框架。",
+   "cls": "pptx"
+  },
+  "05a37f70d0": {
+   "en": "• Evaluation and guardrails — LLM evaluation, RAG evaluation and LLM-as-a-Judge — are now first-class engineering concerns.",
+   "zh": "• 评估与护栏 — 大语言模型评估、RAG 评估和 LLM-as-a-Judge — 已成为一等工程关注点。",
+   "cls": "pptx"
+  },
+  "927e4493b3": {
+   "en": "VISION",
+   "zh": "愿景",
+   "cls": "pptx"
+  },
+  "1114da2873": {
+   "en": "• Agentic RAG and graph RAG that reason over structured knowledge, not just vector similarity.",
+   "zh": "• 智能体式 RAG 和图 RAG，对结构化知识进行推理，而不只是向量相似度。",
+   "cls": "pptx"
+  },
+  "66df802dec": {
+   "en": "• Multi-agent frameworks (LangGraph, CrewAI, AutoGen) as the default way to build complex AI systems.",
+   "zh": "• 多智能体框架（LangGraph、CrewAI、AutoGen）成为构建复杂 AI 系统的默认方式。",
+   "cls": "pptx"
+  },
+  "d31525fbe2": {
+   "en": "• Automated, model-based evaluation (LLM-as-a-Judge) woven into the development loop.",
+   "zh": "• 自动化的、基于模型的评估（LLM-as-a-Judge）融入开发循环。",
+   "cls": "pptx"
+  },
+  "ab88151343": {
+   "en": "IMPLICATIONS FOR US",
+   "zh": "对我们的启示",
+   "cls": "pptx"
+  },
+  "805643e09d": {
+   "en": "• Pick the deployment mode (local / cloud / hybrid) to match privacy, latency and scale.",
+   "zh": "• 根据隐私、延迟和规模选择部署模式（本地 / 云端 / 混合）。",
+   "cls": "pptx"
+  },
+  "64c6265988": {
+   "en": "• Design agents with memory, sandboxed tools and explicit guardrails from the start.",
+   "zh": "• 从一开始就为智能体设计记忆、沙箱化工具和明确的护栏。",
+   "cls": "pptx"
+  },
+  "50ba69697b": {
+   "en": "• Evaluate retrieval and generation separately, and treat the judge's own reliability as a risk.",
+   "zh": "• 分别评估检索和生成，并把评判者自身的可靠性视为风险。",
+   "cls": "pptx"
+  },
+  "5d16a62568": {
+   "en": "{1}{/1}Tech Insight",
+   "zh": "{1}{/1}Tech Insight",
+   "cls": "span.brand"
+  },
+  "5d20d0fee3": {
+   "en": "References",
+   "zh": "参考文献",
+   "cls": "a"
+  }
+ }
+}

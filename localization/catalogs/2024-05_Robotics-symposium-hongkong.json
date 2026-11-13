@@ -1,0 +1,1325 @@
+{
+ "folder": "2024-05_Robotics-symposium-hongkong",
+ "strings": {
+  "1086013a34": {
+   "en": "[1] H. Zhang, “Generalizable Task-Oriented Grasping with Foundation Models,” HKSTP Symposium on Innovative Robotics & Applications, 2024.",
+   "zh": "[1] H. Zhang, “Generalizable Task-Oriented Grasping with Foundation Models,” HKSTP Symposium on Innovative Robotics & Applications, 2024.",
+   "cls": "keep"
+  },
+  "8894c1e9ab": {
+   "en": "[2] N. Xi, “Robotics in the Artificial Intelligence Era,” HKSTP Symposium on Innovative Robotics & Applications, 2024.",
+   "zh": "[2] N. Xi, “Robotics in the Artificial Intelligence Era,” HKSTP Symposium on Innovative Robotics & Applications, 2024.",
+   "cls": "keep"
+  },
+  "6cabc7f904": {
+   "en": "[3] K. Sreenath, “Adventures in Learning Dynamic Legged Loco-Manipulation,” HKSTP Symposium on Innovative Robotics & Applications, 2024.",
+   "zh": "[3] K. Sreenath, “Adventures in Learning Dynamic Legged Loco-Manipulation,” HKSTP Symposium on Innovative Robotics & Applications, 2024.",
+   "cls": "keep"
+  },
+  "5f634e3a6b": {
+   "en": "[4] M. Tomizuka, “Collaboration and Interaction of Human-Robot and Robot-Robot,” HKSTP Symposium on Innovative Robotics & Applications, 2024.",
+   "zh": "[4] M. Tomizuka, “Collaboration and Interaction of Human-Robot and Robot-Robot,” HKSTP Symposium on Innovative Robotics & Applications, 2024.",
+   "cls": "keep"
+  },
+  "994c4f4248": {
+   "en": "[5] H. Stuart, “Logistics Application of Tactile Sensing with Smart Grippers,” HKSTP Symposium on Innovative Robotics & Applications, 2024.",
+   "zh": "[5] H. Stuart, “Logistics Application of Tactile Sensing with Smart Grippers,” HKSTP Symposium on Innovative Robotics & Applications, 2024.",
+   "cls": "keep"
+  },
+  "7cf53df37f": {
+   "en": "[6] W. J. Li, “Amoeba-Inspired Self-Healing Electronic Slime as Wearable Motion Sensors for Human-Robot Interaction,” HKSTP Symposium, 2024.",
+   "zh": "[6] W. J. Li, “Amoeba-Inspired Self-Healing Electronic Slime as Wearable Motion Sensors for Human-Robot Interaction,” HKSTP Symposium, 2024.",
+   "cls": "keep"
+  },
+  "e16bdf187b": {
+   "en": "[7] D. W. Wang, “Enabling Autonomy with Robust Perception and Remote Intervention,” HKSTP Symposium on Innovative Robotics & Applications, 2024.",
+   "zh": "[7] D. W. Wang, “Enabling Autonomy with Robust Perception and Remote Intervention,” HKSTP Symposium on Innovative Robotics & Applications, 2024.",
+   "cls": "keep"
+  },
+  "3cb7d0b4f2": {
+   "en": "[8] C. H. Cheng, “LSCM's Perspective on Technological Development for Smart Transport in Hong Kong,” HKSTP Symposium, 2024.",
+   "zh": "[8] C. H. Cheng, “LSCM's Perspective on Technological Development for Smart Transport in Hong Kong,” HKSTP Symposium, 2024.",
+   "cls": "keep"
+  },
+  "42380a903b": {
+   "en": "{1}{2}{/2}Tech Insight{/1}{3}Contents{/3}{4}·{/4}{5}Symposium{/5}{6}·{/6}{7}Insights{/7}{8}·{/8}{9}Conclusions{/9}{10}·{/10}{11}References{/11}",
+   "zh": "{1}{2}{/2}Tech Insight{/1}{3}目录{/3}{4}·{/4}{5}研讨会{/5}{6}·{/6}{7}洞察{/7}{8}·{/8}{9}结论{/9}{10}·{/10}{11}参考文献{/11}",
+   "cls": "nav.bar"
+  },
+  "011de83c4d": {
+   "en": "HKSTP 2024 — Symposium on Innovative Robotics · Tech Insight Report",
+   "zh": "HKSTP 2024 — Symposium on Innovative Robotics · Tech Insight 报告",
+   "cls": "div.kicker"
+  },
+  "a9f06c3ab0": {
+   "en": "2024 HKSTP Symposium on Innovative Robotics and Applications",
+   "zh": "2024 HKSTP Symposium on Innovative Robotics and Applications",
+   "cls": "h1"
+  },
+  "21ea3e4a4e": {
+   "en": "{1}Hong Kong Science Park (INNO²), Hong Kong · 23 May 2024{/1}",
+   "zh": "{1}中国香港，香港科学园（INNO²）· 2024 年 5 月 23 日{/1}",
+   "cls": "p.lede"
+  },
+  "886a465947": {
+   "en": "A read of the 2024 HKSTP Symposium on Innovative Robotics and Applications: academic and industry labs (heavy UC Berkeley presence) on fusing AI foundation models (LLMs / VLMs) with robot perception, planning and manipulation — task-oriented grasping, human-robot collaboration and safety, tactile and wearable sensing, robust autonomy, and smart transport for Hong Kong.",
+   "zh": "对 2024 HKSTP Symposium on Innovative Robotics and Applications 的解读：学术界和产业界实验室（加州大学伯克利分校占比很高）围绕将 AI 基础模型（大语言模型 / 视觉语言模型）与机器人感知、规划和操作相融合展开——任务导向抓取、人机协作与安全、触觉与可穿戴传感、鲁棒自主，以及香港的智能交通。",
+   "cls": "p.lede"
+  },
+  "e044f08eef": {
+   "en": "Location{1}Hong Kong Science Park (INNO²), Hong Kong{/1}",
+   "zh": "地点{1}中国香港，香港科学园（INNO²）{/1}",
+   "cls": "div"
+  },
+  "f23c8e92bc": {
+   "en": "Date{1}23 May 2024{/1}",
+   "zh": "日期{1}2024 年 5 月 23 日{/1}",
+   "cls": "div"
+  },
+  "f44bf264ff": {
+   "en": "Focus{1}Innovative Robotics — Foundation Models, Grasping & Human-Robot Collaboration{/1}",
+   "zh": "主题{1}创新机器人——基础模型、抓取与人机协作{/1}",
+   "cls": "div"
+  },
+  "f91f503b91": {
+   "en": "01 · Contents",
+   "zh": "01 · 目录",
+   "cls": "div.kicker"
+  },
+  "3f9a0ad8ce": {
+   "en": "Talks covered, by theme",
+   "zh": "按主题划分的报告内容",
+   "cls": "h2"
+  },
+  "7d03ec06a5": {
+   "en": "A · Foundation models for grasping & control",
+   "zh": "A · 用于抓取与控制的基础模型",
+   "cls": "attr:data-group"
+  },
+  "161acedd22": {
+   "en": "{1}01{/1}{2}Generalizable Task-Oriented Grasping with Foundation Models{/2}",
+   "zh": "{1}01{/1}{2}Generalizable Task-Oriented Grasping with Foundation Models{/2}",
+   "cls": "div"
+  },
+  "a01b4b3812": {
+   "en": "{1}02{/1}{2}Robotics in the Artificial Intelligence Era{/2}",
+   "zh": "{1}02{/1}{2}Robotics in the Artificial Intelligence Era{/2}",
+   "cls": "div"
+  },
+  "e91f49dfb1": {
+   "en": "{1}03{/1}{2}Learning Dynamic Legged Loco-Manipulation{/2}",
+   "zh": "{1}03{/1}{2}Learning Dynamic Legged Loco-Manipulation{/2}",
+   "cls": "div"
+  },
+  "a759be78d8": {
+   "en": "B · Human-robot collaboration & sensing",
+   "zh": "B · 人机协作与传感",
+   "cls": "attr:data-group"
+  },
+  "a98699b014": {
+   "en": "{1}04{/1}{2}Collaboration & Interaction of Human-Robot and Robot-Robot{/2}",
+   "zh": "{1}04{/1}{2}Collaboration & Interaction of Human-Robot and Robot-Robot{/2}",
+   "cls": "div"
+  },
+  "4ade0e9a47": {
+   "en": "{1}05{/1}{2}Logistics Application of Tactile Sensing with Smart Grippers{/2}",
+   "zh": "{1}05{/1}{2}Logistics Application of Tactile Sensing with Smart Grippers{/2}",
+   "cls": "div"
+  },
+  "b5a1061c03": {
+   "en": "{1}06{/1}{2}Amoeba-Inspired Self-Healing Electronic Slime as Wearable Motion Sensors{/2}",
+   "zh": "{1}06{/1}{2}Amoeba-Inspired Self-Healing Electronic Slime as Wearable Motion Sensors{/2}",
+   "cls": "div"
+  },
+  "44f4e2eace": {
+   "en": "C · Robust autonomy & smart transport",
+   "zh": "C · 鲁棒自主与智能交通",
+   "cls": "attr:data-group"
+  },
+  "4fc172b163": {
+   "en": "{1}07{/1}{2}Enabling Autonomy with Robust Perception and Remote Intervention{/2}",
+   "zh": "{1}07{/1}{2}Enabling Autonomy with Robust Perception and Remote Intervention{/2}",
+   "cls": "div"
+  },
+  "d8020efc4a": {
+   "en": "{1}08{/1}{2}Technological Development for Smart Transport in Hong Kong{/2}",
+   "zh": "{1}08{/1}{2}Technological Development for Smart Transport in Hong Kong{/2}",
+   "cls": "div"
+  },
+  "c3364c9a79": {
+   "en": "02 · Symposium at a glance",
+   "zh": "02 · 研讨会概览",
+   "cls": "div.kicker"
+  },
+  "66afe0db11": {
+   "en": "2024 HKSTP Symposium on Innovative Robotics and Applications — Hong Kong Science Park (INNO²), Hong Kong, 23 May 2024",
+   "zh": "2024 HKSTP Symposium on Innovative Robotics and Applications — 中国香港，香港科学园（INNO²），2024 年 5 月 23 日",
+   "cls": "h2"
+  },
+  "5e27f5e679": {
+   "en": "{1}23 May 2024{/1}{2}Hong Kong{/2}",
+   "zh": "{1}2024 年 5 月 23 日{/1}{2}中国香港{/2}",
+   "cls": "div.tile"
+  },
+  "de4696caec": {
+   "en": "{1}HKSTP · INNO²{/1}{2}organizer{/2}",
+   "zh": "{1}HKSTP · INNO²{/1}{2}主办方{/2}",
+   "cls": "div.tile"
+  },
+  "3cb0eff7bc": {
+   "en": "{1}12 talks{/1}{2}8 deep-dived here{/2}",
+   "zh": "{1}12 场报告{/1}{2}其中 8 场在此深入解读{/2}",
+   "cls": "div.tile"
+  },
+  "1fa1887e13": {
+   "en": "{1}Robotics × AI{/1}{2}the theme{/2}",
+   "zh": "{1}机器人 × AI{/1}{2}主题{/2}",
+   "cls": "div.tile"
+  },
+  "bae8d80508": {
+   "en": "{1}About:{/1} A one-day HKSTP symposium at Hong Kong Science Park's INNO², pairing academic robotics talks with industry perspectives on robotics and applications.",
+   "zh": "{1}关于：{/1}HKSTP 在香港科学园 INNO² 举办的为期一天的研讨会，将学术界的机器人报告与产业界对机器人及其应用的看法结合起来。",
+   "cls": "p.overview-themes"
+  },
+  "665a57dd7b": {
+   "en": "The dominant thread is fusing foundation models (LLMs / VLMs) with robot perception, planning and manipulation — especially task-oriented grasping, human-robot collaboration & safety, and tactile / wearable sensing — alongside robust autonomy and smart transport for Hong Kong.",
+   "zh": "主线是将基础模型（大语言模型 / 视觉语言模型）与机器人感知、规划和操作相融合——尤其是任务导向抓取、人机协作与安全、触觉 / 可穿戴传感——同时涉及鲁棒自主和香港的智能交通。",
+   "cls": "p.overview-themes"
+  },
+  "74e3fba778": {
+   "en": "03 · Insights",
+   "zh": "03 · 洞察",
+   "cls": "div.kicker"
+  },
+  "eef8d9e410": {
+   "en": "The symposium, talk by talk",
+   "zh": "研讨会逐场报告",
+   "cls": "h2"
+  },
+  "f810831834": {
+   "en": "Generalizable Task-Oriented Grasping with Foundation Models",
+   "zh": "Generalizable Task-Oriented Grasping with Foundation Models",
+   "cls": "attr:data-toc"
+  },
+  "bee37bc415": {
+   "en": "{1}Hong Zhang{/1} · task-oriented grasping · FoundationGrasp",
+   "zh": "{1}Hong Zhang{/1} · 任务导向抓取 · FoundationGrasp",
+   "cls": "div.byline"
+  },
+  "8a9400005c": {
+   "en": "The problem",
+   "zh": "问题",
+   "cls": "span.lbl"
+  },
+  "2edce36964": {
+   "en": "Task-Oriented Grasping (TOG) = decide which object to grasp and how; learning beats classical grasping but is data-hungry",
+   "zh": "任务导向抓取（TOG）= 决定抓取哪个物体以及如何抓取；学习方法优于传统抓取，但依赖大量数据",
+   "cls": "li"
+  },
+  "f9a57dcbbb": {
+   "en": "Use foundation models (LLMs + VLMs) to transfer knowledge and generalize across novel objects, tasks and grippers",
+   "zh": "利用基础模型（大语言模型 + 视觉语言模型）迁移知识，并泛化到新的物体、任务和夹爪",
+   "cls": "li"
+  },
+  "e0f8ecb367": {
+   "en": "Goal: from an RGB image + a language instruction (object + task) + gripper geometry, output a 6-DoF grasp pose",
+   "zh": "目标：根据 RGB 图像 + 语言指令（物体 + 任务）+ 夹爪几何形状，输出 6 自由度抓取位姿",
+   "cls": "li"
+  },
+  "bb82d68b87": {
+   "en": "GraspGPT / FoundationGrasp",
+   "zh": "GraspGPT / FoundationGrasp",
+   "cls": "span.lbl"
+  },
+  "2b73d90230": {
+   "en": "Pipeline: data generation → multi-modal feature representation → task-oriented grasp evaluation → loss",
+   "zh": "流水线：数据生成 → 多模态特征表示 → 任务导向抓取评估 → 损失",
+   "cls": "li"
+  },
+  "97492205ac": {
+   "en": "Object/grasp encoder (PointNet++), semantic encoder (BERT), geometric encoder (CLIP), trained with binary cross-entropy",
+   "zh": "物体 / 抓取编码器（PointNet++）、语义编码器（BERT）、几何编码器（CLIP），使用二元交叉熵训练",
+   "cls": "li"
+  },
+  "d38df71524": {
+   "en": "LLM prompts generate language descriptions; web image retrieval augments visual diversity",
+   "zh": "用大语言模型提示词生成语言描述；通过网络图像检索增加视觉多样性",
+   "cls": "li"
+  },
+  "3b8a462bcf": {
+   "en": "Results & limits",
+   "zh": "结果与局限",
+   "cls": "span.lbl"
+  },
+  "0491d8b4f7": {
+   "en": "GraspCLIP reaches ~83% mAP but struggles on novel classes; FoundationGrasp adds commonsense reasoning",
+   "zh": "GraspCLIP 达到约 83% mAP，但在新类别上表现不佳；FoundationGrasp 加入了常识推理",
+   "cls": "li"
+  },
+  "29c389c901": {
+   "en": "~90% grasp success across nine manipulation tasks, but full-manipulation success ~67% (limited relative-pose modeling, no force feedback)",
+   "zh": "九个操作任务中抓取成功率约 90%，但完整操作成功率约 67%（相对位姿建模有限，没有力反馈）",
+   "cls": "li"
+  },
+  "b7d06bbcd4": {
+   "en": "Ablations: geometric knowledge is key for novel instances, semantic knowledge for novel tasks",
+   "zh": "消融实验：几何知识对新实例至关重要，语义知识对新任务至关重要",
+   "cls": "li"
+  },
+  "82fe34a5c7": {
+   "en": "FoundationGrasp — LLM + VLM knowledge drives generalizable task-oriented grasping across novel objects and tasks.",
+   "zh": "FoundationGrasp——大语言模型 + 视觉语言模型的知识推动了跨新物体和新任务的可泛化任务导向抓取。",
+   "cls": "figcaption"
+  },
+  "2b8dfb26d4": {
+   "en": "Robotics in the Artificial Intelligence Era",
+   "zh": "Robotics in the Artificial Intelligence Era",
+   "cls": "attr:data-toc"
+  },
+  "f176831b92": {
+   "en": "{1}Ning Xi{/1} · LLM-driven robot control",
+   "zh": "{1}Ning Xi{/1} · 大语言模型驱动的机器人控制",
+   "cls": "div.byline"
+  },
+  "1f8acefe9b": {
+   "en": "From task planning to LLMs",
+   "zh": "从任务规划到大语言模型",
+   "cls": "span.lbl"
+  },
+  "363a2596b0": {
+   "en": "Classical approach: build a task-plan sequence, then actions per task, executed by sensors + a control system",
+   "zh": "传统方法：构建任务规划序列，再为每个任务设计动作，由传感器 + 控制系统执行",
+   "cls": "li"
+  },
+  "8635b43eaa": {
+   "en": "Now LLMs can control the robot directly, supplying the logical relationships and reasoning between actions",
+   "zh": "现在大语言模型可以直接控制机器人，提供动作之间的逻辑关系和推理",
+   "cls": "li"
+  },
+  "dd0c2bf6ac": {
+   "en": "What an LLM must capture",
+   "zh": "大语言模型必须掌握什么",
+   "cls": "span.lbl"
+  },
+  "049cb980e2": {
+   "en": "Temporal relationships (e.g. past trajectory) and interactive spatial relationships (e.g. force to grasp a coffee cup)",
+   "zh": "时间关系（例如过去的轨迹）和交互式空间关系（例如抓取咖啡杯所需的力）",
+   "cls": "li"
+  },
+  "6a505c5a4f": {
+   "en": "Needs a new way to represent information, including unstructured constraints; control should be vision-based, not vector-based",
+   "zh": "需要一种新的信息表示方式，包括非结构化约束；控制应基于视觉，而不是基于向量",
+   "cls": "li"
+  },
+  "873d357e7e": {
+   "en": "The gap",
+   "zh": "差距",
+   "cls": "span.lbl"
+  },
+  "24326eaec1": {
+   "en": "LLM logical reasoning of motion (PaLM-style) vs robotic action: spatial sensing, world modeling, temporal/body acting, environment interaction",
+   "zh": "大语言模型对运动的逻辑推理（PaLM 式）与机器人动作的差距：空间感知、世界建模、时间 / 身体行动、环境交互",
+   "cls": "li"
+  },
+  "4a42693be6": {
+   "en": "Framed as a Data-Driven vs Model-Driven challenge in AI",
+   "zh": "被表述为 AI 中数据驱动与模型驱动的挑战",
+   "cls": "li"
+  },
+  "5755e26364": {
+   "en": "The gap between an LLM's logical reasoning and a robot motion generator's spatial / temporal / interactive needs.",
+   "zh": "大语言模型的逻辑推理与机器人运动生成器在空间 / 时间 / 交互方面的需求之间的差距。",
+   "cls": "figcaption"
+  },
+  "8d7619d50b": {
+   "en": "Learning Dynamic Legged Loco-Manipulation",
+   "zh": "Learning Dynamic Legged Loco-Manipulation",
+   "cls": "attr:data-toc"
+  },
+  "9486aef510": {
+   "en": "{1}Koushil Sreenath{/1} · UC Berkeley",
+   "zh": "{1}Koushil Sreenath{/1} · UC Berkeley",
+   "cls": "div.byline"
+  },
+  "11ca40f13b": {
+   "en": "LLM as a feedback controller",
+   "zh": "大语言模型作为反馈控制器",
+   "cls": "span.lbl"
+  },
+  "1578531bba": {
+   "en": "Frame the LLM as a discrete-time nonlinear dynamic feedback controller with defined state, input and output",
+   "zh": "把大语言模型视为离散时间非线性动态反馈控制器，具有明确定义的状态、输入和输出",
+   "cls": "li"
+  },
+  "522a9336e6": {
+   "en": "An LLM-interaction loop generates responses that close the control loop",
+   "zh": "大语言模型交互回路生成响应，从而闭合控制回路",
+   "cls": "li"
+  },
+  "506ee2255b": {
+   "en": "Action generation",
+   "zh": "动作生成",
+   "cls": "span.lbl"
+  },
+  "e527dbcf23": {
+   "en": "‘Diffusion for Actions’ generates actions for dynamic legged loco-manipulation",
+   "zh": "“Diffusion for Actions”为动态足式移动操作生成动作",
+   "cls": "li"
+  },
+  "4db4a87453": {
+   "en": "‘Diffusion for Actions’ — generating actions for dynamic legged loco-manipulation.",
+   "zh": "“Diffusion for Actions”——为动态足式移动操作生成动作。",
+   "cls": "figcaption"
+  },
+  "38b9f0077e": {
+   "en": "Collaboration & Interaction of Human-Robot and Robot-Robot",
+   "zh": "Collaboration & Interaction of Human-Robot and Robot-Robot",
+   "cls": "attr:data-toc"
+  },
+  "3edbd023e6": {
+   "en": "{1}Masayoshi Tomizuka{/1} · UC Berkeley · Mechanical Systems Control Lab",
+   "zh": "{1}Masayoshi Tomizuka{/1} · UC Berkeley · Mechanical Systems Control Lab",
+   "cls": "div.byline"
+  },
+  "b9df339c6b": {
+   "en": "Efficient, non-conservative co-robots",
+   "zh": "高效、不保守的协作机器人",
+   "cls": "span.lbl"
+  },
+  "b9e4cfc547": {
+   "en": "Robots raise efficiency, but automated robots tend to become conservative and slow the whole system",
+   "zh": "机器人提高了效率，但自动化机器人往往趋于保守，拖慢整个系统",
+   "cls": "li"
+  },
+  "030eca9d8f": {
+   "en": "Challenge: design co-robot behavior so efficiency isn't sacrificed for safety",
+   "zh": "挑战：设计协作机器人的行为，使效率不因安全而被牺牲",
+   "cls": "li"
+  },
+  "f5abe2cc62": {
+   "en": "The SERoCS framework",
+   "zh": "SERoCS 框架",
+   "cls": "span.lbl"
+  },
+  "ef598e36f7": {
+   "en": "Safe & Efficient Robot Collaboration System in three tasks: environment monitoring, task planning, safe control",
+   "zh": "安全高效的机器人协作系统，包含三项任务：环境监测、任务规划、安全控制",
+   "cls": "li"
+  },
+  "f932a9609b": {
+   "en": "Trade-off framed as Efficiency vs Safety under Computation vs Uncertainty",
+   "zh": "权衡被表述为在计算与不确定性之下的效率与安全",
+   "cls": "li"
+  },
+  "c35f742bde": {
+   "en": "Controller & learning",
+   "zh": "控制器与学习",
+   "cls": "span.lbl"
+  },
+  "fa6efd4514": {
+   "en": "A two-part controller with a safety-checker stage; uses an offline-learned human-motion prediction + nominal optimal control",
+   "zh": "带有安全检查环节的两部分控制器；使用离线学习的人体运动预测 + 标称最优控制",
+   "cls": "li"
+  },
+  "9d85595421": {
+   "en": "RL for palletizing: pallet height-map + box size → feasibility map; task planning via RL with action masking",
+   "zh": "用于码垛的强化学习（RL）：托盘高度图 + 箱体尺寸 → 可行性图；通过带动作掩码的强化学习进行任务规划",
+   "cls": "li"
+  },
+  "c515cca770": {
+   "en": "Methods: SERoCS, Conditional Behavior Prediction, Courteous Autonomous Cars",
+   "zh": "方法：SERoCS、Conditional Behavior Prediction、Courteous Autonomous Cars",
+   "cls": "li"
+  },
+  "e4a37d9617": {
+   "en": "The SERoCS controller structure — a two-part controller with human-motion prediction and a safety-checker stage.",
+   "zh": "SERoCS 控制器结构——带有人体运动预测和安全检查环节的两部分控制器。",
+   "cls": "figcaption"
+  },
+  "a90813a6ce": {
+   "en": "Logistics Application of Tactile Sensing with Smart Grippers",
+   "zh": "Logistics Application of Tactile Sensing with Smart Grippers",
+   "cls": "attr:data-toc"
+  },
+  "e3746faf9d": {
+   "en": "{1}Hannah Stuart{/1} · UC Berkeley · Embodied Dexterity Group",
+   "zh": "{1}Hannah Stuart{/1} · UC Berkeley · Embodied Dexterity Group",
+   "cls": "div.byline"
+  },
+  "ade2ee73c3": {
+   "en": "Grasping without vision",
+   "zh": "无视觉抓取",
+   "cls": "span.lbl"
+  },
+  "00a82a8abe": {
+   "en": "Flexible logistics application of tactile sensing with smart grippers; one gripper alone may not suffice",
+   "zh": "智能夹爪触觉传感在物流中的灵活应用；单个夹爪可能不够",
+   "cls": "li"
+  },
+  "0282222758": {
+   "en": "Goal: find the optimum grasp position without an image sensor, using tactile feedback",
+   "zh": "目标：不使用图像传感器，借助触觉反馈找到最佳抓取位置",
+   "cls": "li"
+  },
+  "117da23997": {
+   "en": "The visual-tactile grasp loop",
+   "zh": "视觉-触觉抓取回路",
+   "cls": "span.lbl"
+  },
+  "9020e201bc": {
+   "en": "Grasp location is selected visually; grasp success is used as binary feedback",
+   "zh": "抓取位置通过视觉选定；抓取是否成功作为二元反馈",
+   "cls": "li"
+  },
+  "3ab0679f5c": {
+   "en": "Grasp location is not modified after contact is made (ICRA 2015, Amazon Picking Challenge)",
+   "zh": "接触之后不再修改抓取位置（ICRA 2015，Amazon Picking Challenge）",
+   "cls": "li"
+  },
+  "facd603b1f": {
+   "en": "Visual-tactile grasping — grasp location chosen by vision with binary success feedback (ICRA 2015).",
+   "zh": "视觉-触觉抓取——抓取位置由视觉选定，并以二元成功反馈（ICRA 2015）。",
+   "cls": "figcaption"
+  },
+  "a689b5b67a": {
+   "en": "Amoeba-Inspired Self-Healing Electronic Slime as Wearable Motion Sensors",
+   "zh": "Amoeba-Inspired Self-Healing Electronic Slime as Wearable Motion Sensors",
+   "cls": "attr:data-toc"
+  },
+  "d202862a87": {
+   "en": "{1}Wen Jung Li{/1} · wearable MEMS sensing",
+   "zh": "{1}Wen Jung Li{/1} · 可穿戴 MEMS 传感",
+   "cls": "div.byline"
+  },
+  "ef21ea63e6": {
+   "en": "Amoeba-inspired self-healing sensor",
+   "zh": "受变形虫启发的自愈传感器",
+   "cls": "span.lbl"
+  },
+  "e49ba8c171": {
+   "en": "A self-healing electronic ‘slime’ material for wearable motion sensing, inspired by amoeba",
+   "zh": "一种受变形虫启发、用于可穿戴运动传感的自愈电子“黏液”材料",
+   "cls": "li"
+  },
+  "22d8105ffe": {
+   "en": "Monitors motion / behavior (demonstrated on a mouse) with a wearable MEMS sensor",
+   "zh": "借助可穿戴 MEMS 传感器监测运动 / 行为（以小鼠为例演示）",
+   "cls": "li"
+  },
+  "90e9e20044": {
+   "en": "Fabrication & use",
+   "zh": "制造与使用",
+   "cls": "span.lbl"
+  },
+  "2d7ba44cf5": {
+   "en": "Skin-conformal sensor fabricated via micro 3D printing",
+   "zh": "通过微型 3D 打印制造的贴合皮肤的传感器",
+   "cls": "li"
+  },
+  "2b6fedc8d4": {
+   "en": "Targets human–robot interaction through wearable motion capture",
+   "zh": "通过可穿戴动作捕捉面向人机交互",
+   "cls": "li"
+  },
+  "947934df93": {
+   "en": "Enabling Autonomy with Robust Perception and Remote Intervention",
+   "zh": "Enabling Autonomy with Robust Perception and Remote Intervention",
+   "cls": "attr:data-toc"
+  },
+  "ae896192b9": {
+   "en": "{1}Dan Wei Wang{/1} · robust perception & autonomy",
+   "zh": "{1}Dan Wei Wang{/1} · 鲁棒感知与自主",
+   "cls": "div.byline"
+  },
+  "77e5dab16c": {
+   "en": "Robust perception under adverse conditions",
+   "zh": "恶劣条件下的鲁棒感知",
+   "cls": "span.lbl"
+  },
+  "e993c14ebd": {
+   "en": "Current perception & navigation technologies are limited to normal conditions",
+   "zh": "目前的感知与导航技术仅限于正常条件",
+   "cls": "li"
+  },
+  "79d4da058d": {
+   "en": "‘Adverse is various, adverse is challenging’: inclement weather causes appearance change, domain shift and urban haze",
+   "zh": "“恶劣情形多种多样，恶劣情形极具挑战”：恶劣天气会造成外观变化、域偏移和城市雾霾",
+   "cls": "li"
+  },
+  "a211da1c5c": {
+   "en": "Perception and cognition algorithms are vulnerable to adverse events — motivating remote intervention as a fallback",
+   "zh": "感知与认知算法容易受恶劣事件影响——这促使把远程干预作为后备手段",
+   "cls": "li"
+  },
+  "a33e95003c": {
+   "en": "‘Adverse is challenging’ — inclement weather causes the domain shift that degrades perception.",
+   "zh": "“恶劣情形极具挑战”——恶劣天气造成的域偏移会降低感知性能。",
+   "cls": "figcaption"
+  },
+  "777ac5e633": {
+   "en": "Technological Development for Smart Transport in Hong Kong",
+   "zh": "Technological Development for Smart Transport in Hong Kong",
+   "cls": "attr:data-toc"
+  },
+  "9fb2d6142a": {
+   "en": "{1}Chun Hung Cheng{/1} · LSCM",
+   "zh": "{1}Chun Hung Cheng{/1} · LSCM",
+   "cls": "div.byline"
+  },
+  "8482971131": {
+   "en": "System-design philosophy",
+   "zh": "系统设计理念",
+   "cls": "span.lbl"
+  },
+  "5bab49831b": {
+   "en": "Systems typically have many competing objectives (e.g. quiet, autonomous)",
+   "zh": "系统通常有许多相互竞争的目标（例如安静、自主）",
+   "cls": "li"
+  },
+  "7f88d1e9e7": {
+   "en": "Don't build the system first and try to control it afterwards — co-design controls and mechanical design simultaneously",
+   "zh": "不要先建好系统再设法控制它——要同时协同设计控制与机械设计",
+   "cls": "li"
+  },
+  "804d92407f": {
+   "en": "Treat control theory as a lens and a tool from the very start",
+   "zh": "从一开始就把控制理论当作视角和工具",
+   "cls": "li"
+  },
+  "8c46087d95": {
+   "en": "Designing smart-transport systems — co-design controls and mechanical design for competing objectives.",
+   "zh": "设计智能交通系统——针对相互竞争的目标，协同设计控制与机械设计。",
+   "cls": "figcaption"
+  },
+  "200d93941a": {
+   "en": "04 · Conclusions",
+   "zh": "04 · 结论",
+   "cls": "div.kicker"
+  },
+  "d29da5dada": {
+   "en": "Synthesis across the symposium",
+   "zh": "整个研讨会的综合",
+   "cls": "h2"
+  },
+  "716f3fa8e1": {
+   "en": "Trends",
+   "zh": "趋势",
+   "cls": "h4"
+  },
+  "d270775297": {
+   "en": "Foundation models are moving into the loop: LLMs / VLMs replace hand-built task-planning pipelines, supplying semantic, spatial, temporal and commonsense knowledge.",
+   "zh": "基础模型正进入闭环：大语言模型 / 视觉语言模型取代手工构建的任务规划流水线，提供语义、空间、时间和常识知识。",
+   "cls": "li"
+  },
+  "7e4100bbef": {
+   "en": "Task-oriented grasping is the benchmark problem — generalizing across novel objects, tasks and grippers via multi-modal fusion (BERT + CLIP + PointNet++).",
+   "zh": "任务导向抓取是基准问题——通过多模态融合（BERT + CLIP + PointNet++）泛化到新的物体、任务和夹爪。",
+   "cls": "li"
+  },
+  "cf37ff7ce3": {
+   "en": "Tactile and wearable sensing push perception beyond cameras (smart grippers, self-healing skin sensors).",
+   "zh": "触觉和可穿戴传感使感知超越摄像头（智能夹爪、自愈皮肤传感器）。",
+   "cls": "li"
+  },
+  "40b0906c4f": {
+   "en": "Vision",
+   "zh": "愿景",
+   "cls": "h4"
+  },
+  "8b02614ddd": {
+   "en": "Reframe the LLM itself as a dynamic feedback controller and the reasoning layer for motion — from planner to closed-loop element.",
+   "zh": "把大语言模型本身重新视为动态反馈控制器和运动的推理层——从规划器变为闭环要素。",
+   "cls": "li"
+  },
+  "9e9a58308e": {
+   "en": "Universal, generalizable manipulation policies usable across many household robots and gripper types.",
+   "zh": "通用、可泛化的操作策略，可用于众多家用机器人和各类夹爪。",
+   "cls": "li"
+  },
+  "ad00ed00df": {
+   "en": "Robots that collaborate safely and efficiently with humans, without defaulting to conservative behavior.",
+   "zh": "能与人安全高效协作、且不默认采取保守行为的机器人。",
+   "cls": "li"
+  },
+  "5d8c81594f": {
+   "en": "Implications for us",
+   "zh": "对我们的启示",
+   "cls": "h4"
+  },
+  "ff919a7ee9": {
+   "en": "Persistent gaps (efficiency-vs-safety; ~90% grasp vs ~67% full-manipulation success) show autonomy is bottlenecked by force feedback, relative-pose modeling and conservatism — not perception alone.",
+   "zh": "持续存在的差距（效率与安全；抓取成功率约 90% 对完整操作成功率约 67%）表明，自主性的瓶颈在于力反馈、相对位姿建模和保守性——而不仅是感知。",
+   "cls": "li"
+  },
+  "dcab9d5511": {
+   "en": "Robustness under adverse conditions and remote intervention are needed before deployment at scale.",
+   "zh": "大规模部署之前，需要恶劣条件下的鲁棒性和远程干预。",
+   "cls": "li"
+  },
+  "182df6093f": {
+   "en": "Co-design control with mechanical design — treat control theory as a tool from the start, not an afterthought.",
+   "zh": "控制与机械设计协同设计——从一开始就把控制理论当作工具，而不是事后补救。",
+   "cls": "li"
+  },
+  "2b92ebc383": {
+   "en": "05 · References",
+   "zh": "05 · 参考文献",
+   "cls": "div.kicker"
+  },
+  "675f04727d": {
+   "en": "References & sources",
+   "zh": "参考文献与来源",
+   "cls": "h2"
+  },
+  "ff25fbb6bd": {
+   "en": "© 2026 {1}ALI{/1} — {2}Tech Insight{/2} v1.4.0",
+   "zh": "© 2026 {1}ALI{/1} — {2}Tech Insight{/2} v1.4.0",
+   "cls": "div.site-copyright"
+  },
+  "3c81c49b62": {
+   "en": "HKSTP 2024 — Symposium on Innovative Robotics — Tech Insight Report",
+   "zh": "HKSTP 2024 — Symposium on Innovative Robotics — Tech Insight 报告",
+   "cls": "doctitle"
+  },
+  "ee45c30326": {
+   "en": "Report",
+   "zh": "报告",
+   "cls": "div.kicker"
+  },
+  "3e8bd362b2": {
+   "en": "HKSTP 2024 — Symposium on Innovative Robotics",
+   "zh": "HKSTP 2024 — Symposium on Innovative Robotics",
+   "cls": "h1"
+  },
+  "c907dca0f4": {
+   "en": "2024 HKSTP Symposium on Innovative Robotics and Applications · Hong Kong Science Park (INNO²), Hong Kong · 23 May 2024",
+   "zh": "2024 HKSTP Symposium on Innovative Robotics and Applications · 中国香港，香港科学园（INNO²）· 2024 年 5 月 23 日",
+   "cls": "p.topic"
+  },
+  "5d01a85052": {
+   "en": "Symposium",
+   "zh": "研讨会",
+   "cls": "attr:data-toc"
+  },
+  "f5cbdf6bfb": {
+   "en": "Contents",
+   "zh": "目录",
+   "cls": "attr:data-toc"
+  },
+  "b4e6a31089": {
+   "en": "Intro",
+   "zh": "简介",
+   "cls": "attr:data-group"
+  },
+  "b5e7d3db72": {
+   "en": "Symposium at a glance",
+   "zh": "研讨会概览",
+   "cls": "attr:data-toc"
+  },
+  "15234c441c": {
+   "en": "2024 HKSTP Symposium on Innovative Robotics and Applications — Hong Kong Science Park (INNO²), Hong Kong",
+   "zh": "2024 HKSTP Symposium on Innovative Robotics and Applications — 中国香港，香港科学园（INNO²）",
+   "cls": "h2"
+  },
+  "509d352e7c": {
+   "en": "Insight 01 · Foundation models for grasping & control",
+   "zh": "洞察 01 · 用于抓取与控制的基础模型",
+   "cls": "div.kicker"
+  },
+  "419213f5d0": {
+   "en": "Insight 02 · Foundation models for grasping & control",
+   "zh": "洞察 02 · 用于抓取与控制的基础模型",
+   "cls": "div.kicker"
+  },
+  "c965195427": {
+   "en": "Insight 03 · Foundation models for grasping & control",
+   "zh": "洞察 03 · 用于抓取与控制的基础模型",
+   "cls": "div.kicker"
+  },
+  "8d129228b6": {
+   "en": "Insight 04 · Human-robot collaboration & sensing",
+   "zh": "洞察 04 · 人机协作与传感",
+   "cls": "div.kicker"
+  },
+  "1f3d1140db": {
+   "en": "Insight 05 · Human-robot collaboration & sensing",
+   "zh": "洞察 05 · 人机协作与感知",
+   "cls": "div.kicker"
+  },
+  "014c307c8b": {
+   "en": "Insight 06 · Human-robot collaboration & sensing",
+   "zh": "洞察 06 · 人机协作与感知",
+   "cls": "div.kicker"
+  },
+  "8692e6dedd": {
+   "en": "Insight 07 · Robust autonomy & smart transport",
+   "zh": "洞察 07 · 鲁棒自主与智慧交通",
+   "cls": "div.kicker"
+  },
+  "95ceebe67a": {
+   "en": "Insight 08 · Robust autonomy & smart transport",
+   "zh": "洞察 08 · 鲁棒自主与智慧交通",
+   "cls": "div.kicker"
+  },
+  "b536777ff1": {
+   "en": "Conclusions",
+   "zh": "结论",
+   "cls": "attr:data-toc"
+  },
+  "40f8b7074f": {
+   "en": "<div class=\"fit\"><div class=\"concl\"><div class=\"col c1\"><h4>Trends</h4><ul><li>Foundation models are moving into the loop: LLMs / VLMs replace hand-built task-planning pipelines, supplying semantic, spatial, temporal and commonsense knowledge.</li><li>Task-oriented grasping is the benchmark problem — generalizing across novel objects, tasks and grippers via multi-modal fusion (BERT + CLIP + PointNet++).</li><li>Tactile and wearable sensing push perception beyond cameras (smart grippers, self-healing skin sensors).</li></ul></div><div class=\"col c2\"><h4>Vision</h4><ul><li>Reframe the LLM itself as a dynamic feedback controller and the reasoning layer for motion — from planner to closed-loop element.</li><li>Universal, generalizable manipulation policies usable across many household robots and gripper types.</li><li>Robots that collaborate safely and efficiently with humans, without defaulting to conservative behavior.</li></ul></div><div class=\"col c3\"><h4>Implications for us</h4><ul><li>Persistent gaps (efficiency-vs-safety; ~90% grasp vs ~67% full-manipulation success) show autonomy is bottlenecked by force feedback, relative-pose modeling and conservatism — not perception alone.</li><li>Robustness under adverse conditions and remote intervention are needed before deployment at scale.</li><li>Co-design control with mechanical design — treat control theory as a tool from the start, not an afterthought.</li></ul></div></div></div>",
+   "zh": "<div class=\"fit\"><div class=\"concl\"><div class=\"col c1\"><h4>趋势</h4><ul><li>基础模型正在进入控制回路：LLM / VLM 取代手工搭建的任务规划流水线，提供语义、空间、时间和常识知识。</li><li>任务导向抓取是基准测试问题——通过多模态融合（BERT + CLIP + PointNet++）在新物体、新任务和新夹爪之间实现泛化。</li><li>触觉和可穿戴传感使感知不再局限于摄像头（智能夹爪、自修复皮肤传感器）。</li></ul></div><div class=\"col c2\"><h4>愿景</h4><ul><li>把 LLM 本身重新定义为动态反馈控制器和运动推理层——从规划器变为闭环环节。</li><li>可用于多种家用机器人和夹爪类型的通用、可泛化操作策略。</li><li>能与人安全、高效协作，而不默认采取保守行为的机器人。</li></ul></div><div class=\"col c3\"><h4>对我们的启示</h4><ul><li>持续存在的差距（效率与安全；约 90% 的抓取成功率对比约 67% 的完整操作成功率）说明，自主能力的瓶颈在于力反馈、相对位姿建模和保守性，而不只是感知。</li><li>规模化部署之前，需要具备恶劣条件下的鲁棒性和远程干预能力。</li><li>让控制与机械设计协同设计——从一开始就把控制理论当作工具，而不是事后补救。</li></ul></div></div></div>",
+   "cls": "section.slide"
+  },
+  "fa39f733bd": {
+   "en": "Wrap-up",
+   "zh": "总结",
+   "cls": "attr:data-group"
+  },
+  "b2ec1abf35": {
+   "en": "Contents (T)",
+   "zh": "目录 (T)",
+   "cls": "button.toc-btn"
+  },
+  "09c6436245": {
+   "en": "HKSTP 2024 — Symposium on Innovative Robotics — Tech Insight Slides",
+   "zh": "HKSTP 2024 — 创新机器人研讨会 — Tech Insight 幻灯片",
+   "cls": "doctitle"
+  },
+  "4718b93d9d": {
+   "en": "Tech Insight",
+   "zh": "Tech Insight",
+   "cls": "pptx"
+  },
+  "88aa4763ef": {
+   "en": "Tech Insight Report",
+   "zh": "Tech Insight 报告",
+   "cls": "pptx"
+  },
+  "ac55ad2596": {
+   "en": "Hong Kong Science Park (INNO²), Hong Kong · 23 May 2024",
+   "zh": "香港科学园（INNO²），香港 · 2024 年 5 月 23 日",
+   "cls": "pptx"
+  },
+  "d219c68101": {
+   "en": "Location",
+   "zh": "地点",
+   "cls": "pptx"
+  },
+  "70ec2d5419": {
+   "en": "Hong Kong Science Park (INNO²), Hong Kong",
+   "zh": "香港科学园（INNO²），香港",
+   "cls": "pptx"
+  },
+  "eb9a4bc1c0": {
+   "en": "Date",
+   "zh": "日期",
+   "cls": "pptx"
+  },
+  "027f3f3382": {
+   "en": "23 May 2024",
+   "zh": "2024 年 5 月 23 日",
+   "cls": "pptx"
+  },
+  "fe7f55b8bf": {
+   "en": "Focus",
+   "zh": "主题",
+   "cls": "pptx"
+  },
+  "3c37a8c1ed": {
+   "en": "Innovative Robotics — Foundation Models, Grasping & Human-Robot Collaboration",
+   "zh": "创新机器人 — 基础模型、抓取与人机协作",
+   "cls": "pptx"
+  },
+  "c7fb4a1c86": {
+   "en": "CONTENTS",
+   "zh": "目录",
+   "cls": "pptx"
+  },
+  "e15a165123": {
+   "en": "SYMPOSIUM AT A GLANCE",
+   "zh": "研讨会概览",
+   "cls": "pptx"
+  },
+  "2f488ffc82": {
+   "en": "Hong Kong",
+   "zh": "香港",
+   "cls": "pptx"
+  },
+  "255fb40173": {
+   "en": "HKSTP · INNO²",
+   "zh": "HKSTP · INNO²",
+   "cls": "pptx"
+  },
+  "d47297fa68": {
+   "en": "organizer",
+   "zh": "主办方",
+   "cls": "pptx"
+  },
+  "ec18fa6e40": {
+   "en": "12 talks",
+   "zh": "12 场报告",
+   "cls": "pptx"
+  },
+  "f64ad7df8c": {
+   "en": "8 deep-dived here",
+   "zh": "此处深入解读 8 场",
+   "cls": "pptx"
+  },
+  "4031e8228c": {
+   "en": "Robotics × AI",
+   "zh": "机器人 × AI",
+   "cls": "pptx"
+  },
+  "58593fe5a5": {
+   "en": "the theme",
+   "zh": "主题",
+   "cls": "pptx"
+  },
+  "902f051b69": {
+   "en": "About: A one-day HKSTP symposium at Hong Kong Science Park's INNO², pairing academic robotics talks with industry perspectives on robotics and applications.",
+   "zh": "简介：HKSTP 在香港科学园 INNO² 举办的一日研讨会，将机器人学术报告与业界对机器人及其应用的观点结合起来。",
+   "cls": "pptx"
+  },
+  "3130e74a87": {
+   "en": "INSIGHT 01 · Foundation models for grasping & control",
+   "zh": "洞察 01 · 面向抓取与控制的基础模型",
+   "cls": "pptx"
+  },
+  "6edc2f812d": {
+   "en": "Hong Zhang · task-oriented grasping · FoundationGrasp",
+   "zh": "Hong Zhang · 任务导向抓取 · FoundationGrasp",
+   "cls": "pptx"
+  },
+  "c32570c4a8": {
+   "en": "THE PROBLEM",
+   "zh": "问题",
+   "cls": "pptx"
+  },
+  "2c23d1fc16": {
+   "en": "• Task-Oriented Grasping (TOG) = decide which object to grasp and how; learning beats classical grasping but is data-hungry",
+   "zh": "• 任务导向抓取（TOG）= 决定抓取哪个物体以及如何抓取；学习方法优于传统抓取，但需要大量数据",
+   "cls": "pptx"
+  },
+  "5923dc809a": {
+   "en": "• Use foundation models (LLMs + VLMs) to transfer knowledge and generalize across novel objects, tasks and grippers",
+   "zh": "• 使用基础模型（LLM + VLM）迁移知识，并在新物体、新任务和新夹爪之间泛化",
+   "cls": "pptx"
+  },
+  "b33e48b880": {
+   "en": "• Goal: from an RGB image + a language instruction (object + task) + gripper geometry, output a 6-DoF grasp pose",
+   "zh": "• 目标：输入 RGB 图像 + 语言指令（物体 + 任务）+ 夹爪几何，输出 6 自由度抓取位姿",
+   "cls": "pptx"
+  },
+  "4241976c2d": {
+   "en": "GRASPGPT / FOUNDATIONGRASP",
+   "zh": "GRASPGPT / FOUNDATIONGRASP",
+   "cls": "pptx"
+  },
+  "401ccca321": {
+   "en": "• Pipeline: data generation → multi-modal feature representation → task-oriented grasp evaluation → loss",
+   "zh": "• 流水线：数据生成 → 多模态特征表示 → 任务导向抓取评估 → 损失",
+   "cls": "pptx"
+  },
+  "ed5992b697": {
+   "en": "• Object/grasp encoder (PointNet++), semantic encoder (BERT), geometric encoder (CLIP), trained with binary cross-entropy",
+   "zh": "• 物体 / 抓取编码器（PointNet++）、语义编码器（BERT）、几何编码器（CLIP），使用二元交叉熵训练",
+   "cls": "pptx"
+  },
+  "a63a2ad002": {
+   "en": "• LLM prompts generate language descriptions; web image retrieval augments visual diversity",
+   "zh": "• 通过 LLM 提示词生成语言描述；通过网络图像检索增强视觉多样性",
+   "cls": "pptx"
+  },
+  "07b6888ff0": {
+   "en": "RESULTS & LIMITS",
+   "zh": "结果与局限",
+   "cls": "pptx"
+  },
+  "c785bf6222": {
+   "en": "• GraspCLIP reaches ~83% mAP but struggles on novel classes; FoundationGrasp adds commonsense reasoning",
+   "zh": "• GraspCLIP 的 mAP 约为 83%，但在新类别上表现不佳；FoundationGrasp 加入了常识推理",
+   "cls": "pptx"
+  },
+  "4112086689": {
+   "en": "• ~90% grasp success across nine manipulation tasks, but full-manipulation success ~67% (limited relative-pose modeling, no force feedback)",
+   "zh": "• 在 9 个操作任务中抓取成功率约 90%，但完整操作成功率约 67%（相对位姿建模有限，没有力反馈）",
+   "cls": "pptx"
+  },
+  "6fcdb9d832": {
+   "en": "• Ablations: geometric knowledge is key for novel instances, semantic knowledge for novel tasks",
+   "zh": "• 消融实验：几何知识对新实例至关重要，语义知识对新任务至关重要",
+   "cls": "pptx"
+  },
+  "0d1e7517b2": {
+   "en": "INSIGHT 02 · Foundation models for grasping & control",
+   "zh": "洞察 02 · 面向抓取与控制的基础模型",
+   "cls": "pptx"
+  },
+  "d034a2de1a": {
+   "en": "Ning Xi · LLM-driven robot control",
+   "zh": "Ning Xi · LLM 驱动的机器人控制",
+   "cls": "pptx"
+  },
+  "e11a6826ad": {
+   "en": "FROM TASK PLANNING TO LLMS",
+   "zh": "从任务规划到 LLM",
+   "cls": "pptx"
+  },
+  "5abe14b595": {
+   "en": "• Classical approach: build a task-plan sequence, then actions per task, executed by sensors + a control system",
+   "zh": "• 传统方法：先构建任务规划序列，再为每个任务设计动作，由传感器 + 控制系统执行",
+   "cls": "pptx"
+  },
+  "534c434396": {
+   "en": "• Now LLMs can control the robot directly, supplying the logical relationships and reasoning between actions",
+   "zh": "• 如今 LLM 可以直接控制机器人，提供动作之间的逻辑关系和推理",
+   "cls": "pptx"
+  },
+  "6c6b66c65a": {
+   "en": "WHAT AN LLM MUST CAPTURE",
+   "zh": "LLM 必须掌握什么",
+   "cls": "pptx"
+  },
+  "cd0d8ea027": {
+   "en": "• Temporal relationships (e.g. past trajectory) and interactive spatial relationships (e.g. force to grasp a coffee cup)",
+   "zh": "• 时间关系（例如过去的轨迹）和交互式空间关系（例如抓取咖啡杯所需的力）",
+   "cls": "pptx"
+  },
+  "ab5ac1693d": {
+   "en": "• Needs a new way to represent information, including unstructured constraints; control should be vision-based, not vector-based",
+   "zh": "• 需要一种新的信息表示方式，包括非结构化约束；控制应基于视觉，而不是基于向量",
+   "cls": "pptx"
+  },
+  "1a5b0d2471": {
+   "en": "THE GAP",
+   "zh": "差距",
+   "cls": "pptx"
+  },
+  "ba1b90d159": {
+   "en": "• LLM logical reasoning of motion (PaLM-style) vs robotic action: spatial sensing, world modeling, temporal/body acting, environment interaction",
+   "zh": "• LLM 的运动逻辑推理（PaLM 式）与机器人动作的差距：空间感知、世界建模、时间 / 身体行动、环境交互",
+   "cls": "pptx"
+  },
+  "84aa1658a7": {
+   "en": "• Framed as a Data-Driven vs Model-Driven challenge in AI",
+   "zh": "• 被归结为 AI 中数据驱动与模型驱动之间的挑战",
+   "cls": "pptx"
+  },
+  "922cd5f07b": {
+   "en": "INSIGHT 03 · Foundation models for grasping & control",
+   "zh": "洞察 03 · 面向抓取与控制的基础模型",
+   "cls": "pptx"
+  },
+  "f8bacad4cc": {
+   "en": "Koushil Sreenath · UC Berkeley",
+   "zh": "Koushil Sreenath · UC Berkeley",
+   "cls": "pptx"
+  },
+  "5a20f0a442": {
+   "en": "LLM AS A FEEDBACK CONTROLLER",
+   "zh": "LLM 作为反馈控制器",
+   "cls": "pptx"
+  },
+  "1f29af1b6b": {
+   "en": "• Frame the LLM as a discrete-time nonlinear dynamic feedback controller with defined state, input and output",
+   "zh": "• 将 LLM 视为离散时间非线性动态反馈控制器，具有明确定义的状态、输入和输出",
+   "cls": "pptx"
+  },
+  "11f06db108": {
+   "en": "• An LLM-interaction loop generates responses that close the control loop",
+   "zh": "• LLM 交互回路生成响应，从而闭合控制回路",
+   "cls": "pptx"
+  },
+  "0a9a29d5a4": {
+   "en": "ACTION GENERATION",
+   "zh": "动作生成",
+   "cls": "pptx"
+  },
+  "fa0716cda1": {
+   "en": "• ‘Diffusion for Actions’ generates actions for dynamic legged loco-manipulation",
+   "zh": "• ‘Diffusion for Actions’ 为动态足式移动操作生成动作",
+   "cls": "pptx"
+  },
+  "ad21df3cf1": {
+   "en": "INSIGHT 04 · Human-robot collaboration & sensing",
+   "zh": "洞察 04 · 人机协作与感知",
+   "cls": "pptx"
+  },
+  "0fc2643375": {
+   "en": "Masayoshi Tomizuka · UC Berkeley · Mechanical Systems Control Lab",
+   "zh": "Masayoshi Tomizuka · UC Berkeley · Mechanical Systems Control Lab",
+   "cls": "pptx"
+  },
+  "086b786d12": {
+   "en": "EFFICIENT, NON-CONSERVATIVE CO-ROBOTS",
+   "zh": "高效、非保守的协作机器人",
+   "cls": "pptx"
+  },
+  "4de179337e": {
+   "en": "• Robots raise efficiency, but automated robots tend to become conservative and slow the whole system",
+   "zh": "• 机器人提高了效率，但自动化机器人往往趋于保守，拖慢整个系统",
+   "cls": "pptx"
+  },
+  "c8a1385223": {
+   "en": "• Challenge: design co-robot behavior so efficiency isn't sacrificed for safety",
+   "zh": "• 挑战：设计协作机器人的行为，使效率不会为安全而牺牲",
+   "cls": "pptx"
+  },
+  "7d3f1cb6bd": {
+   "en": "THE SEROCS FRAMEWORK",
+   "zh": "SEROCS 框架",
+   "cls": "pptx"
+  },
+  "cf4d415d39": {
+   "en": "• Safe & Efficient Robot Collaboration System in three tasks: environment monitoring, task planning, safe control",
+   "zh": "• 安全高效的机器人协作系统，包含三项任务：环境监测、任务规划、安全控制",
+   "cls": "pptx"
+  },
+  "51330baa0d": {
+   "en": "• Trade-off framed as Efficiency vs Safety under Computation vs Uncertainty",
+   "zh": "• 权衡被表述为计算与不确定性之下的效率与安全",
+   "cls": "pptx"
+  },
+  "35a5cf1952": {
+   "en": "CONTROLLER & LEARNING",
+   "zh": "控制器与学习",
+   "cls": "pptx"
+  },
+  "202ef1b7fe": {
+   "en": "• A two-part controller with a safety-checker stage; uses an offline-learned human-motion prediction + nominal optimal control",
+   "zh": "• 带有安全检查阶段的两部分控制器；使用离线学习的人体运动预测 + 标称最优控制",
+   "cls": "pptx"
+  },
+  "3d3a6230a7": {
+   "en": "• RL for palletizing: pallet height-map + box size → feasibility map; task planning via RL with action masking",
+   "zh": "• 用于码垛的 RL：托盘高度图 + 箱体尺寸 → 可行性图；通过带动作掩码的 RL 进行任务规划",
+   "cls": "pptx"
+  },
+  "4225beae9f": {
+   "en": "• Methods: SERoCS, Conditional Behavior Prediction, Courteous Autonomous Cars",
+   "zh": "• 方法：SERoCS、Conditional Behavior Prediction、Courteous Autonomous Cars",
+   "cls": "pptx"
+  },
+  "881a06b8e2": {
+   "en": "INSIGHT 05 · Human-robot collaboration & sensing",
+   "zh": "洞察 05 · 人机协作与感知",
+   "cls": "pptx"
+  },
+  "9694e38a3b": {
+   "en": "Hannah Stuart · UC Berkeley · Embodied Dexterity Group",
+   "zh": "Hannah Stuart · UC Berkeley · Embodied Dexterity Group",
+   "cls": "pptx"
+  },
+  "e648183a1d": {
+   "en": "GRASPING WITHOUT VISION",
+   "zh": "无视觉抓取",
+   "cls": "pptx"
+  },
+  "d3f1229711": {
+   "en": "• Flexible logistics application of tactile sensing with smart grippers; one gripper alone may not suffice",
+   "zh": "• 触觉传感与智能夹爪在灵活物流中的应用；单个夹爪可能不够",
+   "cls": "pptx"
+  },
+  "3b81e44510": {
+   "en": "• Goal: find the optimum grasp position without an image sensor, using tactile feedback",
+   "zh": "• 目标：不使用图像传感器，利用触觉反馈找到最佳抓取位置",
+   "cls": "pptx"
+  },
+  "a9033c4181": {
+   "en": "THE VISUAL-TACTILE GRASP LOOP",
+   "zh": "视觉—触觉抓取回路",
+   "cls": "pptx"
+  },
+  "5f77c1abc2": {
+   "en": "• Grasp location is selected visually; grasp success is used as binary feedback",
+   "zh": "• 通过视觉选择抓取位置；抓取成败作为二元反馈",
+   "cls": "pptx"
+  },
+  "794be6d8e0": {
+   "en": "• Grasp location is not modified after contact is made (ICRA 2015, Amazon Picking Challenge)",
+   "zh": "• 接触之后不再修改抓取位置（ICRA 2015，Amazon Picking Challenge）",
+   "cls": "pptx"
+  },
+  "38627c99d5": {
+   "en": "INSIGHT 06 · Human-robot collaboration & sensing",
+   "zh": "洞察 06 · 人机协作与感知",
+   "cls": "pptx"
+  },
+  "6db844f380": {
+   "en": "Wen Jung Li · wearable MEMS sensing",
+   "zh": "Wen Jung Li · 可穿戴 MEMS 传感",
+   "cls": "pptx"
+  },
+  "4f1e63154a": {
+   "en": "AMOEBA-INSPIRED SELF-HEALING SENSOR",
+   "zh": "受变形虫启发的自修复传感器",
+   "cls": "pptx"
+  },
+  "2ba31230a4": {
+   "en": "• A self-healing electronic ‘slime’ material for wearable motion sensing, inspired by amoeba",
+   "zh": "• 一种受变形虫启发、用于可穿戴运动传感的自修复电子‘黏液’材料",
+   "cls": "pptx"
+  },
+  "105b741ab1": {
+   "en": "• Monitors motion / behavior (demonstrated on a mouse) with a wearable MEMS sensor",
+   "zh": "• 通过可穿戴 MEMS 传感器监测运动 / 行为（以小鼠为例演示）",
+   "cls": "pptx"
+  },
+  "250297ee92": {
+   "en": "FABRICATION & USE",
+   "zh": "制造与应用",
+   "cls": "pptx"
+  },
+  "e4f3a2b6e1": {
+   "en": "• Skin-conformal sensor fabricated via micro 3D printing",
+   "zh": "• 通过微型 3D 打印制造的贴合皮肤的传感器",
+   "cls": "pptx"
+  },
+  "3f3182dc98": {
+   "en": "• Targets human–robot interaction through wearable motion capture",
+   "zh": "• 通过可穿戴动作捕捉面向人机交互",
+   "cls": "pptx"
+  },
+  "59518ebba9": {
+   "en": "INSIGHT 07 · Robust autonomy & smart transport",
+   "zh": "洞察 07 · 鲁棒自主与智慧交通",
+   "cls": "pptx"
+  },
+  "efa2ba3463": {
+   "en": "Dan Wei Wang · robust perception & autonomy",
+   "zh": "Dan Wei Wang · 鲁棒感知与自主",
+   "cls": "pptx"
+  },
+  "4f005d43dd": {
+   "en": "ROBUST PERCEPTION UNDER ADVERSE CONDITIONS",
+   "zh": "恶劣条件下的鲁棒感知",
+   "cls": "pptx"
+  },
+  "185fca4136": {
+   "en": "• Current perception & navigation technologies are limited to normal conditions",
+   "zh": "• 当前的感知与导航技术仅限于正常条件",
+   "cls": "pptx"
+  },
+  "a90da8ee95": {
+   "en": "• ‘Adverse is various, adverse is challenging’: inclement weather causes appearance change, domain shift and urban haze",
+   "zh": "• ‘恶劣条件多种多样，恶劣条件极具挑战’：恶劣天气会导致外观变化、域偏移和城市雾霾",
+   "cls": "pptx"
+  },
+  "f309b895c8": {
+   "en": "• Perception and cognition algorithms are vulnerable to adverse events — motivating remote intervention as a fallback",
+   "zh": "• 感知与认知算法容易受到恶劣事件影响——这促使把远程干预作为后备方案",
+   "cls": "pptx"
+  },
+  "6a4b0cc2e8": {
+   "en": "INSIGHT 08 · Robust autonomy & smart transport",
+   "zh": "洞察 08 · 鲁棒自主与智慧交通",
+   "cls": "pptx"
+  },
+  "c94f84f5e2": {
+   "en": "Chun Hung Cheng · LSCM",
+   "zh": "Chun Hung Cheng · LSCM",
+   "cls": "pptx"
+  },
+  "73593db1ed": {
+   "en": "SYSTEM-DESIGN PHILOSOPHY",
+   "zh": "系统设计理念",
+   "cls": "pptx"
+  },
+  "b2203fba57": {
+   "en": "• Systems typically have many competing objectives (e.g. quiet, autonomous)",
+   "zh": "• 系统通常有许多相互竞争的目标（例如安静、自主）",
+   "cls": "pptx"
+  },
+  "2e3e869153": {
+   "en": "• Don't build the system first and try to control it afterwards — co-design controls and mechanical design simultaneously",
+   "zh": "• 不要先建好系统再设法控制它——要同时协同设计控制与机械设计",
+   "cls": "pptx"
+  },
+  "f71e47eadf": {
+   "en": "• Treat control theory as a lens and a tool from the very start",
+   "zh": "• 从一开始就把控制理论当作一种视角和工具",
+   "cls": "pptx"
+  },
+  "69bae0ee91": {
+   "en": "CONCLUSIONS",
+   "zh": "结论",
+   "cls": "pptx"
+  },
+  "ad4e97f195": {
+   "en": "TRENDS",
+   "zh": "趋势",
+   "cls": "pptx"
+  },
+  "b6dd0051b2": {
+   "en": "• Foundation models are moving into the loop: LLMs / VLMs replace hand-built task-planning pipelines, supplying semantic, spatial, temporal and commonsense knowledge.",
+   "zh": "• 基础模型正在进入控制回路：LLM / VLM 取代手工搭建的任务规划流水线，提供语义、空间、时间和常识知识。",
+   "cls": "pptx"
+  },
+  "db013e8407": {
+   "en": "• Task-oriented grasping is the benchmark problem — generalizing across novel objects, tasks and grippers via multi-modal fusion (BERT + CLIP + PointNet++).",
+   "zh": "• 任务导向抓取是基准测试问题——通过多模态融合（BERT + CLIP + PointNet++）在新物体、新任务和新夹爪之间实现泛化。",
+   "cls": "pptx"
+  },
+  "8b211ef48c": {
+   "en": "• Tactile and wearable sensing push perception beyond cameras (smart grippers, self-healing skin sensors).",
+   "zh": "• 触觉和可穿戴传感使感知不再局限于摄像头（智能夹爪、自修复皮肤传感器）。",
+   "cls": "pptx"
+  },
+  "927e4493b3": {
+   "en": "VISION",
+   "zh": "愿景",
+   "cls": "pptx"
+  },
+  "efd016390c": {
+   "en": "• Reframe the LLM itself as a dynamic feedback controller and the reasoning layer for motion — from planner to closed-loop element.",
+   "zh": "• 把 LLM 本身重新定义为动态反馈控制器和运动推理层——从规划器变为闭环环节。",
+   "cls": "pptx"
+  },
+  "0590102377": {
+   "en": "• Universal, generalizable manipulation policies usable across many household robots and gripper types.",
+   "zh": "• 可用于多种家用机器人和夹爪类型的通用、可泛化操作策略。",
+   "cls": "pptx"
+  },
+  "3ea63f9b1c": {
+   "en": "• Robots that collaborate safely and efficiently with humans, without defaulting to conservative behavior.",
+   "zh": "• 能与人安全、高效协作，而不默认采取保守行为的机器人。",
+   "cls": "pptx"
+  },
+  "ab88151343": {
+   "en": "IMPLICATIONS FOR US",
+   "zh": "对我们的启示",
+   "cls": "pptx"
+  },
+  "904d3becf5": {
+   "en": "• Persistent gaps (efficiency-vs-safety; ~90% grasp vs ~67% full-manipulation success) show autonomy is bottlenecked by force feedback, relative-pose modeling and conservatism — not perception alone.",
+   "zh": "• 持续存在的差距（效率与安全；约 90% 的抓取成功率对比约 67% 的完整操作成功率）说明，自主能力的瓶颈在于力反馈、相对位姿建模和保守性，而不只是感知。",
+   "cls": "pptx"
+  },
+  "46286f3853": {
+   "en": "• Robustness under adverse conditions and remote intervention are needed before deployment at scale.",
+   "zh": "• 规模化部署之前，需要具备恶劣条件下的鲁棒性和远程干预能力。",
+   "cls": "pptx"
+  },
+  "a9086fc2e9": {
+   "en": "• Co-design control with mechanical design — treat control theory as a tool from the start, not an afterthought.",
+   "zh": "• 让控制与机械设计协同设计——从一开始就把控制理论当作工具，而不是事后补救。",
+   "cls": "pptx"
+  },
+  "5d16a62568": {
+   "en": "{1}{/1}Tech Insight",
+   "zh": "{1}{/1}Tech Insight",
+   "cls": "span.brand"
+  },
+  "b4510362a5": {
+   "en": "Insights",
+   "zh": "洞察",
+   "cls": "a"
+  },
+  "5d20d0fee3": {
+   "en": "References",
+   "zh": "参考文献",
+   "cls": "a"
+  }
+ }
+}

@@ -1,0 +1,79 @@
+en,zh,policy,must,note
+agent,智能体,translate,1,"AI agent; plural same form"
+agents,智能体,translate,1,
+multi-agent,多智能体,translate,1,
+LLM,大语言模型,translate,0,"write 大语言模型 (LLM) on first use in a paragraph if helpful; 'LLM-based' -> 基于大语言模型的"
+large language model,大语言模型,translate,1,
+language model,语言模型,translate,1,
+foundation model,基础模型,translate,1,
+vision-language model,视觉语言模型,translate,1,
+VLM,视觉语言模型,translate,0,
+reinforcement learning,强化学习,translate,1,"keep (RL) abbreviation in brackets when the source has it"
+retrieval-augmented generation,检索增强生成,translate,1,
+RAG,RAG,keep,0,
+benchmark,基准测试,translate,1,
+prompt,提示词,translate,1,
+fine-tuning,微调,translate,1,
+inference,推理,translate,0,"model inference (running a model); 'reasoning' is also 推理, choose by context"
+reasoning,推理,translate,1,
+hallucination,幻觉,translate,1,
+alignment,对齐,translate,1,
+jailbreak,越狱,translate,1,
+guardrail,护栏,translate,1,
+tool call,工具调用,translate,1,
+context window,上下文窗口,translate,1,
+token,token,keep,0,"keep the English word 'token(s)'"
+orchestration,编排,translate,1,
+orchestrator,编排器,translate,1,
+planner,规划器,translate,1,
+worker,执行智能体,translate,0,"role name in the orchestration section"
+tester,测试智能体,translate,0,"role name in the orchestration section"
+integrator,集成智能体,translate,0,"role name in the orchestration section"
+Software Factory,软件工厂,translate,1,"our system name; no other brand names for it"
+Artifact Graph,Artifact Graph,keep,1,"our knowledge-graph component; keep English, add 工件图 only in a gloss if the sentence needs it"
+mental model,心智模型,translate,1,
+self-evolution,自我进化,translate,1,
+specification,规格说明,translate,1,
+requirements,需求,translate,1,
+spec-driven development,规格驱动开发,translate,1,
+Vee model,V 模型,translate,1,
+verification,验证,translate,1,
+validation,确认,translate,1,"V&V: verification 验证, validation 确认"
+unit test,单元测试,translate,1,
+integration test,集成测试,translate,1,
+workflow,工作流,translate,1,
+pipeline,流水线,translate,0,
+dependency graph,依赖图,translate,1,
+task graph,任务图,translate,1,
+repository,代码仓库,translate,1,
+commit,提交,translate,0,
+merge,合并,translate,0,
+branch,分支,translate,0,
+systems engineering,系统工程,translate,1,
+digital twin,数字孪生,translate,1,
+autonomous driving,自动驾驶,translate,1,
+robotics,机器人,translate,0,
+Goal,目标,translate,1,"field label"
+Challenge,挑战,translate,1,"field label"
+Method,方法,translate,1,"field label"
+Novelty,创新点,translate,1,"field label"
+Impact,影响,translate,1,"field label"
+Insights,洞察,translate,1,
+Vision,愿景,translate,1,
+Implications for us,对我们的启示,translate,1,
+Conclusions,结论,translate,1,
+Contents,目录,translate,1,
+References,参考文献,translate,1,
+Report,报告,translate,1,
+Slides,幻灯片,translate,1,
+Conference statistics,会议统计,translate,1,
+submissions,投稿数,translate,0,
+accepted,录用数,translate,0,
+acceptance rate,录用率,translate,1,
+Location,地点,translate,1,
+Dates,日期,translate,1,
+Focus,主题,translate,1,
+Event,活动,translate,1,
+Date,日期,translate,1,
+Open Day,开放日,translate,1,
+Tech Insight,Tech Insight,keep,1,"series name"

@@ -1,0 +1,1160 @@
+{
+ "folder": "2025-08_IJCAI-montreal",
+ "strings": {
+  "1166c94434": {
+   "en": "[1] Y. Bengio et al., “International AI Safety Report,” IJCAI 2025 keynote.",
+   "zh": "[1] Y. Bengio et al., “International AI Safety Report,” IJCAI 2025 keynote.",
+   "cls": "keep"
+  },
+  "bd815e9a3f": {
+   "en": "[2] R. Dechter et al., “Graphical Models Meet Heuristic Search: A Personal Journey into Automated Reasoning,” IJCAI 2025 keynote.",
+   "zh": "[2] R. Dechter et al., “Graphical Models Meet Heuristic Search: A Personal Journey into Automated Reasoning,” IJCAI 2025 keynote.",
+   "cls": "keep"
+  },
+  "636ad120df": {
+   "en": "[3] D. Varghese et al., “Explainable Medical Reasoning: From Data to Transparent, Trustworthy Clinical Insights,” IJCAI 2025.",
+   "zh": "[3] D. Varghese et al., “Explainable Medical Reasoning: From Data to Transparent, Trustworthy Clinical Insights,” IJCAI 2025.",
+   "cls": "keep"
+  },
+  "97482e06de": {
+   "en": "[4] C. Yu et al., “Boost Embodied AI Models with Robust Compression Boundary,” IJCAI 2025.",
+   "zh": "[4] C. Yu et al., “Boost Embodied AI Models with Robust Compression Boundary,” IJCAI 2025.",
+   "cls": "keep"
+  },
+  "a1f87045c0": {
+   "en": "[5] G. Dong et al., “Evaluating and Mitigating Linguistic Discrimination in Large Language Models,” IJCAI 2025.",
+   "zh": "[5] G. Dong et al., “Evaluating and Mitigating Linguistic Discrimination in Large Language Models,” IJCAI 2025.",
+   "cls": "keep"
+  },
+  "6be4fdc030": {
+   "en": "[6] S. Jiang et al., “Modality-Fair Preference Optimization for Trustworthy MLLM Alignment,” IJCAI 2025.",
+   "zh": "[6] S. Jiang et al., “Modality-Fair Preference Optimization for Trustworthy MLLM Alignment,” IJCAI 2025.",
+   "cls": "keep"
+  },
+  "50f89dca36": {
+   "en": "[7] Y. Zhang et al., “Token-Level Accept or Reject: A Micro Alignment Approach for Large Language Models,” IJCAI 2025.",
+   "zh": "[7] Y. Zhang et al., “Token-Level Accept or Reject: A Micro Alignment Approach for Large Language Models,” IJCAI 2025.",
+   "cls": "keep"
+  },
+  "3d772a64ee": {
+   "en": "[8] J. Dang et al., “Hallucination Reduction in Video-Language Models via Hierarchical Multimodal Consistency,” IJCAI 2025.",
+   "zh": "[8] J. Dang et al., “Hallucination Reduction in Video-Language Models via Hierarchical Multimodal Consistency,” IJCAI 2025.",
+   "cls": "keep"
+  },
+  "c411c7496b": {
+   "en": "{1}{2}{/2}Tech Insight{/1}{3}Contents{/3}{4}·{/4}{5}Statistics{/5}{6}·{/6}{7}Insights{/7}{8}·{/8}{9}Conclusions{/9}{10}·{/10}{11}References{/11}",
+   "zh": "{1}{2}{/2}Tech Insight{/1}{3}目录{/3}{4}·{/4}{5}统计{/5}{6}·{/6}{7}洞察{/7}{8}·{/8}{9}结论{/9}{10}·{/10}{11}参考文献{/11}",
+   "cls": "nav.bar"
+  },
+  "d5a7d2c955": {
+   "en": "IJCAI 2025 · Tech Insight Report",
+   "zh": "IJCAI 2025 · Tech Insight 报告",
+   "cls": "div.kicker"
+  },
+  "f2d22f31d0": {
+   "en": "IJCAI 2025 — 34th International Joint Conference on Artificial Intelligence",
+   "zh": "IJCAI 2025 — 第 34 届国际人工智能联合会议",
+   "cls": "h1"
+  },
+  "31846168e9": {
+   "en": "{1}Montreal, Canada · August 16–22, 2025{/1}",
+   "zh": "{1}加拿大蒙特利尔 · 2025 年 8 月 16–22 日{/1}",
+   "cls": "p.lede"
+  },
+  "e1faf12e46": {
+   "en": "A read of IJCAI 2025 through a trust lens: from AI safety and interpretable reasoning to robust, fair, and hallucination-resistant models — the ingredients of AI people can actually rely on.",
+   "zh": "从信任的视角解读 IJCAI 2025：从 AI 安全、可解释推理，到鲁棒、公平、抗幻觉的模型 — 这些是人们真正能依赖的 AI 的要素。",
+   "cls": "p.lede"
+  },
+  "404cc7144e": {
+   "en": "Location{1}Montreal, Canada{/1}",
+   "zh": "地点{1}加拿大蒙特利尔{/1}",
+   "cls": "div"
+  },
+  "ec94c2a705": {
+   "en": "Dates{1}August 16–22, 2025{/1}",
+   "zh": "日期{1}2025 年 8 月 16–22 日{/1}",
+   "cls": "div"
+  },
+  "02e00deb7c": {
+   "en": "Focus{1}Trustworthy and Explainable AI{/1}",
+   "zh": "主题{1}可信与可解释 AI{/1}",
+   "cls": "div"
+  },
+  "f91f503b91": {
+   "en": "01 · Contents",
+   "zh": "01 · 目录",
+   "cls": "div.kicker"
+  },
+  "c204d81574": {
+   "en": "Papers covered, by theme",
+   "zh": "按主题划分的论文",
+   "cls": "h2"
+  },
+  "5ac3475cfd": {
+   "en": "A · Safety & reasoning foundations",
+   "zh": "A · 安全与推理基础",
+   "cls": "attr:data-group"
+  },
+  "b38e151f89": {
+   "en": "{1}01{/1}{2}AI Safety: Risks of General-Purpose AI (Keynote){/2}",
+   "zh": "{1}01{/1}{2}AI Safety: Risks of General-Purpose AI (Keynote){/2}",
+   "cls": "div"
+  },
+  "0de154de9e": {
+   "en": "{1}02{/1}{2}Graphical Models Meet Heuristic Search (Keynote){/2}",
+   "zh": "{1}02{/1}{2}Graphical Models Meet Heuristic Search (Keynote){/2}",
+   "cls": "div"
+  },
+  "e7d3111fa2": {
+   "en": "B · Explainability & robustness",
+   "zh": "B · 可解释性与鲁棒性",
+   "cls": "attr:data-group"
+  },
+  "7f00116f1c": {
+   "en": "{1}03{/1}{2}Explainable Medical Reasoning with ILP{/2}",
+   "zh": "{1}03{/1}{2}Explainable Medical Reasoning with ILP{/2}",
+   "cls": "div"
+  },
+  "4efb318c72": {
+   "en": "{1}04{/1}{2}Robust Compression Boundary for Embodied AI{/2}",
+   "zh": "{1}04{/1}{2}Robust Compression Boundary for Embodied AI{/2}",
+   "cls": "div"
+  },
+  "0bbbe51a3f": {
+   "en": "C · Trustworthy & fair LLMs / MLLMs",
+   "zh": "C · 可信且公平的 LLM / MLLM",
+   "cls": "attr:data-group"
+  },
+  "fddbda4e85": {
+   "en": "{1}05{/1}{2}Mitigating Linguistic Discrimination in LLMs{/2}",
+   "zh": "{1}05{/1}{2}Mitigating Linguistic Discrimination in LLMs{/2}",
+   "cls": "div"
+  },
+  "27d98467ec": {
+   "en": "{1}06{/1}{2}Modality-Fair Preference Optimization for MLLMs{/2}",
+   "zh": "{1}06{/1}{2}Modality-Fair Preference Optimization for MLLMs{/2}",
+   "cls": "div"
+  },
+  "6d7fc7ef2b": {
+   "en": "{1}07{/1}{2}Token-Level Accept or Reject: Micro Alignment{/2}",
+   "zh": "{1}07{/1}{2}Token-Level Accept or Reject: Micro Alignment{/2}",
+   "cls": "div"
+  },
+  "ae1e32e50f": {
+   "en": "{1}08{/1}{2}Hallucination Reduction in Video-Language Models{/2}",
+   "zh": "{1}08{/1}{2}Hallucination Reduction in Video-Language Models{/2}",
+   "cls": "div"
+  },
+  "324dbde335": {
+   "en": "02 · Conference statistics",
+   "zh": "02 · 会议统计",
+   "cls": "div.kicker"
+  },
+  "d89b139854": {
+   "en": "34th International Joint Conference on Artificial Intelligence — Montreal, Canada, August 16–22, 2025",
+   "zh": "第 34 届国际人工智能联合会议 — 加拿大蒙特利尔，2025 年 8 月 16–22 日",
+   "cls": "h2"
+  },
+  "0164c4be09": {
+   "en": "{1}5,404{/1}{2}submissions{/2}",
+   "zh": "{1}5,404{/1}{2}投稿数{/2}",
+   "cls": "div.tile"
+  },
+  "5993d9dbf5": {
+   "en": "{1}1,042{/1}{2}accepted{/2}",
+   "zh": "{1}1,042{/1}{2}录用数{/2}",
+   "cls": "div.tile"
+  },
+  "17aae7c5ed": {
+   "en": "{1}19.3%{/1}{2}acceptance rate{/2}",
+   "zh": "{1}19.3%{/1}{2}录用率{/2}",
+   "cls": "div.tile"
+  },
+  "3709949f68": {
+   "en": "{1}Top-5{/1}{2}AI venue{/2}",
+   "zh": "{1}Top-5{/1}{2}AI 会议{/2}",
+   "cls": "div.tile"
+  },
+  "ea01f6e07a": {
+   "en": "{1}Also:{/1} One of the top AI conferences (alongside ICML, AAAI, NeurIPS). Highlights included keynotes by Yoshua Bengio (AI safety) and Rina Dechter (Research Excellence Award).",
+   "zh": "{1}另外：{/1}它是顶级 AI 会议之一（与 ICML、AAAI、NeurIPS 并列）。亮点包括 Yoshua Bengio（AI 安全）和 Rina Dechter（研究卓越奖）的主旨报告。",
+   "cls": "p.overview-themes"
+  },
+  "012d75fb48": {
+   "en": "Threads across the program: AI safety and governance; explainable, interpretable reasoning (ILP, graphical models); robustness for embodied AI; and trustworthy, fair alignment of LLMs and multimodal models.",
+   "zh": "整个日程的主线：AI 安全与治理；可解释、可理解的推理（ILP、图模型）；具身 AI 的鲁棒性；以及大语言模型和多模态模型的可信、公平对齐。",
+   "cls": "p.overview-themes"
+  },
+  "74e3fba778": {
+   "en": "03 · Insights",
+   "zh": "03 · 洞察",
+   "cls": "div.kicker"
+  },
+  "ae28e85df8": {
+   "en": "Paper-by-paper tech insights",
+   "zh": "逐篇论文的技术洞察",
+   "cls": "h2"
+  },
+  "7ea8f9792b": {
+   "en": "AI Safety: Risks of General-Purpose AI (Keynote)",
+   "zh": "AI Safety: Risks of General-Purpose AI (Keynote)",
+   "cls": "attr:data-toc"
+  },
+  "54792c61ba": {
+   "en": "{1}Yoshua Bengio (keynote){/1} · International AI Safety Report",
+   "zh": "{1}Yoshua Bengio (keynote){/1} · International AI Safety Report",
+   "cls": "div.byline"
+  },
+  "9fe00acebc": {
+   "en": "Goal",
+   "zh": "目标",
+   "cls": "span.lbl"
+  },
+  "e8d7d45f3b": {
+   "en": "Map what general-purpose AI can do, the risks it brings, and the techniques that mitigate them.",
+   "zh": "梳理通用 AI 能做什么、带来哪些风险，以及缓解这些风险的技术。",
+   "cls": "p"
+  },
+  "bb9d653f4e": {
+   "en": "Challenge",
+   "zh": "挑战",
+   "cls": "span.lbl"
+  },
+  "b5484ad5ca": {
+   "en": "Capable, general models bring severe risks — loss of human control, decentralized misuse, and concentration of power.",
+   "zh": "能力强的通用模型带来严重风险 — 失去人类控制、去中心化的滥用以及权力集中。",
+   "cls": "p"
+  },
+  "88306943fe": {
+   "en": "Method",
+   "zh": "方法",
+   "cls": "span.lbl"
+  },
+  "3df32f6470": {
+   "en": "Synthesize evidence from ~100 experts across 30 countries (+ EU / UN / OECD)",
+   "zh": "综合来自 30 个国家约 100 位专家（以及欧盟 / 联合国 / 经合组织）的证据",
+   "cls": "li"
+  },
+  "1e49155308": {
+   "en": "Classify risks by source: misuse, human imitation, RL side-goals, reward hacking, self-preservation",
+   "zh": "按来源对风险分类：滥用、模仿人类、强化学习的附带目标、奖励作弊、自我保存",
+   "cls": "li"
+  },
+  "15f6c06940": {
+   "en": "Set safety requirements, e.g. never assert a false claim with confidence",
+   "zh": "设定安全要求，例如绝不自信地断言虚假说法",
+   "cls": "li"
+  },
+  "aea0247b2a": {
+   "en": "Novelty",
+   "zh": "创新点",
+   "cls": "span.lbl"
+  },
+  "094ce55116": {
+   "en": "A shared, international evidence base for AI risk — not a single lab's opinion.",
+   "zh": "为 AI 风险提供共享的国际证据基础 — 而不是单个实验室的意见。",
+   "cls": "p"
+  },
+  "62036a7016": {
+   "en": "Impact",
+   "zh": "影响",
+   "cls": "span.lbl"
+  },
+  "23b1bb8f63": {
+   "en": "A common reference for governance and safe-deployment decisions as adoption rises.",
+   "zh": "随着应用增长，为治理和安全部署决策提供共同参照。",
+   "cls": "p"
+  },
+  "a2c787e8c5": {
+   "en": "The International AI Safety Report — the backdrop for Bengio's keynote on risks and mitigations.",
+   "zh": "国际 AI 安全报告 — Bengio 关于风险与缓解的主旨报告的背景。",
+   "cls": "figcaption"
+  },
+  "42ed25a901": {
+   "en": "Graphical Models Meet Heuristic Search (Keynote){1} — Research Excellence Award{/1}",
+   "zh": "Graphical Models Meet Heuristic Search (Keynote){1} — 研究卓越奖{/1}",
+   "cls": "h3"
+  },
+  "92bb2a3177": {
+   "en": "{1}Rina Dechter (keynote){/1} · UC Irvine",
+   "zh": "{1}Rina Dechter (keynote){/1} · UC Irvine",
+   "cls": "div.byline"
+  },
+  "8a484fe888": {
+   "en": "Solve hard reasoning and inference by combining probabilistic graphical models with heuristic search.",
+   "zh": "把概率图模型与启发式搜索结合，求解困难的推理与推断问题。",
+   "cls": "p"
+  },
+  "f39a2449da": {
+   "en": "Generic solvers struggle on very hard inference; pure search ignores the problem's structure.",
+   "zh": "通用求解器在极难的推断上表现吃力；纯搜索又忽略问题的结构。",
+   "cls": "p"
+  },
+  "a7cbaee526": {
+   "en": "Find ‘tractable islands’ — subproblems you can solve exactly or efficiently",
+   "zh": "找出“易处理孤岛” — 可以精确或高效求解的子问题",
+   "cls": "li"
+  },
+  "f9f4bd3a21": {
+   "en": "Use them as heuristics to guide search and Monte-Carlo sampling",
+   "zh": "把它们作为启发式，引导搜索和蒙特卡洛采样",
+   "cls": "li"
+  },
+  "7b11e18a33": {
+   "en": "Run anytime: a feasible result early, refined toward exact given more time",
+   "zh": "以随时算法方式运行：早期就给出可行结果，时间越多越接近精确解",
+   "cls": "li"
+  },
+  "e961229d68": {
+   "en": "The tractable-islands paradigm unifies exact inference, search, bounding and sampling.",
+   "zh": "易处理孤岛范式统一了精确推断、搜索、界限估计和采样。",
+   "cls": "p"
+  },
+  "bdfd327218": {
+   "en": "Anytime solvers with guaranteed bounds — valuable when time or compute is limited.",
+   "zh": "带有保证界限的随时求解器 — 在时间或算力有限时很有价值。",
+   "cls": "p"
+  },
+  "16bf311c9c": {
+   "en": "From searching to sampling — tractable ‘islands’ guide both heuristic search and Monte-Carlo sampling.",
+   "zh": "从搜索到采样 — 易处理“孤岛”同时引导启发式搜索和蒙特卡洛采样。",
+   "cls": "figcaption"
+  },
+  "9adf07dfde": {
+   "en": "Bucket / mini-bucket style reasoning over a graphical model.",
+   "zh": "在图模型上进行 bucket / mini-bucket 式推理。",
+   "cls": "figcaption"
+  },
+  "7fe6686b4d": {
+   "en": "Explainable Medical Reasoning with ILP",
+   "zh": "Explainable Medical Reasoning with ILP",
+   "cls": "attr:data-toc"
+  },
+  "c20e108347": {
+   "en": "{1}Dany Varghese et al.{/1} · University of Surrey, UK",
+   "zh": "{1}Dany Varghese et al.{/1} · University of Surrey, UK",
+   "cls": "div.byline"
+  },
+  "e1f5fd653d": {
+   "en": "Test whether Inductive Logic Programming can match black-box ML while staying interpretable.",
+   "zh": "检验归纳逻辑编程能否在保持可解释的同时，达到黑盒机器学习的水平。",
+   "cls": "p"
+  },
+  "aaa19cb4ce": {
+   "en": "Medical AI is often accurate but a black box, which limits transparency and clinician trust.",
+   "zh": "医疗 AI 往往准确但是黑盒，这限制了透明度和临床医生的信任。",
+   "cls": "p"
+  },
+  "90eaf1381a": {
+   "en": "Learn symbolic if-then rules with the PyGol ILP system",
+   "zh": "用 PyGol ILP 系统学习符号化的 if-then 规则",
+   "cls": "li"
+  },
+  "5d181ceb8a": {
+   "en": "Use Cleveland Heart Disease data (13 features, 303 patients) + medical background knowledge",
+   "zh": "使用 Cleveland Heart Disease 数据（13 个特征，303 名患者）+ 医学背景知识",
+   "cls": "li"
+  },
+  "a8d07569cb": {
+   "en": "Compare accuracy and global interpretability against standard ML",
+   "zh": "与标准机器学习比较准确率和全局可解释性",
+   "cls": "li"
+  },
+  "da043c7d49": {
+   "en": "Rule models reach comparable accuracy and align with real clinical logic — explainable by design.",
+   "zh": "规则模型达到相当的准确率，并与真实临床逻辑一致 — 天生可解释。",
+   "cls": "p"
+  },
+  "e9bfc61c40": {
+   "en": "For clinical adoption, transparent rules can matter more than marginal accuracy; points to neuro-symbolic hybrids.",
+   "zh": "对临床应用而言，透明的规则可能比微小的准确率提升更重要；这指向神经符号混合方法。",
+   "cls": "p"
+  },
+  "e92cfd07d1": {
+   "en": "Performance vs. explainability — ILP rule models match ML accuracy while staying interpretable.",
+   "zh": "性能与可解释性 — ILP 规则模型在保持可解释的同时，准确率与机器学习相当。",
+   "cls": "figcaption"
+  },
+  "4707b3004f": {
+   "en": "Robust Compression Boundary for Embodied AI{1} — Outstanding Paper{/1}",
+   "zh": "Robust Compression Boundary for Embodied AI{1} — 杰出论文{/1}",
+   "cls": "h3"
+  },
+  "053ea813fb": {
+   "en": "{1}Chong Yu et al.{/1} · Fudan University",
+   "zh": "{1}Chong Yu et al.{/1} · Fudan University",
+   "cls": "div.byline"
+  },
+  "12babd062d": {
+   "en": "Compress embodied-AI models while keeping accuracy, efficiency AND robustness at once.",
+   "zh": "压缩具身 AI 模型，同时兼顾准确率、效率和鲁棒性。",
+   "cls": "p"
+  },
+  "403dba4757": {
+   "en": "On-device robots and vehicles need small, fast models that stay robust to real-world corruptions (noise, blur, weather).",
+   "zh": "端侧机器人和车辆需要小而快的模型，并且在面对真实世界的干扰（噪声、模糊、天气）时保持鲁棒。",
+   "cls": "p"
+  },
+  "9b896f0d89": {
+   "en": "Characterize the ‘robust compression boundary’ — how far you can prune/quantize before robustness drops",
+   "zh": "刻画“鲁棒压缩边界” — 在鲁棒性下降之前，剪枝/量化可以做到多大程度",
+   "cls": "li"
+  },
+  "a85483c7af": {
+   "en": "Fold robustness constraints into the compression objective",
+   "zh": "把鲁棒性约束融入压缩目标",
+   "cls": "li"
+  },
+  "e713ab0946": {
+   "en": "Evaluate on embodied vision/robotics tasks vs accuracy-only baselines",
+   "zh": "在具身视觉/机器人任务上，与只看准确率的基线比较评估",
+   "cls": "li"
+  },
+  "1e5a6b1ea1": {
+   "en": "Treats robustness as a third axis alongside accuracy and efficiency, jointly optimized.",
+   "zh": "把鲁棒性作为与准确率、效率并列的第三个维度，进行联合优化。",
+   "cls": "p"
+  },
+  "7105f5c365": {
+   "en": "Lower memory/latency deployment on constrained platforms without losing robustness.",
+   "zh": "在受限平台上以更低的内存/延迟部署，同时不损失鲁棒性。",
+   "cls": "p"
+  },
+  "d648cb079b": {
+   "en": "The robust compression boundary — how far a model compresses before robustness to corruptions drops.",
+   "zh": "鲁棒压缩边界 — 模型压缩到什么程度，对干扰的鲁棒性会开始下降。",
+   "cls": "figcaption"
+  },
+  "1648f4b638": {
+   "en": "Mitigating Linguistic Discrimination in LLMs",
+   "zh": "Mitigating Linguistic Discrimination in LLMs",
+   "cls": "attr:data-toc"
+  },
+  "f8ded63b61": {
+   "en": "{1}Guoliang Dong et al.{/1} · SMU & Zhejiang University",
+   "zh": "{1}Guoliang Dong et al.{/1} · SMU & Zhejiang University",
+   "cls": "div.byline"
+  },
+  "cb31a5eac7": {
+   "en": "Measure and reduce how an LLM's safety and quality vary across languages.",
+   "zh": "衡量并减少大语言模型的安全性和质量在不同语言之间的差异。",
+   "cls": "p"
+  },
+  "e984ec07d4": {
+   "en": "LLMs answer the same question differently by language — a safety- and knowledge-equity gap.",
+   "zh": "大语言模型对同一个问题会因语言不同而给出不同回答 — 这是安全与知识公平方面的差距。",
+   "cls": "p"
+  },
+  "ad82d5abf0": {
+   "en": "Use metamorphic testing: same-meaning inputs in different languages should give same-meaning outputs",
+   "zh": "使用蜕变测试：不同语言中含义相同的输入，应给出含义相同的输出",
+   "cls": "li"
+  },
+  "ae456cb2b9": {
+   "en": "At inference, translate a query into k languages and answer each, then translate back",
+   "zh": "推理时，把查询翻译成 k 种语言并分别回答，再翻译回来",
+   "cls": "li"
+  },
+  "75bcee7db3": {
+   "en": "Pick the reply most consistent with the others by cosine similarity (voting)",
+   "zh": "按余弦相似度选出与其他回答最一致的回复（投票）",
+   "cls": "li"
+  },
+  "23201b8259": {
+   "en": "A translate-answer-vote wrapper that improves safety and quality with no retraining.",
+   "zh": "一个“翻译-回答-投票”的封装，无需重新训练即可提升安全性和质量。",
+   "cls": "p"
+  },
+  "17d338f98e": {
+   "en": "Lower jailbreak rates and higher F1 across languages — fairer, safer multilingual deployment.",
+   "zh": "各语言下越狱率更低、F1 更高 — 更公平、更安全的多语言部署。",
+   "cls": "p"
+  },
+  "4fb9f28dfd": {
+   "en": "An LLM's answers differ across languages — the inequity this work measures and mitigates.",
+   "zh": "大语言模型的回答因语言而异 — 这正是本工作要衡量并缓解的不公平。",
+   "cls": "figcaption"
+  },
+  "071554d12c": {
+   "en": "Translate to k languages, answer each, translate back, then vote for the most consistent reply.",
+   "zh": "翻译成 k 种语言，分别回答，再翻译回来，然后投票选出最一致的回复。",
+   "cls": "figcaption"
+  },
+  "4df441bb26": {
+   "en": "Modality-Fair Preference Optimization for MLLMs",
+   "zh": "Modality-Fair Preference Optimization for MLLMs",
+   "cls": "attr:data-toc"
+  },
+  "ab342cf544": {
+   "en": "{1}Songtao Jiang et al.{/1} · Zhejiang University & NUS",
+   "zh": "{1}Songtao Jiang et al.{/1} · Zhejiang University & NUS",
+   "cls": "div.byline"
+  },
+  "e5f8b5d175": {
+   "en": "Make multimodal LLMs rely fairly on both the image and the text.",
+   "zh": "让多模态大语言模型公平地依赖图像和文本两者。",
+   "cls": "p"
+  },
+  "7e57136165": {
+   "en": "MLLMs often lean on text and under-use the image, which hurts trustworthiness.",
+   "zh": "MLLM 常常偏重文本而对图像利用不足，这损害了可信度。",
+   "cls": "p"
+  },
+  "c11bce4fb8": {
+   "en": "Perturb key image regions (text fixed) to build chosen vs rejected image pairs",
+   "zh": "扰动关键图像区域（文本不变），构建被选中与被拒绝的图像对",
+   "cls": "li"
+  },
+  "4a8819ee29": {
+   "en": "Train a modality-fair loss aligning text and image preferences with a stability margin",
+   "zh": "训练模态公平损失，用稳定性边距对齐文本和图像偏好",
+   "cls": "li"
+  },
+  "2aa2e056fc": {
+   "en": "Use keyword-guided region selection and easy-to-hard iterative training",
+   "zh": "采用关键词引导的区域选择和由易到难的迭代训练",
+   "cls": "li"
+  },
+  "c0598867a6": {
+   "en": "Balances preference alignment across modalities rather than text-only DPO.",
+   "zh": "在各模态间平衡偏好对齐，而不是只针对文本的 DPO。",
+   "cls": "p"
+  },
+  "56cb5bf8f7": {
+   "en": "Better-grounded, more trustworthy multimodal answers.",
+   "zh": "多模态回答的依据更扎实、更可信。",
+   "cls": "p"
+  },
+  "8da12c4a7e": {
+   "en": "Modality-fair preference optimization — perturb key image regions to build chosen / rejected pairs.",
+   "zh": "模态公平偏好优化 — 扰动关键图像区域，构建被选中 / 被拒绝的图像对。",
+   "cls": "figcaption"
+  },
+  "3e298aa064": {
+   "en": "Token-Level Accept or Reject: Micro Alignment",
+   "zh": "Token-Level Accept or Reject: Micro Alignment",
+   "cls": "attr:data-toc"
+  },
+  "8956c12659": {
+   "en": "{1}Yang Zhang et al.{/1} · Hong Kong Polytechnic University",
+   "zh": "{1}Yang Zhang et al.{/1} · Hong Kong Polytechnic University",
+   "cls": "div.byline"
+  },
+  "6093d1c410": {
+   "en": "Align an LLM without fine-tuning it — accept or reject each candidate token with a tiny model.",
+   "zh": "无需微调即可对齐大语言模型 — 用一个很小的模型接受或拒绝每个候选 token。",
+   "cls": "p"
+  },
+  "af570786c3": {
+   "en": "RLHF/DPO fine-tune billions of parameters (costly) and align at the sentence level (coarse).",
+   "zh": "RLHF/DPO 要微调数十亿参数（成本高），且在句子层面对齐（粒度粗）。",
+   "cls": "p"
+  },
+  "7326a2939f": {
+   "en": "Keep the LLM frozen; a small 3-layer accept/reject model filters each candidate token",
+   "zh": "保持大语言模型冻结；由一个 3 层的小型接受/拒绝模型过滤每个候选 token",
+   "cls": "li"
+  },
+  "3e4613d564": {
+   "en": "Frame it as an MDP (accept/reject) with an alignment + divergence reward",
+   "zh": "将其建模为 MDP（接受/拒绝），奖励包含对齐项和散度项",
+   "cls": "li"
+  },
+  "504cc31d95": {
+   "en": "Use top-k/top-p truncation for speed, with a fallback if all tokens are rejected",
+   "zh": "用 top-k/top-p 截断提速，并在所有 token 都被拒绝时提供回退方案",
+   "cls": "li"
+  },
+  "62c2c87e0b": {
+   "en": "Moves alignment from full fine-tuning to a lightweight, token-granular controller.",
+   "zh": "把对齐从完整微调转为轻量的、token 粒度的控制器。",
+   "cls": "p"
+  },
+  "4ee77c861e": {
+   "en": "Much cheaper, more controllable alignment that retains or improves quality.",
+   "zh": "成本低得多、更可控的对齐，同时保持或提升质量。",
+   "cls": "p"
+  },
+  "559adc1a4a": {
+   "en": "A small accept/reject model filters candidate tokens after the frozen LLM.",
+   "zh": "一个小型接受/拒绝模型在冻结的大语言模型之后过滤候选 token。",
+   "cls": "figcaption"
+  },
+  "532c736593": {
+   "en": "Hallucination Reduction in Video-Language Models",
+   "zh": "Hallucination Reduction in Video-Language Models",
+   "cls": "attr:data-toc"
+  },
+  "4cda4653da": {
+   "en": "{1}Jisheng Dang et al.{/1} · Lanzhou Univ., SYSU, NUS, HKU",
+   "zh": "{1}Jisheng Dang et al.{/1} · Lanzhou Univ., SYSU, NUS, HKU",
+   "cls": "div.byline"
+  },
+  "76aa8d0c13": {
+   "en": "Improve semantic alignment between video and text to cut hallucinations.",
+   "zh": "改善视频与文本之间的语义对齐，以减少幻觉。",
+   "cls": "p"
+  },
+  "d6a41fbd25": {
+   "en": "Video-language models hallucinate when visual and language semantics are poorly aligned.",
+   "zh": "当视觉与语言语义对齐不佳时，视频语言模型会产生幻觉。",
+   "cls": "p"
+  },
+  "f607fb4e29": {
+   "en": "Add a contrastive loss matching correct video-text pairs and separating mismatches",
+   "zh": "加入对比损失，匹配正确的视频-文本对并分开不匹配的对",
+   "cls": "li"
+  },
+  "389dc89ed5": {
+   "en": "Two-stage training: broad video-language pre-training, then task fine-tuning",
+   "zh": "两阶段训练：先进行广泛的视频语言预训练，再进行任务微调",
+   "cls": "li"
+  },
+  "630052cafd": {
+   "en": "Inject text-semantic supervision into the visual Q-Former",
+   "zh": "向视觉 Q-Former 注入文本语义监督",
+   "cls": "li"
+  },
+  "89bfe4f894": {
+   "en": "Hierarchical multimodal consistency makes visual features more semantically discriminative.",
+   "zh": "分层多模态一致性使视觉特征在语义上更具区分度。",
+   "cls": "p"
+  },
+  "842d799179": {
+   "en": "Fewer hallucinations and better video understanding for captioning and QA.",
+   "zh": "幻觉更少，视频理解更好，适用于字幕生成和问答。",
+   "cls": "p"
+  },
+  "e880f7c625": {
+   "en": "Hierarchical multimodal consistency — align video and text to reduce hallucinations.",
+   "zh": "分层多模态一致性 — 对齐视频与文本以减少幻觉。",
+   "cls": "figcaption"
+  },
+  "200d93941a": {
+   "en": "04 · Conclusions",
+   "zh": "04 · 结论",
+   "cls": "div.kicker"
+  },
+  "a292606210": {
+   "en": "Synthesis across the papers",
+   "zh": "各篇论文的综合",
+   "cls": "h2"
+  },
+  "b4510362a5": {
+   "en": "Insights",
+   "zh": "洞察",
+   "cls": "h4"
+  },
+  "75a5668120": {
+   "en": "Trustworthy AI is maturing — explainability need not cost accuracy (e.g. ILP rule models).",
+   "zh": "可信 AI 正在成熟 — 可解释性不必以牺牲准确率为代价（例如 ILP 规则模型）。",
+   "cls": "li"
+  },
+  "6f00d1c867": {
+   "en": "Robustness is emerging as a third design axis beyond accuracy and efficiency.",
+   "zh": "鲁棒性正成为准确率和效率之外的第三个设计维度。",
+   "cls": "li"
+  },
+  "88bc8aa21e": {
+   "en": "Lightweight alignment and fairness (token-level, modality-fair) work without full retraining.",
+   "zh": "轻量的对齐与公平方法（token 级、模态公平）无需完整重训练即可奏效。",
+   "cls": "li"
+  },
+  "40b0906c4f": {
+   "en": "Vision",
+   "zh": "愿景",
+   "cls": "h4"
+  },
+  "5163e888db": {
+   "en": "A unified trust framework combining symbolic reasoning, probabilistic inference and neural learning.",
+   "zh": "一个统一的信任框架，结合符号推理、概率推断和神经学习。",
+   "cls": "li"
+  },
+  "6890b30b03": {
+   "en": "AI agents with long-term memory, reasoning and self-monitoring.",
+   "zh": "具备长期记忆、推理和自我监控的 AI 智能体。",
+   "cls": "li"
+  },
+  "811a94b696": {
+   "en": "More international AI governance around power concentration, bias and misuse.",
+   "zh": "围绕权力集中、偏见和滥用，形成更多国际 AI 治理。",
+   "cls": "li"
+  },
+  "5d8c81594f": {
+   "en": "Implications for us",
+   "zh": "对我们的启示",
+   "cls": "h4"
+  },
+  "34e3cc52a0": {
+   "en": "Embed explainability and transparency modules into products.",
+   "zh": "在产品中嵌入可解释性和透明性模块。",
+   "cls": "li"
+  },
+  "6f23d1768e": {
+   "en": "Treat robustness-to-corruption as a first-class metric for embodied / edge AI.",
+   "zh": "把对干扰的鲁棒性作为具身 / 边缘 AI 的一等指标。",
+   "cls": "li"
+  },
+  "383ee1f14b": {
+   "en": "Adopt cheap alignment (token-level, multilingual voting) for safer deployment.",
+   "zh": "采用低成本对齐（token 级、多语言投票），实现更安全的部署。",
+   "cls": "li"
+  },
+  "2b92ebc383": {
+   "en": "05 · References",
+   "zh": "05 · 参考文献",
+   "cls": "div.kicker"
+  },
+  "5d20d0fee3": {
+   "en": "References",
+   "zh": "参考文献",
+   "cls": "h2"
+  },
+  "ed86017f39": {
+   "en": "© 2026 {1}ALI{/1} — {2}Tech Insight{/2} v1.9.0",
+   "zh": "© 2026 {1}ALI{/1} — {2}Tech Insight{/2} v1.9.0",
+   "cls": "div.site-copyright"
+  },
+  "196d8a07d3": {
+   "en": "IJCAI 2025 — Tech Insight Report",
+   "zh": "IJCAI 2025 — Tech Insight 报告",
+   "cls": "doctitle"
+  },
+  "ee45c30326": {
+   "en": "Report",
+   "zh": "报告",
+   "cls": "div.kicker"
+  },
+  "2edb334681": {
+   "en": "IJCAI 2025",
+   "zh": "IJCAI 2025",
+   "cls": "h1"
+  },
+  "1751bd3d84": {
+   "en": "34th International Joint Conference on Artificial Intelligence · Montreal, Canada · August 16–22, 2025",
+   "zh": "第 34 届国际人工智能联合会议 · 加拿大蒙特利尔 · 2025 年 8 月 16–22 日",
+   "cls": "p.topic"
+  },
+  "8a1e29b3dd": {
+   "en": "Conference",
+   "zh": "会议",
+   "cls": "attr:data-toc"
+  },
+  "f5cbdf6bfb": {
+   "en": "Contents",
+   "zh": "目录",
+   "cls": "attr:data-toc"
+  },
+  "b4e6a31089": {
+   "en": "Intro",
+   "zh": "简介",
+   "cls": "attr:data-group"
+  },
+  "e3e91f3034": {
+   "en": "Conference statistics",
+   "zh": "会议统计",
+   "cls": "attr:data-toc"
+  },
+  "2c0460ccde": {
+   "en": "34th International Joint Conference on Artificial Intelligence — Montreal, Canada",
+   "zh": "第 34 届国际人工智能联合会议 — 加拿大蒙特利尔",
+   "cls": "h2"
+  },
+  "cfecf400a6": {
+   "en": "Insight 01 · Safety & reasoning foundations",
+   "zh": "洞察 01 · 安全与推理基础",
+   "cls": "div.kicker"
+  },
+  "59ae20aa3e": {
+   "en": "Insight 02 · Safety & reasoning foundations",
+   "zh": "洞察 02 · 安全与推理基础",
+   "cls": "div.kicker"
+  },
+  "7462e98c00": {
+   "en": "Graphical Models Meet Heuristic Search (Keynote) {1}· Research Excellence Award{/1}",
+   "zh": "Graphical Models Meet Heuristic Search (Keynote) {1}· 研究卓越奖{/1}",
+   "cls": "h2"
+  },
+  "8b20863b4f": {
+   "en": "Graphical Models Meet Heuristic Search (Keynote)",
+   "zh": "Graphical Models Meet Heuristic Search (Keynote)",
+   "cls": "attr:data-toc"
+  },
+  "f247b5e34c": {
+   "en": "Insight 03 · Explainability & robustness",
+   "zh": "洞察 03 · 可解释性与鲁棒性",
+   "cls": "div.kicker"
+  },
+  "13a5afdff6": {
+   "en": "Insight 04 · Explainability & robustness",
+   "zh": "洞察 04 · 可解释性与鲁棒性",
+   "cls": "div.kicker"
+  },
+  "12c673adcf": {
+   "en": "Robust Compression Boundary for Embodied AI {1}· Outstanding Paper{/1}",
+   "zh": "Robust Compression Boundary for Embodied AI {1}· 杰出论文{/1}",
+   "cls": "h2"
+  },
+  "378e626b79": {
+   "en": "Robust Compression Boundary for Embodied AI",
+   "zh": "Robust Compression Boundary for Embodied AI",
+   "cls": "attr:data-toc"
+  },
+  "ab8aee6c80": {
+   "en": "Insight 05 · Trustworthy & fair LLMs / MLLMs",
+   "zh": "洞察 05 · 可信且公平的 LLM / MLLM",
+   "cls": "div.kicker"
+  },
+  "be759a0ab5": {
+   "en": "Insight 06 · Trustworthy & fair LLMs / MLLMs",
+   "zh": "洞察 06 · 可信且公平的 LLM / MLLM",
+   "cls": "div.kicker"
+  },
+  "e6e1c09e73": {
+   "en": "Insight 07 · Trustworthy & fair LLMs / MLLMs",
+   "zh": "洞察 07 · 可信且公平的 LLM / MLLM",
+   "cls": "div.kicker"
+  },
+  "3fa1862cda": {
+   "en": "Insight 08 · Trustworthy & fair LLMs / MLLMs",
+   "zh": "洞察 08 · 可信且公平的 LLM / MLLM",
+   "cls": "div.kicker"
+  },
+  "b536777ff1": {
+   "en": "Conclusions",
+   "zh": "结论",
+   "cls": "attr:data-toc"
+  },
+  "c9598e5b42": {
+   "en": "<div class=\"fit\"><div class=\"concl\"><div class=\"col c1\"><h4>Insights</h4><ul><li>Trustworthy AI is maturing — explainability need not cost accuracy (e.g. ILP rule models).</li><li>Robustness is emerging as a third design axis beyond accuracy and efficiency.</li><li>Lightweight alignment and fairness (token-level, modality-fair) work without full retraining.</li></ul></div><div class=\"col c2\"><h4>Vision</h4><ul><li>A unified trust framework combining symbolic reasoning, probabilistic inference and neural learning.</li><li>AI agents with long-term memory, reasoning and self-monitoring.</li><li>More international AI governance around power concentration, bias and misuse.</li></ul></div><div class=\"col c3\"><h4>Implications for us</h4><ul><li>Embed explainability and transparency modules into products.</li><li>Treat robustness-to-corruption as a first-class metric for embodied / edge AI.</li><li>Adopt cheap alignment (token-level, multilingual voting) for safer deployment.</li></ul></div></div></div>",
+   "zh": "<div class=\"fit\"><div class=\"concl\"><div class=\"col c1\"><h4>洞察</h4><ul><li>可信 AI 正在成熟 — 可解释性不必以牺牲准确率为代价（例如 ILP 规则模型）。</li><li>鲁棒性正成为准确率和效率之外的第三个设计维度。</li><li>轻量的对齐与公平方法（token 级、模态公平）无需完整重训练即可奏效。</li></ul></div><div class=\"col c2\"><h4>愿景</h4><ul><li>一个统一的信任框架，结合符号推理、概率推断和神经学习。</li><li>具备长期记忆、推理和自我监控的 AI 智能体。</li><li>围绕权力集中、偏见和滥用，形成更多国际 AI 治理。</li></ul></div><div class=\"col c3\"><h4>对我们的启示</h4><ul><li>在产品中嵌入可解释性和透明性模块。</li><li>把对干扰的鲁棒性作为具身 / 边缘 AI 的一等指标。</li><li>采用低成本对齐（token 级、多语言投票），实现更安全的部署。</li></ul></div></div></div>",
+   "cls": "section.slide"
+  },
+  "fa39f733bd": {
+   "en": "Wrap-up",
+   "zh": "总结",
+   "cls": "attr:data-group"
+  },
+  "b2ec1abf35": {
+   "en": "Contents (T)",
+   "zh": "目录 (T)",
+   "cls": "button.toc-btn"
+  },
+  "31124df2c1": {
+   "en": "IJCAI 2025 — Tech Insight Slides",
+   "zh": "IJCAI 2025 — Tech Insight 幻灯片",
+   "cls": "doctitle"
+  },
+  "4718b93d9d": {
+   "en": "Tech Insight",
+   "zh": "Tech Insight",
+   "cls": "pptx"
+  },
+  "88aa4763ef": {
+   "en": "Tech Insight Report",
+   "zh": "Tech Insight 报告",
+   "cls": "pptx"
+  },
+  "ff11df239c": {
+   "en": "34th International Joint Conference on Artificial Intelligence",
+   "zh": "第 34 届国际人工智能联合会议",
+   "cls": "pptx"
+  },
+  "3ca706ad38": {
+   "en": "Montreal, Canada · August 16–22, 2025",
+   "zh": "加拿大蒙特利尔 · 2025 年 8 月 16–22 日",
+   "cls": "pptx"
+  },
+  "d219c68101": {
+   "en": "Location",
+   "zh": "地点",
+   "cls": "pptx"
+  },
+  "be110fc257": {
+   "en": "Montreal, Canada",
+   "zh": "加拿大蒙特利尔",
+   "cls": "pptx"
+  },
+  "842b7b5d71": {
+   "en": "Dates",
+   "zh": "日期",
+   "cls": "pptx"
+  },
+  "62de57b236": {
+   "en": "August 16–22, 2025",
+   "zh": "2025 年 8 月 16–22 日",
+   "cls": "pptx"
+  },
+  "fe7f55b8bf": {
+   "en": "Focus",
+   "zh": "主题",
+   "cls": "pptx"
+  },
+  "edc9404d4c": {
+   "en": "Trustworthy and Explainable AI",
+   "zh": "可信与可解释 AI",
+   "cls": "pptx"
+  },
+  "c7fb4a1c86": {
+   "en": "CONTENTS",
+   "zh": "目录",
+   "cls": "pptx"
+  },
+  "dd1a92a165": {
+   "en": "CONFERENCE STATISTICS",
+   "zh": "会议统计",
+   "cls": "pptx"
+  },
+  "8729316a87": {
+   "en": "submissions",
+   "zh": "投稿数",
+   "cls": "pptx"
+  },
+  "51c817ab85": {
+   "en": "accepted",
+   "zh": "录用数",
+   "cls": "pptx"
+  },
+  "d51ed57f66": {
+   "en": "acceptance rate",
+   "zh": "录用率",
+   "cls": "pptx"
+  },
+  "d4238bde4a": {
+   "en": "Top-5",
+   "zh": "Top-5",
+   "cls": "pptx"
+  },
+  "314c4a6754": {
+   "en": "AI venue",
+   "zh": "AI 会议",
+   "cls": "pptx"
+  },
+  "86794a005b": {
+   "en": "Also: One of the top AI conferences (alongside ICML, AAAI, NeurIPS). Highlights included keynotes by Yoshua Bengio (AI safety) and Rina Dechter (Research Excellence Award).",
+   "zh": "另外：它是顶级 AI 会议之一（与 ICML、AAAI、NeurIPS 并列）。亮点包括 Yoshua Bengio（AI 安全）和 Rina Dechter（研究卓越奖）的主旨报告。",
+   "cls": "pptx"
+  },
+  "2d88807164": {
+   "en": "INSIGHT 01 · Safety & reasoning foundations",
+   "zh": "洞察 01 · 安全与推理基础",
+   "cls": "pptx"
+  },
+  "2be8de6e25": {
+   "en": "Yoshua Bengio (keynote) · International AI Safety Report",
+   "zh": "Yoshua Bengio (keynote) · International AI Safety Report",
+   "cls": "pptx"
+  },
+  "5fc1004412": {
+   "en": "GOAL",
+   "zh": "目标",
+   "cls": "pptx"
+  },
+  "e9166b5b8a": {
+   "en": "CHALLENGE",
+   "zh": "挑战",
+   "cls": "pptx"
+  },
+  "098632eb27": {
+   "en": "METHOD",
+   "zh": "方法",
+   "cls": "pptx"
+  },
+  "95d2441d68": {
+   "en": "Synthesize evidence from ~100 experts across 30 countries (+ EU / UN / OECD) · Classify risks by source: misuse, human imitation, RL side-goals, reward hacking, self-preservation · Set safety requirements, e.g. never assert a false claim with confidence",
+   "zh": "综合来自 30 个国家约 100 位专家（以及欧盟 / 联合国 / 经合组织）的证据 · 按来源对风险分类：滥用、模仿人类、强化学习的附带目标、奖励作弊、自我保存 · 设定安全要求，例如绝不自信地断言虚假说法",
+   "cls": "pptx"
+  },
+  "c427fc98ea": {
+   "en": "NOVELTY",
+   "zh": "创新点",
+   "cls": "pptx"
+  },
+  "c5c9f56f26": {
+   "en": "IMPACT",
+   "zh": "影响",
+   "cls": "pptx"
+  },
+  "4fb5787f85": {
+   "en": "INSIGHT 02 · Safety & reasoning foundations",
+   "zh": "洞察 02 · 安全与推理基础",
+   "cls": "pptx"
+  },
+  "8f7615d50b": {
+   "en": "Rina Dechter (keynote) · UC Irvine",
+   "zh": "Rina Dechter (keynote) · UC Irvine",
+   "cls": "pptx"
+  },
+  "b6344eafb6": {
+   "en": "Find ‘tractable islands’ — subproblems you can solve exactly or efficiently · Use them as heuristics to guide search and Monte-Carlo sampling · Run anytime: a feasible result early, refined toward exact given more time",
+   "zh": "找出“易处理孤岛” — 可以精确或高效求解的子问题 · 把它们作为启发式，引导搜索和蒙特卡洛采样 · 以随时算法方式运行：早期就给出可行结果，时间越多越接近精确解",
+   "cls": "pptx"
+  },
+  "fcab189d1a": {
+   "en": "INSIGHT 03 · Explainability & robustness",
+   "zh": "洞察 03 · 可解释性与鲁棒性",
+   "cls": "pptx"
+  },
+  "c67fb0a667": {
+   "en": "Dany Varghese et al. · University of Surrey, UK",
+   "zh": "Dany Varghese et al. · University of Surrey, UK",
+   "cls": "pptx"
+  },
+  "48d644aeee": {
+   "en": "Learn symbolic if-then rules with the PyGol ILP system · Use Cleveland Heart Disease data (13 features, 303 patients) + medical background knowledge · Compare accuracy and global interpretability against standard ML",
+   "zh": "用 PyGol ILP 系统学习符号化的 if-then 规则 · 使用 Cleveland Heart Disease 数据（13 个特征，303 名患者）+ 医学背景知识 · 与标准机器学习比较准确率和全局可解释性",
+   "cls": "pptx"
+  },
+  "49cc08cf61": {
+   "en": "INSIGHT 04 · Explainability & robustness",
+   "zh": "洞察 04 · 可解释性与鲁棒性",
+   "cls": "pptx"
+  },
+  "711e39b472": {
+   "en": "Chong Yu et al. · Fudan University",
+   "zh": "Chong Yu et al. · Fudan University",
+   "cls": "pptx"
+  },
+  "be1041857a": {
+   "en": "Characterize the ‘robust compression boundary’ — how far you can prune/quantize before robustness drops · Fold robustness constraints into the compression objective · Evaluate on embodied vision/robotics tasks vs accuracy-only baselines",
+   "zh": "刻画“鲁棒压缩边界” — 在鲁棒性下降之前，剪枝/量化可以做到多大程度 · 把鲁棒性约束融入压缩目标 · 在具身视觉/机器人任务上，与只看准确率的基线比较评估",
+   "cls": "pptx"
+  },
+  "331148a5c4": {
+   "en": "INSIGHT 05 · Trustworthy & fair LLMs / MLLMs",
+   "zh": "洞察 05 · 可信且公平的 LLM / MLLM",
+   "cls": "pptx"
+  },
+  "24c34a6de2": {
+   "en": "Guoliang Dong et al. · SMU & Zhejiang University",
+   "zh": "Guoliang Dong et al. · SMU & Zhejiang University",
+   "cls": "pptx"
+  },
+  "c73c8812b6": {
+   "en": "Use metamorphic testing: same-meaning inputs in different languages should give same-meaning outputs · At inference, translate a query into k languages and answer each, then translate back · Pick the reply most consistent with the others by cosine similarity (voting)",
+   "zh": "使用蜕变测试：不同语言中含义相同的输入，应给出含义相同的输出 · 推理时，把查询翻译成 k 种语言并分别回答，再翻译回来 · 按余弦相似度选出与其他回答最一致的回复（投票）",
+   "cls": "pptx"
+  },
+  "c6aa4624ac": {
+   "en": "INSIGHT 06 · Trustworthy & fair LLMs / MLLMs",
+   "zh": "洞察 06 · 可信且公平的 LLM / MLLM",
+   "cls": "pptx"
+  },
+  "fb9140e73d": {
+   "en": "Songtao Jiang et al. · Zhejiang University & NUS",
+   "zh": "Songtao Jiang et al. · Zhejiang University & NUS",
+   "cls": "pptx"
+  },
+  "4557fd4f77": {
+   "en": "Perturb key image regions (text fixed) to build chosen vs rejected image pairs · Train a modality-fair loss aligning text and image preferences with a stability margin · Use keyword-guided region selection and easy-to-hard iterative training",
+   "zh": "扰动关键图像区域（文本不变），构建被选中与被拒绝的图像对 · 训练模态公平损失，用稳定性边距对齐文本和图像偏好 · 采用关键词引导的区域选择和由易到难的迭代训练",
+   "cls": "pptx"
+  },
+  "63ac1d555b": {
+   "en": "INSIGHT 07 · Trustworthy & fair LLMs / MLLMs",
+   "zh": "洞察 07 · 可信且公平的 LLM / MLLM",
+   "cls": "pptx"
+  },
+  "09b8d34b81": {
+   "en": "Yang Zhang et al. · Hong Kong Polytechnic University",
+   "zh": "Yang Zhang et al. · Hong Kong Polytechnic University",
+   "cls": "pptx"
+  },
+  "ec3624143f": {
+   "en": "Keep the LLM frozen; a small 3-layer accept/reject model filters each candidate token · Frame it as an MDP (accept/reject) with an alignment + divergence reward · Use top-k/top-p truncation for speed, with a fallback if all tokens are rejected",
+   "zh": "保持大语言模型冻结；由一个 3 层的小型接受/拒绝模型过滤每个候选 token · 将其建模为 MDP（接受/拒绝），奖励包含对齐项和散度项 · 用 top-k/top-p 截断提速，并在所有 token 都被拒绝时提供回退方案",
+   "cls": "pptx"
+  },
+  "66fb15c43d": {
+   "en": "INSIGHT 08 · Trustworthy & fair LLMs / MLLMs",
+   "zh": "洞察 08 · 可信且公平的 LLM / MLLM",
+   "cls": "pptx"
+  },
+  "6a560bb777": {
+   "en": "Jisheng Dang et al. · Lanzhou Univ., SYSU, NUS, HKU",
+   "zh": "Jisheng Dang et al. · Lanzhou Univ., SYSU, NUS, HKU",
+   "cls": "pptx"
+  },
+  "b9d876e086": {
+   "en": "Add a contrastive loss matching correct video-text pairs and separating mismatches · Two-stage training: broad video-language pre-training, then task fine-tuning · Inject text-semantic supervision into the visual Q-Former",
+   "zh": "加入对比损失，匹配正确的视频-文本对并分开不匹配的对 · 两阶段训练：先进行广泛的视频语言预训练，再进行任务微调 · 向视觉 Q-Former 注入文本语义监督",
+   "cls": "pptx"
+  },
+  "69bae0ee91": {
+   "en": "CONCLUSIONS",
+   "zh": "结论",
+   "cls": "pptx"
+  },
+  "96706c7774": {
+   "en": "INSIGHTS",
+   "zh": "洞察",
+   "cls": "pptx"
+  },
+  "7daf822a19": {
+   "en": "• Trustworthy AI is maturing — explainability need not cost accuracy (e.g. ILP rule models).",
+   "zh": "• 可信 AI 正在成熟 — 可解释性不必以牺牲准确率为代价（例如 ILP 规则模型）。",
+   "cls": "pptx"
+  },
+  "f3384e421d": {
+   "en": "• Robustness is emerging as a third design axis beyond accuracy and efficiency.",
+   "zh": "• 鲁棒性正成为准确率和效率之外的第三个设计维度。",
+   "cls": "pptx"
+  },
+  "49ea0719f9": {
+   "en": "• Lightweight alignment and fairness (token-level, modality-fair) work without full retraining.",
+   "zh": "• 轻量的对齐与公平方法（token 级、模态公平）无需完整重训练即可奏效。",
+   "cls": "pptx"
+  },
+  "927e4493b3": {
+   "en": "VISION",
+   "zh": "愿景",
+   "cls": "pptx"
+  },
+  "ab5abfa165": {
+   "en": "• A unified trust framework combining symbolic reasoning, probabilistic inference and neural learning.",
+   "zh": "• 一个统一的信任框架，结合符号推理、概率推断和神经学习。",
+   "cls": "pptx"
+  },
+  "4eaab02588": {
+   "en": "• AI agents with long-term memory, reasoning and self-monitoring.",
+   "zh": "• 具备长期记忆、推理和自我监控的 AI 智能体。",
+   "cls": "pptx"
+  },
+  "a1d18ec16f": {
+   "en": "• More international AI governance around power concentration, bias and misuse.",
+   "zh": "• 围绕权力集中、偏见和滥用，形成更多国际 AI 治理。",
+   "cls": "pptx"
+  },
+  "ab88151343": {
+   "en": "IMPLICATIONS FOR US",
+   "zh": "对我们的启示",
+   "cls": "pptx"
+  },
+  "9cd85c2566": {
+   "en": "• Embed explainability and transparency modules into products.",
+   "zh": "• 在产品中嵌入可解释性和透明性模块。",
+   "cls": "pptx"
+  },
+  "b024c65321": {
+   "en": "• Treat robustness-to-corruption as a first-class metric for embodied / edge AI.",
+   "zh": "• 把对干扰的鲁棒性作为具身 / 边缘 AI 的一等指标。",
+   "cls": "pptx"
+  },
+  "a4b1a2622c": {
+   "en": "• Adopt cheap alignment (token-level, multilingual voting) for safer deployment.",
+   "zh": "• 采用低成本对齐（token 级、多语言投票），实现更安全的部署。",
+   "cls": "pptx"
+  },
+  "5d16a62568": {
+   "en": "{1}{/1}Tech Insight",
+   "zh": "{1}{/1}Tech Insight",
+   "cls": "span.brand"
+  },
+  "2086b21f8f": {
+   "en": "Statistics",
+   "zh": "统计",
+   "cls": "a"
+  }
+ }
+}

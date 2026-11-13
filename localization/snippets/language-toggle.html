@@ -1,0 +1,86 @@
+<!-- Language toggle (English | Chinese): names only, no flags.
+     Reusable block for every Tech Insight report and slide deck. localization/tools/apply_html.py inserts it at the end of the page, before the closing body tag
+     (between the i18n:begin / i18n:end markers) and fills <!--I18N_DATA--> with the Chinese strings of that page.
+     Elements to translate carry data-i18n="n" (text) or data-i18n-a="alt=n;title=m" (attributes); the English markup stays as it is. -->
+<style>
+.lang-toggle{display:inline-flex;border:1px solid var(--line,#dde1e4);border-radius:8px;overflow:hidden;background:var(--card,#fafbfb);z-index:60;font:500 12px/1 var(--font-mono,"Geist Mono",monospace)}
+.lang-toggle button{border:0;margin:0;background:transparent;color:var(--muted,#6d7277);padding:6px 11px;cursor:pointer;font:inherit}
+.lang-toggle button+button{border-left:1px solid var(--line,#dde1e4)}
+.lang-toggle button[aria-pressed="true"]{background:var(--brand,#123524);color:#fff}
+.lang-toggle button:focus-visible{outline:2px solid var(--work,#2788f5);outline-offset:-2px}
+.lang-toggle.in-deck{position:fixed;right:88px;bottom:8px}
+.lang-toggle.in-bar{margin-left:auto}
+.lang-toggle.floating{position:fixed;top:12px;right:14px}
+html:lang(zh-CN){--font-sans:"Geist","Inter","PingFang SC","Microsoft YaHei","Noto Sans SC","Segoe UI",sans-serif;--font-mono:"Geist Mono","Cascadia Code",Consolas,"PingFang SC","Microsoft YaHei","Noto Sans SC",monospace}
+html:lang(zh-CN) h1,html:lang(zh-CN) h2,html:lang(zh-CN) h3,html:lang(zh-CN) .kicker,html:lang(zh-CN) .lbl{letter-spacing:normal!important}
+@media print{.lang-toggle{display:none}}
+</style>
+<div class="lang-toggle" role="group" aria-label="Language"><button type="button" data-lang="en" aria-pressed="true">English</button><button type="button" data-lang="zh" aria-pressed="false">Chinese</button></div>
+<!--I18N_DATA-->
+<script>
+(function () {
+  var node = document.getElementById('i18n-zh'), Z;
+  try { Z = JSON.parse(node.textContent); } catch (e) { return; }
+  var box = document.querySelector('.lang-toggle'), KEY = 'tech-insight-lang';
+  var counter = document.querySelector('.counter'), bar = document.querySelector('.bar');
+  if (counter) { box.className += ' in-deck'; }                       // slide deck: bottom right, beside the slide number
+  else if (bar) { box.className += ' in-bar'; bar.appendChild(box); } // report: in the top bar
+  else { box.className += ' floating'; }
+  var els = [].slice.call(document.querySelectorAll('[data-i18n]'));
+  var attrEls = [].slice.call(document.querySelectorAll('[data-i18n-a]'));
+  var en = new Map(), enA = new Map(), svgEn = null, lang = 'en';
+  var imgs = function () { return [].slice.call(document.querySelectorAll('img[data-svg]')); };
+  function setLang(l, save) {
+    lang = l === 'zh' ? 'zh' : 'en';
+    els.forEach(function (el) {
+      if (!en.has(el)) en.set(el, el.innerHTML);
+      var z = Z.t[el.getAttribute('data-i18n')];
+      el.innerHTML = (lang === 'zh' && z != null) ? z : en.get(el);
+    });
+    attrEls.forEach(function (el) {
+      var o = enA.get(el) || {}; enA.set(el, o);
+      el.getAttribute('data-i18n-a').split(';').forEach(function (pair) {
+        var p = pair.split('='), name = p[0], z = Z.a[p[1]];
+        if (!(name in o)) o[name] = el.getAttribute(name);
+        el.setAttribute(name, (lang === 'zh' && z != null) ? z : o[name]);
+      });
+    });
+    document.documentElement.lang = lang === 'zh' ? 'zh-CN' : 'en';
+    if (Z.doc) {
+      if (!document.__en) document.__en = { title: document.title, desc: (document.querySelector('meta[name=description]') || {}).content };
+      if (Z.doc.title) document.title = lang === 'zh' ? Z.doc.title : document.__en.title;
+      var md = document.querySelector('meta[name=description]');
+      if (md && Z.doc.desc) md.content = lang === 'zh' ? Z.doc.desc : document.__en.desc;
+    }
+    if (Z.svg && window.SVGS) {                                          // animated drawings: swap and replay
+      if (!svgEn) svgEn = Object.assign({}, window.SVGS);
+      Object.keys(svgEn).forEach(function (k) { window.SVGS[k] = (lang === 'zh' && Z.svg[k]) ? Z.svg[k] : svgEn[k]; });
+      imgs().forEach(function (im) {
+        if (!im.getAttribute('src')) return;
+        im.src = URL.createObjectURL(new Blob([window.SVGS[im.dataset.svg]], { type: 'image/svg+xml' }));
+      });
+    }
+    [].forEach.call(box.querySelectorAll('button'), function (b) { b.setAttribute('aria-pressed', b.dataset.lang === lang ? 'true' : 'false'); });
+    var toc = document.querySelector('.toc');                            // deck contents list is built by script: refresh its labels
+    if (toc) {
+      var slides = [].slice.call(document.querySelectorAll('.slide')), a = toc.querySelectorAll('a'), g = toc.querySelectorAll('.g'), groups = [], last = null;
+      slides.forEach(function (s, k) {
+        if (a[k]) a[k].textContent = (k + 1) + '. ' + (s.dataset.toc || ('Slide ' + (k + 1)));
+        var grp = s.dataset.group || '';
+        if (grp && grp !== last) { groups.push(grp); last = grp; }
+      });
+      [].forEach.call(g, function (h, k) { if (groups[k]) h.textContent = groups[k]; });
+    }
+    if (save) { try { localStorage.setItem(KEY, lang); } catch (e) {} }
+    setTimeout(function () { window.dispatchEvent(new Event('resize')); }, 30);   // the deck refits each slide to the new text
+  }
+  [].forEach.call(box.querySelectorAll('button'), function (b) { b.addEventListener('click', function () { setLang(b.dataset.lang, true); }); });
+  addEventListener('keydown', function (e) {
+    if (!counter || e.metaKey || e.ctrlKey || e.altKey) return;
+    if (e.key === 'l' || e.key === 'L') setLang(lang === 'zh' ? 'en' : 'zh', true);
+  });
+  var want = null;
+  try { want = new URLSearchParams(location.search).get('lang') || localStorage.getItem(KEY); } catch (e) {}
+  if (want === 'zh') { setLang('zh', false); if (document.fonts && document.fonts.ready) document.fonts.ready.then(function () { window.dispatchEvent(new Event('resize')); }); }
+})();
+</script>

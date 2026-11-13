@@ -1,0 +1,300 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>[[Talk title]] · Type B template (slides)</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700&family=Geist+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+
+/* ============================================================================
+   TECH INSIGHT — SLIDE DECK TEMPLATE  (1920×1080, auto-fit, keyboard nav)
+   Shared design system — see STYLE-GUIDE.md. Fill every [[PLACEHOLDER]];
+   duplicate <section class="slide insight"> per paper. Keys: ←/→ navigate,
+   T = contents, Home/End. Print (Ctrl-P) → one 16:9 page per slide (PDF).
+   ========================================================================== */
+:root{
+  --bg:#f4f5f6;--card:#fafbfb;--fg:#1b1d1f;--muted:#6d7277;--line:#dde1e4;--inset:#eceff1;
+  --brand:#123524;--accent:#1b7049;--ok:#12a66a;--warn:#8a5508;--bad:#e7000b;--plan:#5d34bd;--work:#2788f5;
+  --shadow-card:0 1px 2px rgb(15 23 42 / 6%),0 3px 12px rgb(15 23 42 / 5%);
+  --radius:12px;
+  --font-sans:"Geist","Inter",ui-sans-serif,system-ui,"Segoe UI",sans-serif;
+  --font-mono:"Geist Mono",ui-monospace,"Cascadia Code","Consolas",monospace;
+  color-scheme:light;
+}
+
+*{box-sizing:border-box}
+html,body{height:100%;margin:0;overflow:hidden;background:#e9ebed;font-family:var(--font-sans)}
+
+
+.stage{position:absolute;left:50%;top:50%;width:1920px;height:1080px;transform-origin:0 0}
+.slide{position:absolute;inset:0;display:none;flex-direction:column;background:var(--bg);color:var(--fg);padding:70px 96px 64px}
+.slide.on{display:flex}
+
+.kicker{font:500 16px/1 var(--font-mono);color:var(--muted);letter-spacing:.06em;text-transform:uppercase;margin-bottom:14px}
+.s-head h2{margin:0 0 20px;font-size:44px;line-height:1.14;letter-spacing:-.02em;font-weight:620;text-wrap:balance}
+.s-head .byline{font-size:21px;color:var(--muted);margin:0 0 14px}
+.s-head .byline b{color:var(--fg);font-weight:600}
+.slide.insight .s-head h2{margin:0 0 6px}
+.s-body{flex:1;position:relative;overflow:hidden}
+.fit{position:absolute;left:0;top:0;transform-origin:0 0;width:1728px}
+.cont{color:var(--muted);font-weight:400;font-size:28px}
+
+/* ---------- TITLE SLIDE ---------- */
+.title-slide{justify-content:center}
+.brandmark{display:inline-flex;align-items:center;gap:12px;font:600 22px var(--font-mono);color:var(--fg);margin-bottom:26px}
+.brandmark i{width:30px;height:30px;border-radius:8px;background:var(--brand);display:inline-block}
+.t-wrap h1{font-size:76px;line-height:1.06;letter-spacing:-.03em;margin:8px 0 26px;font-weight:620;max-width:1500px}
+.t-wrap .topic{font-size:30px;color:var(--muted);max-width:1400px;margin:0 0 44px}
+.t-meta{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,auto));gap:10px 56px;font-size:19px;color:var(--muted)}
+.t-meta b{display:block;color:var(--fg);font:500 24px var(--font-mono);font-variant-numeric:tabular-nums;margin-top:3px}
+
+/* ---------- AGENDA ---------- */
+.agenda{display:grid;gap:14px;counter-reset:ag;width:1500px}
+.agenda .row{display:flex;gap:22px;align-items:baseline;padding:18px 24px;background:var(--card);border:1px solid var(--line);border-radius:10px;box-shadow:var(--shadow-card)}
+.agenda .row::before{counter-increment:ag;content:counter(ag,decimal-leading-zero);font:600 22px var(--font-mono);color:var(--accent)}
+.agenda .row b{font-size:24px;font-weight:600}
+.agenda .row span{color:var(--muted);font-size:20px}
+
+/* ---------- CONFERENCE OVERVIEW ---------- */
+.statcard{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow-card);padding:8px 36px;width:1500px}
+.tiles{display:grid;grid-template-columns:repeat(4,1fr);gap:0}
+.tile{padding:26px 24px 22px 0;border-top:1px solid var(--line)}
+.tile:nth-child(-n+4){border-top:0}
+.tile b{display:block;font:500 50px/1 var(--font-mono);letter-spacing:-.02em;font-variant-numeric:tabular-nums}
+.tile span{font-size:20px;color:var(--muted);margin-top:6px;display:block}
+.themes{margin:30px 0 0;font-size:24px;color:var(--muted);max-width:1500px;line-height:1.5}
+.themes b{color:var(--fg)}
+
+/* ---------- INSIGHT SLIDE (core) ---------- */
+.ins-grid{display:grid;grid-template-columns:minmax(0,1.45fr) minmax(0,1fr);gap:48px;align-items:start}
+.fields{display:grid;gap:20px}
+.field{padding-left:22px;border-left:6px solid var(--line)}
+.field .lbl{font:600 18px/1 var(--font-mono);letter-spacing:.05em;text-transform:uppercase;margin-bottom:8px;display:block}
+.field p{margin:0;font-size:25px;line-height:1.42}
+.field ul{margin:0;padding-left:26px;font-size:25px;line-height:1.42}
+.field ul li{margin:3px 0}
+.field.goal{border-color:var(--accent)} .field.goal .lbl{color:var(--accent)}
+.field.challenge{border-color:var(--bad)} .field.challenge .lbl{color:var(--bad)}
+.field.method{border-color:var(--plan)} .field.method .lbl{color:var(--plan)}
+.field.novelty{border-color:var(--work)} .field.novelty .lbl{color:var(--work)}
+.field.impact{border-color:var(--brand)} .field.impact .lbl{color:var(--brand)}
+
+.side{display:grid;gap:20px}
+.byline-card{background:var(--card);border:1px solid var(--line);border-radius:10px;box-shadow:var(--shadow-card);padding:20px 22px;display:flex;gap:18px;align-items:center}
+.byline-card .logo{width:120px;height:72px;flex:none;border:1px dashed var(--line);border-radius:8px;display:flex;align-items:center;justify-content:center;font:500 12px var(--font-mono);color:var(--muted);text-align:center;text-transform:uppercase;overflow:hidden}
+.byline-card .logo img{max-width:100%;max-height:100%;object-fit:contain}
+.byline-card .who b{font-size:24px;font-weight:600;display:block;line-height:1.2}
+.byline-card .who span{font-size:19px;color:var(--muted)}
+figure.figure{margin:0;display:flex;flex-direction:column;gap:10px}
+figure.figure .frame{border:1px dashed var(--line);border-radius:10px;background:var(--inset);min-height:260px;display:flex;align-items:center;justify-content:center;text-align:center;color:var(--muted);font:500 15px var(--font-mono);text-transform:uppercase;letter-spacing:.04em;padding:16px;overflow:hidden}
+figure.figure .frame img{max-width:100%;max-height:420px;border-radius:6px;object-fit:contain}
+figure.figure figcaption{font:500 16px var(--font-mono);color:var(--muted)}
+
+/* reference — pinned to slide bottom, always visible */
+.slide .ref{flex:none;margin-top:22px;padding-top:16px;border-top:1px solid var(--line);font:500 17px/1.45 var(--font-mono);color:var(--muted)}
+.slide .ref b{color:var(--fg)} .slide .ref a{color:var(--work);text-decoration:none}
+.slide .ref .code{font:500 16px/1.4 var(--font-mono);color:var(--muted);margin-bottom:8px}
+
+/* ---------- CONCLUSIONS ---------- */
+.concl{display:grid;grid-template-columns:repeat(3,1fr);gap:28px;width:1728px}
+.concl .col{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow-card);padding:26px 28px}
+.concl .col h4{margin:0 0 16px;font:600 18px var(--font-mono);text-transform:uppercase;letter-spacing:.05em;color:var(--muted)}
+.concl .col.c1 h4{color:var(--accent)} .concl .col.c2 h4{color:var(--work)} .concl .col.c3 h4{color:var(--brand)}
+.concl ul{margin:0;padding-left:24px;font-size:24px;line-height:1.45}
+.concl ul li{margin:10px 0}
+
+/* ---------- chrome: counter, toc ---------- */
+.counter{position:fixed;right:20px;bottom:14px;font:13px var(--font-mono);color:var(--muted)}
+.toc-btn{position:fixed;left:20px;bottom:12px;font:13px var(--font-sans);color:var(--muted);background:none;border:1px solid var(--line);border-radius:7px;padding:5px 12px;cursor:pointer}
+.toc{position:fixed;left:0;top:0;bottom:0;width:420px;background:var(--bg);border-right:1px solid var(--line);overflow:auto;padding:20px 20px 44px;transform:translateX(-100%);transition:transform .2s;z-index:9;font-size:14px}
+.toc.open{transform:none}
+.toc h4{margin:0 0 12px;font-size:13px;color:var(--muted);font-weight:500}
+.toc .g{margin:14px 0 5px;font:600 11px var(--font-mono);color:var(--muted);text-transform:uppercase;letter-spacing:.05em}
+.toc a{display:block;padding:4px 8px;border-radius:5px;color:var(--fg);text-decoration:none;line-height:1.35}
+.toc a.on,.toc a:hover{background:var(--inset)}
+
+@media print{
+  @page{size:1920px 1080px;margin:0}
+  html,body{overflow:visible;height:auto;background:#fff}
+  .stage{position:static;transform:none!important;width:1920px;height:auto}
+  .slide{display:flex!important;position:relative;inset:auto;page-break-after:always;width:1920px;height:1080px}
+  .counter,.toc-btn,.toc{display:none}
+}
+
+/* ---------- Type B (talk) additions ---------- */
+.s-head .lede{margin:0 0 10px;font-size:24px;line-height:1.35;color:var(--muted);max-width:1500px}
+.title-slide .t-wrap{width:100%}
+.areas{display:grid;grid-template-columns:repeat(6,1fr);gap:16px;margin:0 0 46px;max-width:1740px}
+.area{background:var(--card);border:1px solid var(--line);border-radius:10px;box-shadow:var(--shadow-card);padding:20px 18px;font:600 23px var(--font-sans);border-left:6px solid var(--line)}
+.area b{display:block;font:600 16px var(--font-mono);letter-spacing:.05em;margin-bottom:8px}
+.area span{display:block;font:400 17px var(--font-sans);color:var(--muted);margin-top:6px}
+.area.a1{border-left-color:var(--accent)} .area.a1 b{color:var(--accent)}
+.area.a2{border-left-color:var(--ok)} .area.a2 b{color:var(--ok)}
+.area.a3{border-left-color:var(--work)} .area.a3 b{color:var(--work)}
+.area.a4{border-left-color:var(--warn)} .area.a4 b{color:var(--warn)}
+.area.a5{border-left-color:var(--brand)} .area.a5 b{color:var(--brand)}
+.area.a6{border-left-color:var(--plan)} .area.a6 b{color:var(--plan)}
+.agenda .row em{margin-left:auto;font:500 18px var(--font-mono);color:var(--muted);font-style:normal}
+.agenda{width:1500px;counter-reset:ag 0}
+.agenda .row{display:flex;align-items:baseline;gap:18px}
+.viz .viz-wrap{display:flex;justify-content:center}
+.viz .viz-wrap .vis{display:block;border-radius:10px}
+.viz .viz-wrap iframe.vis{border:1px solid var(--line);background:#f4f5f6;width:1500px;height:900px;transform-origin:50% 0}
+.viz .viz-wrap img.still{border:1px solid var(--line);background:#fff}
+.chips{display:grid;grid-template-columns:repeat(3,1fr);gap:22px;margin-top:22px;width:1500px;margin-left:auto;margin-right:auto}
+.chip{background:var(--card);border:1px solid var(--line);border-radius:10px;box-shadow:var(--shadow-card);padding:16px 20px 16px 22px;border-left:6px solid var(--line)}
+.chip .lbl{font:600 15px/1 var(--font-mono);letter-spacing:.05em;text-transform:uppercase;margin-bottom:8px;display:block}
+.chip p{margin:0;font-size:22px;line-height:1.35}
+.chip.goal{border-left-color:var(--accent)} .chip.goal .lbl{color:var(--accent)}
+.chip.method{border-left-color:var(--plan)} .chip.method .lbl{color:var(--plan)}
+.chip.novelty{border-left-color:var(--work)} .chip.novelty .lbl{color:var(--work)}
+.slide .ref{font-size:15px;line-height:1.5}
+.viz-comp{width:1500px}
+.ch-cols{display:grid;grid-template-columns:repeat(4,1fr);gap:20px;width:1740px;align-items:start}
+.ch-col{background:var(--card);border:1px solid var(--line);border-top:8px solid var(--c);border-radius:12px;box-shadow:var(--shadow-card);padding:20px 20px 22px}
+.ch-col .num{font:600 16px var(--font-mono);color:var(--c)}
+.ch-col h3{margin:6px 0 6px;font-size:28px;letter-spacing:-.02em;font-weight:620}
+.ch-col .q{font-size:18px;font-weight:600;line-height:1.3;margin:0 0 14px;color:var(--fg)}
+.ch-item{font-size:15.5px;line-height:1.42;padding:11px 0 11px 14px;border-top:1px solid var(--line);border-left:4px solid var(--c);margin-top:10px;background:transparent}
+.ch-item b{font-size:16.5px;font-weight:620;display:block;margin-bottom:2px}
+.ch-item .cite{font:500 12px var(--font-mono);color:var(--work)}
+.slide .ref.small{font-size:11.5px;line-height:1.4}
+
+</style></head>
+<body>
+<!-- TYPE B · TALK / TOPIC DECK. See ../STYLE-GUIDE.md section 9. Placeholders are written [[LIKE THIS]]. -->
+<div class="stage">
+<!-- ============ 1 · TITLE: the talk, its event and the parts it covers ============ -->
+<section class="slide title-slide on" data-toc="Title" data-group="Talk">
+  <div class="t-wrap">
+    <div class="brandmark"><i></i>[[Event name · City]]</div>
+    <div class="kicker">[[Short label · Month Year]]</div>
+    <h1>[[Talk title]]</h1>
+    <p class="topic">[[One or two sentences: what the talk covers and why it matters.]]</p>
+    <div class="areas">
+      <div class="area a1"><b>01</b>Part one<span>[[one line]]</span></div>
+      <div class="area a2"><b>02</b>Part two<span>[[one line]]</span></div>
+      <div class="area a3"><b>03</b>Part three<span>[[one line]]</span></div>
+      <div class="area a4"><b>04</b>Part four<span>[[one line]]</span></div>
+      <div class="area a5"><b>05</b>Part five<span>[[one line]]</span></div>
+      <div class="area a6"><b>06</b>Part six<span>[[one line]]</span></div>
+    </div>
+    <div class="t-meta"><div>Event<b>[[Event]]</b></div><div>Date<b>[[Month Year]]</b></div></div>
+  </div>
+</section>
+
+<!-- ============ 2 · CONTENTS: same parts, same numbers as the title slide ============ -->
+<section class="slide" data-toc="Contents" data-group="Talk">
+  <div class="s-head"><div class="kicker">Contents</div><h2>[[6]] parts, one system</h2><p class="lede">[[One sentence that joins the parts.]]</p></div>
+  <div class="s-body"><div class="fit"><div class="agenda"><div class="row"><b>[[Part 1 name]]</b><span>[[one line about the part]]</span><em>[[n]] slides</em></div><div class="row"><b>[[Part 2 name]]</b><span>[[one line about the part]]</span><em>[[n]] slides</em></div><div class="row"><b>[[Part 3 name]]</b><span>[[one line about the part]]</span><em>[[n]] slides</em></div><div class="row"><b>[[Part 4 name]]</b><span>[[one line about the part]]</span><em>[[n]] slides</em></div><div class="row"><b>[[Part 5 name]]</b><span>[[one line about the part]]</span><em>[[n]] slides</em></div><div class="row"><b>[[Part 6 name]]</b><span>[[one line about the part]]</span><em>[[n]] slides</em></div></div></div></div>
+</section>
+
+<!-- ============ 3 · CONTENT SLIDE: one animated drawing + 3 chips + references footer ============ -->
+<section class="slide viz" data-toc="[[Slide title]]" data-group="[[Part one]]">
+  <div class="s-head"><div class="kicker">01 · [[Part one]]</div><h2>[[Slide title]]</h2><p class="lede">[[One sentence: the message of this slide.]]</p></div>
+  <div class="s-body"><div class="fit"><div class="viz-wrap"><img class="vis replay-svg" data-svg="sample-animation" width="1360" height="413" alt=""></div>
+    <div class="chips">
+      <div class="chip goal"><span class="lbl">[[Label 1]]</span><p>[[One short sentence.]]</p></div>
+      <div class="chip method"><span class="lbl">[[Label 2]]</span><p>[[One short sentence.]]</p></div>
+      <div class="chip novelty"><span class="lbl">[[Label 3]]</span><p>[[One short sentence.]]</p></div>
+    </div></div></div>
+  <div class="ref"><b>[[1]]</b> [[A. Author et al., "Title," arXiv:0000.00000, Year.]] &nbsp;·&nbsp; <b>[[2]]</b> [[B. Author et al., "Title," Venue, Year.]]</div>
+</section>
+
+<!-- ============ 4 · CHALLENGES: one slide, up to 4 columns of 3 points ============ -->
+<section class="slide viz" data-toc="[[N]] challenges ahead" data-group="Challenges">
+  <div class="s-head"><div class="kicker">07 · Challenges</div><h2>[[4]] challenges ahead</h2><p class="lede">[[What has to be true for the idea to work in practice.]]</p></div>
+  <div class="s-body"><div class="fit"><div class="ch-cols"><div class="ch-col" style="--c:var(--accent)"><span class="num">01</span><h3>[[Challenge 1]]</h3><p class="q">[[The question it answers?]]</p><div class="ch-item"><b>[[Short lead sentence.]]</b> [[One or two sentences of detail.]] <span class="cite">[[1]]</span></div><div class="ch-item"><b>[[Short lead sentence.]]</b> [[One or two sentences of detail.]] <span class="cite">[[1]]</span></div><div class="ch-item"><b>[[Short lead sentence.]]</b> [[One or two sentences of detail.]] <span class="cite">[[1]]</span></div></div><div class="ch-col" style="--c:var(--warn)"><span class="num">02</span><h3>[[Challenge 2]]</h3><p class="q">[[The question it answers?]]</p><div class="ch-item"><b>[[Short lead sentence.]]</b> [[One or two sentences of detail.]] <span class="cite">[[1]]</span></div><div class="ch-item"><b>[[Short lead sentence.]]</b> [[One or two sentences of detail.]] <span class="cite">[[1]]</span></div><div class="ch-item"><b>[[Short lead sentence.]]</b> [[One or two sentences of detail.]] <span class="cite">[[1]]</span></div></div><div class="ch-col" style="--c:var(--work)"><span class="num">03</span><h3>[[Challenge 3]]</h3><p class="q">[[The question it answers?]]</p><div class="ch-item"><b>[[Short lead sentence.]]</b> [[One or two sentences of detail.]] <span class="cite">[[1]]</span></div><div class="ch-item"><b>[[Short lead sentence.]]</b> [[One or two sentences of detail.]] <span class="cite">[[1]]</span></div><div class="ch-item"><b>[[Short lead sentence.]]</b> [[One or two sentences of detail.]] <span class="cite">[[1]]</span></div></div><div class="ch-col" style="--c:var(--plan)"><span class="num">04</span><h3>[[Challenge 4]]</h3><p class="q">[[The question it answers?]]</p><div class="ch-item"><b>[[Short lead sentence.]]</b> [[One or two sentences of detail.]] <span class="cite">[[1]]</span></div><div class="ch-item"><b>[[Short lead sentence.]]</b> [[One or two sentences of detail.]] <span class="cite">[[1]]</span></div><div class="ch-item"><b>[[Short lead sentence.]]</b> [[One or two sentences of detail.]] <span class="cite">[[1]]</span></div></div></div></div></div>
+  <div class="ref small"><b>[[1]]</b> [[Full reference.]]</div>
+</section>
+
+</div><!-- /stage -->
+
+<div class="counter"></div>
+<button class="toc-btn">Contents (T)</button>
+<nav class="toc"><h4>Contents</h4></nav>
+
+<script>
+/* every animated drawing is stored here by name and loaded into an <img data-svg="name"> each time its slide is shown, so it replays */
+window.SVGS = {"sample-animation": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 30 1280 390\" width=\"1280\" height=\"390\" role=\"img\" aria-label=\"[[describe the drawing]]\">\n<title>[[describe the drawing]]</title>\n<style>\ntext{font-family:\"Geist\",\"Inter\",\"Segoe UI\",Arial,sans-serif;fill:#1f2328}\n.t{font-size:22px;font-weight:700} .s{font-size:16px;fill:#6b7280} .h{font-size:34px;font-weight:800}\n.b{font-size:18px;font-weight:600} .c{text-anchor:middle} .w{fill:#fff}\n.n{animation:pop .55s ease backwards;animation-delay:var(--d,0s)}\n.d{stroke-dasharray:1;animation:draw .7s ease backwards;animation-delay:var(--d,0s)}\n.f{animation:flow 1.1s linear infinite;stroke-dasharray:10 8}\n@keyframes pop{from{opacity:0}to{opacity:1}}\n@keyframes draw{0%{stroke-dashoffset:1;marker-end:none}99%{stroke-dashoffset:.01;marker-end:none}100%{stroke-dashoffset:0;marker-end:url(#ar)}}\n@keyframes drawb{0%{stroke-dashoffset:1;marker-end:none}99%{stroke-dashoffset:.01;marker-end:none}100%{stroke-dashoffset:0;marker-end:url(#arb)}}\n.d.hb{animation-name:drawb}\n@keyframes flow{to{stroke-dashoffset:-18}}\n@keyframes dim{to{opacity:.2}}\n.dm{animation:pop .55s ease backwards var(--d,0s),dim .6s ease forwards var(--d2,5s)}\n@keyframes mv{from{transform:translate(0,0)}to{transform:translate(var(--dx),var(--dy))}}\n.mvin{animation:pop .4s ease backwards var(--d,0s),mv 1.1s ease forwards calc(var(--d,0s) + .5s)}\n.mvout{animation:mv 1.1s ease forwards calc(var(--d,0s) + .5s)}\n.mvout.go{animation:mv 1.1s ease forwards calc(var(--d,0s) + .5s),fadeout .5s ease forwards calc(var(--d,0s) + 1.7s)}\n.bad{animation:badc .4s ease forwards 6.4s}\n@keyframes badc{to{fill:#fbe6e3;stroke:#c0392b}}\n@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}\n@keyframes rej{0%{opacity:0}6%{opacity:1}88%{opacity:1}100%{opacity:0}}\n.rej{animation:rej 4.4s ease both;animation-delay:var(--d,0s)}\n@keyframes fadeout{to{opacity:0}}\n.fade{animation:fadeout .7s ease forwards;animation-delay:var(--o,0s)}\n.g{transform-box:fill-box;transform-origin:left center;animation:grow 1.2s ease backwards;animation-delay:var(--d,0s)}\n</style>\n<text x=\"60\" y=\"64\" class=\"h n\" style=\"--d:0.1s\">[[Drawing title]]</text><text x=\"60\" y=\"96\" class=\"s n\" style=\"--d:0.2s\">[[One line that says what the drawing shows.]]</text><g class=\"n\" style=\"--d:0.6s\"><rect x=\"60\" y=\"150\" width=\"300\" height=\"90\" rx=\"14\" fill=\"#e8eefb\" stroke=\"#2457c5\" stroke-width=\"2.2\"/><text x=\"210.0\" y=\"186\" class=\"b c\">[[Step 1]]</text><text x=\"210.0\" y=\"212\" class=\"s c\">[[what it does]]</text></g><path d=\"M366 195 L474 195\" pathLength=\"1\" class=\"d hb\" style=\"--d:1.2s\" fill=\"none\" stroke=\"#2457c5\" stroke-width=\"2.6\" marker-end=\"url(#arb)\"/><g class=\"n\" style=\"--d:1.6s\"><rect x=\"480\" y=\"150\" width=\"300\" height=\"90\" rx=\"14\" fill=\"#e1f3f3\" stroke=\"#0f8b8d\" stroke-width=\"2.2\"/><text x=\"630.0\" y=\"186\" class=\"b c\">[[Step 2]]</text><text x=\"630.0\" y=\"212\" class=\"s c\">[[what it does]]</text></g><path d=\"M786 195 L894 195\" pathLength=\"1\" class=\"d hb\" style=\"--d:2.2s\" fill=\"none\" stroke=\"#2457c5\" stroke-width=\"2.6\" marker-end=\"url(#arb)\"/><g class=\"n\" style=\"--d:2.6s\"><rect x=\"900\" y=\"150\" width=\"300\" height=\"90\" rx=\"14\" fill=\"#e3f4ea\" stroke=\"#1f8a4c\" stroke-width=\"2.2\"/><text x=\"1050.0\" y=\"186\" class=\"b c\">[[Step 3]]</text><text x=\"1050.0\" y=\"212\" class=\"s c\">[[what it does]]</text></g><rect x=\"80\" y=\"262\" width=\"260\" height=\"8\" rx=\"4\" fill=\"#c9ced6\" class=\"n\" style=\"--d:3.0s\"/><rect x=\"80\" y=\"262\" width=\"260\" height=\"8\" rx=\"4\" fill=\"#0f8b8d\" class=\"g\" style=\"--d:3.3s\"/><path d=\"M1050 246 C1050 330 630 330 630 246\" pathLength=\"1\" class=\"d\" style=\"--d:4.0s\" fill=\"none\" stroke=\"#c77d0a\" stroke-width=\"2.6\" marker-end=\"url(#ar)\"/><text x=\"840\" y=\"352\" class=\"s c n\" style=\"--d:4.6s;fill:#c77d0a\">[[feedback: the result goes back into the loop]]</text><g class=\"n\" style=\"--d:5.2s\"><circle cx=\"1050\" cy=\"300\" r=\"13\" fill=\"#1f8a4c\"/><path d=\"M1044 300 l4 5 l9 -10\" stroke=\"#fff\" stroke-width=\"3\" fill=\"none\"/></g><text x=\"60\" y=\"396\" class=\"s n\" style=\"--d:5.6s\">[[Source or one-line takeaway.]]</text>\n<defs><marker id=\"ar\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"7\" markerHeight=\"7\" orient=\"auto-start-reverse\"><path d=\"M0 0L10 5L0 10z\" fill=\"#6b7280\"/></marker><marker id=\"arb\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"7\" markerHeight=\"7\" orient=\"auto-start-reverse\"><path d=\"M0 0L10 5L0 10z\" fill=\"#2457c5\"/></marker></defs></svg>\n"};
+</script>
+<script>
+
+(() => {
+  const stage = document.querySelector('.stage');
+  const slides = [...document.querySelectorAll('.slide')];
+  const counter = document.querySelector('.counter');
+  const toc = document.querySelector('.toc');
+
+  // Build the contents list (grouped by data-group).
+  let lastGroup = null;
+  slides.forEach((s, k) => {
+    const g = s.dataset.group || '';
+    if (g && g !== lastGroup) { const h = document.createElement('div'); h.className='g'; h.textContent=g; toc.append(h); lastGroup=g; }
+    const a = document.createElement('a'); a.href='#'+(k+1); a.textContent=(k+1)+'. '+(s.dataset.toc||('Slide '+(k+1))); toc.append(a);
+  });
+  const links = [...toc.querySelectorAll('a')];
+
+  // Scale the 1920×1080 stage to the viewport.
+  const fitStage = () => {
+    const s = Math.min(innerWidth/1920, innerHeight/1080);
+    stage.style.transform = `scale(${s}) translate(-50%, -50%)`;
+  };
+  // Scale each slide's .fit content to fill the area under its headline without
+  // clipping: grows up to 1.7×, and shrinks if a card is overloaded (that is your
+  // cue to summarise — see STYLE-GUIDE §6), so text is never cut off.
+  const fitSlide = (slide) => {
+    const box = slide.querySelector('.s-body'), inner = slide.querySelector('.fit');
+    if (!box || !inner) return;
+    inner.style.transform = 'none';
+    const w = inner.scrollWidth, h = inner.scrollHeight;
+    const s = Math.min(box.clientWidth/w, box.clientHeight/h, 1.7);
+    inner.style.transform = `scale(${s})`;
+    inner.style.left = Math.max(0, (box.clientWidth - w*s)/2) + 'px';
+  };
+
+  // restart the animated drawings (and load the live replay) each time a slide is shown; all content is embedded in this file
+  const blobs = new WeakMap();
+  const play = (slide) => {
+    slides.forEach((s) => { s.querySelectorAll('iframe[data-live]').forEach((f) => { if (s !== slide) f.removeAttribute('src'); }); });
+    slide.querySelectorAll('img[data-svg]').forEach((im) => {
+      if (blobs.has(im)) URL.revokeObjectURL(blobs.get(im));
+      const u = URL.createObjectURL(new Blob([window.SVGS[im.dataset.svg]], { type: 'image/svg+xml' }));
+      blobs.set(im, u); im.src = u;
+    });
+    slide.querySelectorAll('iframe[data-live]').forEach((f) => {
+      if (f.dataset.url) URL.revokeObjectURL(f.dataset.url);
+      const bin = atob(window.REPLAY_B64), bytes = Uint8Array.from(bin, (c) => c.charCodeAt(0));
+      f.dataset.url = URL.createObjectURL(new Blob([bytes], { type: 'text/html' })); f.src = f.dataset.url;
+    });
+  };
+
+  let i = 0;
+  const show = (n, push=true) => {
+    i = Math.max(0, Math.min(slides.length-1, n));
+    slides.forEach((s,k)=>s.classList.toggle('on', k===i));
+    play(slides[i]);
+    fitSlide(slides[i]);
+    counter.textContent = `${i+1} / ${slides.length}`;
+    links.forEach((a,k)=>a.classList.toggle('on', k===i));
+    if (push) history.replaceState(null,'','#'+(i+1));
+  };
+  addEventListener('resize', () => { fitStage(); fitSlide(slides[i]); });
+  addEventListener('hashchange', () => show((parseInt(location.hash.slice(1),10)||1)-1, false));
+  addEventListener('keydown', (e) => {
+    if (e.metaKey||e.ctrlKey||e.altKey) return;
+    if (e.key==='t'||e.key==='T'){ toc.classList.toggle('open'); return; }
+    if (e.key==='Escape'){ toc.classList.remove('open'); return; }
+    if (['ArrowRight','ArrowDown','PageDown',' '].includes(e.key)){ e.preventDefault(); show(i+1); }
+    else if (['ArrowLeft','ArrowUp','PageUp','Backspace'].includes(e.key)){ e.preventDefault(); show(i-1); }
+    else if (e.key==='Home') show(0);
+    else if (e.key==='End') show(slides.length-1);
+  });
+  document.querySelector('.toc-btn').addEventListener('click', ()=>toc.classList.toggle('open'));
+  toc.addEventListener('click', (e)=>{ if (e.target.tagName==='A') toc.classList.remove('open'); });
+  fitStage();
+  (document.fonts ? document.fonts.ready : Promise.resolve()).then(()=>show((parseInt(location.hash.slice(1),10)||1)-1, false));
+  show((parseInt(location.hash.slice(1),10)||1)-1, false);
+})();
+
+</script>
+</body></html>

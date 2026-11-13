@@ -1,0 +1,1460 @@
+{
+ "folder": "2026-04_ICLR-rio-de-janeiro",
+ "strings": {
+  "6d156b9abc": {
+   "en": "[1] M. Cemri et al., “Why Do Multi-Agent LLM Systems Fail?,” arXiv:2503.13657, 2025.",
+   "zh": "[1] M. Cemri et al., “Why Do Multi-Agent LLM Systems Fail?,” arXiv:2503.13657, 2025.",
+   "cls": "keep"
+  },
+  "25a4c313ff": {
+   "en": "[2] P. Laban et al., “LLMs Get Lost in Multi-Turn Conversation,” arXiv:2505.06120, 2025.",
+   "zh": "[2] P. Laban et al., “LLMs Get Lost in Multi-Turn Conversation,” arXiv:2505.06120, 2025.",
+   "cls": "keep"
+  },
+  "6b289e3eef": {
+   "en": "[3] Z. Li et al., “In-the-Flow Agentic System Optimization for Effective Planning and Tool Use,” arXiv:2510.05592, 2025. (ICLR 2026 Oral)",
+   "zh": "[3] Z. Li et al., “In-the-Flow Agentic System Optimization for Effective Planning and Tool Use,” arXiv:2510.05592, 2025. (ICLR 2026 Oral)",
+   "cls": "keep"
+  },
+  "02eba2a1d3": {
+   "en": "[4] J. Jeong et al., “TAPE: Tool-Guided Adaptive Planning and Constrained Execution in Language Model Agents,” arXiv:2602.19633, 2026.",
+   "zh": "[4] J. Jeong et al., “TAPE: Tool-Guided Adaptive Planning and Constrained Execution in Language Model Agents,” arXiv:2602.19633, 2026.",
+   "cls": "keep"
+  },
+  "76de30f3b7": {
+   "en": "[5] B. Mohammadi et al., “Atomix: Timely, Transactional Tool Use for Reliable Agentic Workflows,” arXiv:2602.14849, 2026.",
+   "zh": "[5] B. Mohammadi et al., “Atomix: Timely, Transactional Tool Use for Reliable Agentic Workflows,” arXiv:2602.14849, 2026.",
+   "cls": "keep"
+  },
+  "f816d81ae2": {
+   "en": "[6] P. Becker et al., “TROLL: Trust Regions Improve Reinforcement Learning for Large Language Models,” arXiv:2510.03817, 2025.",
+   "zh": "[6] P. Becker et al., “TROLL: Trust Regions Improve Reinforcement Learning for Large Language Models,” arXiv:2510.03817, 2025.",
+   "cls": "keep"
+  },
+  "fd46589ac7": {
+   "en": "[7] L. A. Agrawal et al., “GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning,” arXiv:2507.19457, 2025. (ICLR 2026 Oral)",
+   "zh": "[7] L. A. Agrawal et al., “GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning,” arXiv:2507.19457, 2025. (ICLR 2026 Oral)",
+   "cls": "keep"
+  },
+  "ad1c74e0ba": {
+   "en": "[8] L. Zhang et al., “SPRIG: Improving Large Language Model Performance by System Prompt Optimization,” arXiv:2410.14826, 2024.",
+   "zh": "[8] L. Zhang et al., “SPRIG: Improving Large Language Model Performance by System Prompt Optimization,” arXiv:2410.14826, 2024.",
+   "cls": "keep"
+  },
+  "010e7f73c0": {
+   "en": "[9] G.-H. Kim et al., “SafeDPO: A Simple Approach to Direct Preference Optimization with Enhanced Safety,” arXiv:2505.20065, 2025. (ICLR 2026 Oral)",
+   "zh": "[9] G.-H. Kim et al., “SafeDPO: A Simple Approach to Direct Preference Optimization with Enhanced Safety,” arXiv:2505.20065, 2025. (ICLR 2026 Oral)",
+   "cls": "keep"
+  },
+  "a68e1b18e7": {
+   "en": "[10] Utkarsh et al., “End-to-End Probabilistic Framework for Learning with Hard Constraints,” arXiv:2506.07003, 2025.",
+   "zh": "[10] Utkarsh et al., “End-to-End Probabilistic Framework for Learning with Hard Constraints,” arXiv:2506.07003, 2025.",
+   "cls": "keep"
+  },
+  "60b68b761f": {
+   "en": "[11] I. Wicaksono et al., “Mind the Gap: Evaluating Model- and Agentic-Level Vulnerabilities in LLMs with Action Graphs,” arXiv:2509.04802, 2025.",
+   "zh": "[11] I. Wicaksono et al., “Mind the Gap: Evaluating Model- and Agentic-Level Vulnerabilities in LLMs with Action Graphs,” arXiv:2509.04802, 2025.",
+   "cls": "keep"
+  },
+  "6bbf1092c7": {
+   "en": "[12] M. Saebo et al., “Asymmetric Goal Drift in Coding Agents Under Value Conflict,” arXiv:2603.03456, 2026.",
+   "zh": "[12] M. Saebo et al., “Asymmetric Goal Drift in Coding Agents Under Value Conflict,” arXiv:2603.03456, 2026.",
+   "cls": "keep"
+  },
+  "c411c7496b": {
+   "en": "{1}{2}{/2}Tech Insight{/1}{3}Contents{/3}{4}·{/4}{5}Statistics{/5}{6}·{/6}{7}Insights{/7}{8}·{/8}{9}Conclusions{/9}{10}·{/10}{11}References{/11}",
+   "zh": "{1}{2}{/2}Tech Insight{/1}{3}目录{/3}{4}·{/4}{5}统计{/5}{6}·{/6}{7}洞察{/7}{8}·{/8}{9}结论{/9}{10}·{/10}{11}参考文献{/11}",
+   "cls": "nav.bar"
+  },
+  "086ab67fb9": {
+   "en": "ICLR 2026 · Tech Insight Report",
+   "zh": "ICLR 2026 · Tech Insight 报告",
+   "cls": "div.kicker"
+  },
+  "6b9410218a": {
+   "en": "ICLR 2026 — 14th International Conference on Learning Representations",
+   "zh": "ICLR 2026 — 第 14 届国际学习表征会议",
+   "cls": "h1"
+  },
+  "fb1cc556cb": {
+   "en": "{1}Rio de Janeiro, Brazil · April 2026{/1}",
+   "zh": "{1}巴西里约热内卢 · 2026 年 4 月{/1}",
+   "cls": "p.lede"
+  },
+  "a41c5b7b18": {
+   "en": "A read of ICLR 2026 through one lens: as AI shifts from single models to tool-using agents, the field's attention is moving from chasing benchmark scores to making agents reliable — so they behave well over long, messy, real-world tasks. These are the papers that show where agents break and how to make them trustworthy.",
+   "zh": "从一个视角解读 ICLR 2026：随着 AI 从单一模型转向使用工具的智能体，该领域的关注点正从追逐基准测试分数转向让智能体可靠，使其在漫长、混乱的真实任务中表现良好。这些论文展示了智能体在哪里出问题，以及如何让它们值得信赖。",
+   "cls": "p.lede"
+  },
+  "0bfe5de56f": {
+   "en": "Location{1}Rio de Janeiro, Brazil{/1}",
+   "zh": "地点{1}巴西里约热内卢{/1}",
+   "cls": "div"
+  },
+  "24420add87": {
+   "en": "Dates{1}April 2026{/1}",
+   "zh": "日期{1}2026 年 4 月{/1}",
+   "cls": "div"
+  },
+  "f5fcf9e1f6": {
+   "en": "Focus{1}Limitations and Reliability Challenges in LLM-based Agent Systems{/1}",
+   "zh": "主题{1}基于大语言模型的智能体系统的局限与可靠性挑战{/1}",
+   "cls": "div"
+  },
+  "f91f503b91": {
+   "en": "01 · Contents",
+   "zh": "01 · 目录",
+   "cls": "div.kicker"
+  },
+  "c204d81574": {
+   "en": "Papers covered, by theme",
+   "zh": "按主题划分的论文",
+   "cls": "h2"
+  },
+  "70ea7206bb": {
+   "en": "A · Why agents fail",
+   "zh": "A · 智能体为何失败",
+   "cls": "attr:data-group"
+  },
+  "e5992db56c": {
+   "en": "{1}01{/1}{2}Why Do Multi-Agent LLM Systems Fail?{/2}",
+   "zh": "{1}01{/1}{2}Why Do Multi-Agent LLM Systems Fail?{/2}",
+   "cls": "div"
+  },
+  "cb4bd03d9f": {
+   "en": "{1}02{/1}{2}LLMs Get Lost in Multi-Turn Conversation{/2}",
+   "zh": "{1}02{/1}{2}LLMs Get Lost in Multi-Turn Conversation{/2}",
+   "cls": "div"
+  },
+  "49ae75e052": {
+   "en": "B · Reliable planning, tools & execution",
+   "zh": "B · 可靠的规划、工具与执行",
+   "cls": "attr:data-group"
+  },
+  "cbf0cffda9": {
+   "en": "{1}03{/1}{2}AgentFlow: In-the-Flow Agentic System Optimization{/2}",
+   "zh": "{1}03{/1}{2}AgentFlow: In-the-Flow Agentic System Optimization{/2}",
+   "cls": "div"
+  },
+  "750a1144ff": {
+   "en": "{1}04{/1}{2}TAPE: Tool-Guided Adaptive Planning & Constrained Execution{/2}",
+   "zh": "{1}04{/1}{2}TAPE: Tool-Guided Adaptive Planning & Constrained Execution{/2}",
+   "cls": "div"
+  },
+  "024f6cf3ee": {
+   "en": "{1}05{/1}{2}Atomix: Transactional Tool Use for Reliable Agentic Workflows{/2}",
+   "zh": "{1}05{/1}{2}Atomix: Transactional Tool Use for Reliable Agentic Workflows{/2}",
+   "cls": "div"
+  },
+  "fa4ff032cb": {
+   "en": "C · Better training & prompting",
+   "zh": "C · 更好的训练与提示词",
+   "cls": "attr:data-group"
+  },
+  "bfa5fc1496": {
+   "en": "{1}06{/1}{2}TROLL: Trust Regions Improve RL for LLMs{/2}",
+   "zh": "{1}06{/1}{2}TROLL: Trust Regions Improve RL for LLMs{/2}",
+   "cls": "div"
+  },
+  "1d3479a4b5": {
+   "en": "{1}07{/1}{2}GEPA: Reflective Prompt Evolution Can Outperform RL{/2}",
+   "zh": "{1}07{/1}{2}GEPA: Reflective Prompt Evolution Can Outperform RL{/2}",
+   "cls": "div"
+  },
+  "4853c730af": {
+   "en": "{1}08{/1}{2}SPRIG: System Prompt Optimization{/2}",
+   "zh": "{1}08{/1}{2}SPRIG: System Prompt Optimization{/2}",
+   "cls": "div"
+  },
+  "80efddc490": {
+   "en": "D · Safety, constraints & security",
+   "zh": "D · 安全、约束与保障",
+   "cls": "attr:data-group"
+  },
+  "dadfcbd992": {
+   "en": "{1}09{/1}{2}SafeDPO: Preference Optimization with Enhanced Safety{/2}",
+   "zh": "{1}09{/1}{2}SafeDPO: Preference Optimization with Enhanced Safety{/2}",
+   "cls": "div"
+  },
+  "d629a03e60": {
+   "en": "{1}10{/1}{2}Learning with Hard Constraints (ProbHardE2E){/2}",
+   "zh": "{1}10{/1}{2}Learning with Hard Constraints (ProbHardE2E){/2}",
+   "cls": "div"
+  },
+  "cde995c50c": {
+   "en": "{1}11{/1}{2}Mind the Gap: Agentic Vulnerabilities (AgentSeer){/2}",
+   "zh": "{1}11{/1}{2}Mind the Gap: Agentic Vulnerabilities (AgentSeer){/2}",
+   "cls": "div"
+  },
+  "68dab101ca": {
+   "en": "{1}12{/1}{2}Asymmetric Goal Drift in Coding Agents{/2}",
+   "zh": "{1}12{/1}{2}Asymmetric Goal Drift in Coding Agents{/2}",
+   "cls": "div"
+  },
+  "324dbde335": {
+   "en": "02 · Conference statistics",
+   "zh": "02 · 会议统计",
+   "cls": "div.kicker"
+  },
+  "dade38d4c3": {
+   "en": "14th International Conference on Learning Representations — Rio de Janeiro, Brazil, April 2026",
+   "zh": "第 14 届国际学习表征会议 — 巴西里约热内卢，2026 年 4 月",
+   "cls": "h2"
+  },
+  "2e507c534d": {
+   "en": "{1}19,525{/1}{2}submissions{/2}",
+   "zh": "{1}19,525{/1}{2}投稿数{/2}",
+   "cls": "div.tile"
+  },
+  "cd22b4aa59": {
+   "en": "{1}5,355{/1}{2}accepted{/2}",
+   "zh": "{1}5,355{/1}{2}录用数{/2}",
+   "cls": "div.tile"
+  },
+  "42dc9b05c0": {
+   "en": "{1}27%{/1}{2}acceptance rate{/2}",
+   "zh": "{1}27%{/1}{2}录用率{/2}",
+   "cls": "div.tile"
+  },
+  "d1d072bc17": {
+   "en": "{1}224{/1}{2}oral talks{/2}",
+   "zh": "{1}224{/1}{2}口头报告{/2}",
+   "cls": "div.tile"
+  },
+  "49a6b10bc4": {
+   "en": "{1}Also:{/1} 6 invited speakers · 6 parallel tracks · 40 workshops · 21 socials · 2 Outstanding Paper awards, 1 honorable mention, 2 Test-of-Time awards.",
+   "zh": "{1}另外：{/1}6 位特邀演讲者 · 6 个并行分会场 · 40 场研讨会 · 21 场社交活动 · 2 篇杰出论文奖、1 篇荣誉提名、2 项时间检验奖。",
+   "cls": "p.overview-themes"
+  },
+  "2d4f971643": {
+   "en": "Outstanding Papers: “Transformers are Inherently Succinct” and “LLMs Get Lost in Multi-Turn Conversation.” Test of Time: DCGAN; Continuous control with deep RL. The program was dominated by agent evaluation, reliability engineering, safer training, and tool use.",
+   "zh": "杰出论文：“Transformers are Inherently Succinct”和“LLMs Get Lost in Multi-Turn Conversation”。时间检验奖：DCGAN；Continuous control with deep RL。会议议程以智能体评估、可靠性工程、更安全的训练和工具使用为主。",
+   "cls": "p.overview-themes"
+  },
+  "74e3fba778": {
+   "en": "03 · Insights",
+   "zh": "03 · 洞察",
+   "cls": "div.kicker"
+  },
+  "ae28e85df8": {
+   "en": "Paper-by-paper tech insights",
+   "zh": "逐篇论文的技术洞察",
+   "cls": "h2"
+  },
+  "5c038dfb49": {
+   "en": "Why Do Multi-Agent LLM Systems Fail?",
+   "zh": "Why Do Multi-Agent LLM Systems Fail?",
+   "cls": "attr:data-toc"
+  },
+  "2787dbf396": {
+   "en": "{1}Mert Cemri et al.{/1} · UC Berkeley",
+   "zh": "{1}Mert Cemri et al.{/1} · UC Berkeley",
+   "cls": "div.byline"
+  },
+  "9fe00acebc": {
+   "en": "Goal",
+   "zh": "目标",
+   "cls": "span.lbl"
+  },
+  "dfd5b19055": {
+   "en": "Find out why systems built from several cooperating LLM agents break, and sort the failures into a clear map.",
+   "zh": "找出由多个协作的大语言模型智能体构成的系统为何出错，并把这些失败整理成一张清晰的图谱。",
+   "cls": "p"
+  },
+  "bb9d653f4e": {
+   "en": "Challenge",
+   "zh": "挑战",
+   "cls": "span.lbl"
+  },
+  "782c9c5aad": {
+   "en": "Multi-agent setups often fail, but teams had no shared way to name or diagnose what actually went wrong.",
+   "zh": "多智能体方案经常失败，但各团队缺乏一种共同的方式来命名或诊断究竟哪里出了问题。",
+   "cls": "p"
+  },
+  "88306943fe": {
+   "en": "Method",
+   "zh": "方法",
+   "cls": "span.lbl"
+  },
+  "f8c09f1db8": {
+   "en": "Studied many real multi-agent runs",
+   "zh": "研究了大量真实的多智能体运行记录",
+   "cls": "li"
+  },
+  "a2a65af294": {
+   "en": "Built MAST, the first failure taxonomy (14 modes)",
+   "zh": "构建了 MAST，首个失败分类体系（14 种模式）",
+   "cls": "li"
+  },
+  "15c10d886f": {
+   "en": "Grouped them: bad design, agents miscommunicating, weak checking/stopping",
+   "zh": "将它们归为三类：设计不当、智能体之间沟通不畅、检查/终止机制薄弱",
+   "cls": "li"
+  },
+  "aea0247b2a": {
+   "en": "Novelty",
+   "zh": "创新点",
+   "cls": "span.lbl"
+  },
+  "d8b7069e51": {
+   "en": "First systematic failure map for multi-agent LLMs. Most failures come from how agents are organized — not from the model being weak.",
+   "zh": "首个针对多智能体大语言模型的系统性失败图谱。大多数失败源于智能体的组织方式，而不是模型能力弱。",
+   "cls": "p"
+  },
+  "62036a7016": {
+   "en": "Impact",
+   "zh": "影响",
+   "cls": "span.lbl"
+  },
+  "82f91a3c03": {
+   "en": "Over 44% of failures happen during execution. Fix system design — clear roles, real coordination and verification — before adding more agents or bigger models.",
+   "zh": "超过 44% 的失败发生在执行阶段。应先修正系统设计——明确的角色、真正的协调与验证——再考虑增加智能体或使用更大的模型。",
+   "cls": "p"
+  },
+  "efe7f65c10": {
+   "en": "Workflow for building the MAST failure-mode dataset — identify failures, develop the taxonomy, refine with annotators.",
+   "zh": "构建 MAST 失败模式数据集的工作流——识别失败、制定分类体系、与标注者一起完善。",
+   "cls": "figcaption"
+  },
+  "2d1fd7db5e": {
+   "en": "LLMs Get Lost in Multi-Turn Conversation{1} — Outstanding Paper{/1}",
+   "zh": "LLMs Get Lost in Multi-Turn Conversation{1} — 杰出论文{/1}",
+   "cls": "h3"
+  },
+  "f47f43d914": {
+   "en": "{1}Philippe Laban et al.{/1} · Microsoft Research",
+   "zh": "{1}Philippe Laban et al.{/1} · Microsoft Research",
+   "cls": "div.byline"
+  },
+  "8d98a0ac20": {
+   "en": "Measure how well LLMs hold up across a back-and-forth conversation, not just one well-written prompt.",
+   "zh": "衡量大语言模型在来回多轮对话中的表现，而不只是面对一个写得好的提示词时的表现。",
+   "cls": "p"
+  },
+  "c9ac49febe": {
+   "en": "Real users reveal what they want gradually, but most tests use a single fully-specified prompt — hiding this weakness.",
+   "zh": "真实用户是逐步表达需求的，但大多数测试只用一个完整给定的提示词——掩盖了这一弱点。",
+   "cls": "p"
+  },
+  "264fd53d1a": {
+   "en": "Ran 200,000+ simulated multi-turn chats",
+   "zh": "运行了 200,000+ 次模拟多轮对话",
+   "cls": "li"
+  },
+  "c4f71a74ca": {
+   "en": "A user-simulator talks to the model across 6 task types",
+   "zh": "由用户模拟器在 6 类任务上与模型对话",
+   "cls": "li"
+  },
+  "9832af7f5c": {
+   "en": "Split the score into skill vs. reliability",
+   "zh": "把得分拆分为能力与可靠性",
+   "cls": "li"
+  },
+  "196d41db6c": {
+   "en": "Shows a large, consistent drop — about 39% — once a task is spread over several turns. Models lock onto an early guess and can’t recover.",
+   "zh": "显示一旦任务分散到多轮，表现会出现大幅且一致的下降——约 39%。模型会锁定早期的猜测而无法纠正。",
+   "cls": "p"
+  },
+  "06ad5631e4": {
+   "en": "Don’t trust single-prompt benchmarks for assistants. Build for underspecified, multi-turn use: let the model re-ground, revisit assumptions and self-correct.",
+   "zh": "不要信任针对助手的单提示词基准测试。要面向需求不完整的多轮使用场景来构建：让模型重新建立共识、重审假设并自我纠正。",
+   "cls": "p"
+  },
+  "bf499c8a99": {
+   "en": "Single- vs multi-turn conversations across six tasks — the 15 tested LLMs do far worse multi-turn (−35%).",
+   "zh": "六项任务上的单轮与多轮对话对比——被测的 15 个大语言模型在多轮下表现差得多 (−35%)。",
+   "cls": "figcaption"
+  },
+  "1a594545cf": {
+   "en": "AgentFlow: In-the-Flow Agentic System Optimization",
+   "zh": "AgentFlow: In-the-Flow Agentic System Optimization",
+   "cls": "attr:data-toc"
+  },
+  "ca972ebfb4": {
+   "en": "{1}Zhuofeng Li et al.{/1} · Stanford, UC San Diego, Texas A&M, Lambda",
+   "zh": "{1}Zhuofeng Li et al.{/1} · Stanford, UC San Diego, Texas A&M, Lambda",
+   "cls": "div.byline"
+  },
+  "d41bdfc6f2": {
+   "en": "Train an agent to plan and use tools better while it is actually running the task — not only beforehand.",
+   "zh": "训练智能体在实际执行任务的过程中更好地规划和使用工具，而不只是事先训练。",
+   "cls": "p"
+  },
+  "5a7997150f": {
+   "en": "Most tool-using agents train one policy on the whole context. That fails on long tasks where it is hard to tell which step caused success or failure.",
+   "zh": "大多数使用工具的智能体在整个上下文上训练一个策略。这在长任务上行不通，因为很难判断是哪一步导致了成功或失败。",
+   "cls": "p"
+  },
+  "3d2c09ec4f": {
+   "en": "Splits the agent into Planner, Executor, Verifier, Generator sharing memory",
+   "zh": "把智能体拆分为共享记忆的 Planner、Executor、Verifier、Generator",
+   "cls": "li"
+  },
+  "e5bf76fb84": {
+   "en": "Trains the planner live with Flow-GRPO",
+   "zh": "用 Flow-GRPO 在线训练规划器",
+   "cls": "li"
+  },
+  "19848dbb16": {
+   "en": "Spreads the final success/failure signal back to every step",
+   "zh": "把最终的成功/失败信号回传给每一步",
+   "cls": "li"
+  },
+  "5462b4bc52": {
+   "en": "On-policy learning inside the multi-turn loop solves credit assignment. A 7B model beats much larger ones (incl. GPT-4o-level) on 10 benchmarks.",
+   "zh": "在多轮循环内进行同策略学习，解决了信用分配问题。一个 7B 模型在 10 项基准测试上击败了大得多的模型（包括 GPT-4o 级别）。",
+   "cls": "p"
+  },
+  "7c476c5b51": {
+   "en": "Strong evidence that good system design beats raw model size. Points to ‘agent-as-a-service’ built from small, trainable, modular agents.",
+   "zh": "有力证明了好的系统设计胜过单纯的模型规模。指向由小型、可训练、模块化的智能体构建的“智能体即服务”。",
+   "cls": "p"
+  },
+  "ff561531f4": {
+   "en": "Case study — after Flow-GRPO training, AgentFlow explores a new solution path where it had been stuck in error loops.",
+   "zh": "案例研究——经过 Flow-GRPO 训练后，AgentFlow 探索出新的解题路径，而此前它困在错误循环中。",
+   "cls": "figcaption"
+  },
+  "e5db777042": {
+   "en": "TAPE: Tool-Guided Adaptive Planning & Constrained Execution",
+   "zh": "TAPE: Tool-Guided Adaptive Planning & Constrained Execution",
+   "cls": "attr:data-toc"
+  },
+  "4a0ee1f684": {
+   "en": "{1}Jongwon Jeong, Jungtaek Kim, Kangwook Lee{/1} · University of Wisconsin–Madison",
+   "zh": "{1}Jongwon Jeong, Jungtaek Kim, Kangwook Lee{/1} · University of Wisconsin–Madison",
+   "cls": "div.byline"
+  },
+  "d865f3a8ba": {
+   "en": "Make tool-using agents reliable where a single wrong move can ruin the whole task.",
+   "zh": "让使用工具的智能体在一步走错就可能毁掉整个任务的场景中保持可靠。",
+   "cls": "p"
+  },
+  "484cdb92cd": {
+   "en": "Two failure types compound in strict settings: bad plans (invalid action sequences) and random slips while executing.",
+   "zh": "在严格场景中两类失败会叠加：糟糕的计划（无效的动作序列）和执行时的随机失误。",
+   "cls": "p"
+  },
+  "1c81636b97": {
+   "en": "Builds several candidate plans into a plan-graph",
+   "zh": "把多个候选计划构建成一张计划图",
+   "cls": "li"
+  },
+  "24f1fa14f6": {
+   "en": "An external solver picks a feasible path",
+   "zh": "由外部求解器选出一条可行路径",
+   "cls": "li"
+  },
+  "7e03739e42": {
+   "en": "Constrained decoding removes random slips; re-plans on mismatch",
+   "zh": "约束解码消除随机失误；不匹配时重新规划",
+   "cls": "li"
+  },
+  "8b2044ff15": {
+   "en": "Combines multi-plan selection, constrained execution and adaptive re-planning in one loop.",
+   "zh": "在同一个循环中结合多计划选择、受约束的执行和自适应重新规划。",
+   "cls": "p"
+  },
+  "b4644f2dc5": {
+   "en": "+21 points success rate on hard agent benchmarks — a practical recipe where cost, latency or safety leave no room for error.",
+   "zh": "在高难度智能体基准测试上成功率提高 21 个百分点——对于成本、延迟或安全不容出错的场景，这是一套实用方案。",
+   "cls": "p"
+  },
+  "06cb9ffe74": {
+   "en": "Overview on Sokoban — the sources of irrecoverable failure (planning vs sampling errors) in a ReAct agent.",
+   "zh": "Sokoban 上的概览——ReAct 智能体中不可恢复失败的来源（规划错误与采样错误）。",
+   "cls": "figcaption"
+  },
+  "65b265fd61": {
+   "en": "Atomix: Transactional Tool Use for Reliable Agentic Workflows",
+   "zh": "Atomix: Transactional Tool Use for Reliable Agentic Workflows",
+   "cls": "attr:data-toc"
+  },
+  "dddb501eb9": {
+   "en": "{1}Bardia Mohammadi et al.{/1} · (ICLR 2026)",
+   "zh": "{1}Bardia Mohammadi et al.{/1} · (ICLR 2026)",
+   "cls": "div.byline"
+  },
+  "6d58adf793": {
+   "en": "Stop agents from leaving half-finished or duplicated real-world effects when steps fail or run in parallel.",
+   "zh": "防止智能体在步骤失败或并行运行时，留下做到一半或重复的真实世界影响。",
+   "cls": "p"
+  },
+  "76aa52a028": {
+   "en": "Tool actions (send email, write to a database) are often irreversible. Faults, speculation or multiple agents can leak partial or stale effects.",
+   "zh": "工具操作（发送邮件、写入数据库）往往不可撤销。故障、推测执行或多个智能体可能泄漏部分完成或过期的影响。",
+   "cls": "p"
+  },
+  "fefc24191c": {
+   "en": "A transactional runtime orders work in epochs",
+   "zh": "事务型运行时按 epoch 对工作排序",
+   "cls": "li"
+  },
+  "ee78095092": {
+   "en": "Commits an effect only when no earlier work remains",
+   "zh": "只有在没有更早的工作未完成时才提交某项影响",
+   "cls": "li"
+  },
+  "7a4fe258a6": {
+   "en": "Separates reversible vs. external effects; rolls back with compensation",
+   "zh": "区分可逆影响与外部影响；通过补偿进行回滚",
+   "cls": "li"
+  },
+  "76a653715c": {
+   "en": "Brings database transaction guarantees — atomic, isolated, recoverable — to LLM tool calls.",
+   "zh": "把数据库事务的保证——原子性、隔离性、可恢复性——带给大语言模型的工具调用。",
+   "cls": "p"
+  },
+  "2fa4f393e9": {
+   "en": "Task success under faults jumps from ~0–7% to ~37–57%. Enables safe parallel agents and shared-resource coordination for enterprise automation.",
+   "zh": "故障下的任务成功率从约 0–7% 跃升至约 37–57%。为企业自动化实现安全的并行智能体和共享资源协调。",
+   "cls": "p"
+  },
+  "233645b593": {
+   "en": "The Atomix lifecycle across the agent, runtime, and tool layers — effects are sealed and settled transactionally.",
+   "zh": "Atomix 在智能体层、运行时层和工具层上的生命周期——影响被封存并以事务方式结算。",
+   "cls": "figcaption"
+  },
+  "e77dcac58f": {
+   "en": "TROLL: Trust Regions Improve RL for LLMs",
+   "zh": "TROLL: Trust Regions Improve RL for LLMs",
+   "cls": "attr:data-toc"
+  },
+  "19fc1ef017": {
+   "en": "{1}Philipp Becker et al.{/1} · (ICLR 2026 Oral)",
+   "zh": "{1}Philipp Becker et al.{/1} · (ICLR 2026 Oral)",
+   "cls": "div.byline"
+  },
+  "d0c773be5b": {
+   "en": "Make reinforcement-learning fine-tuning of LLMs more stable and effective.",
+   "zh": "让大语言模型的强化学习微调更稳定、更有效。",
+   "cls": "p"
+  },
+  "c2a3575a43": {
+   "en": "The standard ‘PPO clipping’ trick is a rough shortcut: it kills gradients and collapses exploration, so training is unstable and fussy to tune.",
+   "zh": "标准的“PPO 裁剪”技巧只是一种粗糙的捷径：它会使梯度消失并使探索崩塌，因此训练不稳定，调参也很麻烦。",
+   "cls": "p"
+  },
+  "ebb0b69a8d": {
+   "en": "Replaces clipping with a proper trust-region projection",
+   "zh": "用规范的信任域投影取代裁剪",
+   "cls": "li"
+  },
+  "b927ca5e67": {
+   "en": "Enforces a principled per-token limit on change",
+   "zh": "对每个 token 的变化施加有原则的限制",
+   "cls": "li"
+  },
+  "2892589008": {
+   "en": "Keeps gradients alive even at the boundary",
+   "zh": "即使在边界处也保持梯度不消失",
+   "cls": "li"
+  },
+  "6f23225c16": {
+   "en": "A principled objective (not a heuristic) that preserves entropy, so the model keeps exploring.",
+   "zh": "一个有原则的目标（而非启发式方法），可保持熵，使模型持续探索。",
+   "cls": "p"
+  },
+  "c6aadb11fd": {
+   "en": "Faster, more stable training and better reasoning/code results. Trade-off: harder to implement (needs a convex layer and implicit differentiation).",
+   "zh": "训练更快、更稳定，推理/代码结果也更好。代价：实现更难（需要凸层和隐式微分）。",
+   "cls": "p"
+  },
+  "cdd2885221": {
+   "en": "TROLL overview — the trust-region projection reshapes the next-token distribution while keeping gradients alive.",
+   "zh": "TROLL 概览——信任域投影重塑下一个 token 的分布，同时保持梯度不消失。",
+   "cls": "figcaption"
+  },
+  "5822b1ea94": {
+   "en": "GEPA: Reflective Prompt Evolution Can Outperform RL",
+   "zh": "GEPA: Reflective Prompt Evolution Can Outperform RL",
+   "cls": "attr:data-toc"
+  },
+  "81eb48a6b7": {
+   "en": "{1}Lakshya A Agrawal et al.{/1} · UC Berkeley",
+   "zh": "{1}Lakshya A Agrawal et al.{/1} · UC Berkeley",
+   "cls": "div.byline"
+  },
+  "e3589ed676": {
+   "en": "Improve an AI system by rewriting its prompts instead of retraining its weights.",
+   "zh": "通过重写提示词来改进 AI 系统，而不是重新训练其权重。",
+   "cls": "p"
+  },
+  "30b62fb6ee": {
+   "en": "RL methods like GRPO need thousands of expensive rollouts to adapt to a new task.",
+   "zh": "像 GRPO 这样的 RL 方法需要数千次昂贵的 rollout 才能适应新任务。",
+   "cls": "p"
+  },
+  "6113328222": {
+   "en": "Runs the system and reads its own traces in plain English",
+   "zh": "运行系统，并用自然语言读取它自己的轨迹",
+   "cls": "li"
+  },
+  "0d330e2afb": {
+   "en": "Diagnoses mistakes, proposes and tests prompt edits",
+   "zh": "诊断错误，提出并测试提示词修改",
+   "cls": "li"
+  },
+  "79b2bb1736": {
+   "en": "Keeps the best ideas from a Pareto frontier of attempts",
+   "zh": "从各次尝试的 Pareto 前沿中保留最好的想法",
+   "cls": "li"
+  },
+  "8405b15eab": {
+   "en": "Uses natural-language self-reflection to learn high-level rules — not just numeric rewards.",
+   "zh": "利用自然语言自我反思来学习高层规则，而不只是数值奖励。",
+   "cls": "p"
+  },
+  "802710f885": {
+   "en": "Beats GRPO by up to 20% while using up to 35× fewer rollouts — a cheap, fast alternative to fine-tuning for adapting models per domain.",
+   "zh": "比 GRPO 最多高出 20%，所用 rollout 最多少 35 倍——是微调之外一种廉价、快速的按领域适配模型的方式。",
+   "cls": "p"
+  },
+  "80772154ef": {
+   "en": "Each GEPA iteration proposes a new candidate via reflective prompt mutation or system-aware merge, kept on a Pareto frontier.",
+   "zh": "GEPA 的每次迭代通过反思式提示词变异或系统感知合并提出新的候选，并保留在 Pareto 前沿上。",
+   "cls": "figcaption"
+  },
+  "6019622df7": {
+   "en": "SPRIG: System Prompt Optimization",
+   "zh": "SPRIG: System Prompt Optimization",
+   "cls": "attr:data-toc"
+  },
+  "ec0d2a50aa": {
+   "en": "{1}Lechen Zhang et al.{/1} · U. Michigan, UIUC, UIC, LG AI Research",
+   "zh": "{1}Lechen Zhang et al.{/1} · U. Michigan, UIUC, UIC, LG AI Research",
+   "cls": "div.byline"
+  },
+  "a28c946482": {
+   "en": "Automatically find a strong general-purpose system prompt that helps across many tasks.",
+   "zh": "自动找到一个强大的通用系统提示词，使其在众多任务上都有帮助。",
+   "cls": "p"
+  },
+  "2724b795e2": {
+   "en": "System prompts are usually hand-written. Good ones are hard to discover and rarely transfer.",
+   "zh": "系统提示词通常靠手写。好的提示词很难发现，也很少能迁移。",
+   "cls": "p"
+  },
+  "337c2516b5": {
+   "en": "An edit-based genetic search over prompt components",
+   "zh": "对提示词组件进行基于编辑的遗传搜索",
+   "cls": "li"
+  },
+  "c1f4c262e4": {
+   "en": "Builds prompts from reusable building blocks",
+   "zh": "用可复用的构件来构建提示词",
+   "cls": "li"
+  },
+  "18887d11a1": {
+   "en": "Keeps the versions that score best over 47 tasks",
+   "zh": "保留在 47 个任务上得分最高的版本",
+   "cls": "li"
+  },
+  "6d9cf70ad6": {
+   "en": "Optimizes the system prompt (general instructions) rather than tuning a prompt per task.",
+   "zh": "优化系统提示词（通用指令），而不是针对每个任务调整提示词。",
+   "cls": "p"
+  },
+  "cd4c109f2c": {
+   "en": "One optimized system prompt matches per-task tuning; combining both helps more. Cheap gains with no retraining — handy per domain or region.",
+   "zh": "一个经过优化的系统提示词可与逐任务调优相当；两者结合收益更大。无需重新训练即可获得低成本的提升——适合按领域或地区使用。",
+   "cls": "p"
+  },
+  "3d5806f734": {
+   "en": "The SPRIG pipeline — reward estimation and elimination, then mutation/heredity operators, then sample-and-evaluate, iterating each generation.",
+   "zh": "SPRIG 流水线——奖励估计与淘汰，然后是变异/遗传算子，再是采样与评估，每一代不断迭代。",
+   "cls": "figcaption"
+  },
+  "7770a0bdbb": {
+   "en": "SafeDPO: Preference Optimization with Enhanced Safety",
+   "zh": "SafeDPO: Preference Optimization with Enhanced Safety",
+   "cls": "attr:data-toc"
+  },
+  "7619867779": {
+   "en": "{1}Geon-Hyeong Kim et al.{/1} · LG AI Research",
+   "zh": "{1}Geon-Hyeong Kim et al.{/1} · LG AI Research",
+   "cls": "div.byline"
+  },
+  "2f5a9ce658": {
+   "en": "Align a model to be both helpful and safe in one simple training step.",
+   "zh": "在一个简单的训练步骤中，让模型既有帮助又安全。",
+   "cls": "p"
+  },
+  "71cd4c76c0": {
+   "en": "Safety alignment (safe-RLHF) usually needs separate reward and cost models plus online sampling — complex and unstable.",
+   "zh": "安全对齐 (safe-RLHF) 通常需要单独的奖励模型和成本模型，加上在线采样——复杂且不稳定。",
+   "cls": "p"
+  },
+  "33847e2e72": {
+   "en": "Rewrites the safety-constrained goal into one closed-form loss",
+   "zh": "把带安全约束的目标改写为一个闭式损失",
+   "cls": "li"
+  },
+  "950974e687": {
+   "en": "Uses only preference data plus a safety label",
+   "zh": "只使用偏好数据加一个安全标签",
+   "cls": "li"
+  },
+  "fc6643b34c": {
+   "en": "No reward model, no cost model, no online sampling",
+   "zh": "无需奖励模型、成本模型和在线采样",
+   "cls": "li"
+  },
+  "7cd51f252e": {
+   "en": "Enforces safety at the objective level, in a single offline stage.",
+   "zh": "在目标层面、通过单一的离线阶段来保证安全。",
+   "cls": "p"
+  },
+  "25c58ac8fe": {
+   "en": "Competitive safety-vs-helpfulness trade-off with far less machinery — a lightweight, practical path to safe alignment.",
+   "zh": "以少得多的机制，实现具有竞争力的安全性与有用性权衡——一条轻量、实用的安全对齐路径。",
+   "cls": "p"
+  },
+  "d21fca1067": {
+   "en": "Safe RLHF (left) vs SafeDPO (right) — SafeDPO drops the separate reward and cost models.",
+   "zh": "Safe RLHF（左）与 SafeDPO（右）对比——SafeDPO 去掉了单独的奖励模型和成本模型。",
+   "cls": "figcaption"
+  },
+  "1c22005ac0": {
+   "en": "Learning with Hard Constraints (ProbHardE2E)",
+   "zh": "Learning with Hard Constraints (ProbHardE2E)",
+   "cls": "attr:data-toc"
+  },
+  "03deb3f38e": {
+   "en": "{1}Utkarsh et al.{/1} · MIT",
+   "zh": "{1}Utkarsh et al.{/1} · MIT",
+   "cls": "div.byline"
+  },
+  "18092078d4": {
+   "en": "Make neural models obey hard rules (physical or operational limits) while also reporting how uncertain they are.",
+   "zh": "让神经模型遵守硬性规则（物理或运行上的限制），同时报告自身的不确定程度。",
+   "cls": "p"
+  },
+  "60f48ef808": {
+   "en": "Standard models don’t guarantee constraints. Adding them afterward hurts quality or is unstable at scale.",
+   "zh": "标准模型不保证满足约束。事后再加约束会损害质量，或在大规模下不稳定。",
+   "cls": "p"
+  },
+  "0eada8698e": {
+   "en": "Adds a differentiable projection layer inside the network",
+   "zh": "在网络内部加入一个可微分的投影层",
+   "cls": "li"
+  },
+  "53bab1fe86": {
+   "en": "Constraints are learned end-to-end, not bolted on after",
+   "zh": "约束是端到端学习的，而不是事后外挂的",
+   "cls": "li"
+  },
+  "64c403c08f": {
+   "en": "Frames prediction probabilistically for uncertainty",
+   "zh": "以概率方式表述预测，以体现不确定性",
+   "cls": "li"
+  },
+  "09fa420de3": {
+   "en": "Builds feasibility into the model’s internal representation rather than filtering outputs after the fact.",
+   "zh": "把可行性构建进模型的内部表示，而不是事后过滤输出。",
+   "cls": "p"
+  },
+  "5a2acabc7e": {
+   "en": "Reliable, rule-respecting predictions that also say how confident they are — valuable for forecasting and safety-critical control.",
+   "zh": "可靠、遵守规则的预测，并说明其置信程度——对预测和安全关键控制很有价值。",
+   "cls": "p"
+  },
+  "61f5ae59d1": {
+   "en": "Schematic of ProbHardE2E — a base probabilistic model feeds a differentiable projection layer (DPPL) that enforces the constraints.",
+   "zh": "ProbHardE2E 示意图——基础概率模型输入到可微分投影层 (DPPL)，由它强制满足约束。",
+   "cls": "figcaption"
+  },
+  "0534222812": {
+   "en": "Mind the Gap: Agentic Vulnerabilities (AgentSeer)",
+   "zh": "Mind the Gap: Agentic Vulnerabilities (AgentSeer)",
+   "cls": "attr:data-toc"
+  },
+  "f1a3c389d9": {
+   "en": "{1}Ilham Wicaksono et al.{/1} · (ICLR 2026 Workshop)",
+   "zh": "{1}Ilham Wicaksono et al.{/1} · (ICLR 2026 Workshop)",
+   "cls": "div.byline"
+  },
+  "70827db2ca": {
+   "en": "Evaluate the security of agents at the level of their actions, not just the raw model.",
+   "zh": "在智能体的动作层面评估其安全性，而不只是评估原始模型。",
+   "cls": "p"
+  },
+  "7d63109da2": {
+   "en": "Testing the model alone underestimates risk. Agents gain new attack surfaces from tool-calling, memory and multi-step reasoning.",
+   "zh": "只测试模型本身会低估风险。智能体会因工具调用、记忆和多步推理而出现新的攻击面。",
+   "cls": "p"
+  },
+  "fb224e33af": {
+   "en": "AgentSeer breaks a run into action graphs and component graphs",
+   "zh": "AgentSeer 把一次运行拆解为动作图和组件图",
+   "cls": "li"
+  },
+  "1aa9ab453e": {
+   "en": "Pinpoints the risky individual actions",
+   "zh": "精确定位有风险的单个动作",
+   "cls": "li"
+  },
+  "51e22ee222": {
+   "en": "Hardens system prompts with a replay-based loop",
+   "zh": "通过基于回放的循环加固系统提示词",
+   "cls": "li"
+  },
+  "6e08de1a3d": {
+   "en": "Action-level observability reveals ‘agentic-only’ weaknesses invisible at the model level (tool-calling 24–60% higher attack success).",
+   "zh": "动作层面的可观测性揭示了模型层面看不到的“仅智能体才有”的弱点（工具调用的攻击成功率高出 24–60%）。",
+   "cls": "p"
+  },
+  "3b9b3a87b3": {
+   "en": "Cut jailbreak success from ~45% to ~8%. Model-level checks aren’t enough — agent products need action-level red-teaming and prompt governance.",
+   "zh": "将越狱成功率从约 45% 降至约 8%。仅做模型层面的检查是不够的——智能体产品需要动作层面的红队测试和提示词治理。",
+   "cls": "p"
+  },
+  "9d4d00391f": {
+   "en": "The hierarchical 6-agent testbed used for evaluation, showing typical multi-agent coordination patterns.",
+   "zh": "用于评估的分层 6 智能体测试平台，展示了典型的多智能体协调模式。",
+   "cls": "figcaption"
+  },
+  "5c9095da28": {
+   "en": "Asymmetric Goal Drift in Coding Agents",
+   "zh": "Asymmetric Goal Drift in Coding Agents",
+   "cls": "attr:data-toc"
+  },
+  "7fc22d6a65": {
+   "en": "{1}Magnus Saebo et al.{/1} · (ICLR 2026 Workshop)",
+   "zh": "{1}Magnus Saebo et al.{/1} · (ICLR 2026 Workshop)",
+   "cls": "div.byline"
+  },
+  "1b4c9e7305": {
+   "en": "Test whether coding agents quietly stop following their instructions over a long task.",
+   "zh": "测试编程智能体在长任务中是否会悄悄不再遵守其指令。",
+   "cls": "p"
+  },
+  "f208253929": {
+   "en": "An agent may obey at first but ‘drift’ from its system prompt as work piles up — especially when the rule clashes with its own strong values.",
+   "zh": "智能体起初可能服从，但随着工作量堆积会逐渐偏离其系统提示词——尤其是当规则与它自身的强烈价值观冲突时。",
+   "cls": "p"
+  },
+  "ef46781d40": {
+   "en": "Used the OpenCode agent on multi-step coding tasks",
+   "zh": "让 OpenCode 智能体执行多步骤编程任务",
+   "cls": "li"
+  },
+  "71b8a5fdfd": {
+   "en": "Added constraints on privacy, security and efficiency",
+   "zh": "加入了关于隐私、安全和效率的约束",
+   "cls": "li"
+  },
+  "b9ad06d678": {
+   "en": "Watched for violations over long runs",
+   "zh": "在长时间运行中观察是否出现违规",
+   "cls": "li"
+  },
+  "3e84dd77df": {
+   "en": "Finds asymmetric drift: models break rules more when the rule opposes values they hold strongly; repo comments can even override the system prompt.",
+   "zh": "发现了不对称偏移：当规则与模型强烈持有的价值观相悖时，模型更容易违反规则；代码仓库中的注释甚至可以压过系统提示词。",
+   "cls": "p"
+  },
+  "379c976169": {
+   "en": "Initial compliance checks aren’t enough. Coding / DevOps agents need long-horizon drift monitoring and repo-level, environment-aware security controls.",
+   "zh": "仅做初始合规检查是不够的。编程/DevOps 智能体需要长周期偏移监控，以及代码仓库层面、感知环境的安全控制。",
+   "cls": "p"
+  },
+  "c2debed357": {
+   "en": "The coding-agent goal-drift evaluation framework and how accumulating adversarial pressure drives violations.",
+   "zh": "编程智能体目标偏移的评估框架，以及不断累积的对抗压力如何导致违规。",
+   "cls": "figcaption"
+  },
+  "200d93941a": {
+   "en": "04 · Conclusions",
+   "zh": "04 · 结论",
+   "cls": "div.kicker"
+  },
+  "a292606210": {
+   "en": "Synthesis across the papers",
+   "zh": "各篇论文的综合",
+   "cls": "h2"
+  },
+  "b4510362a5": {
+   "en": "Insights",
+   "zh": "洞察",
+   "cls": "h4"
+  },
+  "f578df729a": {
+   "en": "Reliability — not peak accuracy — is the new scoreboard for agents.",
+   "zh": "可靠性——而不是峰值准确率——是智能体的新计分板。",
+   "cls": "li"
+  },
+  "24abd64aa1": {
+   "en": "Most agent failures come from system design and coordination, not weak models.",
+   "zh": "大多数智能体的失败源于系统设计和协调，而不是模型能力弱。",
+   "cls": "li"
+  },
+  "20fbc5541b": {
+   "en": "Small, well-designed modular agents can beat much larger single models.",
+   "zh": "设计良好的小型模块化智能体可以胜过大得多的单一模型。",
+   "cls": "li"
+  },
+  "40b0906c4f": {
+   "en": "Vision",
+   "zh": "愿景",
+   "cls": "h4"
+  },
+  "6653bbcb09": {
+   "en": "Benchmarks shift from scoring models to scoring whole agent pipelines.",
+   "zh": "基准测试从给模型打分转向给整条智能体流水线打分。",
+   "cls": "li"
+  },
+  "cadeb9e2fe": {
+   "en": "Training moves in-loop (live) and safety/constraints move into the objective.",
+   "zh": "训练转为循环内（在线）进行，安全/约束则进入目标函数。",
+   "cls": "li"
+  },
+  "253b1b3976": {
+   "en": "Tool use gets database-style guarantees; prompts get optimized automatically.",
+   "zh": "工具使用获得数据库式的保证；提示词被自动优化。",
+   "cls": "li"
+  },
+  "5d8c81594f": {
+   "en": "Implications for us",
+   "zh": "对我们的启示",
+   "cls": "h4"
+  },
+  "8072fc71ab": {
+   "en": "Prioritize agent system design, verification and execution reliability.",
+   "zh": "优先关注智能体系统设计、验证和执行可靠性。",
+   "cls": "li"
+  },
+  "ecd3dfa800": {
+   "en": "Add action-level red-teaming and long-horizon drift monitoring to agent products.",
+   "zh": "为智能体产品加入动作层面的红队测试和长周期偏移监控。",
+   "cls": "li"
+  },
+  "a8c49dee12": {
+   "en": "Prefer cheap adaptation (reflective prompts, optimized system prompts) over retraining.",
+   "zh": "优先选择低成本的适配方式（反思式提示词、优化的系统提示词），而不是重新训练。",
+   "cls": "li"
+  },
+  "2b92ebc383": {
+   "en": "05 · References",
+   "zh": "05 · 参考文献",
+   "cls": "div.kicker"
+  },
+  "5d20d0fee3": {
+   "en": "References",
+   "zh": "参考文献",
+   "cls": "h2"
+  },
+  "5aa6938050": {
+   "en": "© 2026 {1}ALI{/1} — {2}Tech Insight{/2} v1.11.0",
+   "zh": "© 2026 {1}ALI{/1} — {2}Tech Insight{/2} v1.11.0",
+   "cls": "div.site-copyright"
+  },
+  "b1ce55c09e": {
+   "en": "ICLR 2026 — Tech Insight Report",
+   "zh": "ICLR 2026 — Tech Insight 报告",
+   "cls": "doctitle"
+  },
+  "ee45c30326": {
+   "en": "Report",
+   "zh": "报告",
+   "cls": "div.kicker"
+  },
+  "caf7bebc40": {
+   "en": "ICLR 2026",
+   "zh": "ICLR 2026",
+   "cls": "h1"
+  },
+  "ab3090fecc": {
+   "en": "14th International Conference on Learning Representations · Rio de Janeiro, Brazil · April 2026",
+   "zh": "第 14 届国际学习表征会议 · 巴西里约热内卢 · 2026 年 4 月",
+   "cls": "p.topic"
+  },
+  "8a1e29b3dd": {
+   "en": "Conference",
+   "zh": "会议",
+   "cls": "attr:data-toc"
+  },
+  "f5cbdf6bfb": {
+   "en": "Contents",
+   "zh": "目录",
+   "cls": "attr:data-toc"
+  },
+  "b4e6a31089": {
+   "en": "Intro",
+   "zh": "简介",
+   "cls": "attr:data-group"
+  },
+  "e3e91f3034": {
+   "en": "Conference statistics",
+   "zh": "会议统计",
+   "cls": "attr:data-toc"
+  },
+  "2cb2eb58e9": {
+   "en": "14th International Conference on Learning Representations — Rio de Janeiro, Brazil",
+   "zh": "第 14 届国际学习表征会议 — 巴西里约热内卢",
+   "cls": "h2"
+  },
+  "6e6160ee27": {
+   "en": "Insight 01 · Why agents fail",
+   "zh": "洞察 01 · 智能体为何失败",
+   "cls": "div.kicker"
+  },
+  "bcdd74f451": {
+   "en": "Insight 02 · Why agents fail",
+   "zh": "洞察 02 · 智能体为何失败",
+   "cls": "div.kicker"
+  },
+  "ac17c5ac0a": {
+   "en": "LLMs Get Lost in Multi-Turn Conversation {1}· Outstanding Paper{/1}",
+   "zh": "LLMs Get Lost in Multi-Turn Conversation {1}· 杰出论文{/1}",
+   "cls": "h2"
+  },
+  "73838c238a": {
+   "en": "LLMs Get Lost in Multi-Turn Conversation",
+   "zh": "LLMs Get Lost in Multi-Turn Conversation",
+   "cls": "attr:data-toc"
+  },
+  "04a16e4979": {
+   "en": "Insight 03 · Reliable planning, tools & execution",
+   "zh": "洞察 03 · 可靠的规划、工具与执行",
+   "cls": "div.kicker"
+  },
+  "32ce1bac30": {
+   "en": "Insight 04 · Reliable planning, tools & execution",
+   "zh": "洞察 04 · 可靠的规划、工具与执行",
+   "cls": "div.kicker"
+  },
+  "78b30c134e": {
+   "en": "Insight 05 · Reliable planning, tools & execution",
+   "zh": "洞察 05 · 可靠的规划、工具与执行",
+   "cls": "div.kicker"
+  },
+  "ab444748aa": {
+   "en": "Insight 06 · Better training & prompting",
+   "zh": "洞察 06 · 更好的训练与提示",
+   "cls": "div.kicker"
+  },
+  "f438630321": {
+   "en": "Insight 07 · Better training & prompting",
+   "zh": "洞察 07 · 更好的训练与提示",
+   "cls": "div.kicker"
+  },
+  "fbe99c6405": {
+   "en": "Insight 08 · Better training & prompting",
+   "zh": "洞察 08 · 更好的训练与提示",
+   "cls": "div.kicker"
+  },
+  "cc7b6cd26a": {
+   "en": "Insight 09 · Safety, constraints & security",
+   "zh": "洞察 09 · 安全、约束与防护",
+   "cls": "div.kicker"
+  },
+  "05f6b87019": {
+   "en": "Insight 10 · Safety, constraints & security",
+   "zh": "洞察 10 · 安全、约束与防护",
+   "cls": "div.kicker"
+  },
+  "93ccf3f0a1": {
+   "en": "Insight 11 · Safety, constraints & security",
+   "zh": "洞察 11 · 安全、约束与防护",
+   "cls": "div.kicker"
+  },
+  "2875205aec": {
+   "en": "Insight 12 · Safety, constraints & security",
+   "zh": "洞察 12 · 安全、约束与防护",
+   "cls": "div.kicker"
+  },
+  "b536777ff1": {
+   "en": "Conclusions",
+   "zh": "结论",
+   "cls": "attr:data-toc"
+  },
+  "42da34276e": {
+   "en": "<div class=\"fit\"><div class=\"concl\"><div class=\"col c1\"><h4>Insights</h4><ul><li>Reliability — not peak accuracy — is the new scoreboard for agents.</li><li>Most agent failures come from system design and coordination, not weak models.</li><li>Small, well-designed modular agents can beat much larger single models.</li></ul></div><div class=\"col c2\"><h4>Vision</h4><ul><li>Benchmarks shift from scoring models to scoring whole agent pipelines.</li><li>Training moves in-loop (live) and safety/constraints move into the objective.</li><li>Tool use gets database-style guarantees; prompts get optimized automatically.</li></ul></div><div class=\"col c3\"><h4>Implications for us</h4><ul><li>Prioritize agent system design, verification and execution reliability.</li><li>Add action-level red-teaming and long-horizon drift monitoring to agent products.</li><li>Prefer cheap adaptation (reflective prompts, optimized system prompts) over retraining.</li></ul></div></div></div>",
+   "zh": "<div class=\"fit\"><div class=\"concl\"><div class=\"col c1\"><h4>洞察</h4><ul><li>可靠性，而非峰值准确率，是智能体的新计分板。</li><li>大多数智能体故障源于系统设计和协调，而不是模型能力弱。</li><li>设计良好的小型模块化智能体可以胜过大得多的单一模型。</li></ul></div><div class=\"col c2\"><h4>愿景</h4><ul><li>基准测试从给模型打分转向给整条智能体流水线打分。</li><li>训练转入循环内（在线）进行，安全与约束进入训练目标。</li><li>工具使用获得数据库式的保证；提示词实现自动优化。</li></ul></div><div class=\"col c3\"><h4>对我们的启示</h4><ul><li>优先关注智能体系统设计、验证和执行可靠性。</li><li>为智能体产品加入动作级红队测试和长程漂移监控。</li><li>优先选择低成本的适应方式（反思式提示词、优化后的系统提示词），而不是重新训练。</li></ul></div></div></div>",
+   "cls": "section.slide"
+  },
+  "fa39f733bd": {
+   "en": "Wrap-up",
+   "zh": "总结",
+   "cls": "attr:data-group"
+  },
+  "b2ec1abf35": {
+   "en": "Contents (T)",
+   "zh": "目录 (T)",
+   "cls": "button.toc-btn"
+  },
+  "1e5ecc903f": {
+   "en": "ICLR 2026 — Tech Insight Slides",
+   "zh": "ICLR 2026 — Tech Insight 幻灯片",
+   "cls": "doctitle"
+  },
+  "4718b93d9d": {
+   "en": "Tech Insight",
+   "zh": "Tech Insight",
+   "cls": "pptx"
+  },
+  "88aa4763ef": {
+   "en": "Tech Insight Report",
+   "zh": "Tech Insight 报告",
+   "cls": "pptx"
+  },
+  "4e586c7de5": {
+   "en": "14th International Conference on Learning Representations",
+   "zh": "第 14 届国际学习表征会议",
+   "cls": "pptx"
+  },
+  "efba4837a7": {
+   "en": "Rio de Janeiro, Brazil · April 2026",
+   "zh": "巴西里约热内卢 · 2026 年 4 月",
+   "cls": "pptx"
+  },
+  "d219c68101": {
+   "en": "Location",
+   "zh": "地点",
+   "cls": "pptx"
+  },
+  "4a2931bae8": {
+   "en": "Rio de Janeiro, Brazil",
+   "zh": "巴西里约热内卢",
+   "cls": "pptx"
+  },
+  "842b7b5d71": {
+   "en": "Dates",
+   "zh": "日期",
+   "cls": "pptx"
+  },
+  "b3ca619935": {
+   "en": "April 2026",
+   "zh": "2026 年 4 月",
+   "cls": "pptx"
+  },
+  "fe7f55b8bf": {
+   "en": "Focus",
+   "zh": "主题",
+   "cls": "pptx"
+  },
+  "a9e0faf1cd": {
+   "en": "Limitations and Reliability Challenges in LLM-based Agent Systems",
+   "zh": "基于大语言模型的智能体系统的局限性与可靠性挑战",
+   "cls": "pptx"
+  },
+  "c7fb4a1c86": {
+   "en": "CONTENTS",
+   "zh": "目录",
+   "cls": "pptx"
+  },
+  "dd1a92a165": {
+   "en": "CONFERENCE STATISTICS",
+   "zh": "会议统计",
+   "cls": "pptx"
+  },
+  "8729316a87": {
+   "en": "submissions",
+   "zh": "投稿数",
+   "cls": "pptx"
+  },
+  "51c817ab85": {
+   "en": "accepted",
+   "zh": "录用数",
+   "cls": "pptx"
+  },
+  "d51ed57f66": {
+   "en": "acceptance rate",
+   "zh": "录用率",
+   "cls": "pptx"
+  },
+  "b897fb180f": {
+   "en": "oral talks",
+   "zh": "口头报告",
+   "cls": "pptx"
+  },
+  "40fa19087e": {
+   "en": "Also: 6 invited speakers · 6 parallel tracks · 40 workshops · 21 socials · 2 Outstanding Paper awards, 1 honorable mention, 2 Test-of-Time awards.",
+   "zh": "另有：6 位特邀讲者 · 6 个并行分会场 · 40 场研讨会 · 21 场社交活动 · 2 项杰出论文奖、1 项荣誉提名、2 项时间检验奖。",
+   "cls": "pptx"
+  },
+  "700a5afd5c": {
+   "en": "INSIGHT 01 · Why agents fail",
+   "zh": "洞察 01 · 智能体为何失败",
+   "cls": "pptx"
+  },
+  "3bb4ed670b": {
+   "en": "Mert Cemri et al. · UC Berkeley",
+   "zh": "Mert Cemri et al. · UC Berkeley",
+   "cls": "pptx"
+  },
+  "5fc1004412": {
+   "en": "GOAL",
+   "zh": "目标",
+   "cls": "pptx"
+  },
+  "e9166b5b8a": {
+   "en": "CHALLENGE",
+   "zh": "挑战",
+   "cls": "pptx"
+  },
+  "098632eb27": {
+   "en": "METHOD",
+   "zh": "方法",
+   "cls": "pptx"
+  },
+  "b335ae3e46": {
+   "en": "Studied many real multi-agent runs · Built MAST, the first failure taxonomy (14 modes) · Grouped them: bad design, agents miscommunicating, weak checking/stopping",
+   "zh": "研究了大量真实的多智能体运行 · 建立了首个故障分类体系 MAST（14 种故障模式） · 归为三类：设计不当、智能体之间沟通不畅、检查与终止机制薄弱",
+   "cls": "pptx"
+  },
+  "c427fc98ea": {
+   "en": "NOVELTY",
+   "zh": "创新点",
+   "cls": "pptx"
+  },
+  "c5c9f56f26": {
+   "en": "IMPACT",
+   "zh": "影响",
+   "cls": "pptx"
+  },
+  "18a9e55e34": {
+   "en": "INSIGHT 02 · Why agents fail",
+   "zh": "洞察 02 · 智能体为何失败",
+   "cls": "pptx"
+  },
+  "42201a83be": {
+   "en": "Philippe Laban et al. · Microsoft Research",
+   "zh": "Philippe Laban et al. · Microsoft Research",
+   "cls": "pptx"
+  },
+  "ee6a4778ed": {
+   "en": "Ran 200,000+ simulated multi-turn chats · A user-simulator talks to the model across 6 task types · Split the score into skill vs. reliability",
+   "zh": "运行了 200,000 多次模拟多轮对话 · 由用户模拟器在 6 类任务中与模型对话 · 把得分拆分为能力与可靠性",
+   "cls": "pptx"
+  },
+  "d8970f9496": {
+   "en": "INSIGHT 03 · Reliable planning, tools & execution",
+   "zh": "洞察 03 · 可靠的规划、工具与执行",
+   "cls": "pptx"
+  },
+  "e53e92c011": {
+   "en": "Zhuofeng Li et al. · Stanford, UC San Diego, Texas A&M, Lambda",
+   "zh": "Zhuofeng Li et al. · Stanford, UC San Diego, Texas A&M, Lambda",
+   "cls": "pptx"
+  },
+  "c85557a3a3": {
+   "en": "Splits the agent into Planner, Executor, Verifier, Generator sharing memory · Trains the planner live with Flow-GRPO · Spreads the final success/failure signal back to every step",
+   "zh": "把智能体拆分为共享记忆的规划器、执行器、验证器和生成器 · 用 Flow-GRPO 在线训练规划器 · 把最终的成功或失败信号传回每一步",
+   "cls": "pptx"
+  },
+  "d390c7d10e": {
+   "en": "INSIGHT 04 · Reliable planning, tools & execution",
+   "zh": "洞察 04 · 可靠的规划、工具与执行",
+   "cls": "pptx"
+  },
+  "40d3f58562": {
+   "en": "Jongwon Jeong, Jungtaek Kim, Kangwook Lee · University of Wisconsin–Madison",
+   "zh": "Jongwon Jeong, Jungtaek Kim, Kangwook Lee · University of Wisconsin–Madison",
+   "cls": "pptx"
+  },
+  "b44fb69cce": {
+   "en": "Builds several candidate plans into a plan-graph · An external solver picks a feasible path · Constrained decoding removes random slips; re-plans on mismatch",
+   "zh": "把多个候选计划构建成计划图 · 由外部求解器选出可行路径 · 约束解码消除随机失误；不匹配时重新规划",
+   "cls": "pptx"
+  },
+  "f885c7e6fc": {
+   "en": "INSIGHT 05 · Reliable planning, tools & execution",
+   "zh": "洞察 05 · 可靠的规划、工具与执行",
+   "cls": "pptx"
+  },
+  "51a551fcb1": {
+   "en": "Bardia Mohammadi et al. · (ICLR 2026)",
+   "zh": "Bardia Mohammadi et al. · (ICLR 2026)",
+   "cls": "pptx"
+  },
+  "ef10f57c7d": {
+   "en": "A transactional runtime orders work in epochs · Commits an effect only when no earlier work remains · Separates reversible vs. external effects; rolls back with compensation",
+   "zh": "事务式运行时按时间段（epoch）对工作排序 · 仅当没有更早的工作遗留时才提交效果 · 区分可逆效果与外部效果；通过补偿回滚",
+   "cls": "pptx"
+  },
+  "f2b4a33e31": {
+   "en": "INSIGHT 06 · Better training & prompting",
+   "zh": "洞察 06 · 更好的训练与提示",
+   "cls": "pptx"
+  },
+  "6e410a9754": {
+   "en": "Philipp Becker et al. · (ICLR 2026 Oral)",
+   "zh": "Philipp Becker et al. · (ICLR 2026 Oral)",
+   "cls": "pptx"
+  },
+  "cba9811d4f": {
+   "en": "Replaces clipping with a proper trust-region projection · Enforces a principled per-token limit on change · Keeps gradients alive even at the boundary",
+   "zh": "用规范的信任域投影取代裁剪 · 对每个 token 的变化施加有原则的限制 · 即使在边界处也保持梯度有效",
+   "cls": "pptx"
+  },
+  "61ca9bd664": {
+   "en": "INSIGHT 07 · Better training & prompting",
+   "zh": "洞察 07 · 更好的训练与提示",
+   "cls": "pptx"
+  },
+  "8bbf908ef4": {
+   "en": "Lakshya A Agrawal et al. · UC Berkeley",
+   "zh": "Lakshya A Agrawal et al. · UC Berkeley",
+   "cls": "pptx"
+  },
+  "d18c73dbf5": {
+   "en": "Runs the system and reads its own traces in plain English · Diagnoses mistakes, proposes and tests prompt edits · Keeps the best ideas from a Pareto frontier of attempts",
+   "zh": "运行系统并用自然语言读取自身的执行轨迹 · 诊断错误，提出并测试提示词修改 · 从尝试的帕累托前沿中保留最佳想法",
+   "cls": "pptx"
+  },
+  "c8319033d0": {
+   "en": "INSIGHT 08 · Better training & prompting",
+   "zh": "洞察 08 · 更好的训练与提示",
+   "cls": "pptx"
+  },
+  "68ff8284d9": {
+   "en": "Lechen Zhang et al. · U. Michigan, UIUC, UIC, LG AI Research",
+   "zh": "Lechen Zhang et al. · U. Michigan, UIUC, UIC, LG AI Research",
+   "cls": "pptx"
+  },
+  "74c211d7b4": {
+   "en": "An edit-based genetic search over prompt components · Builds prompts from reusable building blocks · Keeps the versions that score best over 47 tasks",
+   "zh": "对提示词组件进行基于编辑的遗传搜索 · 用可复用的构件搭建提示词 · 保留在 47 个任务上得分最高的版本",
+   "cls": "pptx"
+  },
+  "d6426dbadf": {
+   "en": "INSIGHT 09 · Safety, constraints & security",
+   "zh": "洞察 09 · 安全、约束与防护",
+   "cls": "pptx"
+  },
+  "397172367d": {
+   "en": "Geon-Hyeong Kim et al. · LG AI Research",
+   "zh": "Geon-Hyeong Kim et al. · LG AI Research",
+   "cls": "pptx"
+  },
+  "7135c3e470": {
+   "en": "Rewrites the safety-constrained goal into one closed-form loss · Uses only preference data plus a safety label · No reward model, no cost model, no online sampling",
+   "zh": "把带安全约束的目标改写为一个闭式损失 · 只使用偏好数据和一个安全标签 · 不需要奖励模型、代价模型或在线采样",
+   "cls": "pptx"
+  },
+  "6e2e9dcb4b": {
+   "en": "INSIGHT 10 · Safety, constraints & security",
+   "zh": "洞察 10 · 安全、约束与防护",
+   "cls": "pptx"
+  },
+  "f9b9a0e219": {
+   "en": "Utkarsh et al. · MIT",
+   "zh": "Utkarsh et al. · MIT",
+   "cls": "pptx"
+  },
+  "4858a45f55": {
+   "en": "Adds a differentiable projection layer inside the network · Constraints are learned end-to-end, not bolted on after · Frames prediction probabilistically for uncertainty",
+   "zh": "在网络内部加入可微分的投影层 · 约束是端到端学习的，而不是事后外加的 · 以概率方式刻画预测，以体现不确定性",
+   "cls": "pptx"
+  },
+  "f688a91dec": {
+   "en": "INSIGHT 11 · Safety, constraints & security",
+   "zh": "洞察 11 · 安全、约束与防护",
+   "cls": "pptx"
+  },
+  "ee9e08c883": {
+   "en": "Ilham Wicaksono et al. · (ICLR 2026 Workshop)",
+   "zh": "Ilham Wicaksono et al. · (ICLR 2026 Workshop)",
+   "cls": "pptx"
+  },
+  "c33d7912a2": {
+   "en": "AgentSeer breaks a run into action graphs and component graphs · Pinpoints the risky individual actions · Hardens system prompts with a replay-based loop",
+   "zh": "AgentSeer 把一次运行拆解为动作图和组件图 · 定位有风险的单个动作 · 用基于重放的循环加固系统提示词",
+   "cls": "pptx"
+  },
+  "e1877a8b10": {
+   "en": "INSIGHT 12 · Safety, constraints & security",
+   "zh": "洞察 12 · 安全、约束与防护",
+   "cls": "pptx"
+  },
+  "591f8f8fab": {
+   "en": "Magnus Saebo et al. · (ICLR 2026 Workshop)",
+   "zh": "Magnus Saebo et al. · (ICLR 2026 Workshop)",
+   "cls": "pptx"
+  },
+  "3c3ecb8f18": {
+   "en": "Used the OpenCode agent on multi-step coding tasks · Added constraints on privacy, security and efficiency · Watched for violations over long runs",
+   "zh": "让 OpenCode 智能体执行多步编码任务 · 加入隐私、安全和效率方面的约束 · 在长时间运行中监测违规情况",
+   "cls": "pptx"
+  },
+  "69bae0ee91": {
+   "en": "CONCLUSIONS",
+   "zh": "结论",
+   "cls": "pptx"
+  },
+  "96706c7774": {
+   "en": "INSIGHTS",
+   "zh": "洞察",
+   "cls": "pptx"
+  },
+  "7c15f2f1e2": {
+   "en": "• Reliability — not peak accuracy — is the new scoreboard for agents.",
+   "zh": "• 可靠性，而非峰值准确率，是智能体的新计分板。",
+   "cls": "pptx"
+  },
+  "f72615cee9": {
+   "en": "• Most agent failures come from system design and coordination, not weak models.",
+   "zh": "• 大多数智能体故障源于系统设计和协调，而不是模型能力弱。",
+   "cls": "pptx"
+  },
+  "9b7357d681": {
+   "en": "• Small, well-designed modular agents can beat much larger single models.",
+   "zh": "• 设计良好的小型模块化智能体可以胜过大得多的单一模型。",
+   "cls": "pptx"
+  },
+  "927e4493b3": {
+   "en": "VISION",
+   "zh": "愿景",
+   "cls": "pptx"
+  },
+  "8ef8c9a29d": {
+   "en": "• Benchmarks shift from scoring models to scoring whole agent pipelines.",
+   "zh": "• 基准测试从给模型打分转向给整条智能体流水线打分。",
+   "cls": "pptx"
+  },
+  "a61e704fa7": {
+   "en": "• Training moves in-loop (live) and safety/constraints move into the objective.",
+   "zh": "• 训练转入循环内（在线）进行，安全与约束进入训练目标。",
+   "cls": "pptx"
+  },
+  "71f09e8a2a": {
+   "en": "• Tool use gets database-style guarantees; prompts get optimized automatically.",
+   "zh": "• 工具使用获得数据库式的保证；提示词实现自动优化。",
+   "cls": "pptx"
+  },
+  "ab88151343": {
+   "en": "IMPLICATIONS FOR US",
+   "zh": "对我们的启示",
+   "cls": "pptx"
+  },
+  "cd235be0d6": {
+   "en": "• Prioritize agent system design, verification and execution reliability.",
+   "zh": "• 优先关注智能体系统设计、验证和执行可靠性。",
+   "cls": "pptx"
+  },
+  "a4d50e3485": {
+   "en": "• Add action-level red-teaming and long-horizon drift monitoring to agent products.",
+   "zh": "• 为智能体产品加入动作级红队测试和长程漂移监控。",
+   "cls": "pptx"
+  },
+  "68660c01fc": {
+   "en": "• Prefer cheap adaptation (reflective prompts, optimized system prompts) over retraining.",
+   "zh": "• 优先选择低成本的适应方式（反思式提示词、优化后的系统提示词），而不是重新训练。",
+   "cls": "pptx"
+  },
+  "5d16a62568": {
+   "en": "{1}{/1}Tech Insight",
+   "zh": "{1}{/1}Tech Insight",
+   "cls": "span.brand"
+  },
+  "2086b21f8f": {
+   "en": "Statistics",
+   "zh": "统计",
+   "cls": "a"
+  }
+ }
+}

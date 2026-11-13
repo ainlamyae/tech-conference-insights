@@ -1,0 +1,2355 @@
+{
+ "folder": "2024-04_SysCon-montreal",
+ "strings": {
+  "17d5b3bb94": {
+   "en": "[1] R. Havås et al., “Optimized UAV Localization and Autonomous Navigation Stack for Tightly Closed Industrial Spaces,” IEEE SysCon 2024.",
+   "zh": "[1] R. Havås et al., “Optimized UAV Localization and Autonomous Navigation Stack for Tightly Closed Industrial Spaces,” IEEE SysCon 2024.",
+   "cls": "keep"
+  },
+  "dfcc819cf1": {
+   "en": "[2] J. de França Silva et al., “AUV Kalman Filter-Based Trajectory Estimation Using Acoustic and Inertial Sensors,” IEEE SysCon 2024.",
+   "zh": "[2] J. de França Silva et al., “AUV Kalman Filter-Based Trajectory Estimation Using Acoustic and Inertial Sensors,” IEEE SysCon 2024.",
+   "cls": "keep"
+  },
+  "476ef37902": {
+   "en": "[3] L. Mariga et al., “3D EKF-SLAM Using Cylindrical and Planar Features With Multilevel Mapping Representation,” IEEE SysCon 2024.",
+   "zh": "[3] L. Mariga et al., “3D EKF-SLAM Using Cylindrical and Planar Features With Multilevel Mapping Representation,” IEEE SysCon 2024.",
+   "cls": "keep"
+  },
+  "61f6a09336": {
+   "en": "[4] K. Wang et al., “Monkey See, Monkey Do: Constant Time Delay Leader Following for Wheeled Mobile Robots using Uncertainty-Tuned MPC,” IEEE SysCon 2024.",
+   "zh": "[4] K. Wang et al., “Monkey See, Monkey Do: Constant Time Delay Leader Following for Wheeled Mobile Robots using Uncertainty-Tuned MPC,” IEEE SysCon 2024.",
+   "cls": "keep"
+  },
+  "890dcd13c1": {
+   "en": "[5] J.-A. Delamer et al., “Graph Neural Network to Solve the Dynamic Emergency Vehicles Routing Problems,” IEEE SysCon 2024.",
+   "zh": "[5] J.-A. Delamer et al., “Graph Neural Network to Solve the Dynamic Emergency Vehicles Routing Problems,” IEEE SysCon 2024.",
+   "cls": "keep"
+  },
+  "24c153f3db": {
+   "en": "[6] A. Rasul et al., “Optimal Path Generation and Real-time Scheduling for Autonomous Mobile Platforms,” IEEE SysCon 2024.",
+   "zh": "[6] A. Rasul et al., “Optimal Path Generation and Real-time Scheduling for Autonomous Mobile Platforms,” IEEE SysCon 2024.",
+   "cls": "keep"
+  },
+  "1c647f3a34": {
+   "en": "[7] M. J. Stoffel et al., “On-Demand Triple Modular Redundancy for Automotive Applications,” IEEE SysCon 2024.",
+   "zh": "[7] M. J. Stoffel et al., “On-Demand Triple Modular Redundancy for Automotive Applications,” IEEE SysCon 2024.",
+   "cls": "keep"
+  },
+  "d1e855c8f9": {
+   "en": "[8] N. Potteiger & X. Koutsoukos, “Safeguarding Autonomous UAV Navigation: Agent Design using Evolving Behavior Trees,” IEEE SysCon 2024.",
+   "zh": "[8] N. Potteiger & X. Koutsoukos, “Safeguarding Autonomous UAV Navigation: Agent Design using Evolving Behavior Trees,” IEEE SysCon 2024.",
+   "cls": "keep"
+  },
+  "a08463d910": {
+   "en": "[9] A. Elhadeedy & J. Daily, “Autonomous Vehicle Development as a System of Systems and Constituent Systems Networking,” IEEE SysCon 2024.",
+   "zh": "[9] A. Elhadeedy & J. Daily, “Autonomous Vehicle Development as a System of Systems and Constituent Systems Networking,” IEEE SysCon 2024.",
+   "cls": "keep"
+  },
+  "6b1d5de321": {
+   "en": "[10] S. Alsanwy et al., “Vehicle Trajectory Prediction Using Deep Learning for ADAS and Autonomous Vehicles,” IEEE SysCon 2024.",
+   "zh": "[10] S. Alsanwy et al., “Vehicle Trajectory Prediction Using Deep Learning for ADAS and Autonomous Vehicles,” IEEE SysCon 2024.",
+   "cls": "keep"
+  },
+  "9a23543b16": {
+   "en": "[11] J. Heaton & S. Givigi, “Deep Reinforcement Learning Agents for Decision Making for Gameplay,” IEEE SysCon 2024.",
+   "zh": "[11] J. Heaton & S. Givigi, “Deep Reinforcement Learning Agents for Decision Making for Gameplay,” IEEE SysCon 2024.",
+   "cls": "keep"
+  },
+  "1a60287790": {
+   "en": "[12] T. M. N. B. Mohottalalage & H. Leung, “3D Convolutional Spiking Neural Network for Human Action Recognition Using Modulating STDP With Global Error Feedback,” IEEE SysCon 2024.",
+   "zh": "[12] T. M. N. B. Mohottalalage & H. Leung, “3D Convolutional Spiking Neural Network for Human Action Recognition Using Modulating STDP With Global Error Feedback,” IEEE SysCon 2024.",
+   "cls": "keep"
+  },
+  "349cf7658f": {
+   "en": "[13] O. K. Xanthidou et al., “Investigating Trainee Perspectives on Virtual Reality Environments with Haptic Feedback,” IEEE SysCon 2024.",
+   "zh": "[13] O. K. Xanthidou et al., “Investigating Trainee Perspectives on Virtual Reality Environments with Haptic Feedback,” IEEE SysCon 2024.",
+   "cls": "keep"
+  },
+  "5c004d9930": {
+   "en": "[14] J. Cecil, “Emergence of Next-generation Digital Twin based Robotic Frameworks for Cyber-Human-Physical Contexts,” IEEE SysCon 2024.",
+   "zh": "[14] J. Cecil, “Emergence of Next-generation Digital Twin based Robotic Frameworks for Cyber-Human-Physical Contexts,” IEEE SysCon 2024.",
+   "cls": "keep"
+  },
+  "bf8ee759ba": {
+   "en": "[15] A. Cagaanan & V. Gehlot, “Model-Driven System Development for a Cloud-Based Healthcare Application Using Colored Petri Nets,” IEEE SysCon 2024.",
+   "zh": "[15] A. Cagaanan & V. Gehlot, “Model-Driven System Development for a Cloud-Based Healthcare Application Using Colored Petri Nets,” IEEE SysCon 2024.",
+   "cls": "keep"
+  },
+  "b915960d43": {
+   "en": "[16] J. Cederbladh et al., “Towards Automating Model-Based Systems Engineering in Industry — An Experience Report,” IEEE SysCon 2024.",
+   "zh": "[16] J. Cederbladh et al., “Towards Automating Model-Based Systems Engineering in Industry — An Experience Report,” IEEE SysCon 2024.",
+   "cls": "keep"
+  },
+  "b8e6122217": {
+   "en": "[17] Y. Liu et al., “Application of MBSE Approach in eVTOL Development for Air Ambulance Service,” IEEE SysCon 2024.",
+   "zh": "[17] Y. Liu et al., “Application of MBSE Approach in eVTOL Development for Air Ambulance Service,” IEEE SysCon 2024.",
+   "cls": "keep"
+  },
+  "c411c7496b": {
+   "en": "{1}{2}{/2}Tech Insight{/1}{3}Contents{/3}{4}·{/4}{5}Statistics{/5}{6}·{/6}{7}Insights{/7}{8}·{/8}{9}Conclusions{/9}{10}·{/10}{11}References{/11}",
+   "zh": "{1}{2}{/2}Tech Insight{/1}{3}目录{/3}{4}·{/4}{5}统计{/5}{6}·{/6}{7}洞察{/7}{8}·{/8}{9}结论{/9}{10}·{/10}{11}参考文献{/11}",
+   "cls": "nav.bar"
+  },
+  "ba6e528745": {
+   "en": "IEEE SysCon 2024 — Systems Engineering Insights · Tech Insight Report",
+   "zh": "IEEE SysCon 2024 — 系统工程洞察 · Tech Insight 报告",
+   "cls": "div.kicker"
+  },
+  "c92fb2bfa0": {
+   "en": "18th Annual IEEE International Systems Conference (SysCon 2024)",
+   "zh": "18th Annual IEEE International Systems Conference (SysCon 2024)",
+   "cls": "h1"
+  },
+  "78c46104b1": {
+   "en": "{1}Montréal, Québec, Canada · April 15–18, 2024{/1}",
+   "zh": "{1}加拿大魁北克省蒙特利尔 · 2024 年 4 月 15–18 日{/1}",
+   "cls": "p.lede"
+  },
+  "d5454f5531": {
+   "en": "A read of IEEE SysCon 2024 through a systems-engineering lens: seventeen papers spanning autonomous navigation and SLAM, planning, routing and safety, trajectory prediction and energy-efficient AI, digital twins, and model-based systems engineering (MBSE) — including Colored Petri Nets and an eVTOL air-ambulance case.",
+   "zh": "从系统工程视角解读 IEEE SysCon 2024：17 篇论文涵盖自主导航与 SLAM、规划、路径与安全、轨迹预测与节能 AI、数字孪生以及基于模型的系统工程（MBSE），包括 Colored Petri Nets 和 eVTOL 空中救护案例。",
+   "cls": "p.lede"
+  },
+  "c14ec08012": {
+   "en": "Location{1}Montréal, Québec, Canada{/1}",
+   "zh": "地点{1}加拿大魁北克省蒙特利尔{/1}",
+   "cls": "div"
+  },
+  "10d715b6b7": {
+   "en": "Dates{1}April 15–18, 2024{/1}",
+   "zh": "日期{1}2024 年 4 月 15–18 日{/1}",
+   "cls": "div"
+  },
+  "e9a9167aba": {
+   "en": "Focus{1}Innovations across Autonomous Systems, AI, Digital Twins & MBSE{/1}",
+   "zh": "主题{1}自主系统、AI、数字孪生与 MBSE 领域的创新{/1}",
+   "cls": "div"
+  },
+  "f91f503b91": {
+   "en": "01 · Contents",
+   "zh": "01 · 目录",
+   "cls": "div.kicker"
+  },
+  "c204d81574": {
+   "en": "Papers covered, by theme",
+   "zh": "按主题划分的论文",
+   "cls": "h2"
+  },
+  "6fe042232e": {
+   "en": "A · Autonomous navigation & SLAM",
+   "zh": "A · 自主导航与 SLAM",
+   "cls": "attr:data-group"
+  },
+  "69f9fecd72": {
+   "en": "{1}01{/1}{2}Optimized UAV Localization & Autonomous Navigation for Tightly Closed Industrial Spaces{/2}",
+   "zh": "{1}01{/1}{2}Optimized UAV Localization & Autonomous Navigation for Tightly Closed Industrial Spaces{/2}",
+   "cls": "div"
+  },
+  "42f04fa422": {
+   "en": "{1}02{/1}{2}AUV Kalman-Filter Trajectory Estimation from Acoustic + Inertial Sensors{/2}",
+   "zh": "{1}02{/1}{2}AUV Kalman-Filter Trajectory Estimation from Acoustic + Inertial Sensors{/2}",
+   "cls": "div"
+  },
+  "81b4b48c2c": {
+   "en": "{1}03{/1}{2}3D EKF-SLAM Using Cylindrical & Planar Features with Multilevel Mapping{/2}",
+   "zh": "{1}03{/1}{2}3D EKF-SLAM Using Cylindrical & Planar Features with Multilevel Mapping{/2}",
+   "cls": "div"
+  },
+  "3038b50008": {
+   "en": "B · Autonomous planning, routing & safety",
+   "zh": "B · 自主规划、路径与安全",
+   "cls": "attr:data-group"
+  },
+  "8d8d510075": {
+   "en": "{1}04{/1}{2}Constant-Time-Delay Leader Following for Wheeled Robots (Uncertainty-Tuned MPC){/2}",
+   "zh": "{1}04{/1}{2}Constant-Time-Delay Leader Following for Wheeled Robots (Uncertainty-Tuned MPC){/2}",
+   "cls": "div"
+  },
+  "22ce93c5a1": {
+   "en": "{1}05{/1}{2}Graph Neural Network for Dynamic Emergency-Vehicle Routing{/2}",
+   "zh": "{1}05{/1}{2}Graph Neural Network for Dynamic Emergency-Vehicle Routing{/2}",
+   "cls": "div"
+  },
+  "efc5e3be20": {
+   "en": "{1}06{/1}{2}Optimal Path Generation & Real-time Scheduling for Autonomous Mobile Platforms{/2}",
+   "zh": "{1}06{/1}{2}Optimal Path Generation & Real-time Scheduling for Autonomous Mobile Platforms{/2}",
+   "cls": "div"
+  },
+  "6ad84bda2a": {
+   "en": "{1}07{/1}{2}On-Demand Triple Modular Redundancy for Automotive Applications{/2}",
+   "zh": "{1}07{/1}{2}On-Demand Triple Modular Redundancy for Automotive Applications{/2}",
+   "cls": "div"
+  },
+  "e612f62759": {
+   "en": "{1}08{/1}{2}Safeguarding Autonomous UAV Navigation with Evolving Behavior Trees{/2}",
+   "zh": "{1}08{/1}{2}Safeguarding Autonomous UAV Navigation with Evolving Behavior Trees{/2}",
+   "cls": "div"
+  },
+  "e514bb4b66": {
+   "en": "{1}09{/1}{2}Autonomous Vehicle Development as a System of Systems{/2}",
+   "zh": "{1}09{/1}{2}Autonomous Vehicle Development as a System of Systems{/2}",
+   "cls": "div"
+  },
+  "69ed8196bf": {
+   "en": "C · Prediction, AI & neuromorphic",
+   "zh": "C · 预测、AI 与类脑",
+   "cls": "attr:data-group"
+  },
+  "34b00853f5": {
+   "en": "{1}10{/1}{2}Vehicle Trajectory Prediction with Deep Learning for ADAS & AVs{/2}",
+   "zh": "{1}10{/1}{2}Vehicle Trajectory Prediction with Deep Learning for ADAS & AVs{/2}",
+   "cls": "div"
+  },
+  "2528bd5249": {
+   "en": "{1}11{/1}{2}Deep RL Agents for Decision Making in Cooperative Gameplay{/2}",
+   "zh": "{1}11{/1}{2}Deep RL Agents for Decision Making in Cooperative Gameplay{/2}",
+   "cls": "div"
+  },
+  "735d7617cb": {
+   "en": "{1}12{/1}{2}3D Convolutional Spiking Neural Network for Human Action Recognition{/2}",
+   "zh": "{1}12{/1}{2}3D Convolutional Spiking Neural Network for Human Action Recognition{/2}",
+   "cls": "div"
+  },
+  "c971254a8e": {
+   "en": "D · Digital twins & MBSE",
+   "zh": "D · 数字孪生与 MBSE",
+   "cls": "attr:data-group"
+  },
+  "7a8f5baf84": {
+   "en": "{1}13{/1}{2}Trainee Perspectives on VR Environments with Haptic Feedback{/2}",
+   "zh": "{1}13{/1}{2}Trainee Perspectives on VR Environments with Haptic Feedback{/2}",
+   "cls": "div"
+  },
+  "3ac6d82cd3": {
+   "en": "{1}14{/1}{2}Next-Generation Digital-Twin Robotic Frameworks for Cyber-Human-Physical Contexts{/2}",
+   "zh": "{1}14{/1}{2}Next-Generation Digital-Twin Robotic Frameworks for Cyber-Human-Physical Contexts{/2}",
+   "cls": "div"
+  },
+  "4c62eadea0": {
+   "en": "{1}15{/1}{2}Model-Driven Cloud-Based Healthcare App Using Colored Petri Nets{/2}",
+   "zh": "{1}15{/1}{2}Model-Driven Cloud-Based Healthcare App Using Colored Petri Nets{/2}",
+   "cls": "div"
+  },
+  "c0ddaea8bc": {
+   "en": "{1}16{/1}{2}Towards Automating MBSE in Industry — An Experience Report{/2}",
+   "zh": "{1}16{/1}{2}Towards Automating MBSE in Industry — An Experience Report{/2}",
+   "cls": "div"
+  },
+  "18ad3abe1c": {
+   "en": "{1}17{/1}{2}MBSE for eVTOL Development in Air-Ambulance Service{/2}",
+   "zh": "{1}17{/1}{2}MBSE for eVTOL Development in Air-Ambulance Service{/2}",
+   "cls": "div"
+  },
+  "324dbde335": {
+   "en": "02 · Conference statistics",
+   "zh": "02 · 会议统计",
+   "cls": "div.kicker"
+  },
+  "ef4a39fd56": {
+   "en": "18th Annual IEEE International Systems Conference (SysCon 2024) — Montréal, Québec, Canada, April 15–18, 2024",
+   "zh": "18th Annual IEEE International Systems Conference (SysCon 2024) — 加拿大魁北克省蒙特利尔，2024 年 4 月 15–18 日",
+   "cls": "h2"
+  },
+  "64147c489b": {
+   "en": "{1}300{/1}{2}submitted{/2}",
+   "zh": "{1}300{/1}{2}投稿数{/2}",
+   "cls": "div.tile"
+  },
+  "d7f6559df6": {
+   "en": "{1}160{/1}{2}accepted{/2}",
+   "zh": "{1}160{/1}{2}录用数{/2}",
+   "cls": "div.tile"
+  },
+  "3e34efbaee": {
+   "en": "{1}15{/1}{2}countries{/2}",
+   "zh": "{1}15{/1}{2}个国家{/2}",
+   "cls": "div.tile"
+  },
+  "b390aabd1a": {
+   "en": "{1}600{/1}{2}reviews{/2}",
+   "zh": "{1}600{/1}{2}份评审{/2}",
+   "cls": "div.tile"
+  },
+  "5f7f455085": {
+   "en": "{1}Also:{/1} The 18th Annual IEEE International Systems Conference, Delta Hotels Montreal. 300 submissions, 160 accepted across 18 topic areas; this report covers 17 papers.",
+   "zh": "{1}另外：{/1}第 18 届 IEEE 国际系统会议，蒙特利尔德尔塔酒店。共 300 篇投稿，160 篇录用，涵盖 18 个主题领域；本报告涵盖其中 17 篇论文。",
+   "cls": "p.overview-themes"
+  },
+  "7e10e1c948": {
+   "en": "Autonomous systems dominate — localization / SLAM, routing, redundancy and safety, and trajectory prediction — alongside energy-efficient AI (spiking networks), digital twins for cyber-human-physical systems, and MBSE from Colored Petri Nets to eVTOL air ambulances.",
+   "zh": "自主系统占主导——定位 / SLAM、路径规划、冗余与安全以及轨迹预测——同时还有节能 AI（脉冲网络）、面向信息-人-物理系统的数字孪生，以及从 Colored Petri Nets 到 eVTOL 空中救护的 MBSE。",
+   "cls": "p.overview-themes"
+  },
+  "74e3fba778": {
+   "en": "03 · Insights",
+   "zh": "03 · 洞察",
+   "cls": "div.kicker"
+  },
+  "ae28e85df8": {
+   "en": "Paper-by-paper tech insights",
+   "zh": "逐篇论文的技术洞察",
+   "cls": "h2"
+  },
+  "e02d8459a8": {
+   "en": "Optimized UAV Localization & Autonomous Navigation for Tightly Closed Industrial Spaces",
+   "zh": "Optimized UAV Localization & Autonomous Navigation for Tightly Closed Industrial Spaces",
+   "cls": "attr:data-toc"
+  },
+  "0fd8e83358": {
+   "en": "{1}Robin Havås et al.{/1} · University of Agder, Norway",
+   "zh": "{1}Robin Havås et al.{/1} · University of Agder, Norway",
+   "cls": "div.byline"
+  },
+  "9fe00acebc": {
+   "en": "Goal",
+   "zh": "目标",
+   "cls": "span.lbl"
+  },
+  "3204754a6b": {
+   "en": "Build a UAV navigation stack for precise localization and cost-effective autonomy in GPS-denied industrial spaces.",
+   "zh": "构建无人机导航栈，在无 GPS 的工业空间中实现精确定位和高性价比的自主能力。",
+   "cls": "p"
+  },
+  "bb9d653f4e": {
+   "en": "Challenge",
+   "zh": "挑战",
+   "cls": "span.lbl"
+  },
+  "847fb3dd2e": {
+   "en": "Industrial inspection/surveillance needs navigation without GPS, using affordable off-the-shelf components.",
+   "zh": "工业巡检和监控需要在无 GPS 的条件下导航，并使用价格合理的现成组件。",
+   "cls": "p"
+  },
+  "88306943fe": {
+   "en": "Method",
+   "zh": "方法",
+   "cls": "span.lbl"
+  },
+  "ee06474618": {
+   "en": "Integrate SLAM with obstacle detection / avoidance and real-time performance",
+   "zh": "将 SLAM 与障碍物检测 / 规避及实时性能集成",
+   "cls": "li"
+  },
+  "73c207b0bd": {
+   "en": "Use off-the-shelf sensors, edge devices and UAV control",
+   "zh": "使用现成的传感器、边缘设备和无人机控制",
+   "cls": "li"
+  },
+  "09ced6272e": {
+   "en": "Test in ROS + Gazebo with an IRIS 3DR drone across environments",
+   "zh": "在 ROS + Gazebo 中用 IRIS 3DR 无人机在多种环境下测试",
+   "cls": "li"
+  },
+  "aea0247b2a": {
+   "en": "Novelty",
+   "zh": "创新点",
+   "cls": "span.lbl"
+  },
+  "8237b1fe3b": {
+   "en": "A cost-effective, off-the-shelf navigation stack tuned for GPS-denied industrial inspection.",
+   "zh": "一套高性价比的现成导航栈，针对无 GPS 的工业巡检做了调优。",
+   "cls": "p"
+  },
+  "62036a7016": {
+   "en": "Impact",
+   "zh": "影响",
+   "cls": "span.lbl"
+  },
+  "8e6752e94b": {
+   "en": "Enables automated inspection in Industry-4.0 settings without costly infrastructure.",
+   "zh": "无需昂贵的基础设施，即可在工业 4.0 场景中实现自动化巡检。",
+   "cls": "p"
+  },
+  "b67a78ba1d": {
+   "en": "UAV navigation stack tested in ROS / Gazebo for GPS-denied industrial localization.",
+   "zh": "在 ROS / Gazebo 中测试的无人机导航栈，用于无 GPS 的工业定位。",
+   "cls": "figcaption"
+  },
+  "97789be113": {
+   "en": "AUV Kalman-Filter Trajectory Estimation from Acoustic + Inertial Sensors",
+   "zh": "AUV Kalman-Filter Trajectory Estimation from Acoustic + Inertial Sensors",
+   "cls": "attr:data-toc"
+  },
+  "40225112f0": {
+   "en": "{1}Juan de França Silva et al.{/1} · Instituto Tecnológico de Aeronáutica, Brazil",
+   "zh": "{1}Juan de França Silva et al.{/1} · Instituto Tecnológico de Aeronáutica, Brazil",
+   "cls": "div.byline"
+  },
+  "7f2dc383ad": {
+   "en": "Estimate AUV trajectories accurately in confined underwater spaces such as tunnels.",
+   "zh": "在隧道等受限水下空间中准确估计 AUV 轨迹。",
+   "cls": "p"
+  },
+  "bf5f43bef0": {
+   "en": "Acoustic positioning fails in confined spaces due to reflections and scattering, so AUVs rely on internal sensors.",
+   "zh": "受限空间中的反射和散射使声学定位失效，因此 AUV 依赖内部传感器。",
+   "cls": "p"
+  },
+  "0f8585d612": {
+   "en": "Fuse DVL, IMU, magnetometer and depth sensor with a Kalman Filter",
+   "zh": "用卡尔曼滤波融合 DVL、IMU、磁力计和深度传感器",
+   "cls": "li"
+  },
+  "a72768be52": {
+   "en": "Validate in confined tunnels and autonomous dam inspections",
+   "zh": "在受限隧道和自主大坝巡检中验证",
+   "cls": "li"
+  },
+  "1a9cdceafd": {
+   "en": "Compare against GPS-RTK and dead-reckoning trajectories",
+   "zh": "与 GPS-RTK 及航位推算轨迹对比",
+   "cls": "li"
+  },
+  "783386eb20": {
+   "en": "A KF sensor fusion that significantly beats dead reckoning for confined-space AUVs.",
+   "zh": "一种 KF 传感器融合方法，在受限空间 AUV 上显著优于航位推算。",
+   "cls": "p"
+  },
+  "2521051c2f": {
+   "en": "Reliable underwater inspection (dams, tunnels) where acoustic / GPS positioning is unavailable.",
+   "zh": "在无法使用声学 / GPS 定位的地方（大坝、隧道）实现可靠的水下巡检。",
+   "cls": "p"
+  },
+  "00741e55ff": {
+   "en": "Kalman-filter fusion of DVL, IMU and depth for confined-space AUV trajectory estimation.",
+   "zh": "融合 DVL、IMU 和深度的卡尔曼滤波，用于受限空间 AUV 的轨迹估计。",
+   "cls": "figcaption"
+  },
+  "c933a5b930": {
+   "en": "3D EKF-SLAM Using Cylindrical & Planar Features with Multilevel Mapping",
+   "zh": "3D EKF-SLAM Using Cylindrical & Planar Features with Multilevel Mapping",
+   "cls": "attr:data-toc"
+  },
+  "ad2dc79591": {
+   "en": "{1}Leonardo Mariga et al.{/1} · Aeronautics Institute of Technology, Brazil",
+   "zh": "{1}Leonardo Mariga et al.{/1} · Aeronautics Institute of Technology, Brazil",
+   "cls": "div.byline"
+  },
+  "ec2c4cbfe9": {
+   "en": "Build accurate 3D maps for mobile robots using geometric features.",
+   "zh": "利用几何特征为移动机器人构建精确的 3D 地图。",
+   "cls": "p"
+  },
+  "7b368ba4ff": {
+   "en": "3D SLAM must robustly extract and match features for localization in real environments.",
+   "zh": "3D SLAM 必须在真实环境中稳健地提取并匹配特征，以实现定位。",
+   "cls": "p"
+  },
+  "223ad53450": {
+   "en": "RGBD camera; RANSAC for planes and DBSCAN for cylinders within an EKF",
+   "zh": "RGBD 相机；在 EKF 中用 RANSAC 提取平面、用 DBSCAN 提取圆柱",
+   "cls": "li"
+  },
+  "c4c45d6b81": {
+   "en": "Hessian-normal-form planes + centroid-radius cylinders; Mahalanobis matching",
+   "zh": "Hessian 法线式平面加质心-半径式圆柱；马氏距离匹配",
+   "cls": "li"
+  },
+  "786877a30d": {
+   "en": "Simulate in ROS / Gazebo; real tests with the Omni robot",
+   "zh": "在 ROS / Gazebo 中仿真；用 Omni 机器人进行真实测试",
+   "cls": "li"
+  },
+  "516b743386": {
+   "en": "Combines planar and cylindrical features with multilevel mapping in EKF-SLAM.",
+   "zh": "在 EKF-SLAM 中结合平面特征、圆柱特征与多层建图。",
+   "cls": "p"
+  },
+  "9f0a3d52ec": {
+   "en": "Better structured-environment mapping for domestic, exploration and surveillance robots.",
+   "zh": "为家用、探索和监控机器人提供更好的结构化环境建图。",
+   "cls": "p"
+  },
+  "c99f710101": {
+   "en": "3D EKF-SLAM extracting planar and cylindrical features for multilevel maps.",
+   "zh": "3D EKF-SLAM 提取平面和圆柱特征，用于多层地图。",
+   "cls": "figcaption"
+  },
+  "8de2dc0eda": {
+   "en": "Constant-Time-Delay Leader Following for Wheeled Robots (Uncertainty-Tuned MPC)",
+   "zh": "Constant-Time-Delay Leader Following for Wheeled Robots (Uncertainty-Tuned MPC)",
+   "cls": "attr:data-toc"
+  },
+  "d40ad3dbe5": {
+   "en": "{1}Kai Wang et al.{/1} · Queen's University, Canada",
+   "zh": "{1}Kai Wang et al.{/1} · Queen's University, Canada",
+   "cls": "div.byline"
+  },
+  "ac6c20c553": {
+   "en": "Let a follower robot trail a leader's path at a fixed time delay (e.g. military convoys).",
+   "zh": "让跟随机器人以固定时间延迟沿领航者的路径行进（例如军事车队）。",
+   "cls": "p"
+  },
+  "5b2775caff": {
+   "en": "The follower must reconstruct and track the leader's past trajectory despite uncertainty.",
+   "zh": "尽管存在不确定性，跟随者仍须重建并跟踪领航者过去的轨迹。",
+   "cls": "p"
+  },
+  "1f575ceeb4": {
+   "en": "Estimate a sequence of leader waypoints",
+   "zh": "估计一系列领航者路点",
+   "cls": "li"
+  },
+  "536b0d29c6": {
+   "en": "Bridge estimator and controller with a model predictive controller (MPC)",
+   "zh": "用模型预测控制器（MPC）连接估计器与控制器",
+   "cls": "li"
+  },
+  "87006e79b3": {
+   "en": "Tune the MPC for uncertainty in the estimated waypoints",
+   "zh": "针对估计路点的不确定性调优 MPC",
+   "cls": "li"
+  },
+  "2d4abc9cee": {
+   "en": "An uncertainty-tuned MPC coupling a waypoint estimator to a constant-delay follower.",
+   "zh": "一种经不确定性调优的 MPC，将路点估计器与恒定延迟的跟随者耦合起来。",
+   "cls": "p"
+  },
+  "d53c29e96c": {
+   "en": "Validated indoors with acceptable position/velocity error — practical convoying.",
+   "zh": "在室内验证，位置 / 速度误差可接受——适用于实际车队行进。",
+   "cls": "p"
+  },
+  "7495fad4a9": {
+   "en": "A constant-time-delay leader–follower with an uncertainty-tuned MPC.",
+   "zh": "采用经不确定性调优 MPC 的恒定时间延迟领航-跟随系统。",
+   "cls": "figcaption"
+  },
+  "93d5980d9e": {
+   "en": "Graph Neural Network for Dynamic Emergency-Vehicle Routing",
+   "zh": "Graph Neural Network for Dynamic Emergency-Vehicle Routing",
+   "cls": "attr:data-toc"
+  },
+  "42444ec250": {
+   "en": "{1}Jean-Alexis Delamer et al.{/1} · St. Francis Xavier University, Canada",
+   "zh": "{1}Jean-Alexis Delamer et al.{/1} · St. Francis Xavier University, Canada",
+   "cls": "div.byline"
+  },
+  "e7ca012d72": {
+   "en": "Reduce emergency-vehicle response time to traffic accidents.",
+   "zh": "缩短应急车辆对交通事故的响应时间。",
+   "cls": "p"
+  },
+  "c8f0a2f76a": {
+   "en": "Routing must adapt dynamically to changing accident and traffic conditions.",
+   "zh": "路径规划必须随事故和交通状况的变化动态调整。",
+   "cls": "p"
+  },
+  "3c93cd60f8": {
+   "en": "Deep RL with PPO and a graph attention network",
+   "zh": "采用 PPO 和图注意力网络的深度强化学习（RL）",
+   "cls": "li"
+  },
+  "9efa17ad16": {
+   "en": "Model as a Dynamic Travelling Repairman Problem (an MDP)",
+   "zh": "建模为动态旅行修理工问题（一种 MDP）",
+   "cls": "li"
+  },
+  "67bc228846": {
+   "en": "Use probabilistic accident models from Toronto / Halifax open data",
+   "zh": "使用来自多伦多 / 哈利法克斯开放数据的概率事故模型",
+   "cls": "li"
+  },
+  "d2f29fa147": {
+   "en": "An MDP + graph-attention formulation of dynamic emergency-vehicle routing.",
+   "zh": "动态应急车辆路径规划的 MDP 加图注意力建模。",
+   "cls": "p"
+  },
+  "4eff7346d3": {
+   "en": "Faster emergency response — directly life-saving.",
+   "zh": "更快的应急响应——直接挽救生命。",
+   "cls": "p"
+  },
+  "60828afa33": {
+   "en": "Graph-attention deep-RL routing of emergency vehicles on a city road network.",
+   "zh": "在城市道路网络上，用图注意力深度强化学习（RL）为应急车辆规划路径。",
+   "cls": "figcaption"
+  },
+  "72537d2e4d": {
+   "en": "Optimal Path Generation & Real-time Scheduling for Autonomous Mobile Platforms",
+   "zh": "Optimal Path Generation & Real-time Scheduling for Autonomous Mobile Platforms",
+   "cls": "attr:data-toc"
+  },
+  "560d6bc2ea": {
+   "en": "{1}Abdullah Rasul et al.{/1} · OntarioTech University, Canada",
+   "zh": "{1}Abdullah Rasul et al.{/1} · OntarioTech University, Canada",
+   "cls": "div.byline"
+  },
+  "4135eef726": {
+   "en": "Plan and schedule routes for autonomous sweeping trucks, including breakdown scenarios.",
+   "zh": "为自动驾驶扫路车规划路径并安排调度，包括故障场景。",
+   "cls": "p"
+  },
+  "6ba397ca09": {
+   "en": "Routes must be re-planned in real time when a vehicle breaks down.",
+   "zh": "车辆发生故障时，必须实时重新规划路线。",
+   "cls": "p"
+  },
+  "a2ace2c43c": {
+   "en": "Model as a Capacitated Arc Routing Problem (CARP)",
+   "zh": "建模为带容量约束的弧路径问题（CARP）",
+   "cls": "li"
+  },
+  "8d5e11f315": {
+   "en": "Cluster-first / optimize-second: spectral clustering + TSP with simulated annealing",
+   "zh": "先聚类后优化：谱聚类加带模拟退火的 TSP",
+   "cls": "li"
+  },
+  "bb3c39e29a": {
+   "en": "Real-time breakdown handling via Kernighan-Lin bisection and Dijkstra reconnection",
+   "zh": "通过 Kernighan-Lin 二分和 Dijkstra 重连实现实时故障处理",
+   "cls": "li"
+  },
+  "d985dc57bd": {
+   "en": "Combines CARP, clustering and real-time edge redistribution for resilient routing.",
+   "zh": "结合 CARP、聚类和实时边重分配，实现有韧性的路径规划。",
+   "cls": "p"
+  },
+  "1112660c66": {
+   "en": "Seamless autonomous street-sweeping that recovers from breakdowns.",
+   "zh": "可从故障中恢复的无缝自动街道清扫。",
+   "cls": "p"
+  },
+  "046604cd6d": {
+   "en": "Capacitated arc routing with real-time re-scheduling around vehicle breakdowns.",
+   "zh": "带容量约束的弧路径规划，并可围绕车辆故障实时重新调度。",
+   "cls": "figcaption"
+  },
+  "f6405471e2": {
+   "en": "On-Demand Triple Modular Redundancy for Automotive Applications",
+   "zh": "On-Demand Triple Modular Redundancy for Automotive Applications",
+   "cls": "attr:data-toc"
+  },
+  "58b5d88c5d": {
+   "en": "{1}Martin J. Stoffel et al.{/1} · Karlsruhe Institute of Technology, Germany",
+   "zh": "{1}Martin J. Stoffel et al.{/1} · Karlsruhe Institute of Technology, Germany",
+   "cls": "div.byline"
+  },
+  "d0412fa487": {
+   "en": "Achieve fail-operational autonomy without a human fallback.",
+   "zh": "在没有人工兜底的情况下实现故障可运行（fail-operational）的自主能力。",
+   "cls": "p"
+  },
+  "81f1b4037c": {
+   "en": "AVs need high reliability / availability; >500M lines of code and ISO 26262 leave technical redundancy open.",
+   "zh": "自动驾驶车辆需要高可靠性 / 可用性；超过 500M 行代码，且 ISO 26262 对技术冗余未作规定。",
+   "cls": "p"
+  },
+  "c14e1c6f3a": {
+   "en": "On-demand TMR: redundant apps across multiple ECUs",
+   "zh": "按需 TMR：在多个 ECU 上运行冗余应用",
+   "cls": "li"
+  },
+  "ba4ae2d22e": {
+   "en": "Fail-silent architecture on service-oriented ECUs with ROS2 Galactic",
+   "zh": "基于 ROS2 Galactic，在面向服务的 ECU 上构建故障静默架构",
+   "cls": "li"
+  },
+  "e3cde85243": {
+   "en": "Inspired by avionic redundancy; use-cases from AV sensors and data rates",
+   "zh": "借鉴航空电子冗余；用例来自自动驾驶传感器和数据速率",
+   "cls": "li"
+  },
+  "9a39cee56a": {
+   "en": "Redundancy applied on-demand to minimize overhead in a fail-operational E/E architecture.",
+   "zh": "在故障可运行的 E/E 架构中按需应用冗余，以最小化开销。",
+   "cls": "p"
+  },
+  "46ee7c5f42": {
+   "en": "A path to auto-recovery in automated driving without manual takeover.",
+   "zh": "无需人工接管即可实现自动驾驶自动恢复的一条路径。",
+   "cls": "p"
+  },
+  "42f9d16a84": {
+   "en": "On-demand triple-modular-redundancy across service-oriented automotive ECUs.",
+   "zh": "跨面向服务的汽车 ECU 的按需三模冗余。",
+   "cls": "figcaption"
+  },
+  "350bd7195c": {
+   "en": "Safeguarding Autonomous UAV Navigation with Evolving Behavior Trees",
+   "zh": "Safeguarding Autonomous UAV Navigation with Evolving Behavior Trees",
+   "cls": "attr:data-toc"
+  },
+  "96915616b0": {
+   "en": "{1}N. Potteiger & X. Koutsoukos{/1} · Vanderbilt University, USA",
+   "zh": "{1}N. Potteiger & X. Koutsoukos{/1} · Vanderbilt University, USA",
+   "cls": "div.byline"
+  },
+  "fee014cab6": {
+   "en": "Ensure safe autonomous UAV navigation in dynamic environments.",
+   "zh": "确保无人机在动态环境中安全自主导航。",
+   "cls": "p"
+  },
+  "74a4e96d75": {
+   "en": "Learning-enabled components must handle dynamics while guaranteeing safety.",
+   "zh": "具备学习能力的组件必须应对动态变化，同时保证安全。",
+   "cls": "p"
+  },
+  "cea3f23fb7": {
+   "en": "Evolving Behavior Trees (EBTs) with explicit safety components",
+   "zh": "带显式安全组件的演化行为树（EBT）",
+   "cls": "li"
+  },
+  "179c109420": {
+   "en": "Automated EBT construction via genetic programming",
+   "zh": "通过遗传编程自动构建 EBT",
+   "cls": "li"
+  },
+  "a57ce2abce": {
+   "en": "Optimize learning components with hierarchical RL; safe transfer to new environments",
+   "zh": "用分层强化学习（RL）优化学习组件；安全迁移到新环境",
+   "cls": "li"
+  },
+  "5ac6aee475": {
+   "en": "Safe-by-design EBTs combining genetic-programming structure search with hierarchical RL.",
+   "zh": "将遗传编程的结构搜索与分层强化学习（RL）相结合的安全优先设计 EBT。",
+   "cls": "p"
+  },
+  "8ba65821e5": {
+   "en": "Collision-free UAV missions that transfer to unseen environments.",
+   "zh": "可迁移到未见环境的无碰撞无人机任务。",
+   "cls": "p"
+  },
+  "c2ed13f337": {
+   "en": "Evolving behavior trees with explicit safety components for UAV navigation.",
+   "zh": "面向无人机导航、带显式安全组件的演化行为树。",
+   "cls": "figcaption"
+  },
+  "bff784cf67": {
+   "en": "Autonomous Vehicle Development as a System of Systems",
+   "zh": "Autonomous Vehicle Development as a System of Systems",
+   "cls": "attr:data-toc"
+  },
+  "9c98530958": {
+   "en": "{1}A. Elhadeedy & J. Daily{/1} · Colorado State University, USA",
+   "zh": "{1}A. Elhadeedy & J. Daily{/1} · Colorado State University, USA",
+   "cls": "div.byline"
+  },
+  "770f9a88f5": {
+   "en": "Coordinate AV development across many vendors as a System of Systems (SoS).",
+   "zh": "将自动驾驶车辆开发视为体系（SoS），协调众多供应商。",
+   "cls": "p"
+  },
+  "d36f04aa57": {
+   "en": "Disparate global vendors cause coordination errors across perception, decision, control and comms.",
+   "zh": "全球分散的供应商会在感知、决策、控制和通信环节造成协调错误。",
+   "cls": "p"
+  },
+  "571c292c1c": {
+   "en": "A tailored SoS model integrating safety + security and feedback loops",
+   "zh": "一个定制的 SoS 模型，集成安全、网络安全与反馈回路",
+   "cls": "li"
+  },
+  "1723f6def6": {
+   "en": "Compare Named Data Networking (NDN) vs SOME/IP for communication",
+   "zh": "比较命名数据网络（NDN）与 SOME/IP 的通信表现",
+   "cls": "li"
+  },
+  "fea44534d8": {
+   "en": "A queuing model for certificate authentication at scale",
+   "zh": "大规模证书认证的排队模型",
+   "cls": "li"
+  },
+  "93794f39e3": {
+   "en": "SoS governance for AV constituent systems, with NDN security advantages at scale.",
+   "zh": "面向自动驾驶车辆组成系统的 SoS 治理，以及 NDN 在大规模下的安全优势。",
+   "cls": "p"
+  },
+  "e37115e132": {
+   "en": "Fewer integration errors and stronger security in multi-vendor AV programs.",
+   "zh": "在多供应商的自动驾驶项目中减少集成错误，增强安全性。",
+   "cls": "p"
+  },
+  "3a20d9d9ea": {
+   "en": "Autonomous-vehicle development modeled as a System of Systems with NDN communication.",
+   "zh": "将自动驾驶车辆开发建模为采用 NDN 通信的体系（System of Systems）。",
+   "cls": "figcaption"
+  },
+  "59cc974c4a": {
+   "en": "Vehicle Trajectory Prediction with Deep Learning for ADAS & AVs",
+   "zh": "Vehicle Trajectory Prediction with Deep Learning for ADAS & AVs",
+   "cls": "attr:data-toc"
+  },
+  "c36e32e1ac": {
+   "en": "{1}Shehab Alsanwy et al.{/1} · Deakin University, Australia",
+   "zh": "{1}Shehab Alsanwy et al.{/1} · Deakin University, Australia",
+   "cls": "div.byline"
+  },
+  "171c212e76": {
+   "en": "Predict vehicle trajectories for collision avoidance and path planning.",
+   "zh": "预测车辆轨迹，用于避撞和路径规划。",
+   "cls": "p"
+  },
+  "d6544631c1": {
+   "en": "Traditional models ignore driver-behavior variability (especially braking), hurting accuracy.",
+   "zh": "传统模型忽略驾驶员行为（尤其是制动）的差异，影响了准确性。",
+   "cls": "p"
+  },
+  "fb3c13333b": {
+   "en": "LSTM and GRU networks",
+   "zh": "LSTM 和 GRU 网络",
+   "cls": "li"
+  },
+  "f24ad0906f": {
+   "en": "Incorporate driver braking patterns plus vehicle dynamics",
+   "zh": "结合驾驶员制动模式与车辆动力学",
+   "cls": "li"
+  },
+  "e66b770456": {
+   "en": "Evaluate with RMSE / MAE",
+   "zh": "用 RMSE / MAE 评估",
+   "cls": "li"
+  },
+  "04636f28c6": {
+   "en": "Adding braking patterns markedly improves prediction; LSTM beats GRU.",
+   "zh": "加入制动模式后预测显著改善；LSTM 优于 GRU。",
+   "cls": "p"
+  },
+  "6dc3da70d6": {
+   "en": "More accurate ADAS / AV trajectory prediction and safer driving.",
+   "zh": "更准确的 ADAS / 自动驾驶车辆轨迹预测，驾驶更安全。",
+   "cls": "p"
+  },
+  "88d76ea3c0": {
+   "en": "LSTM / GRU trajectory prediction incorporating driver braking patterns.",
+   "zh": "结合驾驶员制动模式的 LSTM / GRU 轨迹预测。",
+   "cls": "figcaption"
+  },
+  "23e5e85f3c": {
+   "en": "Deep RL Agents for Decision Making in Cooperative Gameplay",
+   "zh": "Deep RL Agents for Decision Making in Cooperative Gameplay",
+   "cls": "attr:data-toc"
+  },
+  "6ba568f52f": {
+   "en": "{1}J. Heaton & S. Givigi{/1} · Queen's University, Canada",
+   "zh": "{1}J. Heaton & S. Givigi{/1} · Queen's University, Canada",
+   "cls": "div.byline"
+  },
+  "33739add18": {
+   "en": "Build cooperative AI agents for the tower-building game Menara, to help children with disabilities.",
+   "zh": "为叠塔游戏 Menara 构建协作型 AI 智能体，帮助残障儿童。",
+   "cls": "p"
+  },
+  "cab12a1526": {
+   "en": "Agents must make good pillar / tile placement decisions under uncertainty.",
+   "zh": "智能体必须在不确定条件下做出良好的立柱 / 瓦片放置决策。",
+   "cls": "p"
+  },
+  "c597fbfba9": {
+   "en": "RL (Q-learning, deep Q, soft actor-critic) per decision type",
+   "zh": "针对每种决策类型使用强化学习（RL）（Q-learning、deep Q、soft actor-critic）",
+   "cls": "li"
+  },
+  "a4bbb1def0": {
+   "en": "Separate agents for pillar vs tile placement, trained independently",
+   "zh": "立柱与瓦片放置使用各自独立的智能体，分别训练",
+   "cls": "li"
+  },
+  "59bd13d630": {
+   "en": "Simplified tower mechanics for training",
+   "zh": "训练时使用简化的塔楼力学",
+   "cls": "li"
+  },
+  "96eb19c538": {
+   "en": "Decomposed cooperative-game agents trained independently per decision.",
+   "zh": "按决策拆分、各自独立训练的协作游戏智能体。",
+   "cls": "p"
+  },
+  "c9964f2561": {
+   "en": "Tile agent 62% / pillar agent 88% success — toward assistive cooperative play.",
+   "zh": "瓦片智能体成功率 62%，立柱智能体 88%——迈向辅助式协作游戏。",
+   "cls": "p"
+  },
+  "9167faa698": {
+   "en": "Deep-RL agents placing pillars and tiles in the cooperative game Menara.",
+   "zh": "在协作游戏 Menara 中放置立柱和瓦片的深度强化学习（RL）智能体。",
+   "cls": "figcaption"
+  },
+  "543e83a36c": {
+   "en": "3D Convolutional Spiking Neural Network for Human Action Recognition",
+   "zh": "3D Convolutional Spiking Neural Network for Human Action Recognition",
+   "cls": "attr:data-toc"
+  },
+  "28c30b04de": {
+   "en": "{1}T. Mohottalalage & H. Leung{/1} · University of Calgary, Canada",
+   "zh": "{1}T. Mohottalalage & H. Leung{/1} · University of Calgary, Canada",
+   "cls": "div.byline"
+  },
+  "81e42cdadb": {
+   "en": "Energy-efficient video action recognition.",
+   "zh": "节能的视频动作识别。",
+   "cls": "p"
+  },
+  "5df96bb197": {
+   "en": "3D CNNs are accurate but memory- and compute-heavy.",
+   "zh": "3D CNN 精度高，但占用内存多、计算量大。",
+   "cls": "p"
+  },
+  "0cbebd969d": {
+   "en": "A 3D Convolutional Spiking NN with Leaky-Integrate-and-Fire neurons",
+   "zh": "采用 Leaky-Integrate-and-Fire 神经元的 3D 卷积脉冲神经网络",
+   "cls": "li"
+  },
+  "feabe7b1ca": {
+   "en": "Modulating STDP supervised learning via global error feedback",
+   "zh": "通过全局误差反馈调制 STDP 监督学习",
+   "cls": "li"
+  },
+  "ea8e1053a8": {
+   "en": "Two 3D convolutional layers + two spiking layers",
+   "zh": "两层 3D 卷积层加两层脉冲层",
+   "cls": "li"
+  },
+  "7193ee5bb4": {
+   "en": "A supervised-STDP spiking CNN competitive with 3D CNNs at far lower power and memory.",
+   "zh": "一种监督式 STDP 脉冲 CNN，在功耗和内存远低于 3D CNN 的情况下仍具竞争力。",
+   "cls": "p"
+  },
+  "4af3dde2c6": {
+   "en": "Real-time, low-power action recognition for edge video analysis.",
+   "zh": "面向边缘视频分析的实时、低功耗动作识别。",
+   "cls": "p"
+  },
+  "b60e619ac3": {
+   "en": "A 3D convolutional spiking neural network with LIF neurons for action recognition.",
+   "zh": "采用 LIF 神经元的 3D 卷积脉冲神经网络，用于动作识别。",
+   "cls": "figcaption"
+  },
+  "850eea57d4": {
+   "en": "Trainee Perspectives on VR Environments with Haptic Feedback",
+   "zh": "Trainee Perspectives on VR Environments with Haptic Feedback",
+   "cls": "attr:data-toc"
+  },
+  "5418f35d06": {
+   "en": "{1}O. K. Xanthidou et al.{/1} · Brunel University London, UK",
+   "zh": "{1}O. K. Xanthidou et al.{/1} · Brunel University London, UK",
+   "cls": "div.byline"
+  },
+  "735573b42d": {
+   "en": "Evaluate adaptable haptic feedback in single-user VR training environments.",
+   "zh": "评估单用户 VR 培训环境中可调节的触觉反馈。",
+   "cls": "p"
+  },
+  "69811771cf": {
+   "en": "Understand how haptic vibrations affect immersion and learning.",
+   "zh": "了解触觉振动如何影响沉浸感和学习。",
+   "cls": "p"
+  },
+  "f9fd95bdaf": {
+   "en": "A trainee study in standard classroom settings",
+   "zh": "在标准课堂环境中开展的学员研究",
+   "cls": "li"
+  },
+  "a896cade82": {
+   "en": "Tasks involving haptic feedback",
+   "zh": "涉及触觉反馈的任务",
+   "cls": "li"
+  },
+  "c28bcb3c99": {
+   "en": "Non-probability sampling",
+   "zh": "非概率抽样",
+   "cls": "li"
+  },
+  "e64187c76e": {
+   "en": "Trainee-centered evidence that haptic feedback enhances immersive VR training.",
+   "zh": "以学员为中心的证据，表明触觉反馈能增强沉浸式 VR 培训。",
+   "cls": "p"
+  },
+  "3b57d90a79": {
+   "en": "Guidance for designing effective VR / haptic education.",
+   "zh": "为设计有效的 VR / 触觉教育提供指导。",
+   "cls": "p"
+  },
+  "3058822f0e": {
+   "en": "Trainee study of haptic feedback in immersive VR training environments.",
+   "zh": "沉浸式 VR 培训环境中触觉反馈的学员研究。",
+   "cls": "figcaption"
+  },
+  "e084a86b4b": {
+   "en": "Next-Generation Digital-Twin Robotic Frameworks for Cyber-Human-Physical Contexts",
+   "zh": "Next-Generation Digital-Twin Robotic Frameworks for Cyber-Human-Physical Contexts",
+   "cls": "attr:data-toc"
+  },
+  "173521a8bc": {
+   "en": "{1}Joe Cecil{/1} · Oklahoma State University, USA",
+   "zh": "{1}Joe Cecil{/1} · Oklahoma State University, USA",
+   "cls": "div.byline"
+  },
+  "ac20be1c20": {
+   "en": "Link cyber, human and physical facets with 3D digital twins and VR / MR.",
+   "zh": "用 3D 数字孪生和 VR / MR 连接信息、人与物理三个层面。",
+   "cls": "p"
+  },
+  "c8214f44be": {
+   "en": "Advanced robots (lunar missions, rehab cobots) need training, layout and immersive analysis.",
+   "zh": "先进机器人（月球任务、康复协作机器人）需要培训、布局和沉浸式分析。",
+   "cls": "p"
+  },
+  "434a63da99": {
+   "en": "3D digital twins for training and layout modification",
+   "zh": "用于培训和布局调整的 3D 数字孪生",
+   "cls": "li"
+  },
+  "791de68bc8": {
+   "en": "Cobot applications with safety / efficiency control",
+   "zh": "带安全 / 效率控制的协作机器人应用",
+   "cls": "li"
+  },
+  "5368931f65": {
+   "en": "Support Cyber-Physical Systems and Industry 4.0",
+   "zh": "支持信息物理系统与工业 4.0",
+   "cls": "li"
+  },
+  "f9cfe3ae45": {
+   "en": "Next-gen digital-twin frameworks spanning cyber-human-physical robotics.",
+   "zh": "覆盖信息-人-物理机器人领域的新一代数字孪生框架。",
+   "cls": "p"
+  },
+  "c3213516a4": {
+   "en": "Better cobot support, including automated mobility aids for challenged individuals.",
+   "zh": "更好地支持协作机器人，包括为行动不便者提供的自动化助行设备。",
+   "cls": "p"
+  },
+  "464483e228": {
+   "en": "Digital-twin robotic frameworks linking cyber, human and physical contexts.",
+   "zh": "连接信息、人与物理场景的数字孪生机器人框架。",
+   "cls": "figcaption"
+  },
+  "1fd7aef5b8": {
+   "en": "Model-Driven Cloud-Based Healthcare App Using Colored Petri Nets",
+   "zh": "Model-Driven Cloud-Based Healthcare App Using Colored Petri Nets",
+   "cls": "attr:data-toc"
+  },
+  "a94e8d8cb7": {
+   "en": "{1}A. Cagaanan & V. Gehlot{/1} · Villanova University, USA",
+   "zh": "{1}A. Cagaanan & V. Gehlot{/1} · Villanova University, USA",
+   "cls": "div.byline"
+  },
+  "ebe5b1ac59": {
+   "en": "Improve software quality during cloud integration of consumer-oriented apps.",
+   "zh": "在面向消费者的应用接入云的过程中提升软件质量。",
+   "cls": "p"
+  },
+  "f89638a239": {
+   "en": "Cloud adoption rushes features, risking security, performance and standards.",
+   "zh": "上云时急于推出功能，会危及安全、性能和标准。",
+   "cls": "p"
+  },
+  "ffabf65e8d": {
+   "en": "A model-driven approach with Colored Petri Nets (CPNs) for design-implementation harmony",
+   "zh": "采用 Colored Petri Nets（CPN）的模型驱动方法，使设计与实现保持一致",
+   "cls": "li"
+  },
+  "430b6a1b26": {
+   "en": "A cloud-based healthcare app for verification and prototyping",
+   "zh": "用于验证和原型开发的云端医疗应用",
+   "cls": "li"
+  },
+  "3bc3c0c365": {
+   "en": "ML integration in the simulations",
+   "zh": "在仿真中集成机器学习",
+   "cls": "li"
+  },
+  "5b4fc0feef": {
+   "en": "CPN-based model-driven development that bridges design and implementation.",
+   "zh": "基于 CPN 的模型驱动开发，连接设计与实现。",
+   "cls": "p"
+  },
+  "dfb4922ad5": {
+   "en": "Higher-quality, adaptable cloud software via up-front formal design.",
+   "zh": "通过前期的形式化设计，获得质量更高、适应性更强的云软件。",
+   "cls": "p"
+  },
+  "68fed771d1": {
+   "en": "A Colored-Petri-Net model driving a cloud-based healthcare application.",
+   "zh": "驱动云端医疗应用的 Colored-Petri-Net 模型。",
+   "cls": "figcaption"
+  },
+  "8666c33867": {
+   "en": "Towards Automating MBSE in Industry — An Experience Report",
+   "zh": "Towards Automating MBSE in Industry — An Experience Report",
+   "cls": "attr:data-toc"
+  },
+  "00872e0ac5": {
+   "en": "{1}Johan Cederbladh et al.{/1} · Mälardalen University, Sweden (+ EU partners)",
+   "zh": "{1}Johan Cederbladh et al.{/1} · Mälardalen University, Sweden (+ EU partners)",
+   "cls": "div.byline"
+  },
+  "e8556fd8f3": {
+   "en": "Automate Cyber-Physical-System design by combining MBSE, DevOps and AI.",
+   "zh": "结合 MBSE、DevOps 和 AI，实现信息物理系统设计的自动化。",
+   "cls": "p"
+  },
+  "1487112b5d": {
+   "en": "CPS design is hard (heterogeneity, concurrency, timing); plus CAEX interoperability, legacy artifacts and the academia–industry gap.",
+   "zh": "CPS 设计很难（异构性、并发、时序）；此外还有 CAEX 互操作性、遗留工件以及学界与业界之间的差距。",
+   "cls": "p"
+  },
+  "f0f49acef7": {
+   "en": "Prescriptive modeling with model transformations and views",
+   "zh": "带模型转换和视图的规定式建模",
+   "cls": "li"
+  },
+  "48b9736977": {
+   "en": "Modeling-process mining",
+   "zh": "建模过程挖掘",
+   "cls": "li"
+  },
+  "febc0be741": {
+   "en": "AI-based modeling recommendations",
+   "zh": "基于 AI 的建模推荐",
+   "cls": "li"
+  },
+  "2253bfeabb": {
+   "en": "An industry experience report on automating MBSE end-to-end.",
+   "zh": "一份关于端到端自动化 MBSE 的业界经验报告。",
+   "cls": "p"
+  },
+  "a55648c471": {
+   "en": "A practical path to adopting automated MBSE in industry.",
+   "zh": "在业界采用自动化 MBSE 的一条实用路径。",
+   "cls": "p"
+  },
+  "e04ef43b41": {
+   "en": "Automating MBSE in industry — prescriptive modeling, transformations and AI recommendations.",
+   "zh": "在业界自动化 MBSE——规定式建模、模型转换和 AI 推荐。",
+   "cls": "figcaption"
+  },
+  "6eaae6c435": {
+   "en": "MBSE for eVTOL Development in Air-Ambulance Service",
+   "zh": "MBSE for eVTOL Development in Air-Ambulance Service",
+   "cls": "attr:data-toc"
+  },
+  "16938d6b0b": {
+   "en": "{1}Yue Liu et al.{/1} · COMAC, China; ISAE-SUPAERO, France",
+   "zh": "{1}Yue Liu et al.{/1} · COMAC, China; ISAE-SUPAERO, France",
+   "cls": "div.byline"
+  },
+  "83e51f754b": {
+   "en": "Apply MBSE to develop an eVTOL air-ambulance for Urban Air Mobility (UAM).",
+   "zh": "应用 MBSE 开发面向城市空中交通（UAM）的 eVTOL 空中救护机。",
+   "cls": "p"
+  },
+  "f2ce5e3063": {
+   "en": "eVTOL EMS development has integration, spatial and payload complexities.",
+   "zh": "eVTOL 急救医疗服务（EMS）的开发存在集成、空间和载荷方面的复杂性。",
+   "cls": "p"
+  },
+  "559b741cac": {
+   "en": "MBSE with UML, Drawio and Capella",
+   "zh": "使用 UML、Drawio 和 Capella 的 MBSE",
+   "cls": "li"
+  },
+  "de61f30812": {
+   "en": "Three phases: conceptual, system and architecture design",
+   "zh": "三个阶段：概念设计、系统设计和架构设计",
+   "cls": "li"
+  },
+  "ba10901699": {
+   "en": "A case study for patient + equipment transport",
+   "zh": "针对患者与设备运送的案例研究",
+   "cls": "li"
+  },
+  "d4de7977cb": {
+   "en": "An end-to-end MBSE case study for eVTOL air ambulances.",
+   "zh": "一个面向 eVTOL 空中救护机的端到端 MBSE 案例研究。",
+   "cls": "p"
+  },
+  "bd734eac78": {
+   "en": "Stakeholder-aligned eVTOL EMS design and lessons for UAM.",
+   "zh": "与利益相关方一致的 eVTOL EMS 设计，以及对 UAM 的经验教训。",
+   "cls": "p"
+  },
+  "2708bb4168": {
+   "en": "An MBSE (Capella / UML) workflow for an eVTOL air-ambulance.",
+   "zh": "面向 eVTOL 空中救护机的 MBSE（Capella / UML）工作流。",
+   "cls": "figcaption"
+  },
+  "200d93941a": {
+   "en": "04 · Conclusions",
+   "zh": "04 · 结论",
+   "cls": "div.kicker"
+  },
+  "a292606210": {
+   "en": "Synthesis across the papers",
+   "zh": "各篇论文的综合",
+   "cls": "h2"
+  },
+  "b4510362a5": {
+   "en": "Insights",
+   "zh": "洞察",
+   "cls": "h4"
+  },
+  "0b5b12cbfd": {
+   "en": "Autonomous systems dominate the program — localization / SLAM, routing, redundancy / safety and trajectory prediction.",
+   "zh": "自主系统主导了整个议程——定位 / SLAM、路径规划、冗余 / 安全以及轨迹预测。",
+   "cls": "li"
+  },
+  "91ab379179": {
+   "en": "Learning is pervasive but safety-framed: RL, graph networks and behavior trees are paired with redundancy, verification and uncertainty tuning.",
+   "zh": "学习无处不在，但以安全为框架：强化学习（RL）、图网络和行为树都与冗余、验证和不确定性调优搭配使用。",
+   "cls": "li"
+  },
+  "30d0291894": {
+   "en": "MBSE is maturing from notation to automation — Colored Petri Nets, Capella/UML workflows and AI-assisted modeling.",
+   "zh": "MBSE 正从记法走向自动化——Colored Petri Nets、Capella/UML 工作流和 AI 辅助建模。",
+   "cls": "li"
+  },
+  "40b0906c4f": {
+   "en": "Vision",
+   "zh": "愿景",
+   "cls": "h4"
+  },
+  "044196e144": {
+   "en": "Fail-operational autonomy without a human fallback (on-demand redundancy, safe-by-design behavior trees).",
+   "zh": "没有人工兜底的故障可运行自主能力（按需冗余、安全优先设计的行为树）。",
+   "cls": "li"
+  },
+  "5d29c8cfc1": {
+   "en": "Digital twins linking cyber, human and physical systems for training and control.",
+   "zh": "连接信息、人与物理系统的数字孪生，用于培训和控制。",
+   "cls": "li"
+  },
+  "29b66caefb": {
+   "en": "Energy-efficient, neuromorphic AI (spiking networks) for real-time edge perception.",
+   "zh": "面向实时边缘感知的节能类脑 AI（脉冲网络）。",
+   "cls": "li"
+  },
+  "5d8c81594f": {
+   "en": "Implications for us",
+   "zh": "对我们的启示",
+   "cls": "h4"
+  },
+  "243c0d6516": {
+   "en": "Treat autonomy as a System of Systems — coordinate multi-vendor constituents with integrated safety and security.",
+   "zh": "把自主能力视为体系（System of Systems）——在集成安全与网络安全的前提下协调多供应商的组成系统。",
+   "cls": "li"
+  },
+  "e76330d5ac": {
+   "en": "Adopt model-driven / MBSE practices (CPN, Capella) to raise software quality and shorten CPS design.",
+   "zh": "采用模型驱动 / MBSE 实践（CPN、Capella），以提升软件质量并缩短 CPS 设计周期。",
+   "cls": "li"
+  },
+  "145ea73ed6": {
+   "en": "Invest in GPS-denied localization and uncertainty-aware planning for real industrial and emergency use.",
+   "zh": "投入无 GPS 定位和不确定性感知规划，用于真实的工业和应急场景。",
+   "cls": "li"
+  },
+  "2b92ebc383": {
+   "en": "05 · References",
+   "zh": "05 · 参考文献",
+   "cls": "div.kicker"
+  },
+  "5d20d0fee3": {
+   "en": "References",
+   "zh": "参考文献",
+   "cls": "h2"
+  },
+  "9867ac9afe": {
+   "en": "© 2026 {1}ALI{/1} — {2}Tech Insight{/2} v1.1.0",
+   "zh": "© 2026 {1}ALI{/1} — {2}Tech Insight{/2} v1.1.0",
+   "cls": "div.site-copyright"
+  },
+  "ffbd9ceca3": {
+   "en": "IEEE SysCon 2024 — Systems Engineering Insights — Tech Insight Report",
+   "zh": "IEEE SysCon 2024 — 系统工程洞察 — Tech Insight 报告",
+   "cls": "doctitle"
+  },
+  "ee45c30326": {
+   "en": "Report",
+   "zh": "报告",
+   "cls": "div.kicker"
+  },
+  "4afca88e9e": {
+   "en": "IEEE SysCon 2024 — Systems Engineering Insights",
+   "zh": "IEEE SysCon 2024 — 系统工程洞察",
+   "cls": "h1"
+  },
+  "410b8f7674": {
+   "en": "18th Annual IEEE International Systems Conference (SysCon 2024) · Montréal, Québec, Canada · April 15–18, 2024",
+   "zh": "18th Annual IEEE International Systems Conference (SysCon 2024) · 加拿大魁北克省蒙特利尔 · 2024 年 4 月 15–18 日",
+   "cls": "p.topic"
+  },
+  "8a1e29b3dd": {
+   "en": "Conference",
+   "zh": "会议",
+   "cls": "attr:data-toc"
+  },
+  "f5cbdf6bfb": {
+   "en": "Contents",
+   "zh": "目录",
+   "cls": "attr:data-toc"
+  },
+  "b4e6a31089": {
+   "en": "Intro",
+   "zh": "简介",
+   "cls": "attr:data-group"
+  },
+  "e3e91f3034": {
+   "en": "Conference statistics",
+   "zh": "会议统计",
+   "cls": "attr:data-toc"
+  },
+  "fd6b99cbeb": {
+   "en": "18th Annual IEEE International Systems Conference (SysCon 2024) — Montréal, Québec, Canada",
+   "zh": "18th Annual IEEE International Systems Conference (SysCon 2024) — 加拿大魁北克省蒙特利尔",
+   "cls": "h2"
+  },
+  "69467abe28": {
+   "en": "Insight 01 · Autonomous navigation & SLAM",
+   "zh": "洞察 01 · 自主导航与 SLAM",
+   "cls": "div.kicker"
+  },
+  "4388b99137": {
+   "en": "Insight 02 · Autonomous navigation & SLAM",
+   "zh": "洞察 02 · 自主导航与 SLAM",
+   "cls": "div.kicker"
+  },
+  "87277e11c0": {
+   "en": "Insight 03 · Autonomous navigation & SLAM",
+   "zh": "洞察 03 · 自主导航与 SLAM",
+   "cls": "div.kicker"
+  },
+  "f909beeec2": {
+   "en": "Insight 04 · Autonomous planning, routing & safety",
+   "zh": "洞察 04 · 自主规划、路径与安全",
+   "cls": "div.kicker"
+  },
+  "cf69a958af": {
+   "en": "Insight 05 · Autonomous planning, routing & safety",
+   "zh": "洞察 05 · 自主规划、路径与安全",
+   "cls": "div.kicker"
+  },
+  "0cb639fc19": {
+   "en": "Insight 06 · Autonomous planning, routing & safety",
+   "zh": "洞察 06 · 自主规划、路径与安全",
+   "cls": "div.kicker"
+  },
+  "bc690e301b": {
+   "en": "Insight 07 · Autonomous planning, routing & safety",
+   "zh": "洞察 07 · 自主规划、路径与安全",
+   "cls": "div.kicker"
+  },
+  "4ba42760ee": {
+   "en": "Insight 08 · Autonomous planning, routing & safety",
+   "zh": "洞察 08 · 自主规划、路径与安全",
+   "cls": "div.kicker"
+  },
+  "6cbe5daf2f": {
+   "en": "Insight 09 · Autonomous planning, routing & safety",
+   "zh": "洞察 09 · 自主规划、路径与安全",
+   "cls": "div.kicker"
+  },
+  "d16a8e1591": {
+   "en": "Insight 10 · Prediction, AI & neuromorphic",
+   "zh": "洞察 10 · 预测、AI 与类脑",
+   "cls": "div.kicker"
+  },
+  "64ff8cd5d6": {
+   "en": "Insight 11 · Prediction, AI & neuromorphic",
+   "zh": "洞察 11 · 预测、AI 与类脑",
+   "cls": "div.kicker"
+  },
+  "6935de4601": {
+   "en": "Insight 12 · Prediction, AI & neuromorphic",
+   "zh": "洞察 12 · 预测、AI 与类脑",
+   "cls": "div.kicker"
+  },
+  "63ca2f8b77": {
+   "en": "Insight 13 · Digital twins & MBSE",
+   "zh": "洞察 13 · 数字孪生与 MBSE",
+   "cls": "div.kicker"
+  },
+  "bca133feb1": {
+   "en": "Insight 14 · Digital twins & MBSE",
+   "zh": "洞察 14 · 数字孪生与 MBSE",
+   "cls": "div.kicker"
+  },
+  "6f9c985f15": {
+   "en": "Insight 15 · Digital twins & MBSE",
+   "zh": "洞察 15 · 数字孪生与 MBSE",
+   "cls": "div.kicker"
+  },
+  "3df8f212c8": {
+   "en": "Insight 16 · Digital twins & MBSE",
+   "zh": "洞察 16 · 数字孪生与 MBSE",
+   "cls": "div.kicker"
+  },
+  "2de3457d69": {
+   "en": "Insight 17 · Digital twins & MBSE",
+   "zh": "洞察 17 · 数字孪生与 MBSE",
+   "cls": "div.kicker"
+  },
+  "b536777ff1": {
+   "en": "Conclusions",
+   "zh": "结论",
+   "cls": "attr:data-toc"
+  },
+  "bbd6051ccb": {
+   "en": "<div class=\"fit\"><div class=\"concl\"><div class=\"col c1\"><h4>Insights</h4><ul><li>Autonomous systems dominate the program — localization / SLAM, routing, redundancy / safety and trajectory prediction.</li><li>Learning is pervasive but safety-framed: RL, graph networks and behavior trees are paired with redundancy, verification and uncertainty tuning.</li><li>MBSE is maturing from notation to automation — Colored Petri Nets, Capella/UML workflows and AI-assisted modeling.</li></ul></div><div class=\"col c2\"><h4>Vision</h4><ul><li>Fail-operational autonomy without a human fallback (on-demand redundancy, safe-by-design behavior trees).</li><li>Digital twins linking cyber, human and physical systems for training and control.</li><li>Energy-efficient, neuromorphic AI (spiking networks) for real-time edge perception.</li></ul></div><div class=\"col c3\"><h4>Implications for us</h4><ul><li>Treat autonomy as a System of Systems — coordinate multi-vendor constituents with integrated safety and security.</li><li>Adopt model-driven / MBSE practices (CPN, Capella) to raise software quality and shorten CPS design.</li><li>Invest in GPS-denied localization and uncertainty-aware planning for real industrial and emergency use.</li></ul></div></div></div>",
+   "zh": "<div class=\"fit\"><div class=\"concl\"><div class=\"col c1\"><h4>洞察</h4><ul><li>自主系统主导了本届议程：定位 / SLAM、路径规划、冗余 / 安全以及轨迹预测。</li><li>学习方法无处不在，但以安全为前提：RL、图网络和行为树都与冗余、验证和不确定性调优结合使用。</li><li>MBSE 正从记法走向自动化：Colored Petri Nets、Capella/UML 工作流和 AI 辅助建模。</li></ul></div><div class=\"col c2\"><h4>愿景</h4><ul><li>无需人工兜底的故障可运行（fail-operational）自主能力（按需冗余、设计即安全的行为树）。</li><li>连接信息、人和物理系统的数字孪生，用于训练和控制。</li><li>面向实时边缘感知的高能效类脑 AI（脉冲网络）。</li></ul></div><div class=\"col c3\"><h4>对我们的启示</h4><ul><li>将自主能力视为体系（System of Systems）：在集成安全与信息安全的前提下，协调多供应商的组成系统。</li><li>采用模型驱动 / MBSE 实践（CPN、Capella），提高软件质量并缩短 CPS 设计周期。</li><li>投入 GPS 拒止环境下的定位和感知不确定性的规划，面向真实的工业和应急场景。</li></ul></div></div></div>",
+   "cls": "section.slide"
+  },
+  "fa39f733bd": {
+   "en": "Wrap-up",
+   "zh": "总结",
+   "cls": "attr:data-group"
+  },
+  "b2ec1abf35": {
+   "en": "Contents (T)",
+   "zh": "目录 (T)",
+   "cls": "button.toc-btn"
+  },
+  "04ac900f9c": {
+   "en": "IEEE SysCon 2024 — Systems Engineering Insights — Tech Insight Slides",
+   "zh": "IEEE SysCon 2024 — 系统工程洞察 — Tech Insight 幻灯片",
+   "cls": "doctitle"
+  },
+  "4718b93d9d": {
+   "en": "Tech Insight",
+   "zh": "Tech Insight",
+   "cls": "pptx"
+  },
+  "88aa4763ef": {
+   "en": "Tech Insight Report",
+   "zh": "Tech Insight 报告",
+   "cls": "pptx"
+  },
+  "4749f45582": {
+   "en": "Montréal, Québec, Canada · April 15–18, 2024",
+   "zh": "加拿大魁北克蒙特利尔 · 2024 年 4 月 15–18 日",
+   "cls": "pptx"
+  },
+  "d219c68101": {
+   "en": "Location",
+   "zh": "地点",
+   "cls": "pptx"
+  },
+  "5291daeda8": {
+   "en": "Montréal, Québec, Canada",
+   "zh": "加拿大魁北克蒙特利尔",
+   "cls": "pptx"
+  },
+  "842b7b5d71": {
+   "en": "Dates",
+   "zh": "日期",
+   "cls": "pptx"
+  },
+  "c23c635a63": {
+   "en": "April 15–18, 2024",
+   "zh": "2024 年 4 月 15–18 日",
+   "cls": "pptx"
+  },
+  "fe7f55b8bf": {
+   "en": "Focus",
+   "zh": "主题",
+   "cls": "pptx"
+  },
+  "feeb8bf020": {
+   "en": "Innovations across Autonomous Systems, AI, Digital Twins & MBSE",
+   "zh": "自主系统、AI、数字孪生与 MBSE 领域的创新",
+   "cls": "pptx"
+  },
+  "c7fb4a1c86": {
+   "en": "CONTENTS",
+   "zh": "目录",
+   "cls": "pptx"
+  },
+  "dd1a92a165": {
+   "en": "CONFERENCE STATISTICS",
+   "zh": "会议统计",
+   "cls": "pptx"
+  },
+  "fda43783be": {
+   "en": "submitted",
+   "zh": "投稿数",
+   "cls": "pptx"
+  },
+  "51c817ab85": {
+   "en": "accepted",
+   "zh": "录用数",
+   "cls": "pptx"
+  },
+  "11ef521f70": {
+   "en": "countries",
+   "zh": "个国家",
+   "cls": "pptx"
+  },
+  "7b2c6e04fe": {
+   "en": "reviews",
+   "zh": "评审",
+   "cls": "pptx"
+  },
+  "8ea84eecb1": {
+   "en": "Also: The 18th Annual IEEE International Systems Conference, Delta Hotels Montreal. 300 submissions, 160 accepted across 18 topic areas; this report covers 17 papers.",
+   "zh": "另：第 18 届 IEEE 国际系统会议（The 18th Annual IEEE International Systems Conference），蒙特利尔德尔塔酒店。共 300 篇投稿，录用 160 篇，涵盖 18 个主题领域；本报告涵盖 17 篇论文。",
+   "cls": "pptx"
+  },
+  "fa8780151f": {
+   "en": "INSIGHT 01 · Autonomous navigation & SLAM",
+   "zh": "洞察 01 · 自主导航与 SLAM",
+   "cls": "pptx"
+  },
+  "c9e35df7a0": {
+   "en": "Robin Havås et al. · University of Agder, Norway",
+   "zh": "Robin Havås et al. · University of Agder, Norway",
+   "cls": "pptx"
+  },
+  "5fc1004412": {
+   "en": "GOAL",
+   "zh": "目标",
+   "cls": "pptx"
+  },
+  "6adedb098f": {
+   "en": "• Build a UAV navigation stack for precise localization and cost-effective autonomy in GPS-denied industrial spaces.",
+   "zh": "• 构建无人机导航栈，在 GPS 拒止的工业空间中实现精确定位和低成本自主飞行。",
+   "cls": "pptx"
+  },
+  "e9166b5b8a": {
+   "en": "CHALLENGE",
+   "zh": "挑战",
+   "cls": "pptx"
+  },
+  "8b77c27828": {
+   "en": "• Industrial inspection/surveillance needs navigation without GPS, using affordable off-the-shelf components.",
+   "zh": "• 工业巡检 / 监控需要无 GPS 导航，并使用价格低廉的现成组件。",
+   "cls": "pptx"
+  },
+  "098632eb27": {
+   "en": "METHOD",
+   "zh": "方法",
+   "cls": "pptx"
+  },
+  "90389afaf5": {
+   "en": "• Integrate SLAM with obstacle detection / avoidance and real-time performance",
+   "zh": "• 将 SLAM 与障碍物检测 / 避障及实时性能集成",
+   "cls": "pptx"
+  },
+  "d6cf6cda6c": {
+   "en": "• Use off-the-shelf sensors, edge devices and UAV control",
+   "zh": "• 使用现成的传感器、边缘设备和无人机控制",
+   "cls": "pptx"
+  },
+  "c03528ea0f": {
+   "en": "• Test in ROS + Gazebo with an IRIS 3DR drone across environments",
+   "zh": "• 在 ROS + Gazebo 中使用 IRIS 3DR 无人机，在多种环境下测试",
+   "cls": "pptx"
+  },
+  "c427fc98ea": {
+   "en": "NOVELTY",
+   "zh": "创新点",
+   "cls": "pptx"
+  },
+  "04abc6a48d": {
+   "en": "• A cost-effective, off-the-shelf navigation stack tuned for GPS-denied industrial inspection.",
+   "zh": "• 一套低成本、基于现成组件的导航栈，针对 GPS 拒止的工业巡检做了调优。",
+   "cls": "pptx"
+  },
+  "c5c9f56f26": {
+   "en": "IMPACT",
+   "zh": "影响",
+   "cls": "pptx"
+  },
+  "b95cdd7720": {
+   "en": "• Enables automated inspection in Industry-4.0 settings without costly infrastructure.",
+   "zh": "• 无需昂贵的基础设施，即可在工业 4.0 场景中实现自动化巡检。",
+   "cls": "pptx"
+  },
+  "b2b056b192": {
+   "en": "INSIGHT 02 · Autonomous navigation & SLAM",
+   "zh": "洞察 02 · 自主导航与 SLAM",
+   "cls": "pptx"
+  },
+  "3296914ad9": {
+   "en": "Juan de França Silva et al. · Instituto Tecnológico de Aeronáutica, Brazil",
+   "zh": "Juan de França Silva et al. · Instituto Tecnológico de Aeronáutica, Brazil",
+   "cls": "pptx"
+  },
+  "e5cea69893": {
+   "en": "• Estimate AUV trajectories accurately in confined underwater spaces such as tunnels.",
+   "zh": "• 在隧道等受限水下空间中准确估计 AUV 的轨迹。",
+   "cls": "pptx"
+  },
+  "30b6ac02b4": {
+   "en": "• Acoustic positioning fails in confined spaces due to reflections and scattering, so AUVs rely on internal sensors.",
+   "zh": "• 受反射和散射影响，声学定位在受限空间中失效，因此 AUV 依赖内部传感器。",
+   "cls": "pptx"
+  },
+  "2991d4adfa": {
+   "en": "• Fuse DVL, IMU, magnetometer and depth sensor with a Kalman Filter",
+   "zh": "• 用卡尔曼滤波融合 DVL、IMU、磁力计和深度传感器",
+   "cls": "pptx"
+  },
+  "9a7fb99f33": {
+   "en": "• Validate in confined tunnels and autonomous dam inspections",
+   "zh": "• 在受限隧道和自主大坝巡检中验证",
+   "cls": "pptx"
+  },
+  "524183a130": {
+   "en": "• Compare against GPS-RTK and dead-reckoning trajectories",
+   "zh": "• 与 GPS-RTK 和航位推算轨迹对比",
+   "cls": "pptx"
+  },
+  "57422238b0": {
+   "en": "• A KF sensor fusion that significantly beats dead reckoning for confined-space AUVs.",
+   "zh": "• 一种 KF 传感器融合方法，在受限空间 AUV 上明显优于航位推算。",
+   "cls": "pptx"
+  },
+  "4cd5d3673f": {
+   "en": "• Reliable underwater inspection (dams, tunnels) where acoustic / GPS positioning is unavailable.",
+   "zh": "• 在声学 / GPS 定位不可用的场合（大坝、隧道）实现可靠的水下巡检。",
+   "cls": "pptx"
+  },
+  "6e001160d3": {
+   "en": "INSIGHT 03 · Autonomous navigation & SLAM",
+   "zh": "洞察 03 · 自主导航与 SLAM",
+   "cls": "pptx"
+  },
+  "e15bcf2bf1": {
+   "en": "Leonardo Mariga et al. · Aeronautics Institute of Technology, Brazil",
+   "zh": "Leonardo Mariga et al. · Aeronautics Institute of Technology, Brazil",
+   "cls": "pptx"
+  },
+  "398439a103": {
+   "en": "• Build accurate 3D maps for mobile robots using geometric features.",
+   "zh": "• 利用几何特征为移动机器人构建精确的 3D 地图。",
+   "cls": "pptx"
+  },
+  "fa726c42d9": {
+   "en": "• 3D SLAM must robustly extract and match features for localization in real environments.",
+   "zh": "• 3D SLAM 必须在真实环境中稳健地提取并匹配特征以完成定位。",
+   "cls": "pptx"
+  },
+  "830c66f616": {
+   "en": "• RGBD camera; RANSAC for planes and DBSCAN for cylinders within an EKF",
+   "zh": "• RGBD 相机；在 EKF 中用 RANSAC 提取平面、用 DBSCAN 提取圆柱",
+   "cls": "pptx"
+  },
+  "cc2aa6c969": {
+   "en": "• Hessian-normal-form planes + centroid-radius cylinders; Mahalanobis matching",
+   "zh": "• Hessian 法线式平面 + 质心半径式圆柱；马氏距离匹配",
+   "cls": "pptx"
+  },
+  "393299dc3a": {
+   "en": "• Simulate in ROS / Gazebo; real tests with the Omni robot",
+   "zh": "• 在 ROS / Gazebo 中仿真；用 Omni 机器人进行实机测试",
+   "cls": "pptx"
+  },
+  "a84b46010e": {
+   "en": "• Combines planar and cylindrical features with multilevel mapping in EKF-SLAM.",
+   "zh": "• 在 EKF-SLAM 中结合平面和圆柱特征与多层级建图。",
+   "cls": "pptx"
+  },
+  "88cb2c7fd4": {
+   "en": "• Better structured-environment mapping for domestic, exploration and surveillance robots.",
+   "zh": "• 为家用、探索和监控机器人提供更好的结构化环境建图。",
+   "cls": "pptx"
+  },
+  "9450dfd9a7": {
+   "en": "INSIGHT 04 · Autonomous planning, routing & safety",
+   "zh": "洞察 04 · 自主规划、路径与安全",
+   "cls": "pptx"
+  },
+  "6812f50f28": {
+   "en": "Kai Wang et al. · Queen's University, Canada",
+   "zh": "Kai Wang et al. · Queen's University, Canada",
+   "cls": "pptx"
+  },
+  "114e48f46e": {
+   "en": "• Let a follower robot trail a leader's path at a fixed time delay (e.g. military convoys).",
+   "zh": "• 让跟随机器人以固定时间延迟沿领航者的路径行进（例如军用车队）。",
+   "cls": "pptx"
+  },
+  "2352aa4f87": {
+   "en": "• The follower must reconstruct and track the leader's past trajectory despite uncertainty.",
+   "zh": "• 跟随者必须在不确定性下重建并跟踪领航者过去的轨迹。",
+   "cls": "pptx"
+  },
+  "657f579860": {
+   "en": "• Estimate a sequence of leader waypoints",
+   "zh": "• 估计一串领航者路点",
+   "cls": "pptx"
+  },
+  "2e0a0dc09a": {
+   "en": "• Bridge estimator and controller with a model predictive controller (MPC)",
+   "zh": "• 用模型预测控制器（MPC）衔接估计器和控制器",
+   "cls": "pptx"
+  },
+  "d1aced3592": {
+   "en": "• Tune the MPC for uncertainty in the estimated waypoints",
+   "zh": "• 针对估计路点的不确定性调优 MPC",
+   "cls": "pptx"
+  },
+  "4832d07ac6": {
+   "en": "• An uncertainty-tuned MPC coupling a waypoint estimator to a constant-delay follower.",
+   "zh": "• 一种针对不确定性调优的 MPC，将路点估计器与恒定延迟的跟随者耦合起来。",
+   "cls": "pptx"
+  },
+  "9ea3601f43": {
+   "en": "• Validated indoors with acceptable position/velocity error — practical convoying.",
+   "zh": "• 在室内验证，位置 / 速度误差可接受，适用于实际的车队跟随。",
+   "cls": "pptx"
+  },
+  "65f2b59638": {
+   "en": "INSIGHT 05 · Autonomous planning, routing & safety",
+   "zh": "洞察 05 · 自主规划、路径与安全",
+   "cls": "pptx"
+  },
+  "87542780a1": {
+   "en": "Jean-Alexis Delamer et al. · St. Francis Xavier University, Canada",
+   "zh": "Jean-Alexis Delamer et al. · St. Francis Xavier University, Canada",
+   "cls": "pptx"
+  },
+  "9bd08be7cb": {
+   "en": "• Reduce emergency-vehicle response time to traffic accidents.",
+   "zh": "• 缩短应急车辆对交通事故的响应时间。",
+   "cls": "pptx"
+  },
+  "c688c9149c": {
+   "en": "• Routing must adapt dynamically to changing accident and traffic conditions.",
+   "zh": "• 路径规划必须动态适应不断变化的事故和交通状况。",
+   "cls": "pptx"
+  },
+  "51be378dfa": {
+   "en": "• Deep RL with PPO and a graph attention network",
+   "zh": "• 采用 PPO 和图注意力网络的深度 RL",
+   "cls": "pptx"
+  },
+  "cf3ee0e12b": {
+   "en": "• Model as a Dynamic Travelling Repairman Problem (an MDP)",
+   "zh": "• 建模为动态旅行修理工问题（Dynamic Travelling Repairman Problem，一种 MDP）",
+   "cls": "pptx"
+  },
+  "ef58e11b54": {
+   "en": "• Use probabilistic accident models from Toronto / Halifax open data",
+   "zh": "• 使用来自多伦多 / 哈利法克斯开放数据的概率事故模型",
+   "cls": "pptx"
+  },
+  "124cf959a6": {
+   "en": "• An MDP + graph-attention formulation of dynamic emergency-vehicle routing.",
+   "zh": "• 一种基于 MDP 和图注意力的动态应急车辆路径规划建模方法。",
+   "cls": "pptx"
+  },
+  "95c6ecd314": {
+   "en": "• Faster emergency response — directly life-saving.",
+   "zh": "• 更快的应急响应，直接关系到挽救生命。",
+   "cls": "pptx"
+  },
+  "8026856007": {
+   "en": "INSIGHT 06 · Autonomous planning, routing & safety",
+   "zh": "洞察 06 · 自主规划、路径与安全",
+   "cls": "pptx"
+  },
+  "2d6d2c813b": {
+   "en": "Abdullah Rasul et al. · OntarioTech University, Canada",
+   "zh": "Abdullah Rasul et al. · OntarioTech University, Canada",
+   "cls": "pptx"
+  },
+  "f0d047808b": {
+   "en": "• Plan and schedule routes for autonomous sweeping trucks, including breakdown scenarios.",
+   "zh": "• 为自动驾驶清扫车规划和调度路线，包括车辆故障场景。",
+   "cls": "pptx"
+  },
+  "3616f4f03c": {
+   "en": "• Routes must be re-planned in real time when a vehicle breaks down.",
+   "zh": "• 车辆发生故障时，必须实时重新规划路线。",
+   "cls": "pptx"
+  },
+  "7fd2a38920": {
+   "en": "• Model as a Capacitated Arc Routing Problem (CARP)",
+   "zh": "• 建模为容量约束弧路径问题（Capacitated Arc Routing Problem，CARP）",
+   "cls": "pptx"
+  },
+  "295b10ce2d": {
+   "en": "• Cluster-first / optimize-second: spectral clustering + TSP with simulated annealing",
+   "zh": "• 先聚类、后优化：谱聚类 + 带模拟退火的 TSP",
+   "cls": "pptx"
+  },
+  "215b145339": {
+   "en": "• Real-time breakdown handling via Kernighan-Lin bisection and Dijkstra reconnection",
+   "zh": "• 通过 Kernighan-Lin 二分和 Dijkstra 重连实现实时故障处理",
+   "cls": "pptx"
+  },
+  "9db94e383a": {
+   "en": "• Combines CARP, clustering and real-time edge redistribution for resilient routing.",
+   "zh": "• 结合 CARP、聚类和实时边重分配，实现有韧性的路径规划。",
+   "cls": "pptx"
+  },
+  "fd092acbd1": {
+   "en": "• Seamless autonomous street-sweeping that recovers from breakdowns.",
+   "zh": "• 无缝的自动驾驶街道清扫，并能从故障中恢复。",
+   "cls": "pptx"
+  },
+  "b8dcb7df62": {
+   "en": "INSIGHT 07 · Autonomous planning, routing & safety",
+   "zh": "洞察 07 · 自主规划、路径与安全",
+   "cls": "pptx"
+  },
+  "73d986c21c": {
+   "en": "Martin J. Stoffel et al. · Karlsruhe Institute of Technology, Germany",
+   "zh": "Martin J. Stoffel et al. · Karlsruhe Institute of Technology, Germany",
+   "cls": "pptx"
+  },
+  "4d5d6cc77f": {
+   "en": "• Achieve fail-operational autonomy without a human fallback.",
+   "zh": "• 实现无需人工兜底的故障可运行（fail-operational）自主能力。",
+   "cls": "pptx"
+  },
+  "01a9259216": {
+   "en": "• AVs need high reliability / availability; >500M lines of code and ISO 26262 leave technical redundancy open.",
+   "zh": "• 自动驾驶车辆（AV）需要高可靠性 / 可用性；超过 500M 行代码和 ISO 26262 使技术冗余问题悬而未决。",
+   "cls": "pptx"
+  },
+  "1a45868e3d": {
+   "en": "• On-demand TMR: redundant apps across multiple ECUs",
+   "zh": "• 按需 TMR：在多个 ECU 上部署冗余应用",
+   "cls": "pptx"
+  },
+  "63148586bb": {
+   "en": "• Fail-silent architecture on service-oriented ECUs with ROS2 Galactic",
+   "zh": "• 基于 ROS2 Galactic，在面向服务的 ECU 上采用故障静默架构",
+   "cls": "pptx"
+  },
+  "620c94378d": {
+   "en": "• Inspired by avionic redundancy; use-cases from AV sensors and data rates",
+   "zh": "• 受航空电子冗余启发；用例来自 AV 传感器和数据速率",
+   "cls": "pptx"
+  },
+  "d9cbf5deca": {
+   "en": "• Redundancy applied on-demand to minimize overhead in a fail-operational E/E architecture.",
+   "zh": "• 在故障可运行的 E/E 架构中按需应用冗余，以尽量减少开销。",
+   "cls": "pptx"
+  },
+  "edd31cce2e": {
+   "en": "• A path to auto-recovery in automated driving without manual takeover.",
+   "zh": "• 为自动驾驶实现无需人工接管的自动恢复提供了一条路径。",
+   "cls": "pptx"
+  },
+  "873407af69": {
+   "en": "INSIGHT 08 · Autonomous planning, routing & safety",
+   "zh": "洞察 08 · 自主规划、路径与安全",
+   "cls": "pptx"
+  },
+  "ca83e49e24": {
+   "en": "N. Potteiger & X. Koutsoukos · Vanderbilt University, USA",
+   "zh": "N. Potteiger & X. Koutsoukos · Vanderbilt University, USA",
+   "cls": "pptx"
+  },
+  "1d6e320605": {
+   "en": "• Ensure safe autonomous UAV navigation in dynamic environments.",
+   "zh": "• 确保无人机在动态环境中安全地自主导航。",
+   "cls": "pptx"
+  },
+  "6a67db3b66": {
+   "en": "• Learning-enabled components must handle dynamics while guaranteeing safety.",
+   "zh": "• 具备学习能力的组件必须在应对动态变化的同时保证安全。",
+   "cls": "pptx"
+  },
+  "785c9e7c13": {
+   "en": "• Evolving Behavior Trees (EBTs) with explicit safety components",
+   "zh": "• 带有显式安全组件的演化行为树（Evolving Behavior Trees，EBT）",
+   "cls": "pptx"
+  },
+  "ac1d5fb1df": {
+   "en": "• Automated EBT construction via genetic programming",
+   "zh": "• 通过遗传编程自动构建 EBT",
+   "cls": "pptx"
+  },
+  "67749d08c6": {
+   "en": "• Optimize learning components with hierarchical RL; safe transfer to new environments",
+   "zh": "• 用分层 RL 优化学习组件；安全迁移到新环境",
+   "cls": "pptx"
+  },
+  "8073aecc19": {
+   "en": "• Safe-by-design EBTs combining genetic-programming structure search with hierarchical RL.",
+   "zh": "• 设计即安全的 EBT，结合遗传编程的结构搜索与分层 RL。",
+   "cls": "pptx"
+  },
+  "cacfc81d2f": {
+   "en": "• Collision-free UAV missions that transfer to unseen environments.",
+   "zh": "• 无碰撞的无人机任务，并可迁移到未见过的环境。",
+   "cls": "pptx"
+  },
+  "9add882549": {
+   "en": "INSIGHT 09 · Autonomous planning, routing & safety",
+   "zh": "洞察 09 · 自主规划、路径与安全",
+   "cls": "pptx"
+  },
+  "165ab9334a": {
+   "en": "A. Elhadeedy & J. Daily · Colorado State University, USA",
+   "zh": "A. Elhadeedy & J. Daily · Colorado State University, USA",
+   "cls": "pptx"
+  },
+  "b37143f22d": {
+   "en": "• Coordinate AV development across many vendors as a System of Systems (SoS).",
+   "zh": "• 将跨多家供应商的 AV 开发作为体系（System of Systems，SoS）来协调。",
+   "cls": "pptx"
+  },
+  "ffdf4e6fbf": {
+   "en": "• Disparate global vendors cause coordination errors across perception, decision, control and comms.",
+   "zh": "• 分散的全球供应商导致感知、决策、控制和通信之间出现协调错误。",
+   "cls": "pptx"
+  },
+  "4b8ad67ea4": {
+   "en": "• A tailored SoS model integrating safety + security and feedback loops",
+   "zh": "• 一种量身定制的 SoS 模型，整合安全与信息安全以及反馈回路",
+   "cls": "pptx"
+  },
+  "f1ad776260": {
+   "en": "• Compare Named Data Networking (NDN) vs SOME/IP for communication",
+   "zh": "• 比较命名数据网络（Named Data Networking，NDN）与 SOME/IP 的通信表现",
+   "cls": "pptx"
+  },
+  "f19bf36332": {
+   "en": "• A queuing model for certificate authentication at scale",
+   "zh": "• 面向大规模证书认证的排队模型",
+   "cls": "pptx"
+  },
+  "0ea326c456": {
+   "en": "• SoS governance for AV constituent systems, with NDN security advantages at scale.",
+   "zh": "• 面向 AV 组成系统的 SoS 治理，并体现 NDN 在大规模场景下的安全优势。",
+   "cls": "pptx"
+  },
+  "2934344c41": {
+   "en": "• Fewer integration errors and stronger security in multi-vendor AV programs.",
+   "zh": "• 在多供应商 AV 项目中减少集成错误并增强安全性。",
+   "cls": "pptx"
+  },
+  "f8ddfebf34": {
+   "en": "INSIGHT 10 · Prediction, AI & neuromorphic",
+   "zh": "洞察 10 · 预测、AI 与类脑计算",
+   "cls": "pptx"
+  },
+  "dde548103e": {
+   "en": "Shehab Alsanwy et al. · Deakin University, Australia",
+   "zh": "Shehab Alsanwy et al. · Deakin University, Australia",
+   "cls": "pptx"
+  },
+  "19ac526bdf": {
+   "en": "• Predict vehicle trajectories for collision avoidance and path planning.",
+   "zh": "• 预测车辆轨迹，用于避撞和路径规划。",
+   "cls": "pptx"
+  },
+  "de73ce8a9e": {
+   "en": "• Traditional models ignore driver-behavior variability (especially braking), hurting accuracy.",
+   "zh": "• 传统模型忽略驾驶员行为的差异（尤其是制动），影响准确性。",
+   "cls": "pptx"
+  },
+  "eab237eb49": {
+   "en": "• LSTM and GRU networks",
+   "zh": "• LSTM 和 GRU 网络",
+   "cls": "pptx"
+  },
+  "22e60b27cd": {
+   "en": "• Incorporate driver braking patterns plus vehicle dynamics",
+   "zh": "• 结合驾驶员制动模式与车辆动力学",
+   "cls": "pptx"
+  },
+  "77265789a2": {
+   "en": "• Evaluate with RMSE / MAE",
+   "zh": "• 用 RMSE / MAE 评估",
+   "cls": "pptx"
+  },
+  "6b1c78c7f7": {
+   "en": "• Adding braking patterns markedly improves prediction; LSTM beats GRU.",
+   "zh": "• 加入制动模式后预测效果显著提升；LSTM 优于 GRU。",
+   "cls": "pptx"
+  },
+  "a4fea21e44": {
+   "en": "• More accurate ADAS / AV trajectory prediction and safer driving.",
+   "zh": "• 更准确的 ADAS / AV 轨迹预测和更安全的驾驶。",
+   "cls": "pptx"
+  },
+  "622c16e083": {
+   "en": "INSIGHT 11 · Prediction, AI & neuromorphic",
+   "zh": "洞察 11 · 预测、AI 与类脑计算",
+   "cls": "pptx"
+  },
+  "c8e909dbbc": {
+   "en": "J. Heaton & S. Givigi · Queen's University, Canada",
+   "zh": "J. Heaton & S. Givigi · Queen's University, Canada",
+   "cls": "pptx"
+  },
+  "72f7616a4a": {
+   "en": "• Build cooperative AI agents for the tower-building game Menara, to help children with disabilities.",
+   "zh": "• 为叠塔游戏 Menara 构建协作型 AI 智能体，帮助残障儿童。",
+   "cls": "pptx"
+  },
+  "6d7e416c0e": {
+   "en": "• Agents must make good pillar / tile placement decisions under uncertainty.",
+   "zh": "• 智能体必须在不确定性下做出良好的立柱 / 瓦片放置决策。",
+   "cls": "pptx"
+  },
+  "cbe4b50493": {
+   "en": "• RL (Q-learning, deep Q, soft actor-critic) per decision type",
+   "zh": "• 针对每类决策使用 RL（Q-learning、deep Q、soft actor-critic）",
+   "cls": "pptx"
+  },
+  "f01c4be570": {
+   "en": "• Separate agents for pillar vs tile placement, trained independently",
+   "zh": "• 立柱和瓦片放置使用各自独立的智能体，分别训练",
+   "cls": "pptx"
+  },
+  "f792f3ba30": {
+   "en": "• Simplified tower mechanics for training",
+   "zh": "• 训练时使用简化的塔楼力学模型",
+   "cls": "pptx"
+  },
+  "fae9e03c30": {
+   "en": "• Decomposed cooperative-game agents trained independently per decision.",
+   "zh": "• 将协作游戏拆解为多个智能体，每个决策独立训练。",
+   "cls": "pptx"
+  },
+  "5038d993a9": {
+   "en": "• Tile agent 62% / pillar agent 88% success — toward assistive cooperative play.",
+   "zh": "• 瓦片智能体成功率 62%，立柱智能体 88%，朝着辅助式协作游戏迈进。",
+   "cls": "pptx"
+  },
+  "76c320057a": {
+   "en": "INSIGHT 12 · Prediction, AI & neuromorphic",
+   "zh": "洞察 12 · 预测、AI 与类脑计算",
+   "cls": "pptx"
+  },
+  "63ad885a43": {
+   "en": "T. Mohottalalage & H. Leung · University of Calgary, Canada",
+   "zh": "T. Mohottalalage & H. Leung · University of Calgary, Canada",
+   "cls": "pptx"
+  },
+  "ae718018e8": {
+   "en": "• Energy-efficient video action recognition.",
+   "zh": "• 高能效的视频动作识别。",
+   "cls": "pptx"
+  },
+  "5b7e34aa3f": {
+   "en": "• 3D CNNs are accurate but memory- and compute-heavy.",
+   "zh": "• 3D CNN 精度高，但占用内存多、计算量大。",
+   "cls": "pptx"
+  },
+  "0e820f3d72": {
+   "en": "• A 3D Convolutional Spiking NN with Leaky-Integrate-and-Fire neurons",
+   "zh": "• 采用 Leaky-Integrate-and-Fire 神经元的 3D 卷积脉冲神经网络",
+   "cls": "pptx"
+  },
+  "37c81124d2": {
+   "en": "• Modulating STDP supervised learning via global error feedback",
+   "zh": "• 通过全局误差反馈调制 STDP 监督学习",
+   "cls": "pptx"
+  },
+  "fec73aade2": {
+   "en": "• Two 3D convolutional layers + two spiking layers",
+   "zh": "• 两层 3D 卷积层 + 两层脉冲层",
+   "cls": "pptx"
+  },
+  "c9c08801f4": {
+   "en": "• A supervised-STDP spiking CNN competitive with 3D CNNs at far lower power and memory.",
+   "zh": "• 一种监督 STDP 脉冲 CNN，性能可与 3D CNN 相当，而功耗和内存低得多。",
+   "cls": "pptx"
+  },
+  "6df02b89b9": {
+   "en": "• Real-time, low-power action recognition for edge video analysis.",
+   "zh": "• 面向边缘视频分析的实时、低功耗动作识别。",
+   "cls": "pptx"
+  },
+  "91fc9ee9a9": {
+   "en": "INSIGHT 13 · Digital twins & MBSE",
+   "zh": "洞察 13 · 数字孪生与 MBSE",
+   "cls": "pptx"
+  },
+  "39c8ad1e9b": {
+   "en": "O. K. Xanthidou et al. · Brunel University London, UK",
+   "zh": "O. K. Xanthidou et al. · Brunel University London, UK",
+   "cls": "pptx"
+  },
+  "0515b4d210": {
+   "en": "• Evaluate adaptable haptic feedback in single-user VR training environments.",
+   "zh": "• 评估单用户 VR 训练环境中可适应的触觉反馈。",
+   "cls": "pptx"
+  },
+  "43f47fe4f4": {
+   "en": "• Understand how haptic vibrations affect immersion and learning.",
+   "zh": "• 了解触觉振动如何影响沉浸感和学习效果。",
+   "cls": "pptx"
+  },
+  "744d493b2b": {
+   "en": "• A trainee study in standard classroom settings",
+   "zh": "• 在标准课堂环境中开展学员研究",
+   "cls": "pptx"
+  },
+  "830de8423d": {
+   "en": "• Tasks involving haptic feedback",
+   "zh": "• 包含触觉反馈的任务",
+   "cls": "pptx"
+  },
+  "7764f3f887": {
+   "en": "• Non-probability sampling",
+   "zh": "• 非概率抽样",
+   "cls": "pptx"
+  },
+  "966cec5d5d": {
+   "en": "• Trainee-centered evidence that haptic feedback enhances immersive VR training.",
+   "zh": "• 以学员为中心的证据，表明触觉反馈能增强沉浸式 VR 训练。",
+   "cls": "pptx"
+  },
+  "79bf701f19": {
+   "en": "• Guidance for designing effective VR / haptic education.",
+   "zh": "• 为设计有效的 VR / 触觉教育提供指导。",
+   "cls": "pptx"
+  },
+  "efc2a0c965": {
+   "en": "INSIGHT 14 · Digital twins & MBSE",
+   "zh": "洞察 14 · 数字孪生与 MBSE",
+   "cls": "pptx"
+  },
+  "d377386c4b": {
+   "en": "Joe Cecil · Oklahoma State University, USA",
+   "zh": "Joe Cecil · Oklahoma State University, USA",
+   "cls": "pptx"
+  },
+  "500c4ec763": {
+   "en": "• Link cyber, human and physical facets with 3D digital twins and VR / MR.",
+   "zh": "• 用 3D 数字孪生和 VR / MR 连接信息、人和物理层面。",
+   "cls": "pptx"
+  },
+  "39e3301dbd": {
+   "en": "• Advanced robots (lunar missions, rehab cobots) need training, layout and immersive analysis.",
+   "zh": "• 先进机器人（月球任务、康复协作机器人）需要训练、布局和沉浸式分析。",
+   "cls": "pptx"
+  },
+  "38fc0cdb60": {
+   "en": "• 3D digital twins for training and layout modification",
+   "zh": "• 用于训练和布局修改的 3D 数字孪生",
+   "cls": "pptx"
+  },
+  "b41514f671": {
+   "en": "• Cobot applications with safety / efficiency control",
+   "zh": "• 带有安全 / 效率控制的协作机器人应用",
+   "cls": "pptx"
+  },
+  "7817976ace": {
+   "en": "• Support Cyber-Physical Systems and Industry 4.0",
+   "zh": "• 支持信息物理系统和工业 4.0",
+   "cls": "pptx"
+  },
+  "45d63b07e6": {
+   "en": "• Next-gen digital-twin frameworks spanning cyber-human-physical robotics.",
+   "zh": "• 覆盖信息-人-物理机器人的下一代数字孪生框架。",
+   "cls": "pptx"
+  },
+  "84740f6084": {
+   "en": "• Better cobot support, including automated mobility aids for challenged individuals.",
+   "zh": "• 更好的协作机器人支持，包括为行动不便者提供的自动化移动辅助。",
+   "cls": "pptx"
+  },
+  "b763c87842": {
+   "en": "INSIGHT 15 · Digital twins & MBSE",
+   "zh": "洞察 15 · 数字孪生与 MBSE",
+   "cls": "pptx"
+  },
+  "39a4683aed": {
+   "en": "A. Cagaanan & V. Gehlot · Villanova University, USA",
+   "zh": "A. Cagaanan & V. Gehlot · Villanova University, USA",
+   "cls": "pptx"
+  },
+  "260aaf2fcb": {
+   "en": "• Improve software quality during cloud integration of consumer-oriented apps.",
+   "zh": "• 在面向消费者的应用接入云时提升软件质量。",
+   "cls": "pptx"
+  },
+  "041c161774": {
+   "en": "• Cloud adoption rushes features, risking security, performance and standards.",
+   "zh": "• 上云时仓促上线功能，会给安全、性能和标准带来风险。",
+   "cls": "pptx"
+  },
+  "fa09579c9c": {
+   "en": "• A model-driven approach with Colored Petri Nets (CPNs) for design-implementation harmony",
+   "zh": "• 采用 Colored Petri Nets（CPN）的模型驱动方法，使设计与实现保持一致",
+   "cls": "pptx"
+  },
+  "af1ae4d16a": {
+   "en": "• A cloud-based healthcare app for verification and prototyping",
+   "zh": "• 一个用于验证和原型开发的云端医疗应用",
+   "cls": "pptx"
+  },
+  "22857e93f2": {
+   "en": "• ML integration in the simulations",
+   "zh": "• 在仿真中集成 ML",
+   "cls": "pptx"
+  },
+  "ec16dd96df": {
+   "en": "• CPN-based model-driven development that bridges design and implementation.",
+   "zh": "• 基于 CPN 的模型驱动开发，衔接设计与实现。",
+   "cls": "pptx"
+  },
+  "1c7c4a5510": {
+   "en": "• Higher-quality, adaptable cloud software via up-front formal design.",
+   "zh": "• 通过前期的形式化设计，获得质量更高、适应性更强的云软件。",
+   "cls": "pptx"
+  },
+  "63547cee7f": {
+   "en": "INSIGHT 16 · Digital twins & MBSE",
+   "zh": "洞察 16 · 数字孪生与 MBSE",
+   "cls": "pptx"
+  },
+  "dc4f1154dd": {
+   "en": "Johan Cederbladh et al. · Mälardalen University, Sweden (+ EU partners)",
+   "zh": "Johan Cederbladh et al. · Mälardalen University, Sweden (+ EU partners)",
+   "cls": "pptx"
+  },
+  "a48c4304db": {
+   "en": "• Automate Cyber-Physical-System design by combining MBSE, DevOps and AI.",
+   "zh": "• 结合 MBSE、DevOps 和 AI，实现信息物理系统设计的自动化。",
+   "cls": "pptx"
+  },
+  "2db05fe069": {
+   "en": "• CPS design is hard (heterogeneity, concurrency, timing); plus CAEX interoperability, legacy artifacts and the academia–industry gap.",
+   "zh": "• CPS 设计很难（异构性、并发、时序），此外还有 CAEX 互操作性、遗留工件以及学界与产业界的差距。",
+   "cls": "pptx"
+  },
+  "07b927706b": {
+   "en": "• Prescriptive modeling with model transformations and views",
+   "zh": "• 基于模型转换和视图的规定式建模",
+   "cls": "pptx"
+  },
+  "b1aba0536e": {
+   "en": "• Modeling-process mining",
+   "zh": "• 建模过程挖掘",
+   "cls": "pptx"
+  },
+  "3c1be14e67": {
+   "en": "• AI-based modeling recommendations",
+   "zh": "• 基于 AI 的建模建议",
+   "cls": "pptx"
+  },
+  "1248e3e7d8": {
+   "en": "• An industry experience report on automating MBSE end-to-end.",
+   "zh": "• 一份关于端到端自动化 MBSE 的产业经验报告。",
+   "cls": "pptx"
+  },
+  "e91f9a8a98": {
+   "en": "• A practical path to adopting automated MBSE in industry.",
+   "zh": "• 在产业界采用自动化 MBSE 的一条实用路径。",
+   "cls": "pptx"
+  },
+  "84c5bf4e53": {
+   "en": "INSIGHT 17 · Digital twins & MBSE",
+   "zh": "洞察 17 · 数字孪生与 MBSE",
+   "cls": "pptx"
+  },
+  "2370e04514": {
+   "en": "Yue Liu et al. · COMAC, China; ISAE-SUPAERO, France",
+   "zh": "Yue Liu et al. · COMAC, China; ISAE-SUPAERO, France",
+   "cls": "pptx"
+  },
+  "d34fbaefb1": {
+   "en": "• Apply MBSE to develop an eVTOL air-ambulance for Urban Air Mobility (UAM).",
+   "zh": "• 应用 MBSE 开发面向城市空中交通（UAM）的 eVTOL 空中救护机。",
+   "cls": "pptx"
+  },
+  "92c396d473": {
+   "en": "• eVTOL EMS development has integration, spatial and payload complexities.",
+   "zh": "• eVTOL EMS 的开发存在集成、空间和有效载荷方面的复杂性。",
+   "cls": "pptx"
+  },
+  "5c01e00b01": {
+   "en": "• MBSE with UML, Drawio and Capella",
+   "zh": "• 使用 UML、Drawio 和 Capella 的 MBSE",
+   "cls": "pptx"
+  },
+  "5d2ab44679": {
+   "en": "• Three phases: conceptual, system and architecture design",
+   "zh": "• 三个阶段：概念设计、系统设计和架构设计",
+   "cls": "pptx"
+  },
+  "d0bcc7c9e3": {
+   "en": "• A case study for patient + equipment transport",
+   "zh": "• 一个患者 + 设备转运的案例研究",
+   "cls": "pptx"
+  },
+  "cf4d1c8bb8": {
+   "en": "• An end-to-end MBSE case study for eVTOL air ambulances.",
+   "zh": "• 一个面向 eVTOL 空中救护机的端到端 MBSE 案例研究。",
+   "cls": "pptx"
+  },
+  "6d4a251654": {
+   "en": "• Stakeholder-aligned eVTOL EMS design and lessons for UAM.",
+   "zh": "• 与利益相关方对齐的 eVTOL EMS 设计，以及对 UAM 的经验教训。",
+   "cls": "pptx"
+  },
+  "69bae0ee91": {
+   "en": "CONCLUSIONS",
+   "zh": "结论",
+   "cls": "pptx"
+  },
+  "96706c7774": {
+   "en": "INSIGHTS",
+   "zh": "洞察",
+   "cls": "pptx"
+  },
+  "ead76418c2": {
+   "en": "• Autonomous systems dominate the program — localization / SLAM, routing, redundancy / safety and trajectory prediction.",
+   "zh": "• 自主系统主导了本届议程：定位 / SLAM、路径规划、冗余 / 安全以及轨迹预测。",
+   "cls": "pptx"
+  },
+  "a05b6fab8f": {
+   "en": "• Learning is pervasive but safety-framed: RL, graph networks and behavior trees are paired with redundancy, verification and uncertainty tuning.",
+   "zh": "• 学习方法无处不在，但以安全为前提：RL、图网络和行为树都与冗余、验证和不确定性调优结合使用。",
+   "cls": "pptx"
+  },
+  "6dfaa5b76e": {
+   "en": "• MBSE is maturing from notation to automation — Colored Petri Nets, Capella/UML workflows and AI-assisted modeling.",
+   "zh": "• MBSE 正从记法走向自动化：Colored Petri Nets、Capella/UML 工作流和 AI 辅助建模。",
+   "cls": "pptx"
+  },
+  "927e4493b3": {
+   "en": "VISION",
+   "zh": "愿景",
+   "cls": "pptx"
+  },
+  "a07e56a59a": {
+   "en": "• Fail-operational autonomy without a human fallback (on-demand redundancy, safe-by-design behavior trees).",
+   "zh": "• 无需人工兜底的故障可运行（fail-operational）自主能力（按需冗余、设计即安全的行为树）。",
+   "cls": "pptx"
+  },
+  "062c61e9d0": {
+   "en": "• Digital twins linking cyber, human and physical systems for training and control.",
+   "zh": "• 连接信息、人和物理系统的数字孪生，用于训练和控制。",
+   "cls": "pptx"
+  },
+  "f55a656967": {
+   "en": "• Energy-efficient, neuromorphic AI (spiking networks) for real-time edge perception.",
+   "zh": "• 面向实时边缘感知的高能效类脑 AI（脉冲网络）。",
+   "cls": "pptx"
+  },
+  "ab88151343": {
+   "en": "IMPLICATIONS FOR US",
+   "zh": "对我们的启示",
+   "cls": "pptx"
+  },
+  "ba7d591dcb": {
+   "en": "• Treat autonomy as a System of Systems — coordinate multi-vendor constituents with integrated safety and security.",
+   "zh": "• 将自主能力视为体系（System of Systems）：在集成安全与信息安全的前提下，协调多供应商的组成系统。",
+   "cls": "pptx"
+  },
+  "2a0d356417": {
+   "en": "• Adopt model-driven / MBSE practices (CPN, Capella) to raise software quality and shorten CPS design.",
+   "zh": "• 采用模型驱动 / MBSE 实践（CPN、Capella），提高软件质量并缩短 CPS 设计周期。",
+   "cls": "pptx"
+  },
+  "5a8a22f64c": {
+   "en": "• Invest in GPS-denied localization and uncertainty-aware planning for real industrial and emergency use.",
+   "zh": "• 投入 GPS 拒止环境下的定位和感知不确定性的规划，面向真实的工业和应急场景。",
+   "cls": "pptx"
+  },
+  "5d16a62568": {
+   "en": "{1}{/1}Tech Insight",
+   "zh": "{1}{/1}Tech Insight",
+   "cls": "span.brand"
+  },
+  "2086b21f8f": {
+   "en": "Statistics",
+   "zh": "统计",
+   "cls": "a"
+  }
+ }
+}

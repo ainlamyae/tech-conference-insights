@@ -1,0 +1,4455 @@
+{
+ "folder": "2026-11_Open-day-waterloo",
+ "strings": {
+  "7842324349": {
+   "en": "[1] Vaswani et al., \"Attention Is All You Need,\" arXiv:1706.03762, 2017.",
+   "zh": "[1] Vaswani et al., \"Attention Is All You Need,\" arXiv:1706.03762, 2017.",
+   "cls": "keep"
+  },
+  "7056047291": {
+   "en": "[2] Sennrich et al., \"Neural Machine Translation of Rare Words with Subword Units,\" arXiv:1508.07909, 2016.",
+   "zh": "[2] Sennrich et al., \"Neural Machine Translation of Rare Words with Subword Units,\" arXiv:1508.07909, 2016.",
+   "cls": "keep"
+  },
+  "ddf4978b81": {
+   "en": "[3] Brown et al., \"Language Models are Few-Shot Learners,\" arXiv:2005.14165, 2020.",
+   "zh": "[3] Brown et al., \"Language Models are Few-Shot Learners,\" arXiv:2005.14165, 2020.",
+   "cls": "keep"
+  },
+  "ee86bdb109": {
+   "en": "[4] Yao et al., \"ReAct: Synergizing Reasoning and Acting in Language Models,\" arXiv:2210.03629, 2022.",
+   "zh": "[4] Yao et al., \"ReAct: Synergizing Reasoning and Acting in Language Models,\" arXiv:2210.03629, 2022.",
+   "cls": "keep"
+  },
+  "429661bb67": {
+   "en": "[5] Anthropic, \"Building effective agents,\" anthropic.com/engineering, Dec. 2024.",
+   "zh": "[5] Anthropic, \"Building effective agents,\" anthropic.com/engineering, Dec. 2024.",
+   "cls": "keep"
+  },
+  "721c6d79fa": {
+   "en": "[6] Yang et al., \"SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering,\" arXiv:2405.15793, 2024.",
+   "zh": "[6] Yang et al., \"SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering,\" arXiv:2405.15793, 2024.",
+   "cls": "keep"
+  },
+  "5cfcb8abf1": {
+   "en": "[7] Anthropic, \"How Claude Code works,\" code.claude.com/docs.",
+   "zh": "[7] Anthropic, \"How Claude Code works,\" code.claude.com/docs.",
+   "cls": "keep"
+  },
+  "98bd4b79b9": {
+   "en": "[8] Mooz and Forsberg, \"The Relationship of Systems Engineering to the Project Cycle,\" INCOSE/ASEM, 1991 (see SEBoK, \"Vee (V) Model\").",
+   "zh": "[8] Mooz and Forsberg, \"The Relationship of Systems Engineering to the Project Cycle,\" INCOSE/ASEM, 1991 (see SEBoK, \"Vee (V) Model\").",
+   "cls": "keep"
+  },
+  "fadc4b7d18": {
+   "en": "[9] Miserendino et al., \"SWE-Lancer,\" arXiv:2502.12115, 2025.",
+   "zh": "[9] Miserendino et al., \"SWE-Lancer,\" arXiv:2502.12115, 2025.",
+   "cls": "keep"
+  },
+  "bfd331548f": {
+   "en": "[10] Li et al., \"DevEval: Prompting LLMs to Tackle the Full Software Development Lifecycle,\" arXiv:2403.08604, 2024.",
+   "zh": "[10] Li et al., \"DevEval: Prompting LLMs to Tackle the Full Software Development Lifecycle,\" arXiv:2403.08604, 2024.",
+   "cls": "keep"
+  },
+  "c83413d67b": {
+   "en": "[11] Tang et al., \"DevOps-Gym,\" arXiv:2601.20882, ICLR 2026.",
+   "zh": "[11] Tang et al., \"DevOps-Gym,\" arXiv:2601.20882, ICLR 2026.",
+   "cls": "keep"
+  },
+  "79b2a22109": {
+   "en": "[12] Meyer et al., \"Today was a Good Day: The Daily Life of Software Developers,\" IEEE TSE, 2021.",
+   "zh": "[12] Meyer et al., \"Today was a Good Day: The Daily Life of Software Developers,\" IEEE TSE, 2021.",
+   "cls": "keep"
+  },
+  "5b96303e1a": {
+   "en": "[13] Anthropic, \"How we built our multi-agent research system,\" anthropic.com/engineering, 2025.",
+   "zh": "[13] Anthropic, \"How we built our multi-agent research system,\" anthropic.com/engineering, 2025.",
+   "cls": "keep"
+  },
+  "27435a25bf": {
+   "en": "[14] Geng and Neubig, \"Effective Strategies for Asynchronous Software Engineering Agents,\" arXiv:2603.21489, 2026.",
+   "zh": "[14] Geng and Neubig, \"Effective Strategies for Asynchronous Software Engineering Agents,\" arXiv:2603.21489, 2026.",
+   "cls": "keep"
+  },
+  "9f39404c7a": {
+   "en": "[15] Hong et al., \"MetaGPT,\" arXiv:2308.00352, 2023.",
+   "zh": "[15] Hong et al., \"MetaGPT,\" arXiv:2308.00352, 2023.",
+   "cls": "keep"
+  },
+  "d1723089c1": {
+   "en": "[16] Qian et al., \"ChatDev,\" arXiv:2307.07924, 2023.",
+   "zh": "[16] Qian et al., \"ChatDev,\" arXiv:2307.07924, 2023.",
+   "cls": "keep"
+  },
+  "d44f98c7c6": {
+   "en": "[17] Yang et al., \"When Parallelism Pays Off: Cohesion-Aware Task Partitioning for Multi-Agent Coding,\" arXiv:2606.00953, 2026.",
+   "zh": "[17] Yang et al., \"When Parallelism Pays Off: Cohesion-Aware Task Partitioning for Multi-Agent Coding,\" arXiv:2606.00953, 2026.",
+   "cls": "keep"
+  },
+  "a34d0b1096": {
+   "en": "[18] Kim et al., \"Towards a Science of Scaling Agent Systems,\" arXiv:2512.08296, 2025.",
+   "zh": "[18] Kim et al., \"Towards a Science of Scaling Agent Systems,\" arXiv:2512.08296, 2025.",
+   "cls": "keep"
+  },
+  "db257a4692": {
+   "en": "[19] Craik, The Nature of Explanation, Cambridge Univ. Press, 1943.",
+   "zh": "[19] Craik, The Nature of Explanation, Cambridge Univ. Press, 1943.",
+   "cls": "keep"
+  },
+  "298af3f18c": {
+   "en": "[20] Tolman, \"Cognitive maps in rats and men,\" Psychological Review, 55(4), 1948.",
+   "zh": "[20] Tolman, \"Cognitive maps in rats and men,\" Psychological Review, 55(4), 1948.",
+   "cls": "keep"
+  },
+  "a1abb06a96": {
+   "en": "[21] Johnson-Laird, Mental Models, Harvard Univ. Press, 1983.",
+   "zh": "[21] Johnson-Laird, Mental Models, Harvard Univ. Press, 1983.",
+   "cls": "keep"
+  },
+  "0290535318": {
+   "en": "[22] LaToza et al., \"Maintaining Mental Models: A Study of Developer Work Habits,\" ICSE 2006.",
+   "zh": "[22] LaToza et al., \"Maintaining Mental Models: A Study of Developer Work Habits,\" ICSE 2006.",
+   "cls": "keep"
+  },
+  "fa28ed6b7d": {
+   "en": "[23] Packer et al., \"MemGPT: Towards LLMs as Operating Systems,\" arXiv:2310.08560, 2023.",
+   "zh": "[23] Packer et al., \"MemGPT: Towards LLMs as Operating Systems,\" arXiv:2310.08560, 2023.",
+   "cls": "keep"
+  },
+  "8e5f18d335": {
+   "en": "[24] Zhang et al., \"A Survey on the Memory Mechanism of LLM-based Agents,\" arXiv:2404.13501, 2024.",
+   "zh": "[24] Zhang et al., \"A Survey on the Memory Mechanism of LLM-based Agents,\" arXiv:2404.13501, 2024.",
+   "cls": "keep"
+  },
+  "cd4b7b782a": {
+   "en": "[25] Shen et al., \"Structurally Aligned Subtask-Level Memory for Software Engineering Agents,\" arXiv:2602.21611, 2026.",
+   "zh": "[25] Shen et al., \"Structurally Aligned Subtask-Level Memory for Software Engineering Agents,\" arXiv:2602.21611, 2026.",
+   "cls": "keep"
+  },
+  "03fda7e075": {
+   "en": "[26] Edge et al., \"From Local to Global: A Graph RAG Approach to Query-Focused Summarization,\" arXiv:2404.16130, 2024.",
+   "zh": "[26] Edge et al., \"From Local to Global: A Graph RAG Approach to Query-Focused Summarization,\" arXiv:2404.16130, 2024.",
+   "cls": "keep"
+  },
+  "5b78621ebf": {
+   "en": "[27] Piskala, \"Spec-Driven Development: From Code to Contract in the Age of AI Coding Assistants,\" arXiv:2602.00180, 2026.",
+   "zh": "[27] Piskala, \"Spec-Driven Development: From Code to Contract in the Age of AI Coding Assistants,\" arXiv:2602.00180, 2026.",
+   "cls": "keep"
+  },
+  "b308da7b74": {
+   "en": "[28] Liu et al., \"Lost in the Middle: How Language Models Use Long Contexts,\" arXiv:2307.03172, 2023.",
+   "zh": "[28] Liu et al., \"Lost in the Middle: How Language Models Use Long Contexts,\" arXiv:2307.03172, 2023.",
+   "cls": "keep"
+  },
+  "139cd96bb2": {
+   "en": "[29] Liu et al., \"CodexGraph: Bridging Large Language Models and Code Repositories via Code Graph Databases,\" arXiv:2408.03910, 2024.",
+   "zh": "[29] Liu et al., \"CodexGraph: Bridging Large Language Models and Code Repositories via Code Graph Databases,\" arXiv:2408.03910, 2024.",
+   "cls": "keep"
+  },
+  "743c9d57c9": {
+   "en": "[30] Yu et al., \"Multi-Agent Memory from a Computer Architecture Perspective: Visions and Challenges Ahead,\" arXiv:2603.10062, 2026.",
+   "zh": "[30] Yu et al., \"Multi-Agent Memory from a Computer Architecture Perspective: Visions and Challenges Ahead,\" arXiv:2603.10062, 2026.",
+   "cls": "keep"
+  },
+  "fa50a58318": {
+   "en": "[31] Khan, \"S-Bus: Automatic Read-Set Reconstruction for Multi-Agent LLM State Coordination,\" arXiv:2605.17076, 2026.",
+   "zh": "[31] Khan, \"S-Bus: Automatic Read-Set Reconstruction for Multi-Agent LLM State Coordination,\" arXiv:2605.17076, 2026.",
+   "cls": "keep"
+  },
+  "75492247ae": {
+   "en": "[32] Orlanski et al., \"SlopCodeBench: Benchmarking How Coding Agents Degrade Over Long-Horizon Iterative Tasks,\" arXiv:2603.24755, 2026.",
+   "zh": "[32] Orlanski et al., \"SlopCodeBench: Benchmarking How Coding Agents Degrade Over Long-Horizon Iterative Tasks,\" arXiv:2603.24755, 2026.",
+   "cls": "keep"
+  },
+  "c240d61ff6": {
+   "en": "[33] Shinn et al., \"Reflexion,\" arXiv:2303.11366, 2023.",
+   "zh": "[33] Shinn et al., \"Reflexion,\" arXiv:2303.11366, 2023.",
+   "cls": "keep"
+  },
+  "01311b6a69": {
+   "en": "[34] Wang et al., \"Voyager,\" arXiv:2305.16291, 2023.",
+   "zh": "[34] Wang et al., \"Voyager,\" arXiv:2305.16291, 2023.",
+   "cls": "keep"
+  },
+  "79a04bd10f": {
+   "en": "[35] Zhao et al., \"ExpeL,\" arXiv:2308.10144, AAAI 2024.",
+   "zh": "[35] Zhao et al., \"ExpeL,\" arXiv:2308.10144, AAAI 2024.",
+   "cls": "keep"
+  },
+  "0f07eed0af": {
+   "en": "[36] Fang et al., \"A Comprehensive Survey of Self-Evolving AI Agents,\" arXiv:2508.07407, 2025.",
+   "zh": "[36] Fang et al., \"A Comprehensive Survey of Self-Evolving AI Agents,\" arXiv:2508.07407, 2025.",
+   "cls": "keep"
+  },
+  "622cf4fb7c": {
+   "en": "[37] Robeyns et al., \"A Self-Improving Coding Agent,\" arXiv:2504.15228, 2025.",
+   "zh": "[37] Robeyns et al., \"A Self-Improving Coding Agent,\" arXiv:2504.15228, 2025.",
+   "cls": "keep"
+  },
+  "5b194cd711": {
+   "en": "[38] Zhang et al., \"Darwin Godel Machine,\" arXiv:2505.22954, 2025.",
+   "zh": "[38] Zhang et al., \"Darwin Godel Machine,\" arXiv:2505.22954, 2025.",
+   "cls": "keep"
+  },
+  "1c6864e286": {
+   "en": "{1}{2}{/2}Open Day · Waterloo{/1} {3}Contents{/3}{4}·{/4} {5}Agents{/5}{6}·{/6}{7}Software Factory{/7}{8}·{/8}{9}Orchestration{/9}{10}·{/10}{11}Mental model{/11}{12}·{/12}{13}Artifact Graph{/13}{14}·{/14}{15}Self-evolution{/15}{16}·{/16} {17}Challenges{/17}{18}·{/18} {19}References{/19}",
+   "zh": "{1}{2}{/2}开放日 · 滑铁卢{/1} {3}目录{/3}{4}·{/4} {5}智能体{/5}{6}·{/6}{7}软件工厂{/7}{8}·{/8}{9}编排{/9}{10}·{/10}{11}心智模型{/11}{12}·{/12}{13}Artifact Graph{/13}{14}·{/14}{15}自我进化{/15}{16}·{/16} {17}挑战{/17}{18}·{/18} {19}参考文献{/19}",
+   "cls": "nav.bar"
+  },
+  "dc7d78bf76": {
+   "en": "Open Day · Waterloo · November 2026 · Report",
+   "zh": "开放日 · 滑铁卢 · 2026 年 11 月 · 报告",
+   "cls": "div.kicker"
+  },
+  "7d7a44eead": {
+   "en": "Intelligent Agents for Software Engineering",
+   "zh": "软件工程智能体",
+   "cls": "h1"
+  },
+  "156c1d61f9": {
+   "en": "{1}Agentic software engineering and its challenges{/1}",
+   "zh": "{1}智能体化软件工程及其挑战{/1}",
+   "cls": "p.lede"
+  },
+  "5536171029": {
+   "en": "Agentic software engineering hands parts of the software lifecycle to AI agents that plan, write, test and repair code with little human help. This report sets out how such agents work and where they stand against a human software engineer, and then examines the 4 challenges that decide whether the approach holds up on real projects: how many agents are orchestrated on one project, how an agent obtains and keeps a mental model of the software it works on, how that project knowledge is structured as a graph and shared by many agents, and how an agent learns from its own mistakes. For each, it states the problem, describes how current systems address it, summarizes what published research shows, and identifies what remains open.",
+   "zh": "智能体化软件工程把软件生命周期的一部分交给 AI 智能体，由它们在很少人工协助的情况下规划、编写、测试和修复代码。本报告阐述这类智能体如何工作、与人类软件工程师相比处于什么位置，然后探讨决定该方法能否在真实项目中站得住脚的 4 项挑战：一个项目中如何编排多个智能体，智能体如何获得并保持对所处理软件的心智模型，这些项目知识如何以图的形式组织并由多个智能体共享，以及智能体如何从自身的错误中学习。对每一项，报告都说明问题、介绍当前系统如何应对、总结已发表研究的结论，并指出尚未解决的问题。",
+   "cls": "p.lede"
+  },
+  "e0277e3676": {
+   "en": "Event{1}Open Day, Waterloo{/1}",
+   "zh": "活动{1}开放日，滑铁卢{/1}",
+   "cls": "div"
+  },
+  "49f1eeb090": {
+   "en": "Date{1}November 2026{/1}",
+   "zh": "日期{1}2026 年 11 月{/1}",
+   "cls": "div"
+  },
+  "f5cbdf6bfb": {
+   "en": "Contents",
+   "zh": "目录",
+   "cls": "attr:data-toc"
+  },
+  "ab9b003e76": {
+   "en": "6 parts, one system",
+   "zh": "6 个部分，一个系统",
+   "cls": "h2"
+  },
+  "161f7d0765": {
+   "en": "{1}What an agent is{/1}{2}— A language model in a loop: it reads, decides, acts with a tool, observes the result, and repeats.{/2}",
+   "zh": "{1}什么是智能体{/1}{2}— 一个处于循环中的语言模型：它读取、决策、用工具行动、观察结果，然后重复。{/2}",
+   "cls": "div.row"
+  },
+  "f2349bb657": {
+   "en": "{1}From software engineer to coding agent{/1}{2}— The lifecycle is the same; today humans do every stage, and a team of agents could do them tomorrow.{/2}",
+   "zh": "{1}从软件工程师到编码智能体{/1}{2}— 生命周期不变；今天每个阶段都由人完成，明天可以由一个智能体团队完成。{/2}",
+   "cls": "div.row"
+  },
+  "bad0f86516": {
+   "en": "{1}Many agents, one project{/1}{2}— Work is split into a graph of tasks, built in parallel, and checked before it reaches the main branch.{/2}",
+   "zh": "{1}多个智能体，一个项目{/1}{2}— 工作被拆成任务图，并行构建，并在进入主分支之前接受检查。{/2}",
+   "cls": "div.row"
+  },
+  "cf2ca7c312": {
+   "en": "{1}What an engineer remembers, and an agent forgets{/1}{2}— A good engineer keeps more than code in mind. An agent needs a persistent mental model to do the same.{/2}",
+   "zh": "{1}工程师记得什么，智能体忘记什么{/1}{2}— 优秀的工程师脑中记住的不只是代码。智能体需要持久的心智模型才能做到同样的事。{/2}",
+   "cls": "div.row"
+  },
+  "6d583d4cc4": {
+   "en": "{1}A graph store of project knowledge, shared by many agents{/1}{2}— Artifact Graph turns the artifacts of spec-driven development into a graph that agents can query and update safely.{/2}",
+   "zh": "{1}由多个智能体共享的项目知识图存储{/1}{2}— Artifact Graph 把规格驱动开发的工件转成图，智能体可以安全地查询和更新。{/2}",
+   "cls": "div.row"
+  },
+  "22f18f8ca1": {
+   "en": "{1}Learning from mistakes{/1}{2}— The agent reviews what went wrong, writes the lesson down, uses it next time, and in the strongest form improves itself.{/2}",
+   "zh": "{1}从错误中学习{/1}{2}— 智能体回顾哪里出了问题，把教训写下来，下次使用，最强的形式是改进自身。{/2}",
+   "cls": "div.row"
+  },
+  "bcdeaa148c": {
+   "en": "01 · Agents",
+   "zh": "01 · 智能体",
+   "cls": "div.kicker"
+  },
+  "5e68a9ae6c": {
+   "en": "What an agent is",
+   "zh": "什么是智能体",
+   "cls": "h2"
+  },
+  "ebdde61482": {
+   "en": "A language model in a loop: it reads, decides, acts with a tool, observes the result, and repeats.",
+   "zh": "一个处于循环中的语言模型：它读取、决策、用工具行动、观察结果，然后重复。",
+   "cls": "p.lede-s"
+  },
+  "4d0b17ceee": {
+   "en": "The model underneath",
+   "zh": "底层的模型",
+   "cls": "span.lbl"
+  },
+  "dcbe64e30f": {
+   "en": "An agent is built on a large language model (LLM). The model reads a prompt, splits it into tokens (words or word pieces), {1}[1]{/1} turns each token into a vector of numbers (an embedding), and passes the vectors through a stack of transformer blocks. Each block combines a self-attention layer, which relates every token to the others, with a feed-forward network, wrapped in normalization and residual connections, and a model may have dozens or hundreds of such blocks. {2}[2]{/2} A final layer gives a probability to every possible next token. The model picks one, appends it to the text, and runs the whole process again, one token at a time, until the response is complete. GPT-3 is an autoregressive model of this kind, with 175 billion parameters. {3}[3]{/3}",
+   "zh": "智能体建立在大语言模型（LLM）之上。模型读取提示词，把它切分为 token（词或词片段），{1}[1]{/1} 把每个 token 转成一个数值向量（嵌入），再让这些向量通过一叠 Transformer 块。每个块把一个自注意力层（让每个 token 与其他 token 建立联系）和一个前馈网络结合起来，外加归一化和残差连接，一个模型可以有几十甚至几百个这样的块。{2}[2]{/2} 最后一层给每个可能的下一个 token 一个概率。模型选出一个，把它附加到文本后，再把整个过程重新运行一遍，一次一个 token，直到回复完成。GPT-3 就是这种自回归模型，有 1750 亿个参数。{3}[3]{/3}",
+   "cls": "p"
+  },
+  "f8c94a3b4b": {
+   "en": "What it is",
+   "zh": "它是什么",
+   "cls": "h4"
+  },
+  "0c2d48881d": {
+   "en": "An agent is a language model that works in a loop. It starts from a task, builds its context (its instructions, what it remembers, and everything that has happened so far), reasons about the next step, and then either calls a tool or finishes. The result of each tool call comes back as an observation and becomes part of the next round. {1}[4]{/1}{2}[5]{/2}",
+   "zh": "智能体是在循环中工作的语言模型。它从一项任务出发，构建上下文（其指令、它记得的内容以及迄今发生的一切），推理下一步，然后调用工具或结束。每次工具调用的结果作为观察返回，成为下一轮的一部分。{1}[4]{/1}{2}[5]{/2}",
+   "cls": "p"
+  },
+  "8a9400005c": {
+   "en": "The problem",
+   "zh": "问题",
+   "cls": "span.lbl"
+  },
+  "a35883f64f": {
+   "en": "A chatbot answers once and stops. Real work, such as fixing a bug in a large repository, needs exploring, trying something, and checking the result. That is only possible if the model can act and see what its actions did.",
+   "zh": "聊天机器人回答一次就停止。真正的工作，例如修复大型代码仓库中的一个缺陷，需要探索、尝试并检查结果。只有模型能够行动并看到行动的结果，这才可能做到。",
+   "cls": "p"
+  },
+  "1dd6a17cb4": {
+   "en": "How it works",
+   "zh": "工作方式",
+   "cls": "span.lbl"
+  },
+  "c0293619bb": {
+   "en": "7 steps: the task; build the context; the model reasons; choose an action; run a tool in the environment (for a coding agent, the project files and a terminal); observe the output; stop and report when the task is finished or a limit, such as a maximum number of steps, is reached. Anthropic describes the same loop for Claude Code as gather context, take action, verify the result, and repeat. {1}[6]{/1}",
+   "zh": "7 个步骤：任务；构建上下文；模型推理；选择动作；在环境中运行工具（对编码智能体而言，是项目文件和终端）；观察输出；任务完成或达到上限（如最大步数）时停止并汇报。Anthropic 把 Claude Code 的同一循环描述为收集上下文、采取行动、验证结果，然后重复。{1}[6]{/1}",
+   "cls": "p"
+  },
+  "c224eb0be0": {
+   "en": "Around the loop sit the model itself, the instructions, the tools, the memory, the environment and the stop rule. A survey of agent research describes the same parts as a profile, a memory, planning and action. {1}[7]{/1}",
+   "zh": "循环周围是模型本身、指令、工具、记忆、环境和停止规则。一篇智能体研究综述把同样的组成部分描述为画像、记忆、规划和行动。{1}[7]{/1}",
+   "cls": "p"
+  },
+  "0b0508096e": {
+   "en": "What research says",
+   "zh": "研究表明了什么",
+   "cls": "span.lbl"
+  },
+  "f6fcb422bb": {
+   "en": "ReAct showed that interleaving reasoning with actions lets the model plan, track and update what it is doing. {1}[4]{/1} SWE-agent showed that tools designed for the agent, rather than for a human, change the result. {2}[8]{/2} Anthropic separates workflows, where code decides the path, from agents, where the model directs its own process. {3}[5]{/3} OpenHands is an open platform that runs agent actions in a sandbox and returns observations. {4}[9]{/4}",
+   "zh": "ReAct 表明，把推理与行动交替进行，可以让模型规划、跟踪和更新自己正在做的事。{1}[4]{/1} SWE-agent 表明，为智能体而非为人类设计的工具会改变结果。{2}[8]{/2} Anthropic 把工作流（由代码决定路径）与智能体（由模型自己主导过程）区分开。{3}[5]{/3} OpenHands 是一个开放平台，在沙箱中运行智能体的动作并返回观察结果。{4}[9]{/4}",
+   "cls": "p"
+  },
+  "274205df80": {
+   "en": "Why it matters here",
+   "zh": "为什么这与本文相关",
+   "cls": "span.lbl"
+  },
+  "c127060751": {
+   "en": "Everything else in this report connects, extends or improves these parts: many agents working together (orchestration), a memory that lasts across sessions (the mental model), and a loop that improves the parts themselves (self-evolution).",
+   "zh": "本报告的其余内容都是在连接、扩展或改进这些部分：多个智能体协同工作（编排）、跨会话持续存在的记忆（心智模型），以及改进这些部分本身的循环（自我进化）。",
+   "cls": "p"
+  },
+  "57c272cc81": {
+   "en": "Fig. 1. How a large language model produces text: input, tokens, embeddings, transformer blocks, next-token probabilities, and the loop.",
+   "zh": "图 1。大语言模型如何生成文本：输入、token、嵌入、Transformer 块、下一个 token 的概率，以及循环。",
+   "cls": "attr:alt"
+  },
+  "3e322808cd": {
+   "en": "Click to replay the animation",
+   "zh": "点击重播动画",
+   "cls": "attr:title"
+  },
+  "c75e72fd19": {
+   "en": "Fig. 1. How a large language model produces text: input, tokens, embeddings, transformer blocks, next-token probabilities, and the loop. Click to replay.",
+   "zh": "图 1。大语言模型如何生成文本：输入、token、嵌入、Transformer 块、下一个 token 的概率，以及循环。点击重播。",
+   "cls": "figcaption"
+  },
+  "6d13649a7d": {
+   "en": "Fig. 2. One agent: the main path (1 to 7) and the parts around it.",
+   "zh": "图 2。一个智能体：主路径（1 到 7）及其周围的部分。",
+   "cls": "attr:alt"
+  },
+  "c5d20ea4be": {
+   "en": "Fig. 2. One agent: the main path (1 to 7) and the parts around it. Click to replay.",
+   "zh": "图 2。一个智能体：主路径（1 到 7）及其周围的部分。点击重播。",
+   "cls": "figcaption"
+  },
+  "c55874e899": {
+   "en": "02 · Software Factory",
+   "zh": "02 · 软件工厂",
+   "cls": "div.kicker"
+  },
+  "da49a40a9c": {
+   "en": "From software engineer to coding agent",
+   "zh": "从软件工程师到编码智能体",
+   "cls": "attr:data-toc"
+  },
+  "f0afd209f2": {
+   "en": "The lifecycle is the same; today humans do every stage, and a team of agents could do them tomorrow.",
+   "zh": "生命周期不变；今天每个阶段都由人完成，明天可以由一个智能体团队完成。",
+   "cls": "p.lede-s"
+  },
+  "c524fce927": {
+   "en": "The Vee model, introduced to systems engineering by Mooz and Forsberg in 1991, runs from user needs at the upper left to a user-validated system at the upper right. {1}[10]{/1} Going down the left side, needs become requirements, then a system design, then a detailed design, and at the bottom the code is written. Going up the right side, units are tested, then integrated, then the whole system is verified, and finally accepted and deployed. In the usual software form of the model each design level has a matching test level, and the check is planned when the design is made.",
+   "zh": "V 模型由 Mooz 和 Forsberg 于 1991 年引入系统工程，从左上角的用户需求开始，到右上角经用户确认的系统结束。{1}[10]{/1} 沿左侧向下，需求变成需求规格，然后是系统设计、详细设计，在底部编写代码。沿右侧向上，先测试单元，再集成，然后验证整个系统，最后验收并部署。在该模型常见的软件形式中，每个设计层级都有对应的测试层级，检查在设计时就已规划好。",
+   "cls": "p"
+  },
+  "2b8404cf3e": {
+   "en": "Coding is only part of an engineer's job. Studies of developers' working days find that they spend little of their time on development itself. {1}[11]{/1} A coding agent that only writes code covers a small part of the V.",
+   "zh": "编码只是工程师工作的一部分。对开发者工作日的研究发现，他们花在开发本身上的时间很少。{1}[11]{/1} 只会写代码的编码智能体只覆盖了 V 模型的一小部分。",
+   "cls": "p"
+  },
+  "fe3660a5fe": {
+   "en": "Who does what",
+   "zh": "谁做什么",
+   "cls": "span.lbl"
+  },
+  "508165a4ab": {
+   "en": "Today, humans fill every box: an analyst, an architect, a developer, a tester, a quality engineer and a release engineer. The vision is a team with one agent per stage (requirements, design, coding, test, verification, deployment), each checking the work of the others, as the V asks.",
+   "zh": "今天，每个方框都由人来填：分析师、架构师、开发者、测试员、质量工程师和发布工程师。愿景是组建一个团队，每个阶段（需求、设计、编码、测试、验证、部署）各有一个智能体，相互检查彼此的工作，正如 V 模型所要求的。",
+   "cls": "p"
+  },
+  "80d0f51ad9": {
+   "en": "Where agents are today",
+   "zh": "智能体今天的水平",
+   "cls": "span.lbl"
+  },
+  "b6b9688967": {
+   "en": "Our reading of the published benchmarks is that agents are furthest along at coding and least along at the ends of the V. SWE-Lancer offers more than 1,400 real freelance tasks, and its authors report that frontier models still fail to solve most of them. {1}[12]{/1} A benchmark that covers the whole lifecycle, from design to acceptance testing, finds that current models fail to solve it. {2}[13]{/2} For operations, a benchmark of build, monitoring and issue tasks reports that agents struggle with monitoring and build configuration. {3}[14]{/3} Work on agents that elicit requirements is, to our reading, still at the research-prototype stage.",
+   "zh": "我们对已发表基准测试的解读是：智能体在编码方面走得最远，在 V 模型两端走得最少。SWE-Lancer 提供了 1,400 多个真实的自由职业任务，其作者报告称前沿模型仍然无法解决其中大多数。{1}[12]{/1} 一个覆盖从设计到验收测试的整个生命周期的基准测试发现，当前模型无法解决。{2}[13]{/2} 在运维方面，一个包含构建、监控和问题任务的基准测试报告称，智能体在监控和构建配置上表现不佳。{3}[14]{/3} 据我们的解读，能够获取需求的智能体的研究仍处于研究原型阶段。",
+   "cls": "p"
+  },
+  "141cc79b2b": {
+   "en": "One super-agent is not enough. The gap between coding and the rest of the lifecycle is the reason we study teams of agents, and how to run them.",
+   "zh": "一个超级智能体是不够的。编码与生命周期其余部分之间的差距，正是我们研究智能体团队以及如何运行它们的原因。",
+   "cls": "p"
+  },
+  "257ed3e22c": {
+   "en": "Fig. 3. The Vee model, with human roles today and an agent team in the future.",
+   "zh": "图 3。V 模型：今天由人承担的角色，以及未来的智能体团队。",
+   "cls": "attr:alt"
+  },
+  "77be104e02": {
+   "en": "Fig. 3. The Vee model, with human roles today and an agent team in the future. Click to replay.",
+   "zh": "图 3。V 模型：今天由人承担的角色，以及未来的智能体团队。点击重播。",
+   "cls": "figcaption"
+  },
+  "3721060db0": {
+   "en": "Fig. 4. Where coding agents are today: a qualitative reading, not a measured score.",
+   "zh": "图 4。编码智能体今天的水平：定性解读，而非实测得分。",
+   "cls": "attr:alt"
+  },
+  "c20be7f7e0": {
+   "en": "Fig. 4. Where coding agents are today: a qualitative reading, not a measured score. Click to replay.",
+   "zh": "图 4。编码智能体今天的水平：定性解读，而非实测得分。点击重播。",
+   "cls": "figcaption"
+  },
+  "891d53de4a": {
+   "en": "03 · Orchestration",
+   "zh": "03 · 编排",
+   "cls": "div.kicker"
+  },
+  "36e18bbcc8": {
+   "en": "Many agents, one project",
+   "zh": "多个智能体，一个项目",
+   "cls": "h2"
+  },
+  "d42c1c27d2": {
+   "en": "Work is split into a graph of tasks, built in parallel, and checked before it reaches the main branch.",
+   "zh": "工作被拆成任务图，并行构建，并在进入主分支之前接受检查。",
+   "cls": "p.lede-s"
+  },
+  "3abf663fa0": {
+   "en": "An orchestrator reads the goal and turns it into tasks. A planner makes one plan and sizes the work so that each part fits one worker. Workers then run at the same time, each on its own branch, so they cannot overwrite each other. A tester agent, separate from the worker that wrote the code, checks each branch against the specification, and only a branch that passes is merged into main by an integrator. This is an orchestrator-worker pattern, a lead agent that coordinates specialised workers. {1}[15]{/1}",
+   "zh": "编排器读取目标并将其转成任务。规划器制定一份计划，并把工作切分到每一部分都适合一个执行智能体。然后执行智能体同时运行，各在自己的分支上，因此不会相互覆盖。与编写代码的执行智能体分开的测试智能体，根据规格说明检查每个分支，只有通过的分支才会由集成智能体合并到主分支。这是编排器—执行者模式，即由一个主导智能体协调多个专门的执行智能体。{1}[15]{/1}",
+   "cls": "p"
+  },
+  "e997a5fffa": {
+   "en": "One agent working alone is slow and loses track of a large project. But more agents is not always better. Anthropic reports that multi-agent systems use about 15 times the tokens of a chat, and agents alone about 4 times, and notes that most coding tasks have fewer truly parallel parts than research tasks. {1}[15]{/1} A study of 260 agent configurations on 6 benchmarks found results from about 81% better to 70% worse than a single agent, depending on whether the task splits cleanly or must be done in order. {2}[16]{/2}",
+   "zh": "一个智能体单独工作很慢，而且会在大型项目中迷失方向。但智能体越多并不总是越好。Anthropic 报告称，多智能体系统使用的 token 约为聊天的 15 倍，单个智能体约为 4 倍，并指出大多数编码任务真正可并行的部分比研究任务少。{1}[15]{/1} 一项针对 6 个基准测试上 260 种智能体配置的研究发现，结果从比单个智能体好约 81% 到差 70% 不等，取决于任务能否清晰拆分或必须按顺序完成。{2}[16]{/2}",
+   "cls": "p"
+  },
+  "6b750d27e9": {
+   "en": "How the split works",
+   "zh": "拆分如何进行",
+   "cls": "span.lbl"
+  },
+  "75f9710236": {
+   "en": "First a skeleton defines every name that more than one part will use, and the main path through the program. Then the rest of the work becomes slices that start from the skeleton and run side by side. A slice waits for another only when it cannot be tested without it. The graph is kept wide and shallow. Each slice has its own tester, and only tested work reaches main.",
+   "zh": "首先由一个骨架定义不止一个部分会用到的所有名称，以及贯穿程序的主路径。然后其余工作变成从骨架出发、并排运行的切片。只有当一个切片离开另一个就无法测试时，它才会等待对方。任务图保持宽而浅。每个切片有自己的测试智能体，只有通过测试的工作才会进入主分支。",
+   "cls": "p"
+  },
+  "aafffd7b60": {
+   "en": "Recent coding work uses the same shape: workers in isolated git worktrees, a dependency-aware plan, and test-based verification before merging. On PaperBench and Commit0 this beat a single agent by 25.6 and 14.7 points. {1}[17]{/1} Role-based teams were explored earlier by MetaGPT and ChatDev. {2}[18]{/2}{3}[19]{/3} How the work is split matters: giving one agent to each file raised cost by 44% and 60% on 2 benchmarks for small gains, while splitting along the dependency graph improved the pass rate by up to 14 points, was up to 2.1 times faster, and cost up to 35% less. {4}[20]{/4} (Python only, one model, 28 tasks.)",
+   "zh": "近期的编码工作采用同样的形态：执行智能体在隔离的 git worktree 中工作，制定感知依赖的计划，并在合并前进行基于测试的验证。在 PaperBench 和 Commit0 上，这比单个智能体分别高出 25.6 和 14.7 个点。{1}[17]{/1} 基于角色的团队此前已由 MetaGPT 和 ChatDev 探索过。{2}[18]{/2}{3}[19]{/3} 工作如何拆分很重要：给每个文件分配一个智能体，在 2 个基准测试上使成本分别增加 44% 和 60%，收益却很小，而沿依赖图拆分使通过率最多提高 14 个点，速度最多快 2.1 倍，成本最多低 35%。{4}[20]{/4}（仅限 Python，一个模型，28 个任务。）",
+   "cls": "p"
+  },
+  "0cebbe887c": {
+   "en": "A real run",
+   "zh": "一次真实运行",
+   "cls": "attr:data-toc"
+  },
+  "8ea1fc34e8": {
+   "en": "Our system, Software Factory, built a Python command-line library from a specification of about 2,000 lines. The orchestrator first split the specification into 9 areas and, within 3 minutes, created 53 issues, so work started in every area at once. Things went wrong and were handled: a planner hit its output limit twice and the orchestrator re-planned; 3 agents hit the same gap in the specification and one planner decided; a merge that did not happen was caught and done for real; a swapped branch was blocked and re-routed. The run used 150 agents over 2 h 46 min and cost $7.79. It produced 44 merges, and all 17 defects that testers found were fixed. On the hidden tests it passed 30 of 70, so there is more to do.",
+   "zh": "我们的系统软件工厂根据一份约 2,000 行的规格说明构建了一个 Python 命令行库。编排器先把规格说明拆分为 9 个领域，并在 3 分钟内创建了 53 个问题，因此每个领域同时开工。运行中出了问题并得到处理：一个规划器两次达到输出上限，编排器重新规划；3 个智能体遇到规格说明中的同一处空白，由一个规划器做出决定；一次未实际发生的合并被发现并真正完成；一个被调换的分支被拦截并重新路由。这次运行使用了 150 个智能体，耗时 2 小时 46 分钟，花费 $7.79。它产生了 44 次合并，测试智能体发现的 17 个缺陷全部得到修复。在隐藏测试上，它通过了 70 项中的 30 项，所以还有改进空间。",
+   "cls": "p"
+  },
+  "6773bcc0ff": {
+   "en": "Fig. 5. The team: orchestrator, planner, parallel workers, a tester per branch, an integrator, and main.",
+   "zh": "图 5。团队：编排器、规划器、并行的执行智能体、每个分支一个测试智能体、一个集成智能体，以及主分支。",
+   "cls": "attr:alt"
+  },
+  "3638e6d34f": {
+   "en": "Fig. 5. The team: orchestrator, planner, parallel workers, a tester per branch, an integrator, and main. Click to replay.",
+   "zh": "图 5。团队：编排器、规划器、并行的执行智能体、每个分支一个测试智能体、一个集成智能体，以及主分支。点击重播。",
+   "cls": "figcaption"
+  },
+  "c849153dc0": {
+   "en": "Fig. 6. The task graph: a skeleton, parallel slices, testers, and one real wait.",
+   "zh": "图 6。任务图：一个骨架、并行的切片、测试智能体，以及一处真正的等待。",
+   "cls": "attr:alt"
+  },
+  "575b6688e2": {
+   "en": "Fig. 6. The task graph: a skeleton, parallel slices, testers, and one real wait. Click to replay.",
+   "zh": "图 6。任务图：一个骨架、并行的切片、测试智能体，以及一处真正的等待。点击重播。",
+   "cls": "figcaption"
+  },
+  "dd7574729b": {
+   "en": "Fig. 7. The real Software Factory run on the specification (2 h 46 min), replayed live from its recorded data: press play, change the speed, or drag the timeline.",
+   "zh": "图 7。软件工厂在该规格说明上的真实运行（2 小时 46 分钟），根据其记录的数据实时重放：可以点击播放、调整速度或拖动时间轴。",
+   "cls": "figcaption"
+  },
+  "667a080271": {
+   "en": "04 · Mental model",
+   "zh": "04 · 心智模型",
+   "cls": "div.kicker"
+  },
+  "96696d4972": {
+   "en": "What an engineer remembers, and an agent forgets",
+   "zh": "工程师记得什么，智能体忘记什么",
+   "cls": "h2"
+  },
+  "bf0235c1bc": {
+   "en": "A good engineer keeps more than code in mind. An agent needs a persistent mental model to do the same.",
+   "zh": "优秀的工程师脑中记住的不只是代码。智能体需要持久的心智模型才能做到同样的事。",
+   "cls": "p.lede-s"
+  },
+  "ed68eec2f8": {
+   "en": "The idea is old. Kenneth Craik suggested in 1943 that the mind carries small-scale models of reality and uses them to try out options before acting. {1}[21]{/1} Edward Tolman showed in 1948 that animals form cognitive maps. {2}[22]{/2} Philip Johnson-Laird described mental models built from experience and held in working memory in 1983. {3}[23]{/3} In software, research on developer work habits finds that developers create and maintain rich mental models of the code. {4}[24]{/4} Expert engineers hold the components, how they depend on each other, the architecture, the reasons for decisions, the constraints and past choices: a map far richer than the source code.",
+   "zh": "这个想法由来已久。Kenneth Craik 在 1943 年提出，心智携带着现实的小尺度模型，并在行动前用它们来尝试各种选择。{1}[21]{/1} Edward Tolman 在 1948 年表明动物会形成认知地图。{2}[22]{/2} Philip Johnson-Laird 在 1983 年描述了由经验建立、保存在工作记忆中的心智模型。{3}[23]{/3} 在软件领域，对开发者工作习惯的研究发现，开发者会建立并维护关于代码的丰富心智模型。{4}[24]{/4} 资深工程师脑中有组件、组件之间的依赖关系、架构、决策的原因、约束和过去的选择：这是一张远比源代码丰富的地图。",
+   "cls": "p"
+  },
+  "4176bcfa68": {
+   "en": "The code says what the system does; the hardest questions are about why. Why was it written this way? What else was tried? What breaks if I change it? That knowledge is fuzzy (\"I know it works but cannot say why\"), personal (hard to hand over) and silent (pitfalls live only with whoever hit them), so it leaves when people do.",
+   "zh": "代码说明系统做什么；最难的问题是关于为什么。为什么这样写？还试过什么？如果我改它，什么会出问题？这类知识是模糊的（“我知道它能用，但说不清为什么”）、个人化的（难以交接）、无声的（陷阱只存在于踩过的人那里），所以人一走，知识也随之流失。",
+   "cls": "p"
+  },
+  "7732a47d1c": {
+   "en": "Agents have this problem in the extreme. A coding agent is stateless: in one session it explores the repository, finds a root cause, learns the code patterns and makes a design decision, and when the session ends the context window is cleared. The next session starts almost empty and repeats the exploration. The window is also limited in size; MemGPT treats this like a computer's memory, with a small fast memory and a larger slower one that the agent manages. {1}[25]{/1}",
+   "zh": "智能体的这个问题尤其严重。编码智能体是无状态的：在一次会话中它探索代码仓库，找到根本原因，学到代码模式，做出设计决策，会话结束时上下文窗口就被清空。下一次会话几乎从零开始，重复同样的探索。窗口的大小也有限；MemGPT 把这类似于计算机的内存，有一个小而快的内存和一个大而慢的内存，由智能体自己管理。{1}[25]{/1}",
+   "cls": "p"
+  },
+  "2fd376e8c2": {
+   "en": "How the Mental Model works",
+   "zh": "心智模型如何工作",
+   "cls": "span.lbl"
+  },
+  "f4762e4534": {
+   "en": "The Mental Model is a persistent, cross-session knowledge store for coding agents, outside the context window. It is structured and typed: architecture and structure, decisions and rationale, constraints, pitfalls and learnings, patterns, and experiment history. It is grounded in the task, the codebase and the agent's reasoning, not in the code text itself. It acts as a teacher (the agent asks it why something was done) and as a hand-off between agents: one agent writes its discoveries, another builds on them. A retrieval step decides when knowledge is delivered, how much, and how relevant it is.",
+   "zh": "心智模型是面向编码智能体的、持久的、跨会话的知识存储，位于上下文窗口之外。它是结构化且有类型的：架构与结构、决策与理由、约束、陷阱与经验教训、模式，以及实验历史。它以任务、代码库和智能体的推理为基础，而不是代码文本本身。它既充当老师（智能体向它询问某件事为什么这样做），也充当智能体之间的交接：一个智能体写下自己的发现，另一个在此基础上继续。检索步骤决定何时交付知识、交付多少，以及相关程度如何。",
+   "cls": "p"
+  },
+  "1f077a21e1": {
+   "en": "Surveys describe memory as the key component for agents that interact with an environment over time. {1}[26]{/1} For coding agents, a study of memory built from earlier subtasks reports a mean gain of 4.7 points in Pass@1 on SWE-bench Verified (6.8 points on Gemini 2.5 Pro); this memory comes from subtasks rather than strictly across sessions. {2}[27]{/2}",
+   "zh": "综述把记忆描述为长期与环境交互的智能体的关键组成部分。{1}[26]{/1} 对编码智能体而言，一项基于早期子任务构建记忆的研究报告称，在 SWE-bench Verified 上 Pass@1 平均提高 4.7 个点（在 Gemini 2.5 Pro 上提高 6.8 个点）；这种记忆来自子任务，而非严格意义上的跨会话。{2}[27]{/2}",
+   "cls": "p"
+  },
+  "f30a3eb526": {
+   "en": "Open questions",
+   "zh": "尚未解决的问题",
+   "cls": "span.lbl"
+  },
+  "5bf9d20071": {
+   "en": "What to store, when to retrieve it, and how to keep it correct as the code changes are still open. A memory that is wrong or too large is worse than none.",
+   "zh": "存什么、何时检索，以及如何在代码变化时保持其正确，这些仍是悬而未决的问题。错误或过大的记忆比没有记忆更糟。",
+   "cls": "p"
+  },
+  "b950cd0f65": {
+   "en": "{1}Human Cognition{/1}",
+   "zh": "{1}人类认知{/1}",
+   "cls": "div"
+  },
+  "0a4a098516": {
+   "en": "{1}Mental Model — Kenneth Craik (1943){/1}",
+   "zh": "{1}心智模型 — Kenneth Craik（1943）{/1}",
+   "cls": "div"
+  },
+  "17eb3759da": {
+   "en": "{1}\"If the organism carries a 'small-scale model' of external reality... it is able to try out various alternatives, react to future situations before they arise, and utilize knowledge of past events in dealing with the present and future.\"{/1}{2} {/2}",
+   "zh": "{1}“如果生物体携带着外部现实的‘小尺度模型’……它就能尝试各种备选方案，在未来情形出现之前做出反应，并利用对过去事件的认识来应对现在和未来。”{/1}{2} {/2}",
+   "cls": "div"
+  },
+  "3c4bf859e1": {
+   "en": "{1}Cognitive Map — Edward C. Tolman (1948){/1}{br}{3} {/3}{4}Humans organize knowledge into structured internal maps, enabling navigation of complex environments beyond immediate perception.{/4}",
+   "zh": "{1}认知地图 — Edward C. Tolman（1948）{/1}{br}{3} {/3}{4}人类把知识组织成结构化的内部地图，从而能够在超出即时感知的复杂环境中导航。{/4}",
+   "cls": "div"
+  },
+  "a5a3c2a51c": {
+   "en": "{1}Working Memory Representation — Johnson-Laird (1983){/1}",
+   "zh": "{1}工作记忆表征 — Johnson-Laird（1983）{/1}",
+   "cls": "div"
+  },
+  "1b86e1bdd1": {
+   "en": "{1}Mental models built from experience are held in working memory and actively used to support inference and reasoning.{/1}",
+   "zh": "{1}由经验建立的心智模型保存在工作记忆中，并被主动用于支持推断和推理。{/1}",
+   "cls": "div"
+  },
+  "54f56ab226": {
+   "en": "{1}Software Engineering Parallel{/1}",
+   "zh": "{1}软件工程中的对应{/1}",
+   "cls": "div"
+  },
+  "5b6c1fb06e": {
+   "en": "{1}The Engineer's Internal Mind{/1}",
+   "zh": "{1}工程师的内在心智{/1}",
+   "cls": "div"
+  },
+  "72a89ed7a1": {
+   "en": "{1}Experts accumulate architecture, component relationships, design rationale, constraints, and prior decisions — an internal brain map that far exceeds what source code alone reveals.{/1}",
+   "zh": "{1}专家积累了架构、组件关系、设计理由、约束和先前的决策，形成一张内在的“大脑地图”，远超仅凭源代码所能看到的内容。{/1}",
+   "cls": "div"
+  },
+  "01b5decb92": {
+   "en": "{1}Key Takeaway{/1}",
+   "zh": "{1}关键结论{/1}",
+   "cls": "div"
+  },
+  "fa9db5c051": {
+   "en": "{1}Expert engineers navigate software systems the same way humans navigate the world — through rich, experience-built mental models that make tacit knowledge actionable.{/1}",
+   "zh": "{1}资深工程师驾驭软件系统的方式，与人类驾驭世界的方式相同：依靠由经验建立的丰富心智模型，使隐性知识变得可用。{/1}",
+   "cls": "div"
+  },
+  "5a75be00eb": {
+   "en": "{1}CODE{/1}",
+   "zh": "{1}代码{/1}",
+   "cls": "div"
+  },
+  "4b615f1db0": {
+   "en": "{1}What is implemented{/1}",
+   "zh": "{1}实现了什么{/1}",
+   "cls": "div"
+  },
+  "20a26d8cc8": {
+   "en": "{1}COMPONENT RELATIONSHIPS{/1}",
+   "zh": "{1}组件关系{/1}",
+   "cls": "div"
+  },
+  "e63b85548c": {
+   "en": "{1}How parts interacts and depend{/1}",
+   "zh": "{1}各部分如何交互和依赖{/1}",
+   "cls": "div"
+  },
+  "f62a5d38d5": {
+   "en": "{1}ARCHITECTURE{/1}",
+   "zh": "{1}架构{/1}",
+   "cls": "div"
+  },
+  "bdecdfd45e": {
+   "en": "{1}System structure & design{/1}",
+   "zh": "{1}系统结构与设计{/1}",
+   "cls": "div"
+  },
+  "d91994be46": {
+   "en": "{1}DESIGN RATIONALE{/1}",
+   "zh": "{1}设计理由{/1}",
+   "cls": "div"
+  },
+  "e05aa5691e": {
+   "en": "{1}Why decisions were make{/1}",
+   "zh": "{1}为什么做出这些决策{/1}",
+   "cls": "div"
+  },
+  "e8b3e22f2e": {
+   "en": "{1}CONSTRAINTS{/1}",
+   "zh": "{1}约束{/1}",
+   "cls": "div"
+  },
+  "36b642ad48": {
+   "en": "{1}Rules, limitations & trade-offs{/1}",
+   "zh": "{1}规则、限制与权衡{/1}",
+   "cls": "div"
+  },
+  "228f8ff894": {
+   "en": "{1}PRIOR DECISIONS{/1}",
+   "zh": "{1}先前的决策{/1}",
+   "cls": "div"
+  },
+  "d959b355b0": {
+   "en": "{1}History of choices & outcomes{/1}",
+   "zh": "{1}选择与结果的历史{/1}",
+   "cls": "div"
+  },
+  "05935bd015": {
+   "en": "Fig. 8. From human mental models to software knowledge (slide 4 of the lab's Mental Model deck).",
+   "zh": "图 8。从人类心智模型到软件知识（实验室心智模型演示文稿的第 4 页）。",
+   "cls": "figcaption"
+  },
+  "e59da1c02a": {
+   "en": "{1}Source Code{/1}",
+   "zh": "{1}源代码{/1}",
+   "cls": "div"
+  },
+  "5861ce657e": {
+   "en": "{1}functions · classes · APIs · tests{/1}",
+   "zh": "{1}函数 · 类 · API · 测试{/1}",
+   "cls": "div"
+  },
+  "7ef6c4a9c9": {
+   "en": "{1}Hidden Engineering Knowledge{/1}",
+   "zh": "{1}隐藏的工程知识{/1}",
+   "cls": "div"
+  },
+  "228b944fbf": {
+   "en": "{1}•{/1}{2}Architecture & system structure{/2}",
+   "zh": "{1}•{/1}{2}架构与系统结构{/2}",
+   "cls": "div"
+  },
+  "4d8bac88e1": {
+   "en": "{1}•{/1}{2}Design decisions & rationale{/2}",
+   "zh": "{1}•{/1}{2}设计决策与理由{/2}",
+   "cls": "div"
+  },
+  "4d7d89b19d": {
+   "en": "{1}•{/1}{2}Project constraints & conventions{/2}",
+   "zh": "{1}•{/1}{2}项目约束与约定{/2}",
+   "cls": "div"
+  },
+  "bc69a829d6": {
+   "en": "{1}•{/1}{2}Domain knowledge{/2}",
+   "zh": "{1}•{/1}{2}领域知识{/2}",
+   "cls": "div"
+  },
+  "e4630579de": {
+   "en": "{1}•{/1}{2}Past failures & lessons learned{/2}",
+   "zh": "{1}•{/1}{2}过去的失败与经验教训{/2}",
+   "cls": "div"
+  },
+  "17f7065f18": {
+   "en": "{1}•{/1}{2}Reusable engineering experience{/2}",
+   "zh": "{1}•{/1}{2}可复用的工程经验{/2}",
+   "cls": "div"
+  },
+  "6430e82f55": {
+   "en": "{1}•{/1}{2}Team conventions{/2}",
+   "zh": "{1}•{/1}{2}团队约定{/2}",
+   "cls": "div"
+  },
+  "d16b3b22d3": {
+   "en": "{1}Software engineering = Code + Knowledge{/1}",
+   "zh": "{1}软件工程 = 代码 + 知识{/1}",
+   "cls": "div"
+  },
+  "32ac1cf978": {
+   "en": "{1}Rationale {/1}{2}— {/2}{3}Thomas D. {/3}{4}LaToza{/4}{5} from George Mason University{/5}{br}{7}Why was this code/program implemented this way?{/7}",
+   "zh": "{1}设计理由 {/1}{2}— {/2}{3}Thomas D. {/3}{4}LaToza{/4}{5} 来自 George Mason University{/5}{br}{7}这段代码或程序为什么这样实现？{/7}",
+   "cls": "div"
+  },
+  "cd37769900": {
+   "en": "{1}Hard-to-answer Questions About Code:{/1}",
+   "zh": "{1}关于代码的难以回答的问题：{/1}",
+   "cls": "div"
+  },
+  "f0b1aff1c1": {
+   "en": "{1}Actual Understanding Time Distribution{/1}",
+   "zh": "{1}实际理解时间分布{/1}",
+   "cls": "div"
+  },
+  "b843fd702b": {
+   "en": "{1}Reading source code{/1}",
+   "zh": "{1}阅读源代码{/1}",
+   "cls": "div"
+  },
+  "6216b8d43e": {
+   "en": "{1}Using a debugger{/1}",
+   "zh": "{1}使用调试器{/1}",
+   "cls": "div"
+  },
+  "f447944903": {
+   "en": "{1}Looking at diffs /{/1}",
+   "zh": "{1}查看差异 /{/1}",
+   "cls": "div"
+  },
+  "6761e273e8": {
+   "en": "{1}check-in comments{/1}",
+   "zh": "{1}提交说明{/1}",
+   "cls": "div"
+  },
+  "e7e00e838a": {
+   "en": "{1}View the execution results.{/1}",
+   "zh": "{1}查看执行结果。{/1}",
+   "cls": "div"
+  },
+  "c0cf20dfa1": {
+   "en": "{1}View debug/{/1}",
+   "zh": "{1}查看调试 /{/1}",
+   "cls": "div"
+  },
+  "bbc26566a0": {
+   "en": "{1}trace statements.{/1}",
+   "zh": "{1}跟踪语句。{/1}",
+   "cls": "div"
+  },
+  "26c2ae5ced": {
+   "en": "{1}Others{/1}",
+   "zh": "{1}其他{/1}",
+   "cls": "div"
+  },
+  "ca62f74a6b": {
+   "en": "{1}The code itself is the best source of information, {/1}",
+   "zh": "{1}代码本身是最好的信息来源，{/1}",
+   "cls": "div"
+  },
+  "3d48da962c": {
+   "en": "{1}but only 58% of the time is spent on the code{/1}",
+   "zh": "{1}但只有 58% 的时间花在代码上{/1}",
+   "cls": "div"
+  },
+  "2e9d0ef407": {
+   "en": "{1}42% of the time is spent outside the code{/1}{2}.{/2}",
+   "zh": "{1}42% 的时间花在代码之外{/1}{2}。{/2}",
+   "cls": "div"
+  },
+  "fd9e9a6423": {
+   "en": "{1}Rationale is the number one challenge for developers.{/1}",
+   "zh": "{1}设计理由是开发者面临的头号挑战。{/1}",
+   "cls": "div"
+  },
+  "8ee39dd7a2": {
+   "en": "{1}Believing that \"understanding the rationale behind the code\" is a serious issue{/1}",
+   "zh": "{1}认为“理解代码背后的设计理由”是严重问题{/1}",
+   "cls": "div"
+  },
+  "d4a3012b72": {
+   "en": "{1}Figuring out \"why the code is implemented this way\" is very difficult{/1}",
+   "zh": "{1}弄清“代码为什么这样实现”非常困难{/1}",
+   "cls": "div"
+  },
+  "c1b86719d2": {
+   "en": "{1}Figuring out \"whether this is a temporary workaround\" is very difficult{/1}",
+   "zh": "{1}弄清“这是否是临时变通方案”非常困难{/1}",
+   "cls": "div"
+  },
+  "8ffe1dc565": {
+   "en": "{1}Why Code Knowledge Are Lost{/1}",
+   "zh": "{1}代码知识为何流失{/1}",
+   "cls": "div"
+  },
+  "ddc413fa29": {
+   "en": "{1}•{/1}{2}Fuzzy{/2}{3} — \"I know it works but can't fully define why\"{/3}",
+   "zh": "{1}•{/1}{2}模糊{/2}{3} — “我知道它能用，但说不清为什么”{/3}",
+   "cls": "div"
+  },
+  "7485a3adbc": {
+   "en": "{1}•{/1}{2}Personalized{/2}{3} — subjective, can't be transferred{/3}",
+   "zh": "{1}•{/1}{2}个人化{/2}{3} — 主观，无法转移{/3}",
+   "cls": "div"
+  },
+  "a5a23a839b": {
+   "en": "{1}•{/1}{2}Practical traces {/2}{3}— pitfalls only in the mind of the person who hit them → institutional memory loss{/3}",
+   "zh": "{1}•{/1}{2}实践痕迹 {/2}{3}— 陷阱只存在于踩过的人脑中 → 机构记忆流失{/3}",
+   "cls": "div"
+  },
+  "50bfe3846d": {
+   "en": "Fig. 9. Software engineering beyond source code (slide 5 of the lab's Mental Model deck).",
+   "zh": "图 9。超越源代码的软件工程（实验室心智模型演示文稿的第 5 页）。",
+   "cls": "figcaption"
+  },
+  "6adbda64e9": {
+   "en": "Fig. 10. An agent forgets between sessions; a persistent mental model keeps what matters.",
+   "zh": "图 10。智能体在会话之间会遗忘；持久的心智模型则保留重要的内容。",
+   "cls": "attr:alt"
+  },
+  "f9cf2cdfea": {
+   "en": "Fig. 10. An agent forgets between sessions; a persistent mental model keeps what matters. Click to replay.",
+   "zh": "图 10。智能体在会话之间会遗忘；持久的心智模型则保留重要的内容。点击重播。",
+   "cls": "figcaption"
+  },
+  "2e5187d320": {
+   "en": "Kept outside the context window",
+   "zh": "保存在上下文窗口之外",
+   "cls": "li"
+  },
+  "d13ee6bfa8": {
+   "en": "Read and written across sessions",
+   "zh": "跨会话读取和写入",
+   "cls": "li"
+  },
+  "9af0e085e2": {
+   "en": "Structured, typed and scoped",
+   "zh": "结构化、有类型、有作用域",
+   "cls": "li"
+  },
+  "b73acb6c0a": {
+   "en": "Survives sessions and grows with experience",
+   "zh": "跨会话留存，并随经验增长",
+   "cls": "li"
+  },
+  "2e1035a17a": {
+   "en": "Not the code text itself: the task, the codebase and the reasoning",
+   "zh": "不是代码文本本身：而是任务、代码库和推理",
+   "cls": "li"
+  },
+  "061b087d84": {
+   "en": "As a teacher",
+   "zh": "作为老师",
+   "cls": "h4"
+  },
+  "5ce2e6f402": {
+   "en": "Agent",
+   "zh": "智能体",
+   "cls": "b"
+  },
+  "d3f8aebe29": {
+   "en": "“Why was this implemented this way?”",
+   "zh": "“为什么这里要这样实现？”",
+   "cls": "div.say"
+  },
+  "46809bb573": {
+   "en": "It answers with",
+   "zh": "它的回答包括",
+   "cls": "b"
+  },
+  "b01f5509a7": {
+   "en": "Decision and rationale",
+   "zh": "决策与理由",
+   "cls": "li"
+  },
+  "4247be5b1e": {
+   "en": "Constraints to follow",
+   "zh": "需要遵守的约束",
+   "cls": "li"
+  },
+  "68b4168af8": {
+   "en": "Relevant patterns",
+   "zh": "相关模式",
+   "cls": "li"
+  },
+  "87a90c9bda": {
+   "en": "Past fixes and pitfalls",
+   "zh": "过去的修复与陷阱",
+   "cls": "li"
+  },
+  "8e422dbe60": {
+   "en": "Where to look next",
+   "zh": "下一步该看哪里",
+   "cls": "li"
+  },
+  "a3e897d942": {
+   "en": "Between agents",
+   "zh": "智能体之间",
+   "cls": "h4"
+  },
+  "badf4f3c32": {
+   "en": "Agent A",
+   "zh": "智能体 A",
+   "cls": "b"
+  },
+  "02d3e96179": {
+   "en": "Architecture and structure",
+   "zh": "架构与结构",
+   "cls": "li"
+  },
+  "2770f1e521": {
+   "en": "Decisions and rationale",
+   "zh": "决策与理由",
+   "cls": "li"
+  },
+  "ba19e14370": {
+   "en": "Constraints and invariants",
+   "zh": "约束与不变量",
+   "cls": "li"
+  },
+  "3546039aca": {
+   "en": "Pitfalls and learnings",
+   "zh": "陷阱与经验教训",
+   "cls": "li"
+  },
+  "1be40293f2": {
+   "en": "Patterns and reuse",
+   "zh": "模式与复用",
+   "cls": "li"
+  },
+  "89dbbca799": {
+   "en": "Experiment history",
+   "zh": "实验历史",
+   "cls": "li"
+  },
+  "16e85208db": {
+   "en": "Agent B",
+   "zh": "智能体 B",
+   "cls": "b"
+  },
+  "096967cde8": {
+   "en": "Agent A writes discoveries, fixes, decisions and lessons. Agent B reads and builds on them: no re-discovery, no repeated mistakes.",
+   "zh": "智能体 A 写下发现、修复、决策和教训。智能体 B 读取并在此基础上继续：无需重新发现，不再重复犯错。",
+   "cls": "p.sub"
+  },
+  "1546dd8ea5": {
+   "en": "Isolated sessions become cumulative intelligence: what was once lost is remembered and reused.",
+   "zh": "孤立的会话变成累积的智能：曾经丢失的内容被记住并复用。",
+   "cls": "div.end"
+  },
+  "fc3ee4c6df": {
+   "en": "Fig. 11. The Mental Model in brief.",
+   "zh": "图 11。心智模型简述。",
+   "cls": "figcaption"
+  },
+  "4f2e141220": {
+   "en": "05 · Artifact Graph",
+   "zh": "05 · Artifact Graph",
+   "cls": "div.kicker"
+  },
+  "1a7905047b": {
+   "en": "A graph store of project knowledge, shared by many agents",
+   "zh": "由多个智能体共享的项目知识图存储",
+   "cls": "h2"
+  },
+  "dac6ebb507": {
+   "en": "Artifact Graph turns the artifacts of spec-driven development into a graph that agents can query and update safely.",
+   "zh": "Artifact Graph 把规格驱动开发的工件转成图，智能体可以安全地查询和更新。",
+   "cls": "p.lede-s"
+  },
+  "ca39ed5975": {
+   "en": "Artifact Graph is a database-like layer for the artifacts of spec-driven development: requirements, designs, decisions, tasks and scenarios. The documents stay the source of truth. Artifact Graph projects their content into typed nodes and typed relationships (a change contains a specification and a design, a specification defines requirements, a requirement is evidenced by a scenario, a design records decisions, risks and tasks), each traced back to its source. Relationships nobody wrote down are inferred, with a confidence and a rationale, and are not treated as proof. {1}[28]{/1}{2}[29]{/2}{3}[30]{/3}",
+   "zh": "Artifact Graph 是面向规格驱动开发工件的类数据库层，这些工件包括需求、设计、决策、任务和场景。文档仍然是事实的来源。Artifact Graph 把其内容投影为有类型的节点和有类型的关系（一项变更包含一份规格说明和一份设计，规格说明定义需求，需求由场景佐证，设计记录决策、风险和任务），每一项都可追溯到其来源。无人写下的关系会被推断出来，附带置信度和理由，并且不被视为证明。{1}[28]{/1}{2}[29]{/2}{3}[30]{/3}",
+   "cls": "p"
+  },
+  "47f3bb459a": {
+   "en": "More project knowledge does not give better context. One change adds requirements, designs, decisions, tasks and scenarios, and the pool grows faster than a prompt can hold. Loading everything hands the filtering problem to the model, and critical constraints get buried. {1}[31]{/1}",
+   "zh": "更多的项目知识并不会带来更好的上下文。一项变更会增加需求、设计、决策、任务和场景，知识池增长得比提示词能容纳的更快。把所有内容都载入，等于把过滤问题交给了模型，关键约束就会被淹没。{1}[31]{/1}",
+   "cls": "p"
+  },
+  "b8edebf7d7": {
+   "en": "How retrieval works",
+   "zh": "检索如何工作",
+   "cls": "span.lbl"
+  },
+  "eafa9eb89b": {
+   "en": "Artifact Graph retrieves the smallest sufficient context. The task is split into information needs; semantic search finds the entry nodes even when the wording differs; graph edges recover dependencies, constraints, decisions and history; and the result is revealed progressively, core first, then related items, then evidence, only where reasoning shows a gap. {1}[28]{/1}{2}[32]{/2}",
+   "zh": "Artifact Graph 检索最小的充分上下文。任务被拆分为信息需求；语义搜索即使在措辞不同时也能找到入口节点；图的边恢复依赖、约束、决策和历史；结果以渐进方式呈现，先是核心内容，然后是相关项，再是证据，且仅在推理显示出缺口的地方才展开。{1}[28]{/1}{2}[32]{/2}",
+   "cls": "p"
+  },
+  "1817b0d590": {
+   "en": "Many agents, one graph",
+   "zh": "多个智能体，一张图",
+   "cls": "span.lbl"
+  },
+  "5b3b5c9803": {
+   "en": "When several agents edit the knowledge at once, updates are staged. An agent's change becomes a candidate set of nodes and edges kept out of shared retrieval, is inspected for structure, consistency, conflicts and traceability, and is committed as one logical update, with earlier versions kept. A conflicting change is held for review. {1}[33]{/1}{2}[34]{/2}",
+   "zh": "当多个智能体同时编辑知识时，更新是分阶段进行的。一个智能体的变更成为一组候选的节点和边，不进入共享检索，要检查其结构、一致性、冲突和可追溯性，然后作为一次逻辑更新提交，并保留早期版本。有冲突的变更会被搁置等待审查。{1}[33]{/1}{2}[34]{/2}",
+   "cls": "p"
+  },
+  "9dfb0e5d0f": {
+   "en": "Evidence and limits",
+   "zh": "证据与局限",
+   "cls": "span.lbl"
+  },
+  "6f4ba9c7d8": {
+   "en": "On 16 SlopCodeBench problems, Artifact Graph (v1.2.0) used 26.8% less context (lower on 16 of 16 problems), 14.2% less cost (16 of 16) and 9.2% fewer tokens (14 of 16) per checkpoint than an OpenSpec-only baseline. The quality differences were small and every interval crossed zero, so they are not conclusive. Artifact Graph does not scan the repository, index source code or guarantee that artifacts are correct; tests and review still matter. {1}[35]{/1}",
+   "zh": "在 16 个 SlopCodeBench 问题上，与仅使用 OpenSpec 的基线相比，Artifact Graph（v1.2.0）每个检查点使用的上下文少 26.8%（16 个问题全部更低）、成本低 14.2%（16 个中的 16 个）、token 少 9.2%（16 个中的 14 个）。质量差异很小，且每个区间都跨过零，因此不具结论性。Artifact Graph 不扫描代码仓库、不索引源代码，也不保证工件正确；测试和审查仍然重要。{1}[35]{/1}",
+   "cls": "p"
+  },
+  "3ca61f483e": {
+   "en": "Fig. 12. Project knowledge as a graph of typed nodes and edges, extracted and inferred.",
+   "zh": "图 12。项目知识表示为由有类型节点和边构成的图，经提取与推断而得。",
+   "cls": "attr:alt"
+  },
+  "33fd5eaac9": {
+   "en": "Fig. 12. Project knowledge as a graph of typed nodes and edges, extracted and inferred. Click to replay.",
+   "zh": "图 12。项目知识表示为由有类型节点和边构成的图，经提取与推断而得。点击重播。",
+   "cls": "figcaption"
+  },
+  "1ad1f0b720": {
+   "en": "Fig. 13. Artifact Graph retrieval: entry points by meaning, expansion by structure, evidence on demand.",
+   "zh": "图 13。Artifact Graph 检索：按语义找入口，按结构扩展，按需提供证据。",
+   "cls": "attr:alt"
+  },
+  "80fd8f27a0": {
+   "en": "Fig. 13. Artifact Graph retrieval: entry points by meaning, expansion by structure, evidence on demand. Click to replay.",
+   "zh": "图 13。Artifact Graph 检索：按语义找入口，按结构扩展，按需提供证据。点击重播。",
+   "cls": "figcaption"
+  },
+  "c49cf2c63e": {
+   "en": "Fig. 14. Many agents, one graph: staged, inspected and committed updates.",
+   "zh": "图 14。多个智能体，一张图：分阶段、经检查并提交的更新。",
+   "cls": "attr:alt"
+  },
+  "7449de3a82": {
+   "en": "Fig. 14. Many agents, one graph: staged, inspected and committed updates. Click to replay.",
+   "zh": "图 14。多个智能体，一张图：分阶段、经检查并提交的更新。点击重播。",
+   "cls": "figcaption"
+  },
+  "3cfea7085c": {
+   "en": "06 · Self-evolution",
+   "zh": "06 · 自我进化",
+   "cls": "div.kicker"
+  },
+  "be557f427f": {
+   "en": "Learning from mistakes",
+   "zh": "从错误中学习",
+   "cls": "attr:data-toc"
+  },
+  "c2d76024f8": {
+   "en": "The agent reviews what went wrong, writes the lesson down, uses it next time, and in the strongest form improves itself.",
+   "zh": "智能体回顾哪里出了问题，把教训写下来，下次使用，最强的形式是改进自身。",
+   "cls": "p.lede-s"
+  },
+  "1f1a386ef8": {
+   "en": "Self-evolution has 2 loops. In the inner loop the agent acts, we evaluate the result with tests and review, the agent reflects on why it failed, writes the lesson down, and stores it in memory for the next try. In the outer loop the agent changes itself: its own tools, prompts, and even its own code. Surveys describe the general loop as inputs, the agent, its environment, and an optimizer that updates the agent from feedback. {1}[36]{/1}",
+   "zh": "自我进化有 2 个循环。在内循环中，智能体行动，我们用测试和审查评估结果，智能体反思失败的原因，写下教训，并存入记忆供下次尝试使用。在外循环中，智能体改变自身：包括它自己的工具、提示词，甚至自己的代码。综述把通用循环描述为输入、智能体、其环境，以及根据反馈更新智能体的优化器。{1}[36]{/1}",
+   "cls": "p"
+  },
+  "243e98bb6e": {
+   "en": "Until now the agent follows rules we wrote. Language models themselves stay fixed after training, so improvement has to come from what surrounds them: memory, skills, prompts, tools and code.",
+   "zh": "到目前为止，智能体遵循的是我们写的规则。语言模型本身在训练后保持不变，因此改进必须来自它们周围的部分：记忆、技能、提示词、工具和代码。",
+   "cls": "p"
+  },
+  "5fb2b0a3a0": {
+   "en": "Inner loop: Reflexion keeps the agent's own written reflections in an episodic memory buffer. {1}[37]{/1} Voyager saves working solutions as an ever-growing library of executable skills (in Minecraft, not in coding). {2}[38]{/2} ExpeL gathers experience and turns it into natural-language knowledge, with no change to the model's weights. {3}[39]{/3}",
+   "zh": "内循环：Reflexion 把智能体自己写下的反思保存在情景记忆缓冲区中。{1}[37]{/1} Voyager 把行之有效的解法保存为不断增长的可执行技能库（在 Minecraft 中，而非编码）。{2}[38]{/2} ExpeL 收集经验并把它转成自然语言知识，不改变模型的权重。{3}[39]{/3}",
+   "cls": "p"
+  },
+  "31f46fd2fd": {
+   "en": "Outer loop: the Self-Improving Coding Agent edits its own code. {1}[40]{/1} The Darwin Godel Machine keeps an archive of agents, lets them modify themselves, and tests each change on coding benchmarks. {2}[41]{/2} In both, a change is kept only if the benchmark score does not drop.",
+   "zh": "外循环：Self-Improving Coding Agent 编辑自己的代码。{1}[40]{/1} Darwin Godel Machine 保留一个智能体档案库，让它们修改自身，并在编码基准测试上测试每次改动。{2}[41]{/2} 在这两者中，只有当基准测试得分没有下降时，改动才会被保留。",
+   "cls": "p"
+  },
+  "9151261ef2": {
+   "en": "Reflexion reached 91% pass@1 on HumanEval, against 80% for GPT-4 at the time. {1}[37]{/1} The Self-Improving Coding Agent raised its score from 17% to 53% on a random subset of SWE-bench Verified. {2}[40]{/2} The Darwin Godel Machine improved from 20.0% to 50.0% on SWE-bench and from 14.2% to 30.7% on Polyglot. {3}[41]{/3} These are different benchmarks, so compare within a paper, not across.",
+   "zh": "Reflexion 在 HumanEval 上达到 91% 的 pass@1，而当时 GPT-4 为 80%。{1}[37]{/1} Self-Improving Coding Agent 在 SWE-bench Verified 的随机子集上把得分从 17% 提高到 53%。{2}[40]{/2} Darwin Godel Machine 在 SWE-bench 上从 20.0% 提高到 50.0%，在 Polyglot 上从 14.2% 提高到 30.7%。{3}[41]{/3} 这些是不同的基准测试，所以应在同一篇论文内比较，而不是跨论文比较。",
+   "cls": "p"
+  },
+  "92ddd0d287": {
+   "en": "Risks",
+   "zh": "风险",
+   "cls": "pptx"
+  },
+  "eda3297165": {
+   "en": "Optimizing only for a benchmark can introduce vulnerabilities, as the Darwin Godel Machine authors note, and their experiments ran with sandboxing and human oversight. {1}[41]{/1} An agent may also learn to game the test, drift, or forget earlier skills. That is why the test gate and a human stay in the loop.",
+   "zh": "正如 Darwin Godel Machine 的作者所指出的，只针对基准测试进行优化可能引入漏洞，他们的实验是在沙箱和人工监督下运行的。{1}[41]{/1} 智能体还可能学会钻测试的空子、发生漂移或遗忘早先的技能。这就是测试关卡和人工要留在循环中的原因。",
+   "cls": "p"
+  },
+  "2a5c712d39": {
+   "en": "Fig. 15. The inner loop, the outer loop, the test gate, and the risks.",
+   "zh": "图 15。内循环、外循环、测试关卡和风险。",
+   "cls": "attr:alt"
+  },
+  "4ca7319147": {
+   "en": "Fig. 15. The inner loop, the outer loop, the test gate, and the risks. Click to replay.",
+   "zh": "图 15。内循环、外循环、测试关卡和风险。点击重播。",
+   "cls": "figcaption"
+  },
+  "09f07ad8c0": {
+   "en": "07 · Challenges",
+   "zh": "07 · 挑战",
+   "cls": "div.kicker"
+  },
+  "e4c25d7bbd": {
+   "en": "4 challenges ahead",
+   "zh": "前方的 4 项挑战",
+   "cls": "attr:data-toc"
+  },
+  "6926cb0e99": {
+   "en": "Orchestration",
+   "zh": "编排",
+   "cls": "attr:data-group"
+  },
+  "a58832de42": {
+   "en": "How must orchestration happen?",
+   "zh": "编排应当如何进行？",
+   "cls": "p.chq"
+  },
+  "d99b076a1c": {
+   "en": "{1}Split along the dependency graph.{/1} A skeleton first, then slices that run side by side and wait only where a test needs another slice. Not by file, and not by line count.{2}[20]{/2}",
+   "zh": "{1}沿依赖图拆分。{/1}先有骨架，然后是并排运行的切片，只在测试需要另一个切片的地方才等待。不按文件拆分，也不按行数拆分。{2}[20]{/2}",
+   "cls": "li"
+  },
+  "e79957b445": {
+   "en": "{1}Isolate and check every branch.{/1} A separate tester sits between each worker and main; merge only after it passes.{2}[17]{/2}",
+   "zh": "{1}隔离并检查每个分支。{/1}每个执行智能体与主分支之间设一个独立的测试智能体；通过后才合并。{2}[17]{/2}",
+   "cls": "li"
+  },
+  "82911401fd": {
+   "en": "{1}Add agents only where the task splits cleanly.{/1} A multi-agent system can use about 15 times the tokens of a chat, and tasks that must be done in order can get much worse.{2}[15]{/2}{3}[16]{/3}",
+   "zh": "{1}只在任务能清晰拆分的地方增加智能体。{/1}多智能体系统使用的 token 可能约为聊天的 15 倍，而必须按顺序完成的任务可能会差得多。{2}[15]{/2}{3}[16]{/3}",
+   "cls": "li"
+  },
+  "0b7a11c2f2": {
+   "en": "Mental model",
+   "zh": "心智模型",
+   "cls": "attr:data-group"
+  },
+  "e985c72ca4": {
+   "en": "How must a mental model be made, and how must it help?",
+   "zh": "心智模型应当如何构建，又应当如何发挥作用？",
+   "cls": "p.chq"
+  },
+  "cd9dcf6a85": {
+   "en": "{1}Store what the code cannot say.{/1} Architecture, decisions and their reasons, constraints, pitfalls, patterns and history, typed and scoped, outside the context window.",
+   "zh": "{1}存储代码说不出的内容。{/1}架构、决策及其原因、约束、陷阱、模式和历史，有类型、有作用域，位于上下文窗口之外。",
+   "cls": "li"
+  },
+  "83474772c1": {
+   "en": "{1}Deliver the right knowledge at the right time.{/1} Decide when it is retrieved and how much, so the context stays small.{2}[25]{/2}{3}[28]{/3}",
+   "zh": "{1}在正确的时间交付正确的知识。{/1}决定何时检索以及检索多少，使上下文保持精简。{2}[25]{/2}{3}[28]{/3}",
+   "cls": "li"
+  },
+  "52e10b23f6": {
+   "en": "{1}Pass it on, and keep it correct.{/1} Share it between sessions and agents so nothing is rediscovered, and keep it right as the code changes. This last part is still an open problem.{2}[27]{/2}{3}[33]{/3}",
+   "zh": "{1}传递下去，并保持正确。{/1}在会话和智能体之间共享，使任何内容都不必重新发现，并在代码变化时保持其正确。这最后一部分仍是未解决的问题。{2}[27]{/2}{3}[33]{/3}",
+   "cls": "li"
+  },
+  "c40309c5f3": {
+   "en": "Artifact Graph",
+   "zh": "Artifact Graph",
+   "cls": "attr:data-group"
+  },
+  "a6bd656e4e": {
+   "en": "How must project knowledge be structured and shared?",
+   "zh": "项目知识应当如何组织和共享？",
+   "cls": "p.chq"
+  },
+  "4a2238d79e": {
+   "en": "{1}Make the knowledge a graph of typed records.{/1} Requirements, designs, decisions, tasks and scenarios become typed nodes and edges, each traced to its source document. Inferred links carry a confidence and are not proof.{2}[28]{/2}{3}[29]{/3}",
+   "zh": "{1}把知识做成有类型记录的图。{/1}需求、设计、决策、任务和场景成为有类型的节点和边，每一项都可追溯到其来源文档。推断出的链接带有置信度，并不是证明。{2}[28]{/2}{3}[29]{/3}",
+   "cls": "li"
+  },
+  "74844afebe": {
+   "en": "{1}Retrieve the smallest sufficient context.{/1} Find entry points by meaning, follow edges to dependencies and constraints, and reveal more only where reasoning shows a gap.{2}[31]{/2}{3}[32]{/3}",
+   "zh": "{1}检索最小的充分上下文。{/1}按语义找到入口，沿边找到依赖和约束，仅在推理显示出缺口的地方才展开更多内容。{2}[31]{/2}{3}[32]{/3}",
+   "cls": "li"
+  },
+  "267fb99b5d": {
+   "en": "{1}Let many agents update it safely.{/1} Stage each change, inspect it for structure, conflicts and traceability, commit it as one update, and hold conflicting changes for review.{2}[33]{/2}{3}[34]{/3}",
+   "zh": "{1}让多个智能体安全地更新它。{/1}对每项变更分阶段处理，检查其结构、冲突和可追溯性，作为一次更新提交，并把有冲突的变更搁置等待审查。{2}[33]{/2}{3}[34]{/3}",
+   "cls": "li"
+  },
+  "7b606dad2a": {
+   "en": "Self-evolution",
+   "zh": "自我进化",
+   "cls": "attr:data-group"
+  },
+  "7757b97778": {
+   "en": "How must self-evolution work?",
+   "zh": "自我进化应当如何运作？",
+   "cls": "p.chq"
+  },
+  "6d4e114d7e": {
+   "en": "{1}Learn in an inner loop.{/1} Reflect on each failure, write the lesson down, store it, and reuse it.{2}[37]{/2}{3}[39]{/3}",
+   "zh": "{1}在内循环中学习。{/1}反思每次失败，写下教训，存储并复用。{2}[37]{/2}{3}[39]{/3}",
+   "cls": "li"
+  },
+  "da3ecc1c2a": {
+   "en": "{1}Change itself only through a test gate.{/1} Keep a change only if the benchmark score does not drop.{2}[40]{/2}{3}[41]{/3}",
+   "zh": "{1}只通过测试关卡改变自身。{/1}只有当基准测试得分没有下降时才保留改动。{2}[40]{/2}{3}[41]{/3}",
+   "cls": "li"
+  },
+  "71359732db": {
+   "en": "{1}Keep a sandbox and a human in the loop.{/1} Optimizing only for a benchmark can introduce vulnerabilities.{2}[41]{/2}",
+   "zh": "{1}保留沙箱，并让人留在循环中。{/1}只针对基准测试进行优化可能引入漏洞。{2}[41]{/2}",
+   "cls": "li"
+  },
+  "e2ab877d13": {
+   "en": "08 · References",
+   "zh": "08 · 参考文献",
+   "cls": "div.kicker"
+  },
+  "5d20d0fee3": {
+   "en": "References",
+   "zh": "参考文献",
+   "cls": "h2"
+  },
+  "934fae785b": {
+   "en": "Intelligent Agents for Software Engineering: Open Day Report",
+   "zh": "软件工程智能体：开放日报告",
+   "cls": "doctitle"
+  },
+  "36828b9319": {
+   "en": "Input layer",
+   "zh": "输入层",
+   "cls": "pptx"
+  },
+  "19aa74b087": {
+   "en": "prompt: \"Explain artificial",
+   "zh": "提示词：“Explain artificial",
+   "cls": "pptx"
+  },
+  "e425f53020": {
+   "en": "intelligence\"",
+   "zh": "intelligence”",
+   "cls": "pptx"
+  },
+  "44df776bac": {
+   "en": "Tokenization",
+   "zh": "分词",
+   "cls": "pptx"
+  },
+  "55cbfd1b6c": {
+   "en": "Explain",
+   "zh": "Explain",
+   "cls": "pptx"
+  },
+  "d9004fc1b0": {
+   "en": "artificial",
+   "zh": "artificial",
+   "cls": "pptx"
+  },
+  "482e7bdd5b": {
+   "en": "intelligence",
+   "zh": "intelligence",
+   "cls": "pptx"
+  },
+  "c88fe095bb": {
+   "en": "words or word pieces",
+   "zh": "词或词片段",
+   "cls": "pptx"
+  },
+  "af39f58ec1": {
+   "en": "Embedding layer",
+   "zh": "嵌入层",
+   "cls": "pptx"
+  },
+  "1884c3c9a7": {
+   "en": "tokens become vectors of numbers",
+   "zh": "token 变成数值向量",
+   "cls": "pptx"
+  },
+  "e4ce6bd9cf": {
+   "en": "Transformer blocks",
+   "zh": "Transformer 块",
+   "cls": "pptx"
+  },
+  "805b9beeae": {
+   "en": "Self-attention layer",
+   "zh": "自注意力层",
+   "cls": "pptx"
+  },
+  "85bd0449e5": {
+   "en": "understands relationships between tokens",
+   "zh": "理解 token 之间的关系",
+   "cls": "pptx"
+  },
+  "9d633688e8": {
+   "en": "Feed-forward network (MLP)",
+   "zh": "前馈网络（MLP）",
+   "cls": "pptx"
+  },
+  "3f8e8c8b60": {
+   "en": "processes and transforms the information",
+   "zh": "处理并转换信息",
+   "cls": "pptx"
+  },
+  "bd5be34a4b": {
+   "en": "Normalization + residual connections",
+   "zh": "归一化 + 残差连接",
+   "cls": "pptx"
+  },
+  "65e8993785": {
+   "en": "help stabilize the flow of information and training",
+   "zh": "帮助稳定信息流和训练",
+   "cls": "pptx"
+  },
+  "cb6b45fb8d": {
+   "en": "Repeated many times (x N)",
+   "zh": "重复多次（x N）",
+   "cls": "pptx"
+  },
+  "c99e1852a2": {
+   "en": "dozens or hundreds of blocks",
+   "zh": "几十或几百个块",
+   "cls": "pptx"
+  },
+  "1d97654ca6": {
+   "en": "Output head",
+   "zh": "输出头",
+   "cls": "pptx"
+  },
+  "b47f363e2b": {
+   "en": "is",
+   "zh": "是",
+   "cls": "pptx"
+  },
+  "f6f39fbf67": {
+   "en": "has",
+   "zh": "有",
+   "cls": "pptx"
+  },
+  "7e9219a059": {
+   "en": "can",
+   "zh": "能",
+   "cls": "pptx"
+  },
+  "d03a4d6fbc": {
+   "en": "probability of the next token",
+   "zh": "下一个 token 的概率",
+   "cls": "pptx"
+  },
+  "d3ba8aacda": {
+   "en": "Token generation",
+   "zh": "token 生成",
+   "cls": "pptx"
+  },
+  "72f60bb9ae": {
+   "en": "selects the next token",
+   "zh": "选出下一个 token",
+   "cls": "pptx"
+  },
+  "aa2c9068ac": {
+   "en": "and repeats the process",
+   "zh": "并重复这一过程",
+   "cls": "pptx"
+  },
+  "0b5d4da98d": {
+   "en": "Final response",
+   "zh": "最终回答",
+   "cls": "pptx"
+  },
+  "a4a11793a7": {
+   "en": "human-readable text:",
+   "zh": "人类可读的文本：",
+   "cls": "pptx"
+  },
+  "959aa44cc4": {
+   "en": "\"Artificial intelligence is ...\"",
+   "zh": "“人工智能是……”",
+   "cls": "pptx"
+  },
+  "3349f93ea3": {
+   "en": "the new token is appended to the text, and the whole process runs again",
+   "zh": "新 token 被追加到文本中，整个过程再运行一遍",
+   "cls": "pptx"
+  },
+  "fef81672fb": {
+   "en": "A language model in a loop: read, decide, act with a tool, observe, repeat.",
+   "zh": "循环中的语言模型：阅读、决策、用工具行动、观察、重复。",
+   "cls": "p.lede"
+  },
+  "7bb0ddf922": {
+   "en": "Task",
+   "zh": "任务",
+   "cls": "pptx"
+  },
+  "0762b53774": {
+   "en": "from the user",
+   "zh": "来自用户",
+   "cls": "pptx"
+  },
+  "8305f7fd5d": {
+   "en": "Build context",
+   "zh": "构建上下文",
+   "cls": "pptx"
+  },
+  "9f3170eb9c": {
+   "en": "instructions, memory,",
+   "zh": "指令、记忆、",
+   "cls": "pptx"
+  },
+  "bc3de6305f": {
+   "en": "history so far",
+   "zh": "迄今的历史",
+   "cls": "pptx"
+  },
+  "8f755dd387": {
+   "en": "Model reasons",
+   "zh": "模型推理",
+   "cls": "pptx"
+  },
+  "c176d5ed61": {
+   "en": "decides the next",
+   "zh": "决定下一",
+   "cls": "pptx"
+  },
+  "bd370d1b6f": {
+   "en": "step",
+   "zh": "步",
+   "cls": "pptx"
+  },
+  "cf9c80e861": {
+   "en": "Choose action",
+   "zh": "选择行动",
+   "cls": "pptx"
+  },
+  "98edbf6a9b": {
+   "en": "tool call",
+   "zh": "工具调用",
+   "cls": "pptx"
+  },
+  "39b4c52c55": {
+   "en": "or finish",
+   "zh": "或结束",
+   "cls": "pptx"
+  },
+  "8f22711074": {
+   "en": "Run tool",
+   "zh": "运行工具",
+   "cls": "pptx"
+  },
+  "faa6893be2": {
+   "en": "read, edit, search,",
+   "zh": "读取、编辑、搜索、",
+   "cls": "pptx"
+  },
+  "d303113843": {
+   "en": "run tests",
+   "zh": "运行测试",
+   "cls": "pptx"
+  },
+  "c99a2bcf3e": {
+   "en": "Observe",
+   "zh": "观察",
+   "cls": "pptx"
+  },
+  "b7cffcb64e": {
+   "en": "output goes back",
+   "zh": "输出返回",
+   "cls": "pptx"
+  },
+  "20f6ecfaa1": {
+   "en": "into the context",
+   "zh": "到上下文中",
+   "cls": "pptx"
+  },
+  "a9f02d80f8": {
+   "en": "Loop: the result becomes part of the next step",
+   "zh": "循环：结果成为下一步的一部分",
+   "cls": "pptx"
+  },
+  "d9cac0e980": {
+   "en": "Stop and report",
+   "zh": "停止并汇报",
+   "cls": "pptx"
+  },
+  "2720f1f4ee": {
+   "en": "finished or out of budget",
+   "zh": "已完成或预算用尽",
+   "cls": "pptx"
+  },
+  "2cce4a92f4": {
+   "en": "finish",
+   "zh": "结束",
+   "cls": "pptx"
+  },
+  "bfe1b09a3b": {
+   "en": "The parts around the loop",
+   "zh": "循环周围的组成部分",
+   "cls": "pptx"
+  },
+  "68c2cc7f0c": {
+   "en": "Model",
+   "zh": "模型",
+   "cls": "pptx"
+  },
+  "de3f87acf8": {
+   "en": "the reasoning engine",
+   "zh": "推理引擎",
+   "cls": "pptx"
+  },
+  "ed58f29743": {
+   "en": "Instructions",
+   "zh": "指令",
+   "cls": "pptx"
+  },
+  "d7d8ee813a": {
+   "en": "role, rules, goal",
+   "zh": "角色、规则、目标",
+   "cls": "pptx"
+  },
+  "4fa8cc860c": {
+   "en": "Tools",
+   "zh": "工具",
+   "cls": "pptx"
+  },
+  "1609219e1f": {
+   "en": "what it can do",
+   "zh": "能做什么",
+   "cls": "pptx"
+  },
+  "89c8a2851d": {
+   "en": "Memory",
+   "zh": "记忆",
+   "cls": "pptx"
+  },
+  "3af326b1a3": {
+   "en": "what it can recall",
+   "zh": "能回忆什么",
+   "cls": "pptx"
+  },
+  "d443a11855": {
+   "en": "Environment",
+   "zh": "环境",
+   "cls": "pptx"
+  },
+  "4f69fb844a": {
+   "en": "code, terminal, files",
+   "zh": "代码、终端、文件",
+   "cls": "pptx"
+  },
+  "2ffc9f1ba4": {
+   "en": "Stop rule",
+   "zh": "停止规则",
+   "cls": "pptx"
+  },
+  "3b88f809f5": {
+   "en": "when to end",
+   "zh": "何时结束",
+   "cls": "pptx"
+  },
+  "9ee3f6f2d6": {
+   "en": "Needs and requirements",
+   "zh": "需求",
+   "cls": "pptx"
+  },
+  "c76687e9d7": {
+   "en": "System design",
+   "zh": "系统设计",
+   "cls": "pptx"
+  },
+  "ae7081a60f": {
+   "en": "Detailed design",
+   "zh": "详细设计",
+   "cls": "pptx"
+  },
+  "224abff6ca": {
+   "en": "Coding",
+   "zh": "编码",
+   "cls": "pptx"
+  },
+  "142eae317a": {
+   "en": "Unit test",
+   "zh": "单元测试",
+   "cls": "pptx"
+  },
+  "8fdc87ddfd": {
+   "en": "Integration test",
+   "zh": "集成测试",
+   "cls": "pptx"
+  },
+  "86b980bea2": {
+   "en": "System verification",
+   "zh": "系统验证",
+   "cls": "pptx"
+  },
+  "278d555c4b": {
+   "en": "Acceptance, deployment",
+   "zh": "验收、部署",
+   "cls": "pptx"
+  },
+  "32c204f2ec": {
+   "en": "validates",
+   "zh": "确认",
+   "cls": "pptx"
+  },
+  "d04be83743": {
+   "en": "verifies",
+   "zh": "验证",
+   "cls": "pptx"
+  },
+  "46be17bc55": {
+   "en": "Who does it",
+   "zh": "谁来做",
+   "cls": "pptx"
+  },
+  "09a428f93e": {
+   "en": "Requirements",
+   "zh": "需求",
+   "cls": "pptx"
+  },
+  "59b0353672": {
+   "en": "Design",
+   "zh": "设计",
+   "cls": "pptx"
+  },
+  "0820b32b20": {
+   "en": "Testing",
+   "zh": "测试",
+   "cls": "pptx"
+  },
+  "03128bed90": {
+   "en": "Verification",
+   "zh": "验证",
+   "cls": "pptx"
+  },
+  "327a55f82d": {
+   "en": "Deployment",
+   "zh": "部署",
+   "cls": "pptx"
+  },
+  "24345a1437": {
+   "en": "Today",
+   "zh": "现在",
+   "cls": "pptx"
+  },
+  "e42a494a12": {
+   "en": "human roles",
+   "zh": "人类角色",
+   "cls": "pptx"
+  },
+  "af454d1e0a": {
+   "en": "Analyst",
+   "zh": "分析师",
+   "cls": "pptx"
+  },
+  "16639cf778": {
+   "en": "Architect",
+   "zh": "架构师",
+   "cls": "pptx"
+  },
+  "7e08ebec5e": {
+   "en": "Developer",
+   "zh": "开发者",
+   "cls": "pptx"
+  },
+  "9264a677dd": {
+   "en": "Tester",
+   "zh": "测试智能体",
+   "cls": "pptx"
+  },
+  "f2c0e50d0c": {
+   "en": "QA engineer",
+   "zh": "QA 工程师",
+   "cls": "pptx"
+  },
+  "f751d59b8b": {
+   "en": "Release engineer",
+   "zh": "发布工程师",
+   "cls": "pptx"
+  },
+  "047ca54032": {
+   "en": "Future",
+   "zh": "未来",
+   "cls": "pptx"
+  },
+  "01dcba9348": {
+   "en": "agent team",
+   "zh": "智能体团队",
+   "cls": "pptx"
+  },
+  "308c480d7b": {
+   "en": "Requirements agent",
+   "zh": "需求智能体",
+   "cls": "pptx"
+  },
+  "8bd111ffb1": {
+   "en": "Design agent",
+   "zh": "设计智能体",
+   "cls": "pptx"
+  },
+  "29ddc4dd79": {
+   "en": "Coding agent",
+   "zh": "编码智能体",
+   "cls": "pptx"
+  },
+  "39afc1aa1f": {
+   "en": "Test agent",
+   "zh": "测试智能体",
+   "cls": "pptx"
+  },
+  "2e280df5c0": {
+   "en": "Verification agent",
+   "zh": "验证智能体",
+   "cls": "pptx"
+  },
+  "efc6855ec1": {
+   "en": "Deploy agent",
+   "zh": "部署智能体",
+   "cls": "pptx"
+  },
+  "ca6d0e3aaa": {
+   "en": "Stage",
+   "zh": "阶段",
+   "cls": "pptx"
+  },
+  "6c61a5c5ec": {
+   "en": "How far agents have come",
+   "zh": "智能体已走了多远",
+   "cls": "pptx"
+  },
+  "7bf5fd04c4": {
+   "en": "What the studies show",
+   "zh": "研究显示了什么",
+   "cls": "pptx"
+  },
+  "6da13addb0": {
+   "en": "Source",
+   "zh": "来源",
+   "cls": "pptx"
+  },
+  "1750b544af": {
+   "en": "Early research prototypes",
+   "zh": "早期研究原型",
+   "cls": "pptx"
+  },
+  "d1df69a158": {
+   "en": "ReqElicitGym, Elicitron,",
+   "zh": "ReqElicitGym, Elicitron,",
+   "cls": "pptx"
+  },
+  "7287823aa8": {
+   "en": "iReDev",
+   "zh": "iReDev",
+   "cls": "pptx"
+  },
+  "4a2ba50710": {
+   "en": "A whole-lifecycle benchmark: models",
+   "zh": "覆盖整个生命周期的基准测试：模型",
+   "cls": "pptx"
+  },
+  "1593dc5df1": {
+   "en": "fail to solve it",
+   "zh": "无法解决",
+   "cls": "pptx"
+  },
+  "481b709290": {
+   "en": "DevEval (2024)",
+   "zh": "DevEval (2024)",
+   "cls": "pptx"
+  },
+  "382876971b": {
+   "en": "The most measured stage; most real",
+   "zh": "评测最多的阶段；多数真实",
+   "cls": "pptx"
+  },
+  "8a7b05218e": {
+   "en": "tasks still unsolved",
+   "zh": "任务仍未解决",
+   "cls": "pptx"
+  },
+  "1ed5d5d2aa": {
+   "en": "SWE-bench, SWE-Lancer",
+   "zh": "SWE-bench, SWE-Lancer",
+   "cls": "pptx"
+  },
+  "551add917f": {
+   "en": "(1,400+ tasks)",
+   "zh": "（1,400+ 项任务）",
+   "cls": "pptx"
+  },
+  "a6f1a225af": {
+   "en": "Testing and verification",
+   "zh": "测试与验证",
+   "cls": "pptx"
+  },
+  "d125eb304e": {
+   "en": "Part of lifecycle benchmarks; hard",
+   "zh": "属于生命周期基准测试的一部分；对",
+   "cls": "pptx"
+  },
+  "37200852b1": {
+   "en": "for current models",
+   "zh": "当前模型很难",
+   "cls": "pptx"
+  },
+  "601a33d1ea": {
+   "en": "Deployment and operations",
+   "zh": "部署与运维",
+   "cls": "pptx"
+  },
+  "eba03d8628": {
+   "en": "Agents struggle with build and",
+   "zh": "智能体在构建和",
+   "cls": "pptx"
+  },
+  "c1ab9924ec": {
+   "en": "monitoring",
+   "zh": "监控上表现不佳",
+   "cls": "pptx"
+  },
+  "0773fb9bba": {
+   "en": "DevOps-Gym (ICLR 2026)",
+   "zh": "DevOps-Gym (ICLR 2026)",
+   "cls": "pptx"
+  },
+  "fc39a3cc6b": {
+   "en": "Bars show a qualitative reading (more filled = more studied and more capable), not a measured score.",
+   "zh": "条形表示定性判断（填充越多 = 研究越多、能力越强），不是实测分数。",
+   "cls": "pptx"
+  },
+  "28d2947423": {
+   "en": "Orchestrator",
+   "zh": "编排器",
+   "cls": "pptx"
+  },
+  "0f7c7a4492": {
+   "en": "turns the goal into tasks",
+   "zh": "把目标拆成任务",
+   "cls": "pptx"
+  },
+  "eca1f91896": {
+   "en": "Planner",
+   "zh": "规划器",
+   "cls": "pptx"
+  },
+  "30b9fac2e0": {
+   "en": "one plan, sized for workers",
+   "zh": "一份计划，按执行智能体的能力切分",
+   "cls": "pptx"
+  },
+  "38307d4402": {
+   "en": "Worker A",
+   "zh": "执行智能体 A",
+   "cls": "pptx"
+  },
+  "a30c062c34": {
+   "en": "writes code on its own branch",
+   "zh": "在自己的分支上写代码",
+   "cls": "pptx"
+  },
+  "86a659af46": {
+   "en": "Worker B",
+   "zh": "执行智能体 B",
+   "cls": "pptx"
+  },
+  "e69d9fbb4a": {
+   "en": "Worker C",
+   "zh": "执行智能体 C",
+   "cls": "pptx"
+  },
+  "2f18e737ea": {
+   "en": "in parallel",
+   "zh": "并行",
+   "cls": "pptx"
+  },
+  "bd564db5d5": {
+   "en": "PASS",
+   "zh": "通过",
+   "cls": "pptx"
+  },
+  "40c5a5dedb": {
+   "en": "REJECT",
+   "zh": "驳回",
+   "cls": "pptx"
+  },
+  "b4eacf90f1": {
+   "en": "defects go back to the planner",
+   "zh": "缺陷退回规划器",
+   "cls": "pptx"
+  },
+  "a2908fe110": {
+   "en": "fix and rebuild",
+   "zh": "修复并重新构建",
+   "cls": "pptx"
+  },
+  "a6768cae9c": {
+   "en": "Integrator",
+   "zh": "集成智能体",
+   "cls": "pptx"
+  },
+  "c89917017b": {
+   "en": "merges main into the branch, checks the merged result, merges only after the tester passed",
+   "zh": "把 main 合并进分支，检查合并后的结果，测试智能体通过后才合并",
+   "cls": "pptx"
+  },
+  "b28b7af693": {
+   "en": "main",
+   "zh": "main",
+   "cls": "pptx"
+  },
+  "32c9924e0e": {
+   "en": "A rejected branch goes back through the planner and the worker; only a tested branch reaches main",
+   "zh": "被驳回的分支会回到规划器和执行智能体；只有通过测试的分支才能进入 main",
+   "cls": "pptx"
+  },
+  "8d89530314": {
+   "en": "Spec",
+   "zh": "规格说明",
+   "cls": "pptx"
+  },
+  "0becc159a3": {
+   "en": "the goal",
+   "zh": "目标",
+   "cls": "pptx"
+  },
+  "4337ef337e": {
+   "en": "Skeleton",
+   "zh": "骨架",
+   "cls": "pptx"
+  },
+  "0f5f3fe71d": {
+   "en": "shared names and",
+   "zh": "共享的名称和",
+   "cls": "pptx"
+  },
+  "c3e8fc4387": {
+   "en": "the main path",
+   "zh": "主路径",
+   "cls": "pptx"
+  },
+  "072bc8229b": {
+   "en": "Slice A",
+   "zh": "切片 A",
+   "cls": "pptx"
+  },
+  "e7b1fff700": {
+   "en": "types",
+   "zh": "类型",
+   "cls": "pptx"
+  },
+  "301508b646": {
+   "en": "Slice B",
+   "zh": "切片 B",
+   "cls": "pptx"
+  },
+  "95324de690": {
+   "en": "parser",
+   "zh": "解析器",
+   "cls": "pptx"
+  },
+  "ee728aa8df": {
+   "en": "Slice C",
+   "zh": "切片 C",
+   "cls": "pptx"
+  },
+  "37929e0a3b": {
+   "en": "commands",
+   "zh": "命令",
+   "cls": "pptx"
+  },
+  "c93bc9f4fe": {
+   "en": "Slice D",
+   "zh": "切片 D",
+   "cls": "pptx"
+  },
+  "4b72315606": {
+   "en": "help text",
+   "zh": "帮助文本",
+   "cls": "pptx"
+  },
+  "0195bd705b": {
+   "en": "Slice E",
+   "zh": "切片 E",
+   "cls": "pptx"
+  },
+  "dfba7aade0": {
+   "en": "config",
+   "zh": "配置",
+   "cls": "pptx"
+  },
+  "5b9a072bce": {
+   "en": "C waits for B",
+   "zh": "C 等待 B",
+   "cls": "pptx"
+  },
+  "62bce9422f": {
+   "en": "Main",
+   "zh": "main",
+   "cls": "pptx"
+  },
+  "aa8df3aece": {
+   "en": "merged and",
+   "zh": "已合并并",
+   "cls": "pptx"
+  },
+  "880949479a": {
+   "en": "tested",
+   "zh": "通过测试",
+   "cls": "pptx"
+  },
+  "4950a612f4": {
+   "en": "Split along dependencies, not by file or by line count. A bad split costs more than it saves.",
+   "zh": "沿依赖关系拆分，而不是按文件或行数。糟糕的拆分得不偿失。",
+   "cls": "pptx"
+  },
+  "cc7d1df10b": {
+   "en": "Session 1",
+   "zh": "会话 1",
+   "cls": "pptx"
+  },
+  "7e8235638e": {
+   "en": "context window fills up",
+   "zh": "上下文窗口被填满",
+   "cls": "pptx"
+  },
+  "1938c26ac6": {
+   "en": "Architecture understood",
+   "zh": "已理解架构",
+   "cls": "pptx"
+  },
+  "1defb29828": {
+   "en": "Bug root cause found",
+   "zh": "已找到缺陷根因",
+   "cls": "pptx"
+  },
+  "fdf16f4059": {
+   "en": "Code patterns learned",
+   "zh": "已学到代码模式",
+   "cls": "pptx"
+  },
+  "b1ea335250": {
+   "en": "Design decision made",
+   "zh": "已做出设计决策",
+   "cls": "pptx"
+  },
+  "ba7dc09575": {
+   "en": "session ends",
+   "zh": "会话结束",
+   "cls": "pptx"
+  },
+  "a7da4f3636": {
+   "en": "context cleared",
+   "zh": "上下文被清空",
+   "cls": "pptx"
+  },
+  "b1dbb12cdc": {
+   "en": "Session 2 without memory",
+   "zh": "无记忆的会话 2",
+   "cls": "pptx"
+  },
+  "d11ebec4f2": {
+   "en": "starts almost empty",
+   "zh": "几乎从空白开始",
+   "cls": "pptx"
+  },
+  "80a50e58e7": {
+   "en": "Re-read the repository",
+   "zh": "重新读取代码仓库",
+   "cls": "pptx"
+  },
+  "8931dac2a7": {
+   "en": "Repeat the exploration",
+   "zh": "重复探索",
+   "cls": "pptx"
+  },
+  "8d3b2eed42": {
+   "en": "Past fixes: lost",
+   "zh": "以往的修复：丢失",
+   "cls": "pptx"
+  },
+  "2010b3aa6e": {
+   "en": "outside the context window",
+   "zh": "在上下文窗口之外",
+   "cls": "pptx"
+  },
+  "4237e84f59": {
+   "en": "Conventions and constraints",
+   "zh": "约定与约束",
+   "cls": "pptx"
+  },
+  "b9782acbf7": {
+   "en": "Past failures and fixes",
+   "zh": "以往的失败与修复",
+   "cls": "pptx"
+  },
+  "2cdbaaa568": {
+   "en": "write: lessons, decisions, facts",
+   "zh": "写入：经验教训、决策、事实",
+   "cls": "pptx"
+  },
+  "9eb4624a0f": {
+   "en": "retrieve only what is needed",
+   "zh": "只检索所需内容",
+   "cls": "pptx"
+  },
+  "2c8004c9ed": {
+   "en": "Session 2 with memory",
+   "zh": "有记忆的会话 2",
+   "cls": "pptx"
+  },
+  "f8dc398ead": {
+   "en": "starts with the right knowledge, in a small amount; experience accumulates",
+   "zh": "以少量的正确知识开始；经验不断积累",
+   "cls": "pptx"
+  },
+  "64fbd995d3": {
+   "en": "Change",
+   "zh": "变更",
+   "cls": "pptx"
+  },
+  "918d10301e": {
+   "en": "coherent evolution",
+   "zh": "连贯演进",
+   "cls": "pptx"
+  },
+  "1ccf5d25df": {
+   "en": "Specification",
+   "zh": "规格说明",
+   "cls": "pptx"
+  },
+  "0b5d62d386": {
+   "en": "expected behavior",
+   "zh": "预期行为",
+   "cls": "pptx"
+  },
+  "033e6576ff": {
+   "en": "solution rationale",
+   "zh": "方案依据",
+   "cls": "pptx"
+  },
+  "e9c366b4f3": {
+   "en": "Requirement",
+   "zh": "需求",
+   "cls": "pptx"
+  },
+  "309edaf0bc": {
+   "en": "outcome + constraint",
+   "zh": "结果 + 约束",
+   "cls": "pptx"
+  },
+  "569aae5b47": {
+   "en": "Scenario",
+   "zh": "场景",
+   "cls": "pptx"
+  },
+  "220926c8a3": {
+   "en": "observable evidence",
+   "zh": "可观察的证据",
+   "cls": "pptx"
+  },
+  "7f59a1f1d5": {
+   "en": "Decision",
+   "zh": "决策",
+   "cls": "pptx"
+  },
+  "677397d87b": {
+   "en": "why this choice",
+   "zh": "为何这样选择",
+   "cls": "pptx"
+  },
+  "5a8f23f567": {
+   "en": "Risk",
+   "zh": "风险",
+   "cls": "pptx"
+  },
+  "b3f21d144d": {
+   "en": "what could go wrong",
+   "zh": "可能出什么问题",
+   "cls": "pptx"
+  },
+  "2675b49b7a": {
+   "en": "ordered work",
+   "zh": "有序的工作",
+   "cls": "pptx"
+  },
+  "4f90fd7780": {
+   "en": "CONTAINS",
+   "zh": "包含",
+   "cls": "pptx"
+  },
+  "40842fe5d4": {
+   "en": "DEFINES",
+   "zh": "定义",
+   "cls": "pptx"
+  },
+  "7e3a272783": {
+   "en": "EVIDENCED BY",
+   "zh": "证据来自",
+   "cls": "pptx"
+  },
+  "620218ee3e": {
+   "en": "RECORDS",
+   "zh": "记录",
+   "cls": "pptx"
+  },
+  "7aa16bc493": {
+   "en": "DETAILS · .87",
+   "zh": "详述 · .87",
+   "cls": "pptx"
+  },
+  "0fcffa3100": {
+   "en": "REQUIRES · .91",
+   "zh": "依赖 · .91",
+   "cls": "pptx"
+  },
+  "28781a82cb": {
+   "en": "CONFLICTS_WITH · .72",
+   "zh": "冲突 · .72",
+   "cls": "pptx"
+  },
+  "a15d56a6a8": {
+   "en": "extracted from the documents, with provenance",
+   "zh": "从文档中提取，附带来源",
+   "cls": "pptx"
+  },
+  "2c181c51a5": {
+   "en": "inferred: a confidence and a rationale, not a proof",
+   "zh": "推断得出：附带置信度和理由，而非证明",
+   "cls": "pptx"
+  },
+  "b37868844c": {
+   "en": "Locate by meaning",
+   "zh": "按语义定位",
+   "cls": "pptx"
+  },
+  "6663f2e0ea": {
+   "en": "semantic search picks the",
+   "zh": "语义搜索选出",
+   "cls": "pptx"
+  },
+  "746b7369d6": {
+   "en": "entry nodes",
+   "zh": "入口节点",
+   "cls": "pptx"
+  },
+  "5f7c6932ab": {
+   "en": "Expand by structure",
+   "zh": "按结构扩展",
+   "cls": "pptx"
+  },
+  "6a37caef34": {
+   "en": "edges bring in dependencies,",
+   "zh": "边引入依赖、",
+   "cls": "pptx"
+  },
+  "e98927dedc": {
+   "en": "constraints, decisions",
+   "zh": "约束、决策",
+   "cls": "pptx"
+  },
+  "45a61652e7": {
+   "en": "Reveal on a gap",
+   "zh": "有缺口时再展开",
+   "cls": "pptx"
+  },
+  "d2fd3452e5": {
+   "en": "evidence is added only where",
+   "zh": "只在推理需要的地方",
+   "cls": "pptx"
+  },
+  "1690eea66f": {
+   "en": "reasoning needs it",
+   "zh": "才补充证据",
+   "cls": "pptx"
+  },
+  "723d3d3de1": {
+   "en": "The smallest sufficient,",
+   "zh": "最小而足够、",
+   "cls": "pptx"
+  },
+  "2f4ef20c44": {
+   "en": "high-signal context",
+   "zh": "信号密度高的上下文",
+   "cls": "pptx"
+  },
+  "38499152c5": {
+   "en": "Example from the briefing: 247 candidate artifacts, of which only a small, traceable subgraph is loaded.",
+   "zh": "简报中的示例：247 个候选工件，只加载其中一个小而可追溯的子图。",
+   "cls": "pptx"
+  },
+  "ccc8883e29": {
+   "en": "edits a requirement",
+   "zh": "编辑一条需求",
+   "cls": "pptx"
+  },
+  "fad7f2d966": {
+   "en": "edits a design",
+   "zh": "编辑一份设计",
+   "cls": "pptx"
+  },
+  "4d8c097b98": {
+   "en": "Agent C",
+   "zh": "智能体 C",
+   "cls": "pptx"
+  },
+  "30317e1b38": {
+   "en": "adds a task",
+   "zh": "添加一项任务",
+   "cls": "pptx"
+  },
+  "1a3ce7d0d5": {
+   "en": "Staging area",
+   "zh": "暂存区",
+   "cls": "pptx"
+  },
+  "59285f3cee": {
+   "en": "isolated from shared retrieval",
+   "zh": "与共享检索隔离",
+   "cls": "pptx"
+  },
+  "1cce7f4b96": {
+   "en": "Inspect and",
+   "zh": "检查并",
+   "cls": "pptx"
+  },
+  "e204d28a28": {
+   "en": "validate",
+   "zh": "确认",
+   "cls": "pptx"
+  },
+  "2d309ce90c": {
+   "en": "structure",
+   "zh": "结构",
+   "cls": "pptx"
+  },
+  "028944e409": {
+   "en": "consistency",
+   "zh": "一致性",
+   "cls": "pptx"
+  },
+  "9ee22edb45": {
+   "en": "conflicts",
+   "zh": "冲突",
+   "cls": "pptx"
+  },
+  "928c6786e6": {
+   "en": "traceability",
+   "zh": "可追溯性",
+   "cls": "pptx"
+  },
+  "5a4cce4d7f": {
+   "en": "Project knowledge",
+   "zh": "项目知识",
+   "cls": "pptx"
+  },
+  "63a1fc224e": {
+   "en": "shared by every agent",
+   "zh": "由所有智能体共享",
+   "cls": "pptx"
+  },
+  "a39eb38fd2": {
+   "en": "new version, history kept",
+   "zh": "新版本，保留历史",
+   "cls": "pptx"
+  },
+  "93cba9c292": {
+   "en": "+ node, + edge",
+   "zh": "+ 节点，+ 边",
+   "cls": "pptx"
+  },
+  "f7ab800bcb": {
+   "en": "conflict: held for review",
+   "zh": "冲突：暂留待审",
+   "cls": "pptx"
+  },
+  "41a40c0a52": {
+   "en": "revises, then proposes again",
+   "zh": "修订后再次提交",
+   "cls": "pptx"
+  },
+  "30bb3b302c": {
+   "en": "Isolate, inspect, validate, publish: half-finished edits never reach shared context.",
+   "zh": "隔离、检查、确认、发布：未完成的编辑绝不会进入共享上下文。",
+   "cls": "pptx"
+  },
+  "138a104b73": {
+   "en": "Act",
+   "zh": "行动",
+   "cls": "pptx"
+  },
+  "3898a08d2b": {
+   "en": "do the task",
+   "zh": "执行任务",
+   "cls": "pptx"
+  },
+  "d7132581b3": {
+   "en": "Evaluate",
+   "zh": "评估",
+   "cls": "pptx"
+  },
+  "a058fbbaaf": {
+   "en": "tests and review",
+   "zh": "测试与评审",
+   "cls": "pptx"
+  },
+  "11a5b905dd": {
+   "en": "Reflect",
+   "zh": "反思",
+   "cls": "pptx"
+  },
+  "f535b6c7bd": {
+   "en": "why did it fail?",
+   "zh": "为什么失败？",
+   "cls": "pptx"
+  },
+  "48095b50ee": {
+   "en": "Write lesson",
+   "zh": "写下经验",
+   "cls": "pptx"
+  },
+  "baea7c42a3": {
+   "en": "rule or skill",
+   "zh": "规则或技能",
+   "cls": "pptx"
+  },
+  "cfa5cef7d6": {
+   "en": "Update memory",
+   "zh": "更新记忆",
+   "cls": "pptx"
+  },
+  "7edd9bba6e": {
+   "en": "store it",
+   "zh": "存储起来",
+   "cls": "pptx"
+  },
+  "0dfd4db698": {
+   "en": "Inner loop",
+   "zh": "内循环",
+   "cls": "pptx"
+  },
+  "2f5e7d8568": {
+   "en": "learn from mistakes",
+   "zh": "从错误中学习",
+   "cls": "pptx"
+  },
+  "a60792e996": {
+   "en": "Outer loop",
+   "zh": "外循环",
+   "cls": "pptx"
+  },
+  "c0a109a754": {
+   "en": "improve its own tools,",
+   "zh": "改进自己的工具、",
+   "cls": "pptx"
+  },
+  "2b56f7b557": {
+   "en": "prompts and code",
+   "zh": "提示词和代码",
+   "cls": "pptx"
+  },
+  "b149cd571d": {
+   "en": "strongest form",
+   "zh": "最强形式",
+   "cls": "pptx"
+  },
+  "c933b6309b": {
+   "en": "Test gate",
+   "zh": "测试关卡",
+   "cls": "pptx"
+  },
+  "bcc7b9239f": {
+   "en": "keep a change only if the",
+   "zh": "仅当基准测试分数",
+   "cls": "pptx"
+  },
+  "e320306db1": {
+   "en": "benchmark score does not drop",
+   "zh": "没有下降时才保留改动",
+   "cls": "pptx"
+  },
+  "9b58398281": {
+   "en": "gaming the test, drift,",
+   "zh": "钻测试空子、漂移、",
+   "cls": "pptx"
+  },
+  "81ba203550": {
+   "en": "forgetting earlier skills",
+   "zh": "遗忘早先的技能",
+   "cls": "pptx"
+  },
+  "31da7dacba": {
+   "en": "Research areas and projects · November 2026",
+   "zh": "研究方向与项目 · 2026 年 11 月",
+   "cls": "div.kicker"
+  },
+  "1d66b81efa": {
+   "en": "Agentic software engineering and its challenges: how agents work, how many agents build one project together, how they keep a mental model of the software, how that knowledge is stored as a graph, and how they learn from their own mistakes.",
+   "zh": "智能体软件工程及其挑战：智能体如何工作、多个智能体如何共同构建一个项目、它们如何保持对软件的心智模型、这些知识如何以图的形式存储，以及它们如何从自己的错误中学习。",
+   "cls": "p.topic"
+  },
+  "52e2071bc5": {
+   "en": "{1}01{/1}Agents{2}a model in a loop{/2}",
+   "zh": "{1}01{/1}智能体{2}循环中的模型{/2}",
+   "cls": "div.area"
+  },
+  "be35725eb0": {
+   "en": "{1}02{/1}Software Factory{2}from engineer to agent team{/2}",
+   "zh": "{1}02{/1}软件工厂{2}从工程师到智能体团队{/2}",
+   "cls": "div.area"
+  },
+  "9cfb60b651": {
+   "en": "{1}03{/1}Orchestration{2}many agents, one project{/2}",
+   "zh": "{1}03{/1}编排{2}多个智能体，一个项目{/2}",
+   "cls": "div.area"
+  },
+  "ed146df591": {
+   "en": "{1}04{/1}Mental model{2}memory that persists{/2}",
+   "zh": "{1}04{/1}心智模型{2}持久的记忆{/2}",
+   "cls": "div.area"
+  },
+  "daebc71116": {
+   "en": "{1}05{/1}Artifact Graph{2}knowledge as a graph{/2}",
+   "zh": "{1}05{/1}Artifact Graph{2}以图表示的知识{/2}",
+   "cls": "div.area"
+  },
+  "ef4d101a13": {
+   "en": "{1}06{/1}Self-evolution{2}learning from mistakes{/2}",
+   "zh": "{1}06{/1}自我进化{2}从错误中学习{/2}",
+   "cls": "div.area"
+  },
+  "768e0c1c69": {
+   "en": "Title",
+   "zh": "标题",
+   "cls": "attr:data-toc"
+  },
+  "a695ab22d7": {
+   "en": "Open Day",
+   "zh": "开放日",
+   "cls": "attr:data-group"
+  },
+  "102af68e27": {
+   "en": "From a single agent to a team that remembers and improves.",
+   "zh": "从单个智能体到会记忆、会改进的团队。",
+   "cls": "p.lede"
+  },
+  "c81ff7a675": {
+   "en": "{1}Agents{/1}{2}The language model underneath, and what an agent is{/2}{3}2 slides{/3}",
+   "zh": "{1}智能体{/1}{2}底层的语言模型，以及什么是智能体{/2}{3}2 张幻灯片{/3}",
+   "cls": "div.row"
+  },
+  "b83c3bfa7c": {
+   "en": "{1}Software Factory{/1}{2}The Vee model and where agents stand today{/2}{3}2 slides{/3}",
+   "zh": "{1}软件工厂{/1}{2}V 模型与智能体的现状{/2}{3}2 张幻灯片{/3}",
+   "cls": "div.row"
+  },
+  "76bc141f4d": {
+   "en": "{1}Orchestration{/1}{2}Team, task graph, a real run, when more agents hurt{/2}{3}4 slides{/3}",
+   "zh": "{1}编排{/1}{2}团队、任务图、一次真实运行、何时更多智能体反而有害{/2}{3}4 张幻灯片{/3}",
+   "cls": "div.row"
+  },
+  "3e540a9d36": {
+   "en": "{1}Mental model{/1}{2}What engineers remember and agents forget{/2}{3}4 slides{/3}",
+   "zh": "{1}心智模型{/1}{2}工程师记得什么，智能体忘记什么{/2}{3}4 张幻灯片{/3}",
+   "cls": "div.row"
+  },
+  "bbdd214fd9": {
+   "en": "{1}Artifact Graph{/1}{2}A graph store of project knowledge, shared by many agents{/2}{3}3 slides{/3}",
+   "zh": "{1}Artifact Graph{/1}{2}项目知识的图存储，由多个智能体共享{/2}{3}3 张幻灯片{/3}",
+   "cls": "div.row"
+  },
+  "170960f6a1": {
+   "en": "{1}Self-evolution{/1}{2}Learning from mistakes, evidence and risks{/2}{3}2 slides{/3}",
+   "zh": "{1}自我进化{/1}{2}从错误、证据和风险中学习{/2}{3}2 张幻灯片{/3}",
+   "cls": "div.row"
+  },
+  "9b6d80a31a": {
+   "en": "What is a large language model?",
+   "zh": "什么是大语言模型？",
+   "cls": "attr:data-toc"
+  },
+  "6f8cc357fd": {
+   "en": "It reads text, turns it into numbers, and predicts the next token, over and over.",
+   "zh": "它读取文本，把文本转成数字，并一次又一次地预测下一个 token。",
+   "cls": "p.lede"
+  },
+  "b568d47f2e": {
+   "en": "Input",
+   "zh": "输入",
+   "cls": "span.lbl"
+  },
+  "197b9239be": {
+   "en": "The prompt is split into tokens, and each token becomes a vector of numbers.",
+   "zh": "提示词被切分为 token，每个 token 变成一个数字向量。",
+   "cls": "p"
+  },
+  "68c170c001": {
+   "en": "Transformer",
+   "zh": "Transformer",
+   "cls": "span.lbl"
+  },
+  "6b5fe5b9fc": {
+   "en": "Blocks of attention and feed-forward layers, repeated many times, relate the tokens to each other.",
+   "zh": "由注意力层和前馈层组成的模块反复堆叠多次，使 token 彼此关联。",
+   "cls": "p"
+  },
+  "4bed336194": {
+   "en": "Output",
+   "zh": "输出",
+   "cls": "span.lbl"
+  },
+  "2e02f97bc4": {
+   "en": "The model picks the next token, appends it, and repeats until the answer is complete.",
+   "zh": "模型选出下一个 token，将其追加到文本中，并不断重复，直到回答完整。",
+   "cls": "p"
+  },
+  "64acf7e2a7": {
+   "en": "Agents",
+   "zh": "智能体",
+   "cls": "attr:data-group"
+  },
+  "6eeb600e07": {
+   "en": "What is an agent?",
+   "zh": "什么是智能体？",
+   "cls": "attr:data-toc"
+  },
+  "dc7f77b4cc": {
+   "en": "Loop",
+   "zh": "循环",
+   "cls": "span.lbl"
+  },
+  "1bf0f7e810": {
+   "en": "Reason, act, observe, and repeat until the task is done or a limit is reached.",
+   "zh": "推理、行动、观察，并不断重复，直到任务完成或达到限制。",
+   "cls": "p"
+  },
+  "e374280917": {
+   "en": "Parts",
+   "zh": "组成",
+   "cls": "span.lbl"
+  },
+  "08d4001c1f": {
+   "en": "Instructions, tools, memory, an environment and a stop rule surround the model.",
+   "zh": "指令、工具、记忆、环境和停止规则围绕着模型。",
+   "cls": "p"
+  },
+  "3d8607722a": {
+   "en": "Tools built for the agent, not for a human, change the result.",
+   "zh": "为智能体而不是为人类设计的工具，会改变结果。",
+   "cls": "p"
+  },
+  "1fc8aac40a": {
+   "en": "The same lifecycle: humans do every stage today, and a team of agents can do them tomorrow.",
+   "zh": "同一个生命周期：如今每个阶段都由人完成，未来可以由智能体团队完成。",
+   "cls": "p.lede"
+  },
+  "033df3d297": {
+   "en": "Lifecycle",
+   "zh": "生命周期",
+   "cls": "span.lbl"
+  },
+  "a5cbf886c9": {
+   "en": "Needs, design, code, test, verify, deploy.",
+   "zh": "需求、设计、编码、测试、验证、部署。",
+   "cls": "p"
+  },
+  "5cca28b75f": {
+   "en": "Pairing",
+   "zh": "配对",
+   "cls": "span.lbl"
+  },
+  "d7629ccfff": {
+   "en": "Each design level has a matching test level on the way up.",
+   "zh": "每个设计层级在向上的路径上都有对应的测试层级。",
+   "cls": "p"
+  },
+  "40b0906c4f": {
+   "en": "Vision",
+   "zh": "愿景",
+   "cls": "span.lbl"
+  },
+  "9ecd288b52": {
+   "en": "One agent per stage, each checking the work of the others.",
+   "zh": "每个阶段一个智能体，彼此检查对方的工作。",
+   "cls": "p"
+  },
+  "46f68c63e4": {
+   "en": "Software Factory",
+   "zh": "软件工厂",
+   "cls": "attr:data-group"
+  },
+  "2d653e1a9f": {
+   "en": "Where coding agents are today",
+   "zh": "编码智能体的现状",
+   "cls": "attr:data-toc"
+  },
+  "550ff774ee": {
+   "en": "Coding is the most measured stage; the rest of the lifecycle is earlier or harder.",
+   "zh": "编码是评测最多的阶段；生命周期的其余部分起步更晚或更难。",
+   "cls": "p.lede"
+  },
+  "519892f559": {
+   "en": "The most measured stage, and most real freelance tasks are still unsolved.",
+   "zh": "评测最多的阶段，而大多数真实的自由职业任务仍未解决。",
+   "cls": "p"
+  },
+  "4e0e25981f": {
+   "en": "Beyond code",
+   "zh": "代码之外",
+   "cls": "span.lbl"
+  },
+  "3d40031612": {
+   "en": "Design, verification and operations remain hard for current models.",
+   "zh": "设计、验证和运维对当前模型仍然很难。",
+   "cls": "p"
+  },
+  "26c0ca793e": {
+   "en": "So",
+   "zh": "因此",
+   "cls": "span.lbl"
+  },
+  "1bc8454e32": {
+   "en": "One super-agent is not enough. We need teams.",
+   "zh": "一个超级智能体不够，我们需要团队。",
+   "cls": "p"
+  },
+  "43133b6f0f": {
+   "en": "How the team works",
+   "zh": "团队如何运作",
+   "cls": "attr:data-toc"
+  },
+  "9124cf159e": {
+   "en": "An orchestrator splits the goal, workers build in parallel, and nothing reaches main untested.",
+   "zh": "编排器拆分目标，执行智能体并行构建，未经测试的内容不会进入 main。",
+   "cls": "p.lede"
+  },
+  "fc8230b411": {
+   "en": "Split",
+   "zh": "拆分",
+   "cls": "span.lbl"
+  },
+  "b7dd8b2477": {
+   "en": "An orchestrator turns the goal into tasks; a planner sizes the work.",
+   "zh": "编排器把目标拆成任务；规划器划定工作的规模。",
+   "cls": "p"
+  },
+  "afc129571b": {
+   "en": "Parallel",
+   "zh": "并行",
+   "cls": "span.lbl"
+  },
+  "83336150bb": {
+   "en": "Workers run at the same time, each on its own branch.",
+   "zh": "执行智能体同时运行，各自在自己的分支上。",
+   "cls": "p"
+  },
+  "4b5e84be0e": {
+   "en": "Check",
+   "zh": "检查",
+   "cls": "span.lbl"
+  },
+  "8302e30d65": {
+   "en": "A tester checks every branch before the integrator merges it into main.",
+   "zh": "测试智能体检查每个分支，集成智能体再把它合并进 main。",
+   "cls": "p"
+  },
+  "21c2e104ce": {
+   "en": "The task graph: wide and shallow",
+   "zh": "任务图：宽而浅",
+   "cls": "attr:data-toc"
+  },
+  "53d6b3c395": {
+   "en": "Independent tasks run side by side. A task waits only for what it truly needs.",
+   "zh": "相互独立的任务并排运行。任务只等待它真正需要的内容。",
+   "cls": "p.lede"
+  },
+  "0042909889": {
+   "en": "The shared names and the main path come first.",
+   "zh": "共享的名称和主路径最先完成。",
+   "cls": "p"
+  },
+  "a455933ba1": {
+   "en": "Slices",
+   "zh": "切片",
+   "cls": "span.lbl"
+  },
+  "fac515c705": {
+   "en": "Independent slices run in parallel; a slice waits only when it must.",
+   "zh": "相互独立的切片并行运行；切片只在必须时才等待。",
+   "cls": "p"
+  },
+  "78e1790e29": {
+   "en": "Rule",
+   "zh": "规则",
+   "cls": "span.lbl"
+  },
+  "548d8612b2": {
+   "en": "Split along dependencies, not by file or by line count.",
+   "zh": "沿依赖关系拆分，而不是按文件或行数。",
+   "cls": "p"
+  },
+  "fb412d0714": {
+   "en": "Our system builds a Python command-line library from a specification of about 2,000 lines. Press the replay buttons to explore.",
+   "zh": "我们的系统根据约 2,000 行的规格说明构建一个 Python 命令行库。点击重放按钮即可探索。",
+   "cls": "p.lede"
+  },
+  "a29f025627": {
+   "en": "Scale",
+   "zh": "规模",
+   "cls": "span.lbl"
+  },
+  "36705e573a": {
+   "en": "150 agents, 2 h 46 min and $7.79 in total.",
+   "zh": "共 150 个智能体，2 小时 46 分钟，花费 $7.79。",
+   "cls": "p"
+  },
+  "ea1d3df298": {
+   "en": "Control",
+   "zh": "控制",
+   "cls": "span.lbl"
+  },
+  "e3e5f567a7": {
+   "en": "44 merges; 17 of 17 defects found by testers were fixed.",
+   "zh": "44 次合并；测试智能体发现的 17 个缺陷全部修复（17/17）。",
+   "cls": "p"
+  },
+  "558c79ddd6": {
+   "en": "Honest score",
+   "zh": "真实得分",
+   "cls": "span.lbl"
+  },
+  "93c799c85b": {
+   "en": "30 of 70 hidden tests passed on this run.",
+   "zh": "本次运行通过了 70 项隐藏测试中的 30 项。",
+   "cls": "p"
+  },
+  "fc65702c9d": {
+   "en": "More agents: when it helps, when it hurts",
+   "zh": "更多智能体：何时有帮助，何时有害",
+   "cls": "attr:data-toc"
+  },
+  "8afb9e7c41": {
+   "en": "The split and the checks matter more than the number of agents.",
+   "zh": "拆分方式和检查，比智能体的数量更重要。",
+   "cls": "p.lede"
+  },
+  "3d6a9fb87d": {
+   "en": "The task decides",
+   "zh": "任务决定结果",
+   "cls": "span.lbl"
+  },
+  "72c9eba427": {
+   "en": "Against one agent, results range from +80.8% to -70.0%.",
+   "zh": "与单个智能体相比，结果从 +80.8% 到 -70.0% 不等。",
+   "cls": "p"
+  },
+  "64ae43e8fe": {
+   "en": "Cost",
+   "zh": "成本",
+   "cls": "span.lbl"
+  },
+  "7caadd6d1d": {
+   "en": "A multi-agent system uses about 15 times the tokens of a chat.",
+   "zh": "多智能体系统消耗的 token 约为聊天的 15 倍。",
+   "cls": "p"
+  },
+  "343cf39ac5": {
+   "en": "The split",
+   "zh": "拆分方式",
+   "cls": "span.lbl"
+  },
+  "c5ea4591d3": {
+   "en": "Splitting along the dependency graph beats one agent per file.",
+   "zh": "沿依赖图拆分，优于每个文件一个智能体。",
+   "cls": "p"
+  },
+  "e9a26c7545": {
+   "en": "From human mental models to software knowledge",
+   "zh": "从人的心智模型到软件知识",
+   "cls": "attr:data-toc"
+  },
+  "ed5dc9596c": {
+   "en": "People reason with models of the world. Expert engineers do the same with software.",
+   "zh": "人用对世界的模型来推理。资深工程师对软件也是如此。",
+   "cls": "p.lede"
+  },
+  "168663d95f": {
+   "en": "Software engineering beyond source code",
+   "zh": "超越源代码的软件工程",
+   "cls": "attr:data-toc"
+  },
+  "7c633bc433": {
+   "en": "The code says what the system does. It rarely says why.",
+   "zh": "代码说明系统做什么，却很少说明为什么这样做。",
+   "cls": "p.lede"
+  },
+  "ab54b78557": {
+   "en": "Agents forget",
+   "zh": "智能体会遗忘",
+   "cls": "attr:data-toc"
+  },
+  "c34a1c2ed2": {
+   "en": "An agent is stateless: when a session ends, everything it learned is gone.",
+   "zh": "智能体是无状态的：会话一结束，它学到的一切都会消失。",
+   "cls": "p.lede"
+  },
+  "cc782a4dc8": {
+   "en": "Stateless",
+   "zh": "无状态",
+   "cls": "span.lbl"
+  },
+  "dfdfa34acd": {
+   "en": "The context window is cleared when a session ends.",
+   "zh": "会话结束时，上下文窗口被清空。",
+   "cls": "p"
+  },
+  "14b077cf0e": {
+   "en": "Repeated work",
+   "zh": "重复劳动",
+   "cls": "span.lbl"
+  },
+  "22f5196c52": {
+   "en": "The next session re-reads the repository and repeats the exploration.",
+   "zh": "下一次会话重新阅读代码仓库，重复同样的探索。",
+   "cls": "p"
+  },
+  "ea16d27a4b": {
+   "en": "A persistent store outside the context window keeps what matters.",
+   "zh": "在上下文窗口之外设置持久存储，保留重要的内容。",
+   "cls": "p"
+  },
+  "a32a48fe94": {
+   "en": "The Mental Model",
+   "zh": "心智模型",
+   "cls": "attr:data-toc"
+  },
+  "80613dc11d": {
+   "en": "A persistent, cross-session knowledge store for coding agents.",
+   "zh": "为编码智能体提供的持久、跨会话的知识存储。",
+   "cls": "p.lede"
+  },
+  "cb868ab882": {
+   "en": "Project knowledge as a graph",
+   "zh": "把项目知识做成图",
+   "cls": "attr:data-toc"
+  },
+  "40a77ebc1b": {
+   "en": "A database-like layer that turns specifications, designs, decisions, tasks and scenarios into typed, traceable nodes and edges.",
+   "zh": "一个类似数据库的层，把规格说明、设计、决策、任务和场景转成有类型、可追溯的节点和边。",
+   "cls": "p.lede"
+  },
+  "3cec1b1957": {
+   "en": "Typed nodes",
+   "zh": "有类型的节点",
+   "cls": "span.lbl"
+  },
+  "6a30f0431f": {
+   "en": "Requirements, designs, decisions, tasks and scenarios, each linked to its source document.",
+   "zh": "需求、设计、决策、任务和场景，每一项都链接到它的源文档。",
+   "cls": "p"
+  },
+  "0a9c17eb0f": {
+   "en": "Typed edges",
+   "zh": "有类型的边",
+   "cls": "span.lbl"
+  },
+  "360432642f": {
+   "en": "Contains, defines, evidenced by, records. Inferred edges carry a confidence and a rationale.",
+   "zh": "包含、定义、由……佐证、记录。推断出的边带有置信度和理由。",
+   "cls": "p"
+  },
+  "1ebb6298d2": {
+   "en": "Documents stay the source",
+   "zh": "文档仍是事实来源",
+   "cls": "span.lbl"
+  },
+  "48fa885da7": {
+   "en": "People keep writing documents; the graph makes their knowledge addressable.",
+   "zh": "人们继续撰写文档；图让文档中的知识可被寻址。",
+   "cls": "p"
+  },
+  "39d10cfcfe": {
+   "en": "Retrieval: the smallest sufficient subgraph",
+   "zh": "检索：最小而足够的子图",
+   "cls": "attr:data-toc"
+  },
+  "721b71c8a0": {
+   "en": "More project knowledge does not mean better context. Find entry points by meaning, expand along relationships, reveal more only on a gap.",
+   "zh": "项目知识越多，不等于上下文越好。按语义找到入口，沿关系扩展，只在出现缺口时再展示更多。",
+   "cls": "p.lede"
+  },
+  "55a6907830": {
+   "en": "Locate",
+   "zh": "定位",
+   "cls": "span.lbl"
+  },
+  "05399745b4": {
+   "en": "Semantic search finds the entry nodes, even when the wording differs.",
+   "zh": "语义搜索找到入口节点，即使措辞不同也能找到。",
+   "cls": "p"
+  },
+  "9869e506c3": {
+   "en": "Expand",
+   "zh": "扩展",
+   "cls": "span.lbl"
+  },
+  "04f18e5741": {
+   "en": "Edges bring in dependencies, constraints, decisions and history.",
+   "zh": "通过边引入依赖、约束、决策和历史。",
+   "cls": "p"
+  },
+  "90c0c2eb98": {
+   "en": "Reveal",
+   "zh": "展示",
+   "cls": "span.lbl"
+  },
+  "24fb5b22e3": {
+   "en": "Core first, then related, then evidence. Stop when the context is enough.",
+   "zh": "先核心，再相关内容，最后是证据。上下文够用时就停止。",
+   "cls": "p"
+  },
+  "d19e40093a": {
+   "en": "Many agents, one graph: staged updates",
+   "zh": "多个智能体，一张图：分阶段更新",
+   "cls": "attr:data-toc"
+  },
+  "b8835ff282": {
+   "en": "Each agent proposes a change; it is staged, checked and committed as one update. Measured on 16 coding problems.",
+   "zh": "每个智能体提出一项修改；修改先暂存、检查，再作为一次更新提交。在 16 个编码问题上进行了测量。",
+   "cls": "p.lede"
+  },
+  "cc11b3a28f": {
+   "en": "Context",
+   "zh": "上下文",
+   "cls": "span.lbl"
+  },
+  "06ddda707d": {
+   "en": "26.8% less per checkpoint, lower on 16 of 16 problems.",
+   "zh": "每个检查点减少 26.8%，在 16 个问题中全部更低。",
+   "cls": "p"
+  },
+  "28e1a3e6dc": {
+   "en": "14.2% less per checkpoint, lower on 16 of 16 problems.",
+   "zh": "每个检查点减少 14.2%，在 16 个问题中全部更低。",
+   "cls": "p"
+  },
+  "a60f2c7360": {
+   "en": "Quality",
+   "zh": "质量",
+   "cls": "span.lbl"
+  },
+  "95e5ecac83": {
+   "en": "No clear change: every interval crosses zero.",
+   "zh": "没有明显变化：每个区间都跨过零。",
+   "cls": "p"
+  },
+  "c2c7a54d7c": {
+   "en": "Review what went wrong, write the lesson down, use it next time, and test every change.",
+   "zh": "回顾哪里出了错，把教训写下来，下次使用，并测试每一处修改。",
+   "cls": "p.lede"
+  },
+  "abb111726d": {
+   "en": "Act, evaluate, reflect, write a lesson, update memory.",
+   "zh": "行动、评估、反思、写下教训、更新记忆。",
+   "cls": "p"
+  },
+  "69a759e604": {
+   "en": "The strongest form changes its own tools, prompts and code.",
+   "zh": "最强的形式会修改自己的工具、提示词和代码。",
+   "cls": "p"
+  },
+  "5701b5f6fe": {
+   "en": "Gate",
+   "zh": "关卡",
+   "cls": "span.lbl"
+  },
+  "21ed5caf5b": {
+   "en": "Keep a change only if the score does not drop.",
+   "zh": "只有分数没有下降，才保留修改。",
+   "cls": "p"
+  },
+  "8630f10300": {
+   "en": "The evidence, and the risks",
+   "zh": "证据与风险",
+   "cls": "attr:data-toc"
+  },
+  "8783863c7b": {
+   "en": "Each pair of bars is one paper, before and after. Compare within a row, not across.",
+   "zh": "每一对柱子是一篇论文的前后对比。请在同一行内比较，不要跨行比较。",
+   "cls": "p.lede"
+  },
+  "6a48335c21": {
+   "en": "Reflexion",
+   "zh": "Reflexion",
+   "cls": "pptx"
+  },
+  "a5773e303c": {
+   "en": "80% to 91% on HumanEval with written reflections.",
+   "zh": "在 HumanEval 上，借助写下的反思，从 80% 提高到 91%。",
+   "cls": "p"
+  },
+  "c230477058": {
+   "en": "Self-modifying agents",
+   "zh": "自我修改的智能体",
+   "cls": "span.lbl"
+  },
+  "f607739453": {
+   "en": "17% to 53% and 20% to 50% on SWE-bench variants.",
+   "zh": "在 SWE-bench 变体上，从 17% 提高到 53%，以及从 20% 提高到 50%。",
+   "cls": "p"
+  },
+  "89e2c01a0e": {
+   "en": "Optimizing only for a benchmark can introduce vulnerabilities.",
+   "zh": "只针对基准测试做优化，可能引入漏洞。",
+   "cls": "p"
+  },
+  "7e86eff3a1": {
+   "en": "What has to be true for agentic software engineering to work on real projects.",
+   "zh": "智能体化软件工程要在真实项目中奏效，需要满足哪些条件。",
+   "cls": "p.lede"
+  },
+  "6c2a3b7dc4": {
+   "en": "{1}Split along the dependency graph.{/1} A skeleton first, then slices that run side by side and wait only where a test needs another slice. Not by file, and not by line count. {2}[17]{/2}",
+   "zh": "{1}沿依赖图拆分。{/1}先搭骨架，再切成并行运行的切片，只在测试需要另一个切片时才等待。不按文件拆，也不按行数拆。{2}[17]{/2}",
+   "cls": "div.ch-item"
+  },
+  "cf8a6061f4": {
+   "en": "{1}Isolate and check every branch.{/1} A separate tester sits between each worker and main; merge only after it passes. {2}[14]{/2}",
+   "zh": "{1}隔离并检查每个分支。{/1}在每个执行智能体与主干之间设一个独立的测试智能体；通过后才合并。{2}[14]{/2}",
+   "cls": "div.ch-item"
+  },
+  "698aa24eb4": {
+   "en": "{1}Add agents only where the task splits cleanly.{/1} A multi-agent system can use about 15 times the tokens of a chat, and tasks that must be done in order can get much worse. {2}[13][18]{/2}",
+   "zh": "{1}只在任务能清晰拆分时才增加智能体。{/1}多智能体系统消耗的 token 可能约为聊天的 15 倍，而必须按顺序完成的任务可能会差得多。{2}[13][18]{/2}",
+   "cls": "div.ch-item"
+  },
+  "ab5cdbb59a": {
+   "en": "{1}Store what the code cannot say.{/1} Architecture, decisions and their reasons, constraints, pitfalls, patterns and history, typed and scoped, outside the context window. {2}{/2}",
+   "zh": "{1}存储代码说不出来的内容。{/1}架构、决策及其理由、约束、陷阱、模式和历史，有类型、有范围，存放在上下文窗口之外。{2}{/2}",
+   "cls": "div.ch-item"
+  },
+  "5552ff0b89": {
+   "en": "{1}Deliver the right knowledge at the right time.{/1} Decide when it is retrieved and how much, so the context stays small. {2}[23][26]{/2}",
+   "zh": "{1}在合适的时间提供合适的知识。{/1}决定何时检索、检索多少，使上下文保持精简。{2}[23][26]{/2}",
+   "cls": "div.ch-item"
+  },
+  "dffd31cca5": {
+   "en": "{1}Pass it on, and keep it correct.{/1} Share it between sessions and agents so nothing is rediscovered, and keep it right as the code changes. This last part is still an open problem. {2}[25][30]{/2}",
+   "zh": "{1}传承下去，并保持正确。{/1}在会话和智能体之间共享，避免重复发现，并在代码变化时保持其正确。最后这一点仍是未解决的问题。{2}[25][30]{/2}",
+   "cls": "div.ch-item"
+  },
+  "e87ac7c336": {
+   "en": "{1}Make the knowledge a graph of typed records.{/1} Requirements, designs, decisions, tasks and scenarios become typed nodes and edges, each traced to its source document. Inferred links carry a confidence and are not proof. {2}[26][27]{/2}",
+   "zh": "{1}把知识做成有类型记录的图。{/1}需求、设计、决策、任务和场景成为有类型的节点和边，每一项都可追溯到源文档。推断出的链接带有置信度，并不是证明。{2}[26][27]{/2}",
+   "cls": "div.ch-item"
+  },
+  "c6648aab65": {
+   "en": "{1}Retrieve the smallest sufficient context.{/1} Find entry points by meaning, follow edges to dependencies and constraints, and reveal more only where reasoning shows a gap. {2}[28][29]{/2}",
+   "zh": "{1}检索最小而足够的上下文。{/1}按语义找到入口，沿边找到依赖和约束，只在推理显示有缺口时才展示更多。{2}[28][29]{/2}",
+   "cls": "div.ch-item"
+  },
+  "0f8b52ae30": {
+   "en": "{1}Let many agents update it safely.{/1} Stage each change, inspect it for structure, conflicts and traceability, commit it as one update, and hold conflicting changes for review. {2}[30][31]{/2}",
+   "zh": "{1}让多个智能体安全地更新。{/1}暂存每项修改，检查其结构、冲突和可追溯性，作为一次更新提交，并把有冲突的修改留待审查。{2}[30][31]{/2}",
+   "cls": "div.ch-item"
+  },
+  "5de4b2a098": {
+   "en": "{1}Learn in an inner loop.{/1} Reflect on each failure, write the lesson down, store it, and reuse it. {2}[33][35]{/2}",
+   "zh": "{1}在内循环中学习。{/1}对每次失败进行反思，写下教训，存储并复用。{2}[33][35]{/2}",
+   "cls": "div.ch-item"
+  },
+  "3b714d4284": {
+   "en": "{1}Change itself only through a test gate.{/1} Keep a change only if the benchmark score does not drop. {2}[37][38]{/2}",
+   "zh": "{1}只通过测试关卡来改变自身。{/1}只有基准测试分数没有下降，才保留修改。{2}[37][38]{/2}",
+   "cls": "div.ch-item"
+  },
+  "5628648972": {
+   "en": "{1}Keep a sandbox and a human in the loop.{/1} Optimizing only for a benchmark can introduce vulnerabilities. {2}[38]{/2}",
+   "zh": "{1}保留沙箱和人工介入。{/1}只针对基准测试做优化，可能引入漏洞。{2}[38]{/2}",
+   "cls": "div.ch-item"
+  },
+  "ff38765fb1": {
+   "en": "Challenges",
+   "zh": "挑战",
+   "cls": "attr:data-group"
+  },
+  "41acbd6d24": {
+   "en": "<!-- /stage -->",
+   "zh": "<!-- /stage -->",
+   "cls": "body"
+  },
+  "b2ec1abf35": {
+   "en": "Contents (T)",
+   "zh": "目录 (T)",
+   "cls": "button.toc-btn"
+  },
+  "b824269652": {
+   "en": "Intelligent Agents for Software Engineering: Open Day, Waterloo",
+   "zh": "面向软件工程的智能体：开放日，滑铁卢",
+   "cls": "doctitle"
+  },
+  "a7ad3f7612": {
+   "en": "Compared with one agent (260 setups, 6 benchmarks)",
+   "zh": "与单个智能体相比（260 种配置，6 个基准测试）",
+   "cls": "pptx"
+  },
+  "e2f49ce13e": {
+   "en": "Decomposable financial reasoning",
+   "zh": "可分解的金融推理",
+   "cls": "pptx"
+  },
+  "17bb20d27d": {
+   "en": "Sequential planning",
+   "zh": "顺序规划",
+   "cls": "pptx"
+  },
+  "4a88812c8c": {
+   "en": "Tokens used, compared with a chat",
+   "zh": "使用的 token，与聊天相比",
+   "cls": "pptx"
+  },
+  "2ced57f125": {
+   "en": "Chat",
+   "zh": "聊天",
+   "cls": "pptx"
+  },
+  "0c5fadd69c": {
+   "en": "Single agent",
+   "zh": "单个智能体",
+   "cls": "pptx"
+  },
+  "cc83a81639": {
+   "en": "Multi-agent system",
+   "zh": "多智能体系统",
+   "cls": "pptx"
+  },
+  "e0499562da": {
+   "en": "How you split the code work (28 tasks, one model)",
+   "zh": "如何拆分代码工作（28 个任务，同一个模型）",
+   "cls": "pptx"
+  },
+  "f6689ad55f": {
+   "en": "One agent per file",
+   "zh": "每个文件一个智能体",
+   "cls": "pptx"
+  },
+  "5c81747ee4": {
+   "en": "cost +44% to +60%",
+   "zh": "成本 +44% 至 +60%",
+   "cls": "pptx"
+  },
+  "3e1053e460": {
+   "en": "pass rate up only 1 to 3 points",
+   "zh": "通过率仅提高 1 至 3 个百分点",
+   "cls": "pptx"
+  },
+  "c1063f5cec": {
+   "en": "Split along the dependency graph",
+   "zh": "沿依赖图拆分",
+   "cls": "pptx"
+  },
+  "e2769beaaa": {
+   "en": "cost down to 35% lower",
+   "zh": "成本最多降低 35%",
+   "cls": "pptx"
+  },
+  "f1bffd9b24": {
+   "en": "pass rate up to +14 points, up to 2.1x faster",
+   "zh": "通过率最多提高 14 个百分点，速度最多快 2.1 倍",
+   "cls": "pptx"
+  },
+  "11183ddf39": {
+   "en": "Sources: Kim et al. 2025; Anthropic 2025; Yang et al. 2026. Different studies, tasks and models: compare the pattern, not the numbers.",
+   "zh": "来源：Kim et al. 2025；Anthropic 2025；Yang et al. 2026。研究、任务和模型各不相同：请比较趋势，不要比较数值。",
+   "cls": "pptx"
+  },
+  "74bce0e944": {
+   "en": "Human cognition",
+   "zh": "人类认知",
+   "cls": "svg:slide5a-human-to-software"
+  },
+  "5589cf653a": {
+   "en": "Craik, 1943",
+   "zh": "Craik, 1943",
+   "cls": "svg:slide5a-human-to-software"
+  },
+  "00fb1b45d0": {
+   "en": "The mind carries a small-scale model of",
+   "zh": "心智带着一个小比例的现实模型，",
+   "cls": "svg:slide5a-human-to-software"
+  },
+  "2cce39ba16": {
+   "en": "reality and tries out options before acting.",
+   "zh": "并在行动前先尝试各种选项。",
+   "cls": "svg:slide5a-human-to-software"
+  },
+  "9bcd0e20cc": {
+   "en": "Cognitive map",
+   "zh": "认知地图",
+   "cls": "svg:slide5a-human-to-software"
+  },
+  "cdee1578bf": {
+   "en": "Tolman, 1948",
+   "zh": "Tolman, 1948",
+   "cls": "svg:slide5a-human-to-software"
+  },
+  "5cb3d101e1": {
+   "en": "Knowledge is organised as an internal map, so",
+   "zh": "知识被组织成一张内部地图，",
+   "cls": "svg:slide5a-human-to-software"
+  },
+  "aac694c6a5": {
+   "en": "we can find our way beyond what we see.",
+   "zh": "因此我们能在所见之外找到路。",
+   "cls": "svg:slide5a-human-to-software"
+  },
+  "7d69a84c0a": {
+   "en": "Working-memory model",
+   "zh": "工作记忆模型",
+   "cls": "svg:slide5a-human-to-software"
+  },
+  "27daf5b8df": {
+   "en": "Johnson-Laird, 1983",
+   "zh": "Johnson-Laird, 1983",
+   "cls": "svg:slide5a-human-to-software"
+  },
+  "14b4f68cf7": {
+   "en": "Models built from experience sit in working",
+   "zh": "由经验建立的模型存放在工作记忆中，",
+   "cls": "svg:slide5a-human-to-software"
+  },
+  "62d44628ff": {
+   "en": "memory and support reasoning.",
+   "zh": "并支持推理。",
+   "cls": "svg:slide5a-human-to-software"
+  },
+  "0bd44c67e0": {
+   "en": "The software parallel",
+   "zh": "软件中的对应",
+   "cls": "svg:slide5a-human-to-software"
+  },
+  "ca1df4e653": {
+   "en": "Experts keep architecture, how parts depend on each",
+   "zh": "专家在脑中记着架构、各部分如何相互依赖、",
+   "cls": "svg:slide5a-human-to-software"
+  },
+  "b01ab5cab3": {
+   "en": "other, why decisions were made, constraints and past",
+   "zh": "为什么做出这些决策、约束，以及",
+   "cls": "svg:slide5a-human-to-software"
+  },
+  "695067b8a6": {
+   "en": "choices in mind: a map far richer than the code.",
+   "zh": "过去的选择：一张远比代码丰富的地图。",
+   "cls": "svg:slide5a-human-to-software"
+  },
+  "adac69379a": {
+   "en": "Code",
+   "zh": "代码",
+   "cls": "svg:slide5a-human-to-software"
+  },
+  "b4ad0383fa": {
+   "en": "what is built",
+   "zh": "构建了什么",
+   "cls": "svg:slide5a-human-to-software"
+  },
+  "9289473eee": {
+   "en": "Components",
+   "zh": "组件",
+   "cls": "svg:slide5a-human-to-software"
+  },
+  "d7ea9e610e": {
+   "en": "how parts depend",
+   "zh": "各部分如何依赖",
+   "cls": "svg:slide5a-human-to-software"
+  },
+  "b040b4179b": {
+   "en": "Architecture",
+   "zh": "架构",
+   "cls": "svg:slide5a-human-to-software"
+  },
+  "9ad61ae949": {
+   "en": "structure and design",
+   "zh": "结构与设计",
+   "cls": "svg:slide5a-human-to-software"
+  },
+  "dfdf52860b": {
+   "en": "Design rationale",
+   "zh": "设计理由",
+   "cls": "svg:slide5a-human-to-software"
+  },
+  "2eed79dcfd": {
+   "en": "why it was decided",
+   "zh": "为什么这样决定",
+   "cls": "svg:slide5a-human-to-software"
+  },
+  "52e68a873a": {
+   "en": "Constraints",
+   "zh": "约束",
+   "cls": "svg:slide5a-human-to-software"
+  },
+  "3fa6b2d955": {
+   "en": "rules and trade-offs",
+   "zh": "规则与取舍",
+   "cls": "svg:slide5a-human-to-software"
+  },
+  "2fd7b3b818": {
+   "en": "Prior decisions",
+   "zh": "先前的决策",
+   "cls": "svg:slide5a-human-to-software"
+  },
+  "4504c85487": {
+   "en": "history and outcomes",
+   "zh": "历史与结果",
+   "cls": "svg:slide5a-human-to-software"
+  },
+  "05fc94b014": {
+   "en": "Engineer",
+   "zh": "工程师",
+   "cls": "svg:slide5a-human-to-software"
+  },
+  "774b5569ff": {
+   "en": "mental model",
+   "zh": "心智模型",
+   "cls": "svg:slide5a-human-to-software"
+  },
+  "312d3cb265": {
+   "en": "Key takeaway",
+   "zh": "核心要点",
+   "cls": "svg:slide5a-human-to-software"
+  },
+  "520fe1b552": {
+   "en": "Expert engineers move through a system the way people move through the world: with a model built from experience.",
+   "zh": "资深工程师在系统中穿行，就像人在世界中穿行：靠的是由经验建立的模型。",
+   "cls": "svg:slide5a-human-to-software"
+  },
+  "22a35fbebf": {
+   "en": "Source code",
+   "zh": "源代码",
+   "cls": "svg:slide5b-beyond-source-code"
+  },
+  "20d1c07229": {
+   "en": "functions, classes, APIs, tests",
+   "zh": "函数、类、API、测试",
+   "cls": "svg:slide5b-beyond-source-code"
+  },
+  "2238839604": {
+   "en": "visible",
+   "zh": "可见",
+   "cls": "svg:slide5b-beyond-source-code"
+  },
+  "99d72c7fc3": {
+   "en": "hidden",
+   "zh": "隐藏",
+   "cls": "svg:slide5b-beyond-source-code"
+  },
+  "6cd416d477": {
+   "en": "Hidden engineering knowledge",
+   "zh": "隐藏的工程知识",
+   "cls": "svg:slide5b-beyond-source-code"
+  },
+  "f7965b9b4c": {
+   "en": "Architecture and system structure",
+   "zh": "架构与系统结构",
+   "cls": "svg:slide5b-beyond-source-code"
+  },
+  "367a951546": {
+   "en": "Design decisions and their reasons",
+   "zh": "设计决策及其理由",
+   "cls": "svg:slide5b-beyond-source-code"
+  },
+  "daa18ce133": {
+   "en": "Constraints and conventions",
+   "zh": "约束与约定",
+   "cls": "svg:slide5b-beyond-source-code"
+  },
+  "56d014c7b1": {
+   "en": "Domain knowledge",
+   "zh": "领域知识",
+   "cls": "svg:slide5b-beyond-source-code"
+  },
+  "f9679f6b1f": {
+   "en": "Past failures and lessons learned",
+   "zh": "过去的失败与经验教训",
+   "cls": "svg:slide5b-beyond-source-code"
+  },
+  "9d41d71648": {
+   "en": "Reusable engineering experience",
+   "zh": "可复用的工程经验",
+   "cls": "svg:slide5b-beyond-source-code"
+  },
+  "2a24582688": {
+   "en": "Team habits",
+   "zh": "团队习惯",
+   "cls": "svg:slide5b-beyond-source-code"
+  },
+  "946ece3df3": {
+   "en": "Software engineering = code + knowledge",
+   "zh": "软件工程 = 代码 + 知识",
+   "cls": "svg:slide5b-beyond-source-code"
+  },
+  "f282a0fa01": {
+   "en": "The questions developers find hardest to answer",
+   "zh": "开发者觉得最难回答的问题",
+   "cls": "svg:slide5b-beyond-source-code"
+  },
+  "03618dd86f": {
+   "en": "Why was this written this way?",
+   "zh": "为什么这段代码要这样写？",
+   "cls": "svg:slide5b-beyond-source-code"
+  },
+  "5ac8a47087": {
+   "en": "What else was tried, and why was it dropped?",
+   "zh": "还试过什么，为什么放弃了？",
+   "cls": "svg:slide5b-beyond-source-code"
+  },
+  "65d6a07125": {
+   "en": "What breaks if I change this?",
+   "zh": "如果我改这里，什么会出问题？",
+   "cls": "svg:slide5b-beyond-source-code"
+  },
+  "650da37c94": {
+   "en": "Why the knowledge gets lost",
+   "zh": "知识为什么会丢失",
+   "cls": "svg:slide5b-beyond-source-code"
+  },
+  "9114c00088": {
+   "en": "Fuzzy",
+   "zh": "模糊",
+   "cls": "svg:slide5b-beyond-source-code"
+  },
+  "edfdca0ed5": {
+   "en": "I know it works, but I",
+   "zh": "我知道它能用，但我",
+   "cls": "svg:slide5b-beyond-source-code"
+  },
+  "4fe87e18dd": {
+   "en": "cannot say exactly",
+   "zh": "说不清楚具体原因",
+   "cls": "svg:slide5b-beyond-source-code"
+  },
+  "40f0732379": {
+   "en": "Personal",
+   "zh": "个人化",
+   "cls": "svg:slide5b-beyond-source-code"
+  },
+  "e61c15ba6a": {
+   "en": "It is subjective and",
+   "zh": "它是主观的，",
+   "cls": "svg:slide5b-beyond-source-code"
+  },
+  "39524220b3": {
+   "en": "hard to hand over.",
+   "zh": "难以交接。",
+   "cls": "svg:slide5b-beyond-source-code"
+  },
+  "aa9330a16e": {
+   "en": "Silent",
+   "zh": "无声",
+   "cls": "svg:slide5b-beyond-source-code"
+  },
+  "3da0019258": {
+   "en": "Pitfalls live only",
+   "zh": "陷阱只留在",
+   "cls": "svg:slide5b-beyond-source-code"
+  },
+  "45d905104e": {
+   "en": "with whoever hit them.",
+   "zh": "踩过它的人那里。",
+   "cls": "svg:slide5b-beyond-source-code"
+  },
+  "28e31493af": {
+   "en": "Institutional memory is lost",
+   "zh": "组织记忆会丢失",
+   "cls": "svg:slide5b-beyond-source-code"
+  },
+  "a53801976d": {
+   "en": "when people move on, the knowledge goes with them.",
+   "zh": "人离开时，知识也随之而去。",
+   "cls": "svg:slide5b-beyond-source-code"
+  },
+  "a310cda102": {
+   "en": "writes lessons in words; HumanEval",
+   "zh": "用文字写下教训；HumanEval",
+   "cls": "pptx"
+  },
+  "95826f884e": {
+   "en": "GPT-4 alone",
+   "zh": "仅 GPT-4",
+   "cls": "pptx"
+  },
+  "ee4aade015": {
+   "en": "with reflection",
+   "zh": "加上反思",
+   "cls": "pptx"
+  },
+  "a6e0fc2574": {
+   "en": "Self-Improving Coding Agent",
+   "zh": "Self-Improving Coding Agent",
+   "cls": "pptx"
+  },
+  "66a5ffa580": {
+   "en": "edits its own code; SWE-bench Verified subset",
+   "zh": "修改自己的代码；SWE-bench Verified 子集",
+   "cls": "pptx"
+  },
+  "51de2b835b": {
+   "en": "before",
+   "zh": "之前",
+   "cls": "pptx"
+  },
+  "405906c9d5": {
+   "en": "after",
+   "zh": "之后",
+   "cls": "pptx"
+  },
+  "1fd6bb985d": {
+   "en": "Darwin Godel Machine",
+   "zh": "Darwin Godel Machine",
+   "cls": "pptx"
+  },
+  "3a9fbcd744": {
+   "en": "archive of self-modified agents; SWE-bench",
+   "zh": "自我修改智能体的存档；SWE-bench",
+   "cls": "pptx"
+  },
+  "485690400e": {
+   "en": "same agents; Polyglot",
+   "zh": "同样的智能体；Polyglot",
+   "cls": "pptx"
+  },
+  "959e7db0f3": {
+   "en": "Keep a human and a sandbox in the loop",
+   "zh": "保留人工介入和沙箱",
+   "cls": "pptx"
+  },
+  "470a91a428": {
+   "en": "Optimizing only for a benchmark can introduce vulnerabilities (Darwin Godel Machine, Section 5).",
+   "zh": "只针对基准测试做优化，可能引入漏洞（Darwin Godel Machine，第 5 节）。",
+   "cls": "pptx"
+  },
+  "6a5e1f9e89": {
+   "en": "Open Day · Waterloo",
+   "zh": "开放日 · 滑铁卢",
+   "cls": "pptx"
+  },
+  "00184f2b8b": {
+   "en": "RESEARCH AREAS AND PROJECTS · NOVEMBER 2026",
+   "zh": "研究方向与项目 · 2026 年 11 月",
+   "cls": "pptx"
+  },
+  "37c895c6a3": {
+   "en": "a model in a loop",
+   "zh": "循环中的模型",
+   "cls": "pptx"
+  },
+  "558e17f49a": {
+   "en": "from engineer to agent team",
+   "zh": "从工程师到智能体团队",
+   "cls": "pptx"
+  },
+  "2e96185457": {
+   "en": "many agents, one project",
+   "zh": "多个智能体，一个项目",
+   "cls": "pptx"
+  },
+  "bbdcebd782": {
+   "en": "memory that persists",
+   "zh": "持久的记忆",
+   "cls": "pptx"
+  },
+  "9967c1cfba": {
+   "en": "knowledge as a graph",
+   "zh": "把知识做成图",
+   "cls": "pptx"
+  },
+  "78b28f1ca1": {
+   "en": "learning from mistakes",
+   "zh": "从错误中学习",
+   "cls": "pptx"
+  },
+  "ad8919ace0": {
+   "en": "Event",
+   "zh": "活动",
+   "cls": "pptx"
+  },
+  "c81885e299": {
+   "en": "Open Day, Waterloo",
+   "zh": "开放日，滑铁卢",
+   "cls": "pptx"
+  },
+  "eb9a4bc1c0": {
+   "en": "Date",
+   "zh": "日期",
+   "cls": "pptx"
+  },
+  "7ceef8e697": {
+   "en": "November 2026",
+   "zh": "2026 年 11 月",
+   "cls": "pptx"
+  },
+  "e9d28b6696": {
+   "en": "Welcome, and thank you for coming. Software is now written, tested and fixed by artificial intelligence agents, and my lab studies how to make that work well.",
+   "zh": "欢迎，感谢大家到来。如今软件由人工智能智能体来编写、测试和修复，我的实验室研究的就是如何让这件事做得更好。",
+   "cls": "pptx-notes"
+  },
+  "0274c1554d": {
+   "en": "In the next 20 minutes I will show 6 parts. What an agent is. How a software engineer's work maps to a team of agents. How we run many agents on one project. How an agent can remember a project the way an engineer does. How that knowledge is stored as a graph that many agents can share. And how agents can learn from their own mistakes. By the end you will see them as one system.",
+   "zh": "接下来的 20 分钟，我会讲 6 个部分。智能体是什么。软件工程师的工作如何对应到一个智能体团队。我们如何让多个智能体在一个项目上协同工作。智能体如何像工程师一样记住一个项目。这些知识如何存成一张可供多个智能体共享的图。以及智能体如何从自己的错误中学习。最后你会看到，它们是一个整体系统。",
+   "cls": "pptx-notes"
+  },
+  "c7fb4a1c86": {
+   "en": "CONTENTS",
+   "zh": "目录",
+   "cls": "pptx"
+  },
+  "43d6f57b92": {
+   "en": "The language model underneath, and what an agent is",
+   "zh": "底层的语言模型，以及什么是智能体",
+   "cls": "pptx"
+  },
+  "bf3c77826d": {
+   "en": "2 slides",
+   "zh": "2 张幻灯片",
+   "cls": "pptx"
+  },
+  "d813b78aa6": {
+   "en": "The Vee model and where agents stand today",
+   "zh": "V 模型与智能体今天所处的位置",
+   "cls": "pptx"
+  },
+  "187dac58c9": {
+   "en": "Team, task graph, a real run, when more agents hurt",
+   "zh": "团队、任务图、一次真实运行，以及智能体越多反而更糟的情况",
+   "cls": "pptx"
+  },
+  "fa6b98b686": {
+   "en": "4 slides",
+   "zh": "4 张幻灯片",
+   "cls": "pptx"
+  },
+  "5df190366d": {
+   "en": "What engineers remember and agents forget",
+   "zh": "工程师记得而智能体会忘的东西",
+   "cls": "pptx"
+  },
+  "467249ef2e": {
+   "en": "3 slides",
+   "zh": "3 张幻灯片",
+   "cls": "pptx"
+  },
+  "6c2b89dfd1": {
+   "en": "Learning from mistakes, evidence and risks",
+   "zh": "从错误中学习、证据与风险",
+   "cls": "pptx"
+  },
+  "0f9ba28177": {
+   "en": "01 · AGENTS",
+   "zh": "01 · 智能体",
+   "cls": "pptx"
+  },
+  "bb2fe63e5a": {
+   "en": "INPUT",
+   "zh": "输入",
+   "cls": "pptx"
+  },
+  "e4a40ec48c": {
+   "en": "TRANSFORMER",
+   "zh": "TRANSFORMER",
+   "cls": "pptx"
+  },
+  "feb3522a40": {
+   "en": "OUTPUT",
+   "zh": "输出",
+   "cls": "pptx"
+  },
+  "25c6163e4d": {
+   "en": "Before the agent, the engine inside it: a large language model. It is a very large function that reads text and predicts what comes next. Here is the path of one request.",
+   "zh": "在讲智能体之前，先看它内部的引擎：大语言模型。它是一个非常大的函数，读入文本，预测接下来会出现什么。下面是一次请求的路径。",
+   "cls": "pptx-notes"
+  },
+  "0dc5d16ffe": {
+   "en": "First, the input: a prompt such as \"Explain artificial intelligence\". Second, tokenization: the text is split into tokens, which are words or pieces of words. Third, an embedding layer turns each token into a vector of numbers, so the model can compute with it.",
+   "zh": "第一步是输入：一条提示词，比如“解释人工智能”。第二步是分词：文本被切成 token，也就是单词或单词的片段。第三步，嵌入层把每个 token 变成一个数字向量，这样模型才能对它进行计算。",
+   "cls": "pptx-notes"
+  },
+  "9b4d927cbc": {
+   "en": "Fourth, the transformer blocks, the heart of the model. In each block, a self-attention layer works out how the tokens relate to each other. A feed-forward network processes and transforms that information. Normalization and residual connections keep the information flowing steadily and make training stable. This block is repeated many times: a model may have dozens or hundreds of them.",
+   "zh": "第四步是 Transformer 块，也就是模型的核心。在每个块中，自注意力层计算各个 token 之间的关系。前馈网络对这些信息进行处理和变换。归一化和残差连接让信息稳定流动，并使训练保持稳定。这个块会重复很多次：一个模型可能有几十个甚至上百个。",
+   "cls": "pptx-notes"
+  },
+  "d4e7bf8a2f": {
+   "en": "Fifth, the output head calculates a probability for every possible next token. Sixth, token generation: the model picks one token, appends it to the text, and runs the whole process again, one token at a time, until the final response, human-readable text, is complete.",
+   "zh": "第五步，输出头为每一个可能的下一个 token 计算概率。第六步是 token 生成：模型选出一个 token，把它追加到文本后面，然后把整个过程再运行一遍，一次生成一个 token，直到完整的回答，也就是人能读懂的文本，生成完毕。",
+   "cls": "pptx-notes"
+  },
+  "a45c411d6e": {
+   "en": "That is all a language model does. An agent, as we will see next, wraps this engine in a loop with tools.",
+   "zh": "语言模型做的就是这些。接下来我们会看到，智能体就是把这个引擎放进一个带工具的循环里。",
+   "cls": "pptx-notes"
+  },
+  "300a061f8c": {
+   "en": "LOOP",
+   "zh": "循环",
+   "cls": "pptx"
+  },
+  "f121cf6b14": {
+   "en": "PARTS",
+   "zh": "组成部分",
+   "cls": "pptx"
+  },
+  "8d2fccfa70": {
+   "en": "DESIGN",
+   "zh": "设计",
+   "cls": "pptx"
+  },
+  "c181f00b26": {
+   "en": "A chatbot answers once and stops. An agent works in a loop.",
+   "zh": "聊天机器人回答一次就停止。智能体则在循环中工作。",
+   "cls": "pptx-notes"
+  },
+  "7c60944190": {
+   "en": "It starts with a task from a person, say: fix this bug. It builds its context: its instructions, what it remembers, and everything that has happened so far. The language model reads that and reasons about the next step. Then it chooses an action: call a tool, or finish.",
+   "zh": "它从人给的任务开始，比如：修复这个缺陷。它构建自己的上下文：它的指令、它记得的内容，以及到目前为止发生的一切。语言模型读取这些内容，并对下一步进行推理。然后它选择一个动作：调用工具，或者结束。",
+   "cls": "pptx-notes"
+  },
+  "12a5b425fc": {
+   "en": "A tool is something the agent can do in the project: read a file, edit code, search, run the tests. The tool runs in the environment, here the project's files and a terminal. The result comes back as an observation and joins the context. Then the loop repeats. This reason, act, observe cycle is the idea behind ReAct, and almost every coding agent works this way.",
+   "zh": "工具是智能体在项目中能做的事：读文件、改代码、搜索、运行测试。工具在环境中运行，这里的环境就是项目的文件和一个终端。结果作为观察返回，并加入上下文。然后循环重复。这个“推理、行动、观察”的循环就是 ReAct 的思想，几乎所有编码智能体都是这样工作的。",
+   "cls": "pptx-notes"
+  },
+  "d53c26cfd0": {
+   "en": "It stops when the task is done, or a limit is hit, such as a maximum number of steps.",
+   "zh": "任务完成，或者触及上限（比如最大步数）时，它就停止。",
+   "cls": "pptx-notes"
+  },
+  "09d8d573f1": {
+   "en": "Look at the parts around the loop: the model, the instructions, the tools, the memory, the environment, the stop rule. Researchers have shown that tools designed for the agent, not for a human, make a real difference. Everything else in this talk connects, extends or improves these parts.",
+   "zh": "看看循环周围的各个部分：模型、指令、工具、记忆、环境、停止规则。研究者已经证明，为智能体而不是为人设计的工具，会带来实实在在的差别。本次演讲的其余内容，都是在连接、扩展或改进这些部分。",
+   "cls": "pptx-notes"
+  },
+  "bf8ec986fd": {
+   "en": "02 · SOFTWARE FACTORY",
+   "zh": "02 · 软件工厂",
+   "cls": "pptx"
+  },
+  "bd9545a717": {
+   "en": "LIFECYCLE",
+   "zh": "生命周期",
+   "cls": "pptx"
+  },
+  "d7d70acc72": {
+   "en": "PAIRING",
+   "zh": "对应",
+   "cls": "pptx"
+  },
+  "927e4493b3": {
+   "en": "VISION",
+   "zh": "愿景",
+   "cls": "pptx"
+  },
+  "0a6fda0dbe": {
+   "en": "To compare a coding agent with a software engineer, look at the Vee model, which systems engineers have used since 1991.",
+   "zh": "要把编码智能体和软件工程师做比较，可以看 V 模型，系统工程师从 1991 年起就在使用它。",
+   "cls": "pptx-notes"
+  },
+  "08169fdd35": {
+   "en": "Read it like a V. Top left: the needs of the people who will use the system. Going down the left side, needs become requirements, then a system design, then a detailed design, and at the bottom we write the code. Climbing the right side, we test each unit, then the pieces together, then verify the whole system, and at the top right the users accept it and we deploy.",
+   "zh": "把它读成一个 V 字。左上角：将使用系统的人的需要。沿左侧向下，需要变成需求，然后是系统设计，再是详细设计，在最底部我们编写代码。沿右侧向上，我们先测试每个单元，再测试各部分组合，然后验证整个系统，在右上角，用户验收，我们进行部署。",
+   "cls": "pptx-notes"
+  },
+  "f0db13c144": {
+   "en": "The dotted lines matter. Each design level has a matching test level: requirements are checked by acceptance, system design by system verification, detailed design by integration testing. You plan the check when you do the design.",
+   "zh": "虚线很重要。每个设计层级都有对应的测试层级：需求由验收来检查，系统设计由系统验证来检查，详细设计由集成测试来检查。你在做设计的时候就要规划好检查。",
+   "cls": "pptx-notes"
+  },
+  "c11eabf271": {
+   "en": "Today humans fill every box: analyst, architect, developer, tester, quality engineer, release engineer. The second lane is the vision: a team of agents, one for each stage, each checking the work of the others.",
+   "zh": "今天，每个方框都由人来填：分析师、架构师、开发者、测试人员、质量工程师、发布工程师。第二条泳道是愿景：一个智能体团队，每个阶段一个智能体，每个都检查其他智能体的工作。",
+   "cls": "pptx-notes"
+  },
+  "0ff584ceaf": {
+   "en": "CODING",
+   "zh": "编码",
+   "cls": "pptx"
+  },
+  "66b490fd56": {
+   "en": "BEYOND CODE",
+   "zh": "代码之外",
+   "cls": "pptx"
+  },
+  "2290cf6ba4": {
+   "en": "SO",
+   "zh": "所以",
+   "cls": "pptx"
+  },
+  "3a60c11b01": {
+   "en": "Where are coding agents on that V today? Mostly at the bottom, at the coding stage. Benchmarks such as SWE-bench and SWE-Lancer measure exactly this. On SWE-Lancer, more than 14 hundred real freelance tasks, the authors report that frontier models still fail to solve most of them.",
+   "zh": "今天的编码智能体处在这个 V 字的哪里？大多在底部，也就是编码阶段。SWE-bench 和 SWE-Lancer 这类基准测试衡量的正是这一点。在 SWE-Lancer 上，有 1400 多个真实的自由职业任务，作者报告说，前沿模型仍然解决不了其中的大部分。",
+   "cls": "pptx-notes"
+  },
+  "e29386de9d": {
+   "en": "The other boxes are harder. A benchmark that covers the whole lifecycle, design through acceptance testing, finds that strong models fail to solve it. For operations, a benchmark of build, monitoring and issue tasks reports that agents struggle with monitoring and build configuration. And working out what people really need is still at research-prototype stage.",
+   "zh": "其他方框更难。一个覆盖整个生命周期、从设计到验收测试的基准测试发现，强大的模型也无法完成。在运维方面，一个包含构建、监控和问题任务的基准测试报告说，智能体在监控和构建配置上表现吃力。而弄清人们真正需要什么，仍处于研究原型阶段。",
+   "cls": "pptx-notes"
+  },
+  "1c243fa351": {
+   "en": "Remember that coding is only part of the job: studies of developers' days find they spend little of it writing code. So one super-agent will not be enough. We need teams.",
+   "zh": "请记住，编码只是工作的一部分：对开发者一天的研究发现，他们花在写代码上的时间很少。所以一个超级智能体是不够的。我们需要团队。",
+   "cls": "pptx-notes"
+  },
+  "3805de8f60": {
+   "en": "03 · ORCHESTRATION",
+   "zh": "03 · 编排",
+   "cls": "pptx"
+  },
+  "6df63cad9f": {
+   "en": "SPLIT",
+   "zh": "拆分",
+   "cls": "pptx"
+  },
+  "018d2cd1a5": {
+   "en": "PARALLEL",
+   "zh": "并行",
+   "cls": "pptx"
+  },
+  "d37267cb29": {
+   "en": "CHECK",
+   "zh": "检查",
+   "cls": "pptx"
+  },
+  "c48c29da48": {
+   "en": "One agent can fix one bug. A real project has hundreds of tasks, and one agent working alone is slow and loses track. So we orchestrate.",
+   "zh": "一个智能体可以修复一个缺陷。一个真实的项目有数百个任务，单个智能体独自工作又慢，又容易跟丢进度。所以我们要做编排。",
+   "cls": "pptx-notes"
+  },
+  "a90f290075": {
+   "en": "At the top, an orchestrator reads the goal and turns it into tasks. A planner makes one plan and sizes the work so each part fits one worker. Then several workers run at the same time, each on its own branch of the code, so they cannot overwrite each other. Researchers call this an orchestrator-worker pattern, and recent coding work uses the same shape, with workers in isolated git worktrees.",
+   "zh": "在顶层，编排器读取目标，并把它变成任务。规划器制定一份计划，并把工作切分到每一部分都适合一个执行智能体。然后多个执行智能体同时运行，各自在自己的代码分支上，所以不会互相覆盖。研究者把这叫作编排器加执行智能体模式，近期的编码工作也采用同样的结构，让执行智能体在隔离的 git worktree 中工作。",
+   "cls": "pptx-notes"
+  },
+  "82b74c0eaf": {
+   "en": "The key step comes before anything reaches the main branch. A tester agent, separate from the worker that wrote the code, checks each branch against the specification. Only a branch that passes goes to the integrator, which brings it up to date with main and merges it.",
+   "zh": "关键的一步发生在任何内容进入主分支之前。一个测试智能体，与写代码的执行智能体相互独立，依据规格说明检查每个分支。只有通过的分支才会交给集成智能体，由它把分支与主分支同步并合并。",
+   "cls": "pptx-notes"
+  },
+  "60e7100b90": {
+   "en": "SKELETON",
+   "zh": "骨架",
+   "cls": "pptx"
+  },
+  "c534ab935e": {
+   "en": "SLICES",
+   "zh": "切片",
+   "cls": "pptx"
+  },
+  "aaa398a28b": {
+   "en": "RULE",
+   "zh": "规则",
+   "cls": "pptx"
+  },
+  "45e0da60ef": {
+   "en": "How do you split the work? Not by file, and not by an arbitrary number of lines. We build a graph of tasks.",
+   "zh": "怎么拆分工作？不按文件，也不按随意设定的行数。我们构建一张任务图。",
+   "cls": "pptx-notes"
+  },
+  "52afa9af31": {
+   "en": "First, a skeleton: it defines every name that more than one part will use, and the main path through the program. Then the remaining work becomes slices that start from the skeleton and run side by side. A slice waits for another only when it truly cannot be tested without it, like slice C waiting for slice B here. We keep the graph wide and shallow, so most work runs in parallel.",
+   "zh": "首先是骨架：它定义所有被多个部分共用的名称，以及贯穿程序的主路径。然后其余工作变成切片，从骨架出发，并行运行。只有当一个切片确实无法在没有另一个切片的情况下测试时，才会等待它，比如这里切片 C 等待切片 B。我们让图保持宽而浅，所以大部分工作都能并行运行。",
+   "cls": "pptx-notes"
+  },
+  "f4b4944552": {
+   "en": "Each slice has its own tester, and only tested work reaches main. The aim is simple: the right split, and a check at every step.",
+   "zh": "每个切片都有自己的测试智能体，只有通过测试的工作才会进入主分支。目标很简单：拆分得当，并且每一步都有检查。",
+   "cls": "pptx-notes"
+  },
+  "2d409a89ce": {
+   "en": "SCALE",
+   "zh": "规模",
+   "cls": "pptx"
+  },
+  "50978fadde": {
+   "en": "CONTROL",
+   "zh": "控制",
+   "cls": "pptx"
+  },
+  "fb8665539a": {
+   "en": "HONEST SCORE",
+   "zh": "如实的分数",
+   "cls": "pptx"
+  },
+  "6a51ba7a61": {
+   "en": "This is not a diagram. It is a real run of our system building a Python command-line library from a specification of about 2 thousand lines. 2 hours and 46 minutes of work, played back here in under a minute.",
+   "zh": "这不是示意图。这是我们的系统根据约 2 千行的规格说明构建一个 Python 命令行库的一次真实运行。工作用了 2 小时 46 分钟，这里在不到一分钟内回放。",
+   "cls": "pptx-notes"
+  },
+  "19032787e6": {
+   "en": "The orchestrator first splits the specification into 9 areas. Then, in about 3 minutes, it creates 53 issues, and work starts in every area at once. Each stream here is an area; the width shows how many agents are working in it.",
+   "zh": "编排器首先把规格说明拆成 9 个领域。然后，在大约 3 分钟内，它创建了 53 个议题，每个领域同时开工。这里的每一条流是一个领域；宽度表示其中有多少个智能体在工作。",
+   "cls": "pptx-notes"
+  },
+  "234b00774c": {
+   "en": "Things go wrong, and the system handles it. A planner hits its output limit twice, and the orchestrator re-plans. Testers check main and every defect gets an owner. 3 agents hit the same gap in the specification, and one planner makes the decision. A merge that did not happen is caught and done for real. At the end every area is tested again on main.",
+   "zh": "事情会出错，系统能够处理。一个规划器两次触到输出上限，编排器重新做了规划。测试智能体检查主分支，每个缺陷都有负责人。3 个智能体碰到了规格说明中的同一个缺口，由一个规划器做出决定。一次没有真正发生的合并被发现并补做。最后，每个领域都在主分支上重新测试。",
+   "cls": "pptx-notes"
+  },
+  "00646823e0": {
+   "en": "The result: 44 merges and 17 defects found and fixed, for a total cost of 7 dollars 79. On the hidden tests this run passed 30 of 70, so there is more to do, and I will not pretend otherwise.",
+   "zh": "结果是：44 次合并，发现并修复了 17 个缺陷，总成本 7 美元 79 美分。在隐藏测试上，这次运行通过了 70 个中的 30 个，所以还有很多工作要做，我不会假装不是这样。",
+   "cls": "pptx-notes"
+  },
+  "a9d7d8b1b1": {
+   "en": "THE TASK DECIDES",
+   "zh": "由任务决定",
+   "cls": "pptx"
+  },
+  "75fde9afb2": {
+   "en": "COST",
+   "zh": "成本",
+   "cls": "pptx"
+  },
+  "45f00c75ee": {
+   "en": "THE SPLIT",
+   "zh": "拆分方式",
+   "cls": "pptx"
+  },
+  "b54641ba23": {
+   "en": "So are more agents always better? No. A large study of 260 agent setups found that, compared with one agent, results ranged from about 80 percent better on tasks that split cleanly, to 70 percent worse on tasks that must be done in order.",
+   "zh": "那么智能体越多总是越好吗？不是。一项针对 260 种智能体配置的大型研究发现，与单个智能体相比，结果从在能清晰拆分的任务上好约 80%，到在必须按顺序完成的任务上差 70%，不一而足。",
+   "cls": "pptx-notes"
+  },
+  "251ddc63b7": {
+   "en": "There is also a cost. Anthropic reports that multi-agent systems use about 15 times the tokens of a chat, and agents alone about 4 times. They note that most coding tasks have fewer parts that can really run in parallel than research tasks do.",
+   "zh": "还有成本。Anthropic 报告说，多智能体系统消耗的 token 约为聊天的 15 倍，单个智能体约为 4 倍。他们指出，大多数编码任务中真正能并行运行的部分，比研究任务要少。",
+   "cls": "pptx-notes"
+  },
+  "5d0513a1ca": {
+   "en": "How you split matters. A 2026 paper on partitioning code work found that one agent per file raised cost by 40 to 60 percent for little gain, while splitting along the dependency graph improved pass rate by up to 14 points, ran up to 2 times faster, and cut cost by up to 35 percent.",
+   "zh": "怎么拆分很重要。2026 年一篇关于划分代码工作的论文发现，每个文件一个智能体会使成本增加 40% 到 60%，收益却很小；而沿依赖图拆分，通过率最多提高 14 个百分点，速度最多快 2 倍，成本最多降低 35%。",
+   "cls": "pptx-notes"
+  },
+  "b9eb48181b": {
+   "en": "Our own results point the same way: in our runs, the more workers a project used, the lower its score. Orchestration is not more agents. It is the right split and a check at every step.",
+   "zh": "我们自己的结果也指向同一方向：在我们的运行中，一个项目使用的执行智能体越多，得分越低。编排不是增加智能体。它是正确的拆分，加上每一步的检查。",
+   "cls": "pptx-notes"
+  },
+  "3bdc7e5d21": {
+   "en": "04 · MENTAL MODEL",
+   "zh": "04 · 心智模型",
+   "cls": "pptx"
+  },
+  "2e41a915ea": {
+   "en": "Think about what a good engineer carries in their head. The idea is old. In 1943 the psychologist Kenneth Craik suggested that the mind builds small-scale models of reality, so it can try out options before acting. In 1948 Edward Tolman showed that animals form cognitive maps. In 1983 Philip Johnson-Laird described mental models built from experience and held in working memory.",
+   "zh": "想一想，一位优秀的工程师脑子里装着什么。这个想法由来已久。1943 年，心理学家 Kenneth Craik 提出，心智会建立现实的小比例模型，这样就能在行动前先尝试各种选项。1948 年，Edward Tolman 表明动物会形成认知地图。1983 年，Philip Johnson-Laird 描述了由经验建立、存放在工作记忆中的心智模型。",
+   "cls": "pptx-notes"
+  },
+  "f94dd8ba4d": {
+   "en": "Expert engineers do the same with software. They keep in mind what is built, how the parts depend on each other, the structure of the system, why decisions were made, the constraints, and what was decided before. That is a map far richer than the source code. It is how experts move through a large system the way you and I move through a familiar city.",
+   "zh": "资深工程师对软件也是这样做的。他们记着构建了什么、各部分如何相互依赖、系统的结构、为什么做出这些决策、有哪些约束，以及以前决定过什么。那是一张远比源代码丰富的地图。专家就是靠它在大型系统中穿行，就像你我在熟悉的城市里穿行一样。",
+   "cls": "pptx-notes"
+  },
+  "74d9716dfd": {
+   "en": "The code is only the visible part. Below the surface sits the knowledge that makes it understandable: the architecture, the decisions and their reasons, the constraints and conventions, the domain knowledge, the failures of the past and what we learned. Software engineering is code plus knowledge.",
+   "zh": "代码只是看得见的部分。在水面之下，是让它变得可以理解的知识：架构、决策及其理由、约束和约定、领域知识、过去的失败，以及我们学到的东西。软件工程是代码加知识。",
+   "cls": "pptx-notes"
+  },
+  "e043cf294c": {
+   "en": "The questions developers find hardest to answer are about why. Why was this written this way? What else was tried, and why was it dropped? What breaks if I change it?",
+   "zh": "开发者觉得最难回答的问题，都是关于“为什么”的。为什么这段代码要这样写？还试过什么，为什么放弃了？如果我改它，什么会出问题？",
+   "cls": "pptx-notes"
+  },
+  "b4c6f787d5": {
+   "en": "And that knowledge is easily lost. It is fuzzy: I know it works, but I cannot say exactly why. It is personal: hard to hand over. And it is silent: the pitfalls live only with whoever hit them. When people move on, the knowledge goes with them. That is institutional memory loss, and agents have it in the extreme.",
+   "zh": "而这些知识很容易丢失。它是模糊的：我知道它能用，但说不清楚为什么。它是个人化的：难以交接。它也是无声的：陷阱只留在踩过它的人那里。人离开时，知识也随之而去。这就是组织记忆的丢失，而智能体的这种情况更是严重到极点。",
+   "cls": "pptx-notes"
+  },
+  "31848ade83": {
+   "en": "STATELESS",
+   "zh": "无状态",
+   "cls": "pptx"
+  },
+  "b5e59ec133": {
+   "en": "REPEATED WORK",
+   "zh": "重复劳动",
+   "cls": "pptx"
+  },
+  "f4b1c471ce": {
+   "en": "MEMORY",
+   "zh": "记忆",
+   "cls": "pptx"
+  },
+  "63bb354487": {
+   "en": "Now think about an agent. A coding agent is stateless. In session one it explores the repository, finds the root cause of a bug, learns the code patterns, and makes a design decision. All of it sits in its context window. When the session ends, the window is cleared. In session 2 the agent starts almost empty. It reads the repository again, repeats the exploration, and the earlier fix is lost. Experience does not accumulate.",
+   "zh": "现在想一想智能体。编码智能体是无状态的。在第 1 次会话中，它探索代码仓库，找到缺陷的根本原因，学到代码模式，并做出一个设计决策。这一切都放在它的上下文窗口里。会话结束时，窗口被清空。在第 2 次会话中，智能体几乎从空白开始。它重新阅读代码仓库，重复同样的探索，之前的修复也丢了。经验无法积累。",
+   "cls": "pptx-notes"
+  },
+  "7ea18592fd": {
+   "en": "The context window is also limited in size. Research such as MemGPT treats this like a computer's memory: a small fast memory and a larger slower one that the agent manages itself.",
+   "zh": "上下文窗口的大小也是有限的。MemGPT 这类研究把它类比为计算机的内存：一个小而快的内存，加上一个大而慢的内存，由智能体自己管理。",
+   "cls": "pptx-notes"
+  },
+  "9504ed99e7": {
+   "en": "Our answer is a mental model for coding agents: a store that lives outside the context window. After each session the agent writes down what it learned. At the start of the next one, it receives only the knowledge it needs, in a small amount.",
+   "zh": "我们的答案是为编码智能体提供一个心智模型：一个存放在上下文窗口之外的存储。每次会话结束后，智能体写下它学到的东西。下一次开始时，它只收到所需的知识，而且量很小。",
+   "cls": "pptx-notes"
+  },
+  "28902fd697": {
+   "en": "We call it the Mental Model. It is persistent: it survives across sessions. It is structured: knowledge is typed and scoped, for example architecture and structure, decisions and rationale, constraints, pitfalls and learnings, patterns, and experiment history. It is grounded in the task, the codebase and the agent's reasoning, not in the code text itself.",
+   "zh": "我们称它为 Mental Model。它是持久的：能跨会话保留。它是有结构的：知识有类型、有范围，例如架构与结构、决策与理由、约束、陷阱与经验、模式，以及实验历史。它以任务、代码库和智能体的推理为依据，而不是以代码文本本身为依据。",
+   "cls": "pptx-notes"
+  },
+  "3e90be0407": {
+   "en": "It works like a teacher. Whenever the agent needs insight, say why was this implemented this way, it asks the Mental Model. It also passes knowledge between agents: Agent A writes its discoveries and decisions, and Agent B picks up from there, with no re-discovery and no repeated mistakes.",
+   "zh": "它像一位老师一样工作。每当智能体需要洞见，比如这个为什么这样实现，它就去问 Mental Model。它还在智能体之间传递知识：智能体 A 写下它的发现和决策，智能体 B 接着往下做，不用重新发现，也不会重复犯错。",
+   "cls": "pptx-notes"
+  },
+  "32881b827c": {
+   "en": "Retrieval is the hard part. The model decides when knowledge is delivered, how much, and how relevant it is. Early results are encouraging but modest: one study of memory built from earlier subtasks reports about 4 to 5 points better pass rate on SWE-bench Verified. What to store and how to keep it correct as code changes are still open questions.",
+   "zh": "检索是难点。模型要决定何时提供知识、提供多少，以及相关度如何。早期结果令人鼓舞，但幅度有限：一项由先前子任务构建记忆的研究报告说，在 SWE-bench Verified 上通过率约提高 4 到 5 个百分点。存什么，以及代码变化时如何保持其正确，仍是未解决的问题。",
+   "cls": "pptx-notes"
+  },
+  "dbfcd5f896": {
+   "en": "05 · ARTIFACT GRAPH",
+   "zh": "05 · ARTIFACT GRAPH",
+   "cls": "pptx"
+  },
+  "5b17058e33": {
+   "en": "TYPED NODES",
+   "zh": "有类型的节点",
+   "cls": "pptx"
+  },
+  "3b16b4447f": {
+   "en": "TYPED EDGES",
+   "zh": "有类型的边",
+   "cls": "pptx"
+  },
+  "031fac521d": {
+   "en": "DOCUMENTS STAY THE SOURCE",
+   "zh": "文档仍是事实来源",
+   "cls": "pptx"
+  },
+  "6befb117d7": {
+   "en": "A mental model for software also needs a place to live. Artifact Graph is one: a database-like layer for the artifacts of spec-driven development, the specifications, requirements, designs, decisions, tasks and scenarios that people write. The documents stay the source of truth. Artifact Graph turns their content into a graph. Each artifact becomes a typed node, and each relationship a typed edge: a change contains a specification and a design, a specification defines requirements, a requirement is evidenced by a scenario, and a design records decisions, risks and tasks. Every node keeps a link back to its source. Then it infers relationships nobody wrote down, such as requires, details or conflicts with, each with a confidence and a reason. The dashed edges are inferred: a hint with a score, not a proof.",
+   "zh": "软件的心智模型也需要一个存放的地方。Artifact Graph 就是一个：它是一个类似数据库的层，用于规格驱动开发的工件，也就是人们撰写的规格说明、需求、设计、决策、任务和场景。文档仍然是事实来源。Artifact Graph 把它们的内容变成一张图。每个工件成为一个有类型的节点，每种关系成为一条有类型的边：一项变更包含一份规格说明和一份设计，规格说明定义需求，需求由场景佐证，设计记录决策、风险和任务。每个节点都保留指向其来源的链接。然后它推断出没人写下来的关系，比如需要、细化或与……冲突，每一条都带有置信度和理由。虚线边是推断出来的：是带分数的提示，不是证明。",
+   "cls": "pptx-notes"
+  },
+  "29422d0c4e": {
+   "en": "LOCATE",
+   "zh": "定位",
+   "cls": "pptx"
+  },
+  "6251fd85d4": {
+   "en": "EXPAND",
+   "zh": "扩展",
+   "cls": "pptx"
+  },
+  "8bd92026b7": {
+   "en": "REVEAL",
+   "zh": "展示",
+   "cls": "pptx"
+  },
+  "f8eb0be4e7": {
+   "en": "Why a graph? Because more project knowledge does not give better context. One change adds requirements, designs, decisions, tasks and scenarios, and the pool grows faster than a prompt can hold; in the briefing's example, 247 candidate artifacts for a single task. Loading everything hands the filtering problem to the model. Artifact Graph retrieves instead, in 3 steps. First, locate by meaning: semantic search finds the entry nodes, even when the task and the documents use different words. Second, expand by structure: the edges bring in the dependencies, constraints, decisions and history around those entry points. Third, reveal on a gap: it starts with a minimal core, and adds related items and then evidence only where the agent's reasoning shows something is missing. The goal is not maximum context. It is the smallest sufficient, high-signal context, and every item carries its type, its path and its source.",
+   "zh": "为什么用图？因为项目知识越多，并不会带来更好的上下文。一项变更会加入需求、设计、决策、任务和场景，这个池子增长得比提示词能容纳的更快；在简报的例子中，一个任务就有 247 个候选工件。把所有内容都加载进来，就是把过滤问题交给了模型。Artifact Graph 改为检索，分 3 步。第一步，按语义定位：语义搜索找到入口节点，即使任务和文档用词不同也能找到。第二步，按结构扩展：通过边引入这些入口周围的依赖、约束、决策和历史。第三步，出现缺口时再展示：先从最小的核心开始，只在智能体的推理显示缺了什么时，才加入相关内容，然后是证据。目标不是最大的上下文，而是最小而足够、信号密度高的上下文，并且每一项都带有它的类型、路径和来源。",
+   "cls": "pptx-notes"
+  },
+  "973ad5485e": {
+   "en": "CONTEXT",
+   "zh": "上下文",
+   "cls": "pptx"
+  },
+  "fb7c2e80ac": {
+   "en": "QUALITY",
+   "zh": "质量",
+   "cls": "pptx"
+  },
+  "4c8c015887": {
+   "en": "This also gives many agents one shared memory. When several agents edit the knowledge at the same time, half-finished edits would pollute everyone's context. So updates are staged. Each agent's change becomes a candidate set of nodes and edges, kept out of shared retrieval. It is inspected for structure, consistency, conflicts and traceability. A change that conflicts is held for review and sent back. The rest are committed as one logical update, and earlier versions stay available. Did it help? On 16 SlopCodeBench problems, with an OpenSpec-only workflow as the baseline, Artifact Graph used 26.8 percent less context, 14.2 percent less cost and 9.2 percent fewer tokens per checkpoint. The quality differences were small and every interval crossed zero, so I read them as no clear change, not as a gain. Artifact Graph does not scan the repository, index the code, or guarantee that the artifacts are correct; tests and review still matter.",
+   "zh": "这也让多个智能体拥有一份共享的记忆。当多个智能体同时编辑知识时，写到一半的修改会污染所有人的上下文。所以更新是分阶段的。每个智能体的修改成为一组候选的节点和边，不进入共享检索。系统会检查其结构、一致性、冲突和可追溯性。有冲突的修改会被扣下来等待审查，并退回。其余的作为一次逻辑更新提交，而早期版本仍然可用。有帮助吗？在 16 个 SlopCodeBench 问题上，以只用 OpenSpec 的工作流为基线，Artifact Graph 每个检查点的上下文减少 26.8%，成本减少 14.2%，token 减少 9.2%。质量上的差异很小，每个区间都跨过零，所以我把它解读为没有明显变化，而不是提升。Artifact Graph 不会扫描代码仓库，不会为代码建立索引，也不保证工件是正确的；测试和审查仍然重要。",
+   "cls": "pptx-notes"
+  },
+  "eebded10f5": {
+   "en": "06 · SELF-EVOLUTION",
+   "zh": "06 · 自我进化",
+   "cls": "pptx"
+  },
+  "2ae3dbc9c1": {
+   "en": "INNER LOOP",
+   "zh": "内循环",
+   "cls": "pptx"
+  },
+  "025d0fadd0": {
+   "en": "OUTER LOOP",
+   "zh": "外循环",
+   "cls": "pptx"
+  },
+  "95d2057bd8": {
+   "en": "GATE",
+   "zh": "关卡",
+   "cls": "pptx"
+  },
+  "4b3533aef4": {
+   "en": "So far the agent follows rules we wrote. The last area asks: can an agent get better by itself?",
+   "zh": "到目前为止，智能体遵循的是我们写下的规则。最后一个方向要问的是：智能体能自己变得更好吗？",
+   "cls": "pptx-notes"
+  },
+  "a365fbc9b4": {
+   "en": "The simplest form is the loop on the left. The agent acts. We evaluate the result with tests and review. If it failed, the agent reflects: why? It writes the lesson down in plain words, stores it in memory, and uses it on the next try. Methods such as Reflexion, Voyager and ExpeL work this way: they keep reflections, reusable code skills, or knowledge distilled from experience, and none of them retrains the model.",
+   "zh": "最简单的形式是左边的循环。智能体行动。我们用测试和审查来评估结果。如果失败了，智能体就反思：为什么？它用平实的语言写下教训，存入记忆，并在下一次尝试中使用。Reflexion、Voyager 和 ExpeL 这类方法就是这样工作的：它们保存反思、可复用的代码技能，或从经验中提炼的知识，而且都不会重新训练模型。",
+   "cls": "pptx-notes"
+  },
+  "d27264b865": {
+   "en": "The stronger form is on the right: the agent changes itself, its own tools, prompts, even its own code. And the test gate is essential. A change is kept only if the benchmark score does not drop. Surveys describe the general loop the same way: inputs, the agent, its environment, and an optimizer that updates the agent from feedback.",
+   "zh": "更强的形式在右边：智能体修改自身，包括自己的工具、提示词，甚至自己的代码。而测试关卡必不可少。只有基准测试分数没有下降，修改才会保留。综述文章对一般的循环也是这样描述的：输入、智能体、它的环境，以及一个根据反馈来更新智能体的优化器。",
+   "cls": "pptx-notes"
+  },
+  "9855a91357": {
+   "en": "REFLEXION",
+   "zh": "REFLEXION",
+   "cls": "pptx"
+  },
+  "dbe06345ab": {
+   "en": "SELF-MODIFYING AGENTS",
+   "zh": "自我修改的智能体",
+   "cls": "pptx"
+  },
+  "4138ccf390": {
+   "en": "RISK",
+   "zh": "风险",
+   "cls": "pptx"
+  },
+  "57e8ff2b77": {
+   "en": "Does it work? Each pair of bars is one paper, before and after. In Reflexion, GPT-4 reached 80 percent on the HumanEval coding benchmark; with written reflections it reached 91. The Self-Improving Coding Agent, editing its own code, went from 17 to 53 percent on a subset of SWE-bench Verified. The Darwin Gödel Machine kept an archive of agents, let them modify themselves, and tested every change: from 20 to 50 percent on SWE-bench, and from 14 to 31 on Polyglot.",
+   "zh": "有效吗？每一对柱子是一篇论文的前后对比。在 Reflexion 中，GPT-4 在 HumanEval 编码基准测试上达到 80%；加上写下的反思后达到 91%。Self-Improving Coding Agent 修改自己的代码，在 SWE-bench Verified 的一个子集上从 17% 提高到 53%。Darwin Gödel Machine 保留一个智能体存档，让它们自我修改，并测试每一处改动：在 SWE-bench 上从 20% 提高到 50%，在 Polyglot 上从 14 提高到 31。",
+   "cls": "pptx-notes"
+  },
+  "90e7fb0797": {
+   "en": "These are different benchmarks, so compare within a row, not across.",
+   "zh": "这些是不同的基准测试，所以请在同一行内比较，不要跨行比较。",
+   "cls": "pptx-notes"
+  },
+  "ed4f7d2df0": {
+   "en": "And there are risks. If you optimize only for a benchmark, the agent may learn to game the test or introduce vulnerabilities, and it can drift or forget earlier skills. The authors of the Darwin Gödel Machine say this themselves, and they ran their experiments with sandboxing and human oversight. That is why the test gate and the human stay in the loop.",
+   "zh": "也有风险。如果只针对基准测试做优化，智能体可能学会钻测试的空子，或引入漏洞，还可能发生漂移，或忘掉先前的技能。Darwin Gödel Machine 的作者自己也这样说，他们的实验是在沙箱和人工监督下进行的。这就是测试关卡和人要一直留在循环中的原因。",
+   "cls": "pptx-notes"
+  },
+  "7f8ae68b43": {
+   "en": "Put the 4 areas together and you have the system: an agent in a loop, a team of agents orchestrated across a project, a mental model that remembers, and a loop that learns. Thank you. I am happy to take questions.",
+   "zh": "把这 4 个方向放在一起，就是整个系统：循环中的智能体，在整个项目中被编排的智能体团队，会记忆的心智模型，以及会学习的循环。谢谢大家。欢迎提问。",
+   "cls": "pptx-notes"
+  },
+  "f36b356571": {
+   "en": "07 · CHALLENGES",
+   "zh": "07 · 挑战",
+   "cls": "pptx"
+  },
+  "5299cb8507": {
+   "en": "Split along the dependency graph.",
+   "zh": "沿依赖图拆分。",
+   "cls": "pptx"
+  },
+  "fdc44b4ee9": {
+   "en": "A skeleton first, then slices that run side by side and wait only where a test needs another slice. Not by file, and not by line count. [17]",
+   "zh": "先搭骨架，再切成并行运行的切片，只在测试需要另一个切片时才等待。不按文件拆，也不按行数拆。[17]",
+   "cls": "pptx"
+  },
+  "efb464cac8": {
+   "en": "Isolate and check every branch.",
+   "zh": "隔离并检查每个分支。",
+   "cls": "pptx"
+  },
+  "b4bb3e5276": {
+   "en": "A separate tester sits between each worker and main; merge only after it passes. [14]",
+   "zh": "在每个执行智能体与主干之间设一个独立的测试智能体；通过后才合并。[14]",
+   "cls": "pptx"
+  },
+  "86aec47eb9": {
+   "en": "Add agents only where the task splits cleanly.",
+   "zh": "只在任务能清晰拆分时才增加智能体。",
+   "cls": "pptx"
+  },
+  "eb2f739aca": {
+   "en": "A multi-agent system can use about 15 times the tokens of a chat, and tasks that must be done in order can get much worse. [13][18]",
+   "zh": "多智能体系统消耗的 token 可能约为聊天的 15 倍，而必须按顺序完成的任务可能会差得多。[13][18]",
+   "cls": "pptx"
+  },
+  "d19e969ca9": {
+   "en": "Store what the code cannot say.",
+   "zh": "存储代码说不出来的内容。",
+   "cls": "pptx"
+  },
+  "20dda79858": {
+   "en": "Architecture, decisions and their reasons, constraints, pitfalls, patterns and history, typed and scoped, outside the context window.",
+   "zh": "架构、决策及其理由、约束、陷阱、模式和历史，有类型、有范围，存放在上下文窗口之外。",
+   "cls": "pptx"
+  },
+  "0e5c87dbc3": {
+   "en": "Deliver the right knowledge at the right time.",
+   "zh": "在合适的时间提供合适的知识。",
+   "cls": "pptx"
+  },
+  "3fa658ac11": {
+   "en": "Decide when it is retrieved and how much, so the context stays small. [23][26]",
+   "zh": "决定何时检索、检索多少，使上下文保持精简。[23][26]",
+   "cls": "pptx"
+  },
+  "1f94d8f272": {
+   "en": "Pass it on, and keep it correct.",
+   "zh": "传承下去，并保持正确。",
+   "cls": "pptx"
+  },
+  "c2342c762f": {
+   "en": "Share it between sessions and agents so nothing is rediscovered, and keep it right as the code changes. This last part is still an open problem. [25][30]",
+   "zh": "在会话和智能体之间共享，避免重复发现，并在代码变化时保持其正确。最后这一点仍是未解决的问题。[25][30]",
+   "cls": "pptx"
+  },
+  "fe111dfc23": {
+   "en": "Make the knowledge a graph of typed records.",
+   "zh": "把知识做成有类型记录的图。",
+   "cls": "pptx"
+  },
+  "3ef52fde8e": {
+   "en": "Requirements, designs, decisions, tasks and scenarios become typed nodes and edges, each traced to its source document. Inferred links carry a confidence and are not proof. [26][27]",
+   "zh": "需求、设计、决策、任务和场景成为有类型的节点和边，每一项都可追溯到源文档。推断出的链接带有置信度，并不是证明。[26][27]",
+   "cls": "pptx"
+  },
+  "717ee42441": {
+   "en": "Retrieve the smallest sufficient context.",
+   "zh": "检索最小而足够的上下文。",
+   "cls": "pptx"
+  },
+  "10f00277da": {
+   "en": "Find entry points by meaning, follow edges to dependencies and constraints, and reveal more only where reasoning shows a gap. [28][29]",
+   "zh": "按语义找到入口，沿边找到依赖和约束，只在推理显示有缺口时才展示更多。[28][29]",
+   "cls": "pptx"
+  },
+  "d34cec9f79": {
+   "en": "Let many agents update it safely.",
+   "zh": "让多个智能体安全地更新。",
+   "cls": "pptx"
+  },
+  "0be4323617": {
+   "en": "Stage each change, inspect it for structure, conflicts and traceability, commit it as one update, and hold conflicting changes for review. [30][31]",
+   "zh": "暂存每项修改，检查其结构、冲突和可追溯性，作为一次更新提交，并把有冲突的修改留待审查。[30][31]",
+   "cls": "pptx"
+  },
+  "5fea64b800": {
+   "en": "Learn in an inner loop.",
+   "zh": "在内循环中学习。",
+   "cls": "pptx"
+  },
+  "dfd7cab022": {
+   "en": "Reflect on each failure, write the lesson down, store it, and reuse it. [33][35]",
+   "zh": "对每次失败进行反思，写下教训，存储并复用。[33][35]",
+   "cls": "pptx"
+  },
+  "bc17210b55": {
+   "en": "Change itself only through a test gate.",
+   "zh": "只通过测试关卡来改变自身。",
+   "cls": "pptx"
+  },
+  "6769a2dab7": {
+   "en": "Keep a change only if the benchmark score does not drop. [37][38]",
+   "zh": "只有基准测试分数没有下降，才保留修改。[37][38]",
+   "cls": "pptx"
+  },
+  "e96ce98fc4": {
+   "en": "Keep a sandbox and a human in the loop.",
+   "zh": "保留沙箱和人工介入。",
+   "cls": "pptx"
+  },
+  "c706aaa03a": {
+   "en": "Optimizing only for a benchmark can introduce vulnerabilities. [38]",
+   "zh": "只针对基准测试做优化，可能引入漏洞。[38]",
+   "cls": "pptx"
+  },
+  "2d600f5cdc": {
+   "en": "So what has to be true for agentic software engineering to work on real projects? I see 4 challenges, one for each of the areas we have just seen.",
+   "zh": "那么，智能体化软件工程要在真实项目中奏效，需要满足哪些条件？我看到 4 个挑战，对应我们刚才看过的每一个方向。",
+   "cls": "pptx-notes"
+  },
+  "d83a844bc3": {
+   "en": "First, orchestration. Split the work along the dependency graph: a skeleton first, then slices that run side by side and wait only where a test needs another slice, not by file and not by line count. Isolate every branch, and put a separate tester between each worker and main, so nothing merges until it passes. And add agents only where the task splits cleanly: a multi-agent system can use about 15 times the tokens of a chat, and tasks that must be done in order can get much worse.",
+   "zh": "第一，编排。沿着依赖图拆分工作：先搭骨架，再做可以并行的切片，只在测试需要其他切片时才等待，而不是按文件或代码行数来拆。每个分支都要隔离，并在每个执行智能体和主干之间放一个独立的测试智能体，通过测试之前不合并任何内容。另外，只在任务能清晰拆分时才增加智能体：多智能体系统消耗的 token 可能是聊天的约 15 倍，而必须按顺序完成的任务可能会差得多。",
+   "cls": "pptx-notes"
+  },
+  "4fd95c914d": {
+   "en": "Second, the mental model. It must store what the code cannot say: architecture, decisions and their reasons, constraints, pitfalls, patterns and history, typed and scoped, outside the context window. It must deliver the right knowledge at the right time, deciding when it is retrieved and how much, so the context stays small. And it must be passed between sessions and agents so nothing is rediscovered, and kept correct as the code changes. That last part is still an open problem.",
+   "zh": "第二，心智模型。它必须存储代码本身无法表达的内容：架构、决策及其原因、约束、陷阱、模式和历史，按类型和范围组织，存放在上下文窗口之外。它必须在合适的时间提供合适的知识，决定何时检索、检索多少，让上下文保持精简。它还必须在会话和智能体之间传递，避免重复发现，并随着代码变化保持正确。最后这一点仍是一个未解决的问题。",
+   "cls": "pptx-notes"
+  },
+  "3b798922b0": {
+   "en": "Third, the Artifact Graph. Project knowledge must be a graph of typed records, each traced to its source document, with inferred links marked as inferred and not as proof. Retrieval must return the smallest sufficient context: find entry points by meaning, follow the edges, and reveal more only where reasoning shows a gap. And many agents must be able to update it safely: each change is staged, inspected, and committed as one update, and a conflicting change is held for review.",
+   "zh": "第三，Artifact Graph。项目知识必须是一张带类型记录的图，每条记录都能追溯到来源文档，推断出的链接要标明是推断，而不是证明。检索必须返回足够的最小上下文：按语义找到入口点，沿着边展开，只在推理发现缺口时才揭示更多内容。而且必须允许多个智能体安全地更新它：每次变更先暂存、检查，再作为一次更新提交，有冲突的变更则留待审核。",
+   "cls": "pptx-notes"
+  },
+  "8815697f8c": {
+   "en": "Fourth, self-evolution. In the inner loop the agent reflects on each failure, writes the lesson down, stores it, and reuses it. When it changes itself, whether its tools, its prompts or its code, a change is kept only if the score does not drop: a test gate. And a sandbox and a human stay in the loop, because optimizing only for a benchmark can introduce vulnerabilities.",
+   "zh": "第四，自我进化。在内循环中，智能体对每次失败进行反思，写下教训，存储并复用。当它修改自身时，无论是工具、提示词还是代码，只有在分数不下降时才保留这次修改：这是一道测试关卡。同时，沙箱和人都要留在循环中，因为只针对基准测试做优化可能引入漏洞。",
+   "cls": "pptx-notes"
+  },
+  "1f16f1eb98": {
+   "en": "Put the 4 answers together and you have the system. Thank you; I am happy to take questions.",
+   "zh": "把这 4 个答案合在一起，就是整个系统。谢谢大家，我很乐意回答问题。",
+   "cls": "pptx-notes"
+  },
+  "1139a9c789": {
+   "en": "{1}{/1}Open Day · Waterloo",
+   "zh": "{1}{/1}开放日 · 滑铁卢",
+   "cls": "span.brand"
+  }
+ }
+}

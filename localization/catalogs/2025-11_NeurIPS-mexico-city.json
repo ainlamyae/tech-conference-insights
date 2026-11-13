@@ -1,0 +1,1090 @@
+{
+ "folder": "2025-11_NeurIPS-mexico-city",
+ "strings": {
+  "4e1fb90070": {
+   "en": "Code · github.com/xyliu-cs/RISE",
+   "zh": "Code · github.com/xyliu-cs/RISE",
+   "cls": "keep"
+  },
+  "b3a2a3d61e": {
+   "en": "[1] X. Liu et al., “Trust, But Verify: A Self-Verification Approach to Reinforcement Learning with Verifiable Rewards,” NeurIPS 2025.",
+   "zh": "[1] X. Liu et al., “Trust, But Verify: A Self-Verification Approach to Reinforcement Learning with Verifiable Rewards,” NeurIPS 2025.",
+   "cls": "keep"
+  },
+  "76025185f9": {
+   "en": "Code · github.com/open-compass/SAGA",
+   "zh": "Code · github.com/open-compass/SAGA",
+   "cls": "keep"
+  },
+  "de0bd486b2": {
+   "en": "[2] Z. Ma et al., “Rethinking Verification for LLM Code Generation: From Generation to Testing,” NeurIPS 2025.",
+   "zh": "[2] Z. Ma et al., “Rethinking Verification for LLM Code Generation: From Generation to Testing,” NeurIPS 2025.",
+   "cls": "keep"
+  },
+  "5e22393795": {
+   "en": "Code · github.com/WJQ7777/Graph-Agent-Planning",
+   "zh": "Code · github.com/WJQ7777/Graph-Agent-Planning",
+   "cls": "keep"
+  },
+  "2efcf8da8b": {
+   "en": "[3] J. Wu et al., “GAP: Graph-based Agent Planning with Parallel Tool Use and Reinforcement Learning,” NeurIPS 2025.",
+   "zh": "[3] J. Wu et al., “GAP: Graph-based Agent Planning with Parallel Tool Use and Reinforcement Learning,” NeurIPS 2025.",
+   "cls": "keep"
+  },
+  "5f605e601e": {
+   "en": "Code · github.com/Matrixmax/RAG4GFM",
+   "zh": "Code · github.com/Matrixmax/RAG4GFM",
+   "cls": "keep"
+  },
+  "063fa5a73f": {
+   "en": "[4] X. Wang et al., “RAG4GFM: Bridging Knowledge Gaps in Graph Foundation Models through Graph Retrieval Augmented Generation,” NeurIPS 2025.",
+   "zh": "[4] X. Wang et al., “RAG4GFM: Bridging Knowledge Gaps in Graph Foundation Models through Graph Retrieval Augmented Generation,” NeurIPS 2025.",
+   "cls": "keep"
+  },
+  "7d673a7e6d": {
+   "en": "Code · github.com/Firesuiry/CURE",
+   "zh": "Code · github.com/Firesuiry/CURE",
+   "cls": "keep"
+  },
+  "a3f0e64155": {
+   "en": "[5] S. Yin et al., “Towards Reliable LLM-based Robots Planning via Combined Uncertainty Estimation,” NeurIPS 2025.",
+   "zh": "[5] S. Yin et al., “Towards Reliable LLM-based Robots Planning via Combined Uncertainty Estimation,” NeurIPS 2025.",
+   "cls": "keep"
+  },
+  "d4063a2f8b": {
+   "en": "Code · github.com/gzcch/Safety_Snowball_Agent",
+   "zh": "Code · github.com/gzcch/Safety_Snowball_Agent",
+   "cls": "keep"
+  },
+  "7a947e16d0": {
+   "en": "[6] C. Cui et al., “Safe + Safe = Unsafe? Exploring How Safe Images Can Be Exploited to Jailbreak Large Vision-Language Models,” NeurIPS 2025.",
+   "zh": "[6] C. Cui et al., “Safe + Safe = Unsafe? Exploring How Safe Images Can Be Exploited to Jailbreak Large Vision-Language Models,” NeurIPS 2025.",
+   "cls": "keep"
+  },
+  "10f6444b1c": {
+   "en": "Code · github.com/SaFoLab-WISC/DRIFT",
+   "zh": "Code · github.com/SaFoLab-WISC/DRIFT",
+   "cls": "keep"
+  },
+  "83c1a677da": {
+   "en": "[7] H. Li et al., “DRIFT: Dynamic Rule-Based Defense with Injection Isolation for Securing LLM Agents,” NeurIPS 2025.",
+   "zh": "[7] H. Li et al., “DRIFT: Dynamic Rule-Based Defense with Injection Isolation for Securing LLM Agents,” NeurIPS 2025.",
+   "cls": "keep"
+  },
+  "c411c7496b": {
+   "en": "{1}{2}{/2}Tech Insight{/1}{3}Contents{/3}{4}·{/4}{5}Statistics{/5}{6}·{/6}{7}Insights{/7}{8}·{/8}{9}Conclusions{/9}{10}·{/10}{11}References{/11}",
+   "zh": "{1}{2}{/2}Tech Insight{/1}{3}目录{/3}{4}·{/4}{5}统计{/5}{6}·{/6}{7}洞察{/7}{8}·{/8}{9}结论{/9}{10}·{/10}{11}参考文献{/11}",
+   "cls": "nav.bar"
+  },
+  "44bb295bc0": {
+   "en": "NeurIPS 2025 · Tech Insight Report",
+   "zh": "NeurIPS 2025 · Tech Insight 报告",
+   "cls": "div.kicker"
+  },
+  "53c29a58fe": {
+   "en": "NeurIPS 2025 — 39th Conference on Neural Information Processing Systems",
+   "zh": "NeurIPS 2025 — 第 39 届神经信息处理系统大会",
+   "cls": "h1"
+  },
+  "813065dc75": {
+   "en": "{1}San Diego, USA & Mexico City, Mexico · December 2–7, 2025{/1}",
+   "zh": "{1}美国圣迭戈和墨西哥墨西哥城 · 2025 年 12 月 2–7 日{/1}",
+   "cls": "p.lede"
+  },
+  "876c9d5b98": {
+   "en": "A read of NeurIPS 2025 focused on one question: how do we make LLM-based software reliable? These papers push on self-verifying reasoning, faster knowledge-aware agents, and dynamic safety — the building blocks of AI you can actually depend on.",
+   "zh": "NeurIPS 2025 解读，围绕一个问题：如何让基于大语言模型的软件可靠？这些论文推进了自验证推理、更快的知识感知智能体和动态安全 — 这是真正可依赖的 AI 的基础构件。",
+   "cls": "p.lede"
+  },
+  "ffeffea8b4": {
+   "en": "Location{1}San Diego, USA & Mexico City, Mexico{/1}",
+   "zh": "地点{1}美国圣迭戈和墨西哥墨西哥城{/1}",
+   "cls": "div"
+  },
+  "cc4e5873b3": {
+   "en": "Dates{1}December 2–7, 2025{/1}",
+   "zh": "日期{1}2025 年 12 月 2–7 日{/1}",
+   "cls": "div"
+  },
+  "3bf0b2ddbb": {
+   "en": "Focus{1}Emerging Trends in Reliable LLM-based Software Applications{/1}",
+   "zh": "主题{1}基于大语言模型的可靠软件应用的新趋势{/1}",
+   "cls": "div"
+  },
+  "f91f503b91": {
+   "en": "01 · Contents",
+   "zh": "01 · 目录",
+   "cls": "div.kicker"
+  },
+  "c204d81574": {
+   "en": "Papers covered, by theme",
+   "zh": "按主题划分的论文",
+   "cls": "h2"
+  },
+  "88f3a2ad70": {
+   "en": "A · Self-verifying reasoning & code",
+   "zh": "A · 自验证推理与代码",
+   "cls": "attr:data-group"
+  },
+  "1bae2783b1": {
+   "en": "{1}01{/1}{2}Trust, But Verify: Self-Verifying RL (RISE){/2}",
+   "zh": "{1}01{/1}{2}Trust, But Verify: Self-Verifying RL (RISE){/2}",
+   "cls": "div"
+  },
+  "abd8604d6c": {
+   "en": "{1}02{/1}{2}Rethinking Verification for LLM Code Generation (SAGA){/2}",
+   "zh": "{1}02{/1}{2}Rethinking Verification for LLM Code Generation (SAGA){/2}",
+   "cls": "div"
+  },
+  "d2a1ca3ffb": {
+   "en": "B · Efficient, knowledge-aware agents",
+   "zh": "B · 高效、知识感知的智能体",
+   "cls": "attr:data-group"
+  },
+  "7750b7600f": {
+   "en": "{1}03{/1}{2}GAP: Graph-Based Agent Planning with Parallel Tools{/2}",
+   "zh": "{1}03{/1}{2}GAP: Graph-Based Agent Planning with Parallel Tools{/2}",
+   "cls": "div"
+  },
+  "847704cd36": {
+   "en": "{1}04{/1}{2}RAG4GFM: Retrieval-Augmented Graph Foundation Models{/2}",
+   "zh": "{1}04{/1}{2}RAG4GFM: Retrieval-Augmented Graph Foundation Models{/2}",
+   "cls": "div"
+  },
+  "6e064f4fee": {
+   "en": "C · Reliability, safety & security",
+   "zh": "C · 可靠性、安全与保障",
+   "cls": "attr:data-group"
+  },
+  "d89286c48d": {
+   "en": "{1}05{/1}{2}Reliable LLM-Robot Planning via Uncertainty (CURE){/2}",
+   "zh": "{1}05{/1}{2}Reliable LLM-Robot Planning via Uncertainty (CURE){/2}",
+   "cls": "div"
+  },
+  "b42f96e499": {
+   "en": "{1}06{/1}{2}Safe + Safe = Unsafe? Jailbreaking VLMs with Safe Images{/2}",
+   "zh": "{1}06{/1}{2}Safe + Safe = Unsafe? Jailbreaking VLMs with Safe Images{/2}",
+   "cls": "div"
+  },
+  "14c7f2b51b": {
+   "en": "{1}07{/1}{2}DRIFT: Dynamic Defense for Securing LLM Agents{/2}",
+   "zh": "{1}07{/1}{2}DRIFT: Dynamic Defense for Securing LLM Agents{/2}",
+   "cls": "div"
+  },
+  "324dbde335": {
+   "en": "02 · Conference statistics",
+   "zh": "02 · 会议统计",
+   "cls": "div.kicker"
+  },
+  "b2d82dc747": {
+   "en": "39th Conference on Neural Information Processing Systems — San Diego, USA & Mexico City, Mexico, December 2–7, 2025",
+   "zh": "第 39 届神经信息处理系统大会 — 美国圣迭戈和墨西哥墨西哥城，2025 年 12 月 2–7 日",
+   "cls": "h2"
+  },
+  "f7ac060965": {
+   "en": "{1}20,000{/1}{2}submissions{/2}",
+   "zh": "{1}20,000{/1}{2}投稿数{/2}",
+   "cls": "div.tile"
+  },
+  "beb6094f96": {
+   "en": "{1}6,000{/1}{2}accepted{/2}",
+   "zh": "{1}6,000{/1}{2}录用数{/2}",
+   "cls": "div.tile"
+  },
+  "c43e6f290b": {
+   "en": "{1}30%{/1}{2}acceptance rate{/2}",
+   "zh": "{1}30%{/1}{2}录用率{/2}",
+   "cls": "div.tile"
+  },
+  "762ed86cc4": {
+   "en": "{1}2{/1}{2}host cities{/2}",
+   "zh": "{1}2{/1}{2}主办城市{/2}",
+   "cls": "div.tile"
+  },
+  "9bedddf318": {
+   "en": "{1}Also:{/1} Held across two cities (San Diego + Mexico City). Landmark NeurIPS papers include AlexNet, Dropout, DQN, Adam, the Transformer, and BERT.",
+   "zh": "{1}另外：{/1}在两座城市举办（圣迭戈 + 墨西哥城）。具有里程碑意义的 NeurIPS 论文包括 AlexNet、Dropout、DQN、Adam、Transformer 和 BERT。",
+   "cls": "p.overview-themes"
+  },
+  "ff9b714422": {
+   "en": "Dominant topics: diffusion & scientific generation, efficient LLM training/inference, reasoning / RAG / code / agents, preference alignment (RLHF, DPO), RL & uncertainty, and robustness / safety / interpretability.",
+   "zh": "主要议题：扩散与科学生成、高效的大语言模型训练/推理、推理 / RAG / 代码 / 智能体、偏好对齐（RLHF、DPO）、强化学习与不确定性，以及鲁棒性 / 安全 / 可解释性。",
+   "cls": "p.overview-themes"
+  },
+  "74e3fba778": {
+   "en": "03 · Insights",
+   "zh": "03 · 洞察",
+   "cls": "div.kicker"
+  },
+  "ae28e85df8": {
+   "en": "Paper-by-paper tech insights",
+   "zh": "逐篇论文的技术洞察",
+   "cls": "h2"
+  },
+  "10e6e5ab71": {
+   "en": "Trust, But Verify: Self-Verifying RL (RISE)",
+   "zh": "Trust, But Verify: Self-Verifying RL (RISE)",
+   "cls": "attr:data-toc"
+  },
+  "161f3be38b": {
+   "en": "{1}Xiaoyuan Liu et al.{/1} · CUHK, Shenzhen",
+   "zh": "{1}Xiaoyuan Liu et al.{/1} · CUHK, Shenzhen",
+   "cls": "div.byline"
+  },
+  "9fe00acebc": {
+   "en": "Goal",
+   "zh": "目标",
+   "cls": "span.lbl"
+  },
+  "19e95a9454": {
+   "en": "Teach a model to check its own reasoning during training, instead of relying on a separate verifier.",
+   "zh": "让模型在训练期间检查自己的推理，而不是依赖单独的验证器。",
+   "cls": "p"
+  },
+  "bb9d653f4e": {
+   "en": "Challenge",
+   "zh": "挑战",
+   "cls": "span.lbl"
+  },
+  "bf68f5017f": {
+   "en": "LLMs reason fluently but can’t reliably tell when they are wrong; an external verifier adds cost, complexity and instability.",
+   "zh": "大语言模型 (LLM) 推理流畅，却无法可靠地判断自己何时出错；外部验证器会增加成本、复杂度和不稳定性。",
+   "cls": "p"
+  },
+  "88306943fe": {
+   "en": "Method",
+   "zh": "方法",
+   "cls": "span.lbl"
+  },
+  "7401d17329": {
+   "en": "Roll out chain-of-thought solutions to a batch of problems",
+   "zh": "对一批问题生成思维链解法",
+   "cls": "li"
+  },
+  "f322fd1c76": {
+   "en": "Turn each solution into a verification task via a template",
+   "zh": "通过模板把每个解法转成一个验证任务",
+   "cls": "li"
+  },
+  "84341b4a16": {
+   "en": "Jointly train reasoning and verification with RL (RISE)",
+   "zh": "用强化学习 (RL) 联合训练推理与验证 (RISE)",
+   "cls": "li"
+  },
+  "aea0247b2a": {
+   "en": "Novelty",
+   "zh": "创新点",
+   "cls": "span.lbl"
+  },
+  "93061f5f90": {
+   "en": "Goes past shallow ‘self-reflection’ — reasoning and checking are learned together in one RL loop.",
+   "zh": "超越浅层的“自我反思”——推理与检查在同一个 RL 循环中一起学习。",
+   "cls": "p"
+  },
+  "62036a7016": {
+   "en": "Impact",
+   "zh": "影响",
+   "cls": "span.lbl"
+  },
+  "a16ecf6a48": {
+   "en": "Models that audit their own answers — safer AI for code, education and decision support where wrong reasoning is costly.",
+   "zh": "能审查自身答案的模型——为代码、教育和决策支持等错误推理代价高昂的场景提供更安全的 AI。",
+   "cls": "p"
+  },
+  "964a925400": {
+   "en": "RISE pipeline — generate solutions and their verifications, then jointly optimize both with RL.",
+   "zh": "RISE 流水线——生成解法及其验证，再用 RL 联合优化两者。",
+   "cls": "figcaption"
+  },
+  "fe60e1651c": {
+   "en": "The two stages — solving, then self-verification reconstructed as verification tasks.",
+   "zh": "两个阶段——先求解，再把自我验证重构为验证任务。",
+   "cls": "figcaption"
+  },
+  "c80416c9df": {
+   "en": "Rethinking Verification for LLM Code Generation (SAGA)",
+   "zh": "Rethinking Verification for LLM Code Generation (SAGA)",
+   "cls": "attr:data-toc"
+  },
+  "79d0abebbb": {
+   "en": "{1}Zihan Ma et al.{/1} · Shanghai AI Laboratory",
+   "zh": "{1}Zihan Ma et al.{/1} · Shanghai AI Laboratory",
+   "cls": "div.byline"
+  },
+  "14de58ba65": {
+   "en": "Judge an LLM’s code by the strength of the tests, not the size of the model.",
+   "zh": "评判大语言模型的代码，应看测试的强度，而不是模型的大小。",
+   "cls": "p"
+  },
+  "b207833282": {
+   "en": "AI coding tools hide subtle logic bugs because existing test suites and verifiers miss edge cases.",
+   "zh": "AI 编程工具会隐藏细微的逻辑错误，因为现有的测试集和验证器遗漏了边界情况。",
+   "cls": "p"
+  },
+  "ea5bfec068": {
+   "en": "Define metrics for test-suite strength (detection rate, verifier accuracy)",
+   "zh": "定义测试集强度的指标（检出率、验证器准确率）",
+   "cls": "li"
+  },
+  "526f6a8be8": {
+   "en": "Generate stronger, more diverse tests with a human–LLM loop grounded on a trusted solution",
+   "zh": "通过以可信解法为基础的人机（人与大语言模型）循环，生成更强、更多样的测试",
+   "cls": "li"
+  },
+  "cd768a9511": {
+   "en": "Identifies test-suite strength — not model size — as the real limiter of reliable code generation.",
+   "zh": "指出可靠代码生成的真正瓶颈是测试集强度，而不是模型大小。",
+   "cls": "p"
+  },
+  "a9b45bdb0a": {
+   "en": "Stronger QA pipelines, safer AI coding products, and standard metrics for benchmarking reliability.",
+   "zh": "更强的 QA 流水线、更安全的 AI 编程产品，以及用于基准测试可靠性的标准指标。",
+   "cls": "p"
+  },
+  "7daf261224": {
+   "en": "The SAGA human–LLM workflow for generating stronger, grounded test cases.",
+   "zh": "SAGA 人机（人与大语言模型）工作流，用于生成更强的、有依据的测试用例。",
+   "cls": "figcaption"
+  },
+  "ff75db1617": {
+   "en": "The code-evaluation pipeline and the different test-case-generation paradigms.",
+   "zh": "代码评估流水线以及不同的测试用例生成范式。",
+   "cls": "figcaption"
+  },
+  "2f8f9a5b3b": {
+   "en": "GAP: Graph-Based Agent Planning with Parallel Tools",
+   "zh": "GAP: Graph-Based Agent Planning with Parallel Tools",
+   "cls": "attr:data-toc"
+  },
+  "1d60d4d0ef": {
+   "en": "{1}Jiaqi Wu et al.{/1} · Tsinghua University",
+   "zh": "{1}Jiaqi Wu et al.{/1} · Tsinghua University",
+   "cls": "div.byline"
+  },
+  "733e920123": {
+   "en": "Let a single agent run independent tool calls in parallel instead of one after another.",
+   "zh": "让单个智能体并行执行相互独立的工具调用，而不是逐个依次执行。",
+   "cls": "p"
+  },
+  "93b3b472db": {
+   "en": "Sequential LLM agents are slow and costly on multi-step tasks; multi-agent setups add coordination overhead.",
+   "zh": "顺序执行的大语言模型智能体在多步骤任务上又慢又贵；多智能体方案则带来协调开销。",
+   "cls": "p"
+  },
+  "0272f852fb": {
+   "en": "Build a dependency graph (DAG) of sub-tasks",
+   "zh": "构建子任务的依赖图 (DAG)",
+   "cls": "li"
+  },
+  "a9b4f30ff3": {
+   "en": "Run independent branches in parallel; use RL to learn when to parallelize",
+   "zh": "并行运行相互独立的分支；用 RL 学习何时并行",
+   "cls": "li"
+  },
+  "59e8747b67": {
+   "en": "Parallelism without the complexity of multi-agent systems — one agent that learns task dependencies.",
+   "zh": "获得并行能力，又没有多智能体系统的复杂性——一个能学习任务依赖关系的智能体。",
+   "cls": "p"
+  },
+  "0c394ac11b": {
+   "en": "Lower latency, fewer tokens and cheaper tool-augmented workflows — good for real-world deployment.",
+   "zh": "更低的延迟、更少的 token，以及更便宜的工具增强工作流——适合实际部署。",
+   "cls": "p"
+  },
+  "f7c8a14bb3": {
+   "en": "The GAP paradigm — tasks are decomposed into a dependency graph so independent tool calls run in parallel.",
+   "zh": "GAP 范式——任务被分解为依赖图，使相互独立的工具调用得以并行运行。",
+   "cls": "figcaption"
+  },
+  "22b378de86": {
+   "en": "Sequential vs graph-based (parallel) agent execution.",
+   "zh": "顺序执行与基于图的（并行）智能体执行对比。",
+   "cls": "figcaption"
+  },
+  "10c7a50e60": {
+   "en": "RAG4GFM: Retrieval-Augmented Graph Foundation Models",
+   "zh": "RAG4GFM: Retrieval-Augmented Graph Foundation Models",
+   "cls": "attr:data-toc"
+  },
+  "2901be1adc": {
+   "en": "{1}Xingliang Wang et al.{/1} · Zhejiang University",
+   "zh": "{1}Xingliang Wang et al.{/1} · Zhejiang University",
+   "cls": "div.byline"
+  },
+  "99b48e89a3": {
+   "en": "Keep graph foundation models up to date without retraining them.",
+   "zh": "无需重新训练，就让图基础模型保持最新。",
+   "cls": "p"
+  },
+  "0644a0f149": {
+   "en": "Graph models are expensive to retrain and hallucinate structure as the underlying graph data changes.",
+   "zh": "图模型重新训练成本高，而且随着底层图数据变化会对结构产生幻觉。",
+   "cls": "p"
+  },
+  "b2043a0056": {
+   "en": "Build a multi-level graph index (node, edge, graph features)",
+   "zh": "构建多层级图索引（节点、边、图特征）",
+   "cls": "li"
+  },
+  "117005c930": {
+   "en": "Retrieve the most relevant subgraphs per task type",
+   "zh": "按任务类型检索最相关的子图",
+   "cls": "li"
+  },
+  "6e1fbf68d8": {
+   "en": "Fuse them with the query graph by features and topology",
+   "zh": "按特征和拓扑将它们与查询图融合",
+   "cls": "li"
+  },
+  "f7ada0f9bb": {
+   "en": "Injects fresh knowledge at inference with structure-aware retrieval — O(log N) lookup instead of retraining.",
+   "zh": "在推理时通过结构感知检索注入最新知识——O(log N) 的查找，代替重新训练。",
+   "cls": "p"
+  },
+  "a358b63f3b": {
+   "en": "Adaptive, low-cost, always-updated graph intelligence for fraud detection, recommendations and dynamic knowledge.",
+   "zh": "面向欺诈检测、推荐和动态知识的自适应、低成本、始终保持更新的图智能。",
+   "cls": "p"
+  },
+  "87412592f1": {
+   "en": "Conventional training-driven GFMs vs RAG4GFM — retrieve and fuse external graph knowledge at inference instead of retraining.",
+   "zh": "传统的训练驱动 GFM 与 RAG4GFM 对比——在推理时检索并融合外部图知识，而不是重新训练。",
+   "cls": "figcaption"
+  },
+  "4df570c570": {
+   "en": "Reliable LLM-Robot Planning via Uncertainty (CURE)",
+   "zh": "Reliable LLM-Robot Planning via Uncertainty (CURE)",
+   "cls": "attr:data-toc"
+  },
+  "393249efa7": {
+   "en": "{1}Shiyuan Yin et al.{/1} · Henan University of Technology",
+   "zh": "{1}Shiyuan Yin et al.{/1} · Henan University of Technology",
+   "cls": "div.byline"
+  },
+  "a6214c1aca": {
+   "en": "Give LLM-driven robots a trustworthy sense of when a plan is risky.",
+   "zh": "让由大语言模型驱动的机器人可靠地感知计划何时有风险。",
+   "cls": "p"
+  },
+  "ba840cf973": {
+   "en": "Robots can’t safely decide whether to act or ask when their uncertainty signals are unreliable.",
+   "zh": "当不确定性信号不可靠时，机器人无法安全地决定是直接行动还是先询问。",
+   "cls": "p"
+  },
+  "8fdbf84031": {
+   "en": "Split uncertainty into epistemic (knowledge gaps) and intrinsic (randomness)",
+   "zh": "把不确定性拆分为认知不确定性（知识缺口）和内在不确定性（随机性）",
+   "cls": "li"
+  },
+  "02513728ec": {
+   "en": "Gauge familiarity with RND novelty detection; combine into one risk score",
+   "zh": "用 RND 新颖性检测衡量熟悉度；合并为一个风险分数",
+   "cls": "li"
+  },
+  "7ebd9f88f0": {
+   "en": "Separates uncertainty into clarity, familiarity and unpredictability — a structured, planner-agnostic layer.",
+   "zh": "把不确定性拆分为清晰度、熟悉度和不可预测性——一个结构化的、与规划器无关的层。",
+   "cls": "p"
+  },
+  "9bed610376": {
+   "en": "A plug-and-play safety layer so robots act or ask appropriately — more dependable home and factory automation.",
+   "zh": "即插即用的安全层，让机器人恰当地选择行动或询问——使家庭和工厂自动化更可靠。",
+   "cls": "p"
+  },
+  "143a171ea0": {
+   "en": "Overview of CURE — the combined uncertainty-estimation framework for reliable planning.",
+   "zh": "CURE 概览——用于可靠规划的组合式不确定性估计框架。",
+   "cls": "figcaption"
+  },
+  "eefb784a5a": {
+   "en": "Uncertainty is split into epistemic (task clarity, familiarity) and intrinsic components.",
+   "zh": "不确定性被拆分为认知（任务清晰度、熟悉度）和内在两部分。",
+   "cls": "figcaption"
+  },
+  "5359316314": {
+   "en": "The components combine into a single risk score that decides whether to act or ask.",
+   "zh": "各部分合并为一个风险分数，由它决定是行动还是询问。",
+   "cls": "figcaption"
+  },
+  "a5d08c99a5": {
+   "en": "Safe + Safe = Unsafe? Jailbreaking VLMs with Safe Images",
+   "zh": "Safe + Safe = Unsafe? Jailbreaking VLMs with Safe Images",
+   "cls": "attr:data-toc"
+  },
+  "d96c334ff2": {
+   "en": "{1}Chenhang Cui et al.{/1} · National University of Singapore",
+   "zh": "{1}Chenhang Cui et al.{/1} · National University of Singapore",
+   "cls": "div.byline"
+  },
+  "7afae907b8": {
+   "en": "Show that even safe images can be chained together to jailbreak vision-language models.",
+   "zh": "证明即使是安全的图像，串联起来也能越狱视觉语言模型。",
+   "cls": "p"
+  },
+  "d67d22ded0": {
+   "en": "Safety work focuses on obviously harmful inputs; benign images are a blind spot.",
+   "zh": "安全工作集中在明显有害的输入上；良性图像是一个盲区。",
+   "cls": "p"
+  },
+  "74df3bbdf0": {
+   "en": "Pair safe images with gentle questions",
+   "zh": "把安全图像与温和的问题配对",
+   "cls": "li"
+  },
+  "8f214eb28c": {
+   "en": "Escalate over multiple turns and watch for unsafe reasoning",
+   "zh": "在多轮对话中逐步升级，并留意不安全的推理",
+   "cls": "li"
+  },
+  "62c82db2e2": {
+   "en": "Measure how often models ‘snowball’ and analyze why",
+   "zh": "衡量模型出现“滚雪球”现象的频率，并分析原因",
+   "cls": "li"
+  },
+  "56453f5212": {
+   "en": "A realistic black-box attack using only safe images — exposing risks from the model’s own reasoning.",
+   "zh": "一种只使用安全图像的现实黑盒攻击——暴露出模型自身推理带来的风险。",
+   "cls": "p"
+  },
+  "0bdb33321d": {
+   "en": "Calls for cross-modal consistency checks, multi-turn self-evaluation and safe-input red-teaming benchmarks.",
+   "zh": "呼吁进行跨模态一致性检查、多轮自我评估，以及针对安全输入的红队测试基准测试。",
+   "cls": "p"
+  },
+  "e9d7523e2f": {
+   "en": "The Safety Snowball Agent (SSA) framework — a two-stage agent that probes VLM safety.",
+   "zh": "Safety Snowball Agent (SSA) 框架——一个用于探测 VLM 安全性的两阶段智能体。",
+   "cls": "figcaption"
+  },
+  "00f1b567cd": {
+   "en": "DRIFT: Dynamic Defense for Securing LLM Agents",
+   "zh": "DRIFT: Dynamic Defense for Securing LLM Agents",
+   "cls": "attr:data-toc"
+  },
+  "64bdacddb1": {
+   "en": "{1}Hao Li et al.{/1} · Washington University",
+   "zh": "{1}Hao Li et al.{/1} · Washington University",
+   "cls": "div.byline"
+  },
+  "d6d60af594": {
+   "en": "Defend LLM agents against prompt injection without crippling their usefulness.",
+   "zh": "保护大语言模型智能体免受提示词注入，同时不削弱其可用性。",
+   "cls": "p"
+  },
+  "a6dc9c39a4": {
+   "en": "Static defenses are inflexible and fail on new attacks; model-level safeguards miss unseen injections.",
+   "zh": "静态防御缺乏灵活性，无法应对新攻击；模型层面的保护措施也挡不住未见过的注入。",
+   "cls": "p"
+  },
+  "7c643eb22b": {
+   "en": "Secure Planner builds a minimal action plan + parameter checklist",
+   "zh": "Secure Planner 构建最小化的行动计划和参数清单",
+   "cls": "li"
+  },
+  "eaf0e2686e": {
+   "en": "Dynamic Validator flags deviations; Injection Isolator masks malicious instructions",
+   "zh": "Dynamic Validator 标记偏离；Injection Isolator 屏蔽恶意指令",
+   "cls": "li"
+  },
+  "c2fd3cdfc5": {
+   "en": "Enforces control- and data-level rules dynamically, adapting policies in real time.",
+   "zh": "动态执行控制层和数据层规则，并实时调整策略。",
+   "cls": "p"
+  },
+  "d01cb05ea5": {
+   "en": "Safer, flexible agent deployments — beats fixed-rule systems (e.g. CaMeL) on adaptability vs. protection.",
+   "zh": "更安全、更灵活的智能体部署——在适应性与保护之间的权衡上优于固定规则系统（如 CaMeL）。",
+   "cls": "p"
+  },
+  "7a5ab7f38f": {
+   "en": "DRIFT overview — a two-stage dynamic defense (Secure Planner, Dynamic Validator, Injection Isolator).",
+   "zh": "DRIFT 概览——两阶段动态防御（Secure Planner、Dynamic Validator、Injection Isolator）。",
+   "cls": "figcaption"
+  },
+  "5b0248db8a": {
+   "en": "Model-level vs system-level defense — DRIFT combines control- and data-level rules.",
+   "zh": "模型层面防御与系统层面防御对比——DRIFT 结合了控制层和数据层规则。",
+   "cls": "figcaption"
+  },
+  "200d93941a": {
+   "en": "04 · Conclusions",
+   "zh": "04 · 结论",
+   "cls": "div.kicker"
+  },
+  "a292606210": {
+   "en": "Synthesis across the papers",
+   "zh": "各篇论文的综合",
+   "cls": "h2"
+  },
+  "b4510362a5": {
+   "en": "Insights",
+   "zh": "洞察",
+   "cls": "h4"
+  },
+  "2ea2897c32": {
+   "en": "Reliability, verification and interpretability are now first-class goals, not afterthoughts.",
+   "zh": "可靠性、验证和可解释性如今已是首要目标，而不是事后补充。",
+   "cls": "li"
+  },
+  "a8b113de56": {
+   "en": "Agents are getting structured — dependency graphs, retrieval and self-checking replace brute force.",
+   "zh": "智能体正变得结构化——依赖图、检索和自我检查取代了蛮力。",
+   "cls": "li"
+  },
+  "130a0c91f9": {
+   "en": "Safety must be cross-modal and dynamic; even ‘safe’ inputs and new injections are threats.",
+   "zh": "安全必须是跨模态且动态的；即使是“安全”的输入和新型注入也是威胁。",
+   "cls": "li"
+  },
+  "40b0906c4f": {
+   "en": "Vision",
+   "zh": "愿景",
+   "cls": "h4"
+  },
+  "b39eb28497": {
+   "en": "AI that reasons more deliberately and checks its own work.",
+   "zh": "推理更审慎、并会检查自身工作的 AI。",
+   "cls": "li"
+  },
+  "d1db8df88d": {
+   "en": "Compute- and energy-efficient architectures for sustainable training and serving.",
+   "zh": "兼顾算力与能效的架构，支持可持续的训练与服务。",
+   "cls": "li"
+  },
+  "9dabac4dce": {
+   "en": "Standard metrics and benchmarks for trust, not just accuracy.",
+   "zh": "面向可信度（而不只是准确率）的标准指标和基准测试。",
+   "cls": "li"
+  },
+  "5d8c81594f": {
+   "en": "Implications for us",
+   "zh": "对我们的启示",
+   "cls": "h4"
+  },
+  "24c60fee25": {
+   "en": "Invest in self-verifying reasoning and stronger test / verification pipelines.",
+   "zh": "投入自我验证推理，以及更强的测试与验证流水线。",
+   "cls": "li"
+  },
+  "bdcee1b2c4": {
+   "en": "Adopt parallel, retrieval-augmented agents to cut latency and cost.",
+   "zh": "采用并行的、检索增强的智能体，以降低延迟和成本。",
+   "cls": "li"
+  },
+  "94e4d8f73e": {
+   "en": "Add adaptive, cross-modal safety and injection defenses to agent products.",
+   "zh": "为智能体产品加入自适应的跨模态安全与注入防御。",
+   "cls": "li"
+  },
+  "2b92ebc383": {
+   "en": "05 · References",
+   "zh": "05 · 参考文献",
+   "cls": "div.kicker"
+  },
+  "5d20d0fee3": {
+   "en": "References",
+   "zh": "参考文献",
+   "cls": "h2"
+  },
+  "0e4ed45e0a": {
+   "en": "© 2026 {1}ALI{/1} — {2}Tech Insight{/2} v1.10.0",
+   "zh": "© 2026 {1}ALI{/1} — {2}Tech Insight{/2} v1.10.0",
+   "cls": "div.site-copyright"
+  },
+  "914bde2bac": {
+   "en": "NeurIPS 2025 — Tech Insight Report",
+   "zh": "NeurIPS 2025 — Tech Insight 报告",
+   "cls": "doctitle"
+  },
+  "ee45c30326": {
+   "en": "Report",
+   "zh": "报告",
+   "cls": "div.kicker"
+  },
+  "21075a6149": {
+   "en": "NeurIPS 2025",
+   "zh": "NeurIPS 2025",
+   "cls": "h1"
+  },
+  "98057a2978": {
+   "en": "39th Conference on Neural Information Processing Systems · San Diego, USA & Mexico City, Mexico · December 2–7, 2025",
+   "zh": "第 39 届神经信息处理系统大会 · 美国圣迭戈和墨西哥墨西哥城 · 2025 年 12 月 2–7 日",
+   "cls": "p.topic"
+  },
+  "8a1e29b3dd": {
+   "en": "Conference",
+   "zh": "会议",
+   "cls": "attr:data-toc"
+  },
+  "f5cbdf6bfb": {
+   "en": "Contents",
+   "zh": "目录",
+   "cls": "attr:data-toc"
+  },
+  "b4e6a31089": {
+   "en": "Intro",
+   "zh": "简介",
+   "cls": "attr:data-group"
+  },
+  "e3e91f3034": {
+   "en": "Conference statistics",
+   "zh": "会议统计",
+   "cls": "attr:data-toc"
+  },
+  "2458ddc456": {
+   "en": "39th Conference on Neural Information Processing Systems — San Diego, USA & Mexico City, Mexico",
+   "zh": "第 39 届神经信息处理系统大会 — 美国圣迭戈和墨西哥墨西哥城",
+   "cls": "h2"
+  },
+  "26f5f66dee": {
+   "en": "Insight 01 · Self-verifying reasoning & code",
+   "zh": "洞察 01 · 自我验证的推理与代码",
+   "cls": "div.kicker"
+  },
+  "faf6b5f45f": {
+   "en": "Insight 02 · Self-verifying reasoning & code",
+   "zh": "洞察 02 · 自我验证的推理与代码",
+   "cls": "div.kicker"
+  },
+  "6d62ea1265": {
+   "en": "Insight 03 · Efficient, knowledge-aware agents",
+   "zh": "洞察 03 · 高效、具备知识感知的智能体",
+   "cls": "div.kicker"
+  },
+  "b1988fa59f": {
+   "en": "Insight 04 · Efficient, knowledge-aware agents",
+   "zh": "洞察 04 · 高效、具备知识感知的智能体",
+   "cls": "div.kicker"
+  },
+  "b64f3243ed": {
+   "en": "Insight 05 · Reliability, safety & security",
+   "zh": "洞察 05 · 可靠性、安全与保障",
+   "cls": "div.kicker"
+  },
+  "accbcd3da1": {
+   "en": "Insight 06 · Reliability, safety & security",
+   "zh": "洞察 06 · 可靠性、安全与保障",
+   "cls": "div.kicker"
+  },
+  "a7f885190a": {
+   "en": "Insight 07 · Reliability, safety & security",
+   "zh": "洞察 07 · 可靠性、安全与保障",
+   "cls": "div.kicker"
+  },
+  "b536777ff1": {
+   "en": "Conclusions",
+   "zh": "结论",
+   "cls": "attr:data-toc"
+  },
+  "688460a961": {
+   "en": "<div class=\"fit\"><div class=\"concl\"><div class=\"col c1\"><h4>Insights</h4><ul><li>Reliability, verification and interpretability are now first-class goals, not afterthoughts.</li><li>Agents are getting structured — dependency graphs, retrieval and self-checking replace brute force.</li><li>Safety must be cross-modal and dynamic; even ‘safe’ inputs and new injections are threats.</li></ul></div><div class=\"col c2\"><h4>Vision</h4><ul><li>AI that reasons more deliberately and checks its own work.</li><li>Compute- and energy-efficient architectures for sustainable training and serving.</li><li>Standard metrics and benchmarks for trust, not just accuracy.</li></ul></div><div class=\"col c3\"><h4>Implications for us</h4><ul><li>Invest in self-verifying reasoning and stronger test / verification pipelines.</li><li>Adopt parallel, retrieval-augmented agents to cut latency and cost.</li><li>Add adaptive, cross-modal safety and injection defenses to agent products.</li></ul></div></div></div>",
+   "zh": "<div class=\"fit\"><div class=\"concl\"><div class=\"col c1\"><h4>洞察</h4><ul><li>可靠性、验证和可解释性如今已是首要目标，而不是事后补充。</li><li>智能体正变得结构化——依赖图、检索和自我检查取代了蛮力。</li><li>安全必须是跨模态且动态的；即使是“安全”的输入和新型注入也是威胁。</li></ul></div><div class=\"col c2\"><h4>愿景</h4><ul><li>推理更审慎、并会检查自身工作的 AI。</li><li>兼顾算力与能效的架构，支持可持续的训练与服务。</li><li>面向可信度（而不只是准确率）的标准指标和基准测试。</li></ul></div><div class=\"col c3\"><h4>对我们的启示</h4><ul><li>投入自我验证推理，以及更强的测试与验证流水线。</li><li>采用并行的、检索增强的智能体，以降低延迟和成本。</li><li>为智能体产品加入自适应的跨模态安全与注入防御。</li></ul></div></div></div>",
+   "cls": "section.slide"
+  },
+  "fa39f733bd": {
+   "en": "Wrap-up",
+   "zh": "总结",
+   "cls": "attr:data-group"
+  },
+  "b2ec1abf35": {
+   "en": "Contents (T)",
+   "zh": "目录 (T)",
+   "cls": "button.toc-btn"
+  },
+  "618d1f4d17": {
+   "en": "NeurIPS 2025 — Tech Insight Slides",
+   "zh": "NeurIPS 2025 — Tech Insight 幻灯片",
+   "cls": "doctitle"
+  },
+  "4718b93d9d": {
+   "en": "Tech Insight",
+   "zh": "Tech Insight",
+   "cls": "pptx"
+  },
+  "88aa4763ef": {
+   "en": "Tech Insight Report",
+   "zh": "Tech Insight 报告",
+   "cls": "pptx"
+  },
+  "32d92925de": {
+   "en": "39th Conference on Neural Information Processing Systems",
+   "zh": "第 39 届神经信息处理系统大会",
+   "cls": "pptx"
+  },
+  "ada118fe9a": {
+   "en": "San Diego, USA & Mexico City, Mexico · December 2–7, 2025",
+   "zh": "美国圣迭戈和墨西哥墨西哥城 · 2025 年 12 月 2–7 日",
+   "cls": "pptx"
+  },
+  "d219c68101": {
+   "en": "Location",
+   "zh": "地点",
+   "cls": "pptx"
+  },
+  "a890b8503b": {
+   "en": "San Diego, USA & Mexico City, Mexico",
+   "zh": "美国圣迭戈和墨西哥墨西哥城",
+   "cls": "pptx"
+  },
+  "842b7b5d71": {
+   "en": "Dates",
+   "zh": "日期",
+   "cls": "pptx"
+  },
+  "bc8536b573": {
+   "en": "December 2–7, 2025",
+   "zh": "2025 年 12 月 2–7 日",
+   "cls": "pptx"
+  },
+  "fe7f55b8bf": {
+   "en": "Focus",
+   "zh": "主题",
+   "cls": "pptx"
+  },
+  "81978745aa": {
+   "en": "Emerging Trends in Reliable LLM-based Software Applications",
+   "zh": "基于大语言模型的可靠软件应用的新兴趋势",
+   "cls": "pptx"
+  },
+  "c7fb4a1c86": {
+   "en": "CONTENTS",
+   "zh": "目录",
+   "cls": "pptx"
+  },
+  "dd1a92a165": {
+   "en": "CONFERENCE STATISTICS",
+   "zh": "会议统计",
+   "cls": "pptx"
+  },
+  "8729316a87": {
+   "en": "submissions",
+   "zh": "投稿数",
+   "cls": "pptx"
+  },
+  "51c817ab85": {
+   "en": "accepted",
+   "zh": "录用数",
+   "cls": "pptx"
+  },
+  "d51ed57f66": {
+   "en": "acceptance rate",
+   "zh": "录用率",
+   "cls": "pptx"
+  },
+  "ff1a464956": {
+   "en": "host cities",
+   "zh": "举办城市",
+   "cls": "pptx"
+  },
+  "d7b87aaf2a": {
+   "en": "Also: Held across two cities (San Diego + Mexico City). Landmark NeurIPS papers include AlexNet, Dropout, DQN, Adam, the Transformer, and BERT.",
+   "zh": "另外：大会在两座城市（圣迭戈和墨西哥城）举办。NeurIPS 的里程碑论文包括 AlexNet、Dropout、DQN、Adam、Transformer 和 BERT。",
+   "cls": "pptx"
+  },
+  "d49f16908d": {
+   "en": "INSIGHT 01 · Self-verifying reasoning & code",
+   "zh": "洞察 01 · 自我验证的推理与代码",
+   "cls": "pptx"
+  },
+  "dc8049b773": {
+   "en": "Xiaoyuan Liu et al. · CUHK, Shenzhen",
+   "zh": "Xiaoyuan Liu et al. · CUHK, Shenzhen",
+   "cls": "pptx"
+  },
+  "5fc1004412": {
+   "en": "GOAL",
+   "zh": "目标",
+   "cls": "pptx"
+  },
+  "e9166b5b8a": {
+   "en": "CHALLENGE",
+   "zh": "挑战",
+   "cls": "pptx"
+  },
+  "098632eb27": {
+   "en": "METHOD",
+   "zh": "方法",
+   "cls": "pptx"
+  },
+  "c584ff1614": {
+   "en": "Roll out chain-of-thought solutions to a batch of problems · Turn each solution into a verification task via a template · Jointly train reasoning and verification with RL (RISE)",
+   "zh": "对一批问题生成思维链解法 · 通过模板把每个解法转成一个验证任务 · 用强化学习 (RL) 联合训练推理与验证 (RISE)",
+   "cls": "pptx"
+  },
+  "c427fc98ea": {
+   "en": "NOVELTY",
+   "zh": "创新点",
+   "cls": "pptx"
+  },
+  "c5c9f56f26": {
+   "en": "IMPACT",
+   "zh": "影响",
+   "cls": "pptx"
+  },
+  "bc23385e3d": {
+   "en": "INSIGHT 02 · Self-verifying reasoning & code",
+   "zh": "洞察 02 · 自我验证的推理与代码",
+   "cls": "pptx"
+  },
+  "e8899ae0c5": {
+   "en": "Zihan Ma et al. · Shanghai AI Laboratory",
+   "zh": "Zihan Ma et al. · Shanghai AI Laboratory",
+   "cls": "pptx"
+  },
+  "ce0c27c751": {
+   "en": "Define metrics for test-suite strength (detection rate, verifier accuracy) · Generate stronger, more diverse tests with a human–LLM loop grounded on a trusted solution",
+   "zh": "定义测试集强度的指标（检出率、验证器准确率） · 通过以可信解法为基础的人机（人与大语言模型）循环，生成更强、更多样的测试",
+   "cls": "pptx"
+  },
+  "9011865b00": {
+   "en": "INSIGHT 03 · Efficient, knowledge-aware agents",
+   "zh": "洞察 03 · 高效、具备知识感知的智能体",
+   "cls": "pptx"
+  },
+  "b0d267b931": {
+   "en": "Jiaqi Wu et al. · Tsinghua University",
+   "zh": "Jiaqi Wu et al. · Tsinghua University",
+   "cls": "pptx"
+  },
+  "935fe51d53": {
+   "en": "Build a dependency graph (DAG) of sub-tasks · Run independent branches in parallel; use RL to learn when to parallelize",
+   "zh": "构建子任务的依赖图 (DAG) · 并行运行相互独立的分支；用 RL 学习何时并行",
+   "cls": "pptx"
+  },
+  "8ed56f2d42": {
+   "en": "INSIGHT 04 · Efficient, knowledge-aware agents",
+   "zh": "洞察 04 · 高效、具备知识感知的智能体",
+   "cls": "pptx"
+  },
+  "72dc7866f6": {
+   "en": "Xingliang Wang et al. · Zhejiang University",
+   "zh": "Xingliang Wang et al. · Zhejiang University",
+   "cls": "pptx"
+  },
+  "f4ca6dfcfa": {
+   "en": "Build a multi-level graph index (node, edge, graph features) · Retrieve the most relevant subgraphs per task type · Fuse them with the query graph by features and topology",
+   "zh": "构建多层级图索引（节点、边、图特征） · 按任务类型检索最相关的子图 · 按特征和拓扑将它们与查询图融合",
+   "cls": "pptx"
+  },
+  "56d50fd5d8": {
+   "en": "INSIGHT 05 · Reliability, safety & security",
+   "zh": "洞察 05 · 可靠性、安全与保障",
+   "cls": "pptx"
+  },
+  "d58a41ccbb": {
+   "en": "Shiyuan Yin et al. · Henan University of Technology",
+   "zh": "Shiyuan Yin et al. · Henan University of Technology",
+   "cls": "pptx"
+  },
+  "b3d87f250e": {
+   "en": "Split uncertainty into epistemic (knowledge gaps) and intrinsic (randomness) · Gauge familiarity with RND novelty detection; combine into one risk score",
+   "zh": "把不确定性拆分为认知不确定性（知识缺口）和内在不确定性（随机性） · 用 RND 新颖性检测衡量熟悉度；合并为一个风险分数",
+   "cls": "pptx"
+  },
+  "36fa8172c4": {
+   "en": "INSIGHT 06 · Reliability, safety & security",
+   "zh": "洞察 06 · 可靠性、安全与保障",
+   "cls": "pptx"
+  },
+  "d2d79b369d": {
+   "en": "Chenhang Cui et al. · National University of Singapore",
+   "zh": "Chenhang Cui et al. · National University of Singapore",
+   "cls": "pptx"
+  },
+  "9b8a659f8e": {
+   "en": "Pair safe images with gentle questions · Escalate over multiple turns and watch for unsafe reasoning · Measure how often models ‘snowball’ and analyze why",
+   "zh": "把安全图像与温和的问题配对 · 在多轮对话中逐步升级，并留意不安全的推理 · 衡量模型出现“滚雪球”现象的频率，并分析原因",
+   "cls": "pptx"
+  },
+  "9cc310a873": {
+   "en": "INSIGHT 07 · Reliability, safety & security",
+   "zh": "洞察 07 · 可靠性、安全与保障",
+   "cls": "pptx"
+  },
+  "e490af10cf": {
+   "en": "Hao Li et al. · Washington University",
+   "zh": "Hao Li et al. · Washington University",
+   "cls": "pptx"
+  },
+  "87a524e205": {
+   "en": "Secure Planner builds a minimal action plan + parameter checklist · Dynamic Validator flags deviations; Injection Isolator masks malicious instructions",
+   "zh": "Secure Planner 构建最小化的行动计划和参数清单 · Dynamic Validator 标记偏离；Injection Isolator 屏蔽恶意指令",
+   "cls": "pptx"
+  },
+  "69bae0ee91": {
+   "en": "CONCLUSIONS",
+   "zh": "结论",
+   "cls": "pptx"
+  },
+  "96706c7774": {
+   "en": "INSIGHTS",
+   "zh": "洞察",
+   "cls": "pptx"
+  },
+  "a6235ecda4": {
+   "en": "• Reliability, verification and interpretability are now first-class goals, not afterthoughts.",
+   "zh": "• 可靠性、验证和可解释性如今已是首要目标，而不是事后补充。",
+   "cls": "pptx"
+  },
+  "7233d8c45f": {
+   "en": "• Agents are getting structured — dependency graphs, retrieval and self-checking replace brute force.",
+   "zh": "• 智能体正变得结构化——依赖图、检索和自我检查取代了蛮力。",
+   "cls": "pptx"
+  },
+  "d215415f1d": {
+   "en": "• Safety must be cross-modal and dynamic; even ‘safe’ inputs and new injections are threats.",
+   "zh": "• 安全必须是跨模态且动态的；即使是“安全”的输入和新型注入也是威胁。",
+   "cls": "pptx"
+  },
+  "927e4493b3": {
+   "en": "VISION",
+   "zh": "愿景",
+   "cls": "pptx"
+  },
+  "70479448ca": {
+   "en": "• AI that reasons more deliberately and checks its own work.",
+   "zh": "• 推理更审慎、并会检查自身工作的 AI。",
+   "cls": "pptx"
+  },
+  "b75c9854ce": {
+   "en": "• Compute- and energy-efficient architectures for sustainable training and serving.",
+   "zh": "• 兼顾算力与能效的架构，支持可持续的训练与服务。",
+   "cls": "pptx"
+  },
+  "5d02d82f2c": {
+   "en": "• Standard metrics and benchmarks for trust, not just accuracy.",
+   "zh": "• 面向可信度（而不只是准确率）的标准指标和基准测试。",
+   "cls": "pptx"
+  },
+  "ab88151343": {
+   "en": "IMPLICATIONS FOR US",
+   "zh": "对我们的启示",
+   "cls": "pptx"
+  },
+  "f3c73a30ed": {
+   "en": "• Invest in self-verifying reasoning and stronger test / verification pipelines.",
+   "zh": "• 投入自我验证推理，以及更强的测试与验证流水线。",
+   "cls": "pptx"
+  },
+  "76bb6d2bf9": {
+   "en": "• Adopt parallel, retrieval-augmented agents to cut latency and cost.",
+   "zh": "• 采用并行的、检索增强的智能体，以降低延迟和成本。",
+   "cls": "pptx"
+  },
+  "26b15912fa": {
+   "en": "• Add adaptive, cross-modal safety and injection defenses to agent products.",
+   "zh": "• 为智能体产品加入自适应的跨模态安全与注入防御。",
+   "cls": "pptx"
+  },
+  "5d16a62568": {
+   "en": "{1}{/1}Tech Insight",
+   "zh": "{1}{/1}Tech Insight",
+   "cls": "span.brand"
+  },
+  "2086b21f8f": {
+   "en": "Statistics",
+   "zh": "统计",
+   "cls": "a"
+  }
+ }
+}

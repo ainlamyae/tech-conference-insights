@@ -1,0 +1,1915 @@
+{
+ "folder": "2024-02_AAAI-vancouver",
+ "strings": {
+  "a52238cc67": {
+   "en": "[1] “Chain-of-Thought Improves Text Generation with Citations in Large Language Models,” AAAI 2024.",
+   "zh": "[1] “Chain-of-Thought Improves Text Generation with Citations in Large Language Models,” AAAI 2024.",
+   "cls": "keep"
+  },
+  "1697bdb624": {
+   "en": "[2] “Can Large Language Models Serve as Rational Players in Game Theory? A Systematic Analysis,” AAAI 2024.",
+   "zh": "[2] “Can Large Language Models Serve as Rational Players in Game Theory? A Systematic Analysis,” AAAI 2024.",
+   "cls": "keep"
+  },
+  "80afc956dc": {
+   "en": "[3] “Frugal LMs Trained to Invoke Symbolic Solvers Achieve Parameter-Efficient Arithmetic Reasoning,” AAAI 2024.",
+   "zh": "[3] “Frugal LMs Trained to Invoke Symbolic Solvers Achieve Parameter-Efficient Arithmetic Reasoning,” AAAI 2024.",
+   "cls": "keep"
+  },
+  "3474eb15b9": {
+   "en": "[4] “Prompt to Transfer: Sim-to-Real Transfer for Traffic Signal Control with Prompt Learning,” AAAI 2024.",
+   "zh": "[4] “Prompt to Transfer: Sim-to-Real Transfer for Traffic Signal Control with Prompt Learning,” AAAI 2024.",
+   "cls": "keep"
+  },
+  "44f2ab01db": {
+   "en": "[5] “Building Conversational Artifacts to Enable Digital Assistant for APIs and RPAs,” AAAI 2024.",
+   "zh": "[5] “Building Conversational Artifacts to Enable Digital Assistant for APIs and RPAs,” AAAI 2024.",
+   "cls": "keep"
+  },
+  "317e023bac": {
+   "en": "[6] “PathAsst: A Generative Foundation AI Assistant towards AGI of Pathology,” AAAI 2024.",
+   "zh": "[6] “PathAsst: A Generative Foundation AI Assistant towards AGI of Pathology,” AAAI 2024.",
+   "cls": "keep"
+  },
+  "ceb7ac5045": {
+   "en": "[7] “Bootstrapping Cognitive Agents with a Large Language Model,” AAAI 2024.",
+   "zh": "[7] “Bootstrapping Cognitive Agents with a Large Language Model,” AAAI 2024.",
+   "cls": "keep"
+  },
+  "b9295bf581": {
+   "en": "[8] “KG-TREAT: Pre-training for Treatment Effect Estimation by Synergizing Patient Data with Knowledge Graphs,” AAAI 2024.",
+   "zh": "[8] “KG-TREAT: Pre-training for Treatment Effect Estimation by Synergizing Patient Data with Knowledge Graphs,” AAAI 2024.",
+   "cls": "keep"
+  },
+  "1f7f6411d7": {
+   "en": "[9] “Social Physics Informed Diffusion Model for Crowd Simulation,” AAAI 2024.",
+   "zh": "[9] “Social Physics Informed Diffusion Model for Crowd Simulation,” AAAI 2024.",
+   "cls": "keep"
+  },
+  "f40c0d30fe": {
+   "en": "[10] “Regulating Intermediate 3D Features for Vision-Centric Autonomous Driving,” AAAI 2024.",
+   "zh": "[10] “Regulating Intermediate 3D Features for Vision-Centric Autonomous Driving,” AAAI 2024.",
+   "cls": "keep"
+  },
+  "2ed505ee6d": {
+   "en": "[11] R. Urtasun, “Accelerating AVs with the Next Generation of Generative AI,” AAAI 2024 (invited talk).",
+   "zh": "[11] R. Urtasun, “Accelerating AVs with the Next Generation of Generative AI,” AAAI 2024 (invited talk).",
+   "cls": "keep"
+  },
+  "e06b94c34b": {
+   "en": "[12] “An Efficient Knowledge Transfer Strategy for Spiking Neural Networks from Static to Event Domain,” AAAI 2024.",
+   "zh": "[12] “An Efficient Knowledge Transfer Strategy for Spiking Neural Networks from Static to Event Domain,” AAAI 2024.",
+   "cls": "keep"
+  },
+  "f806a7328a": {
+   "en": "[13] “Graph Invariant Learning with Subgraph Co-mixup for Out-of-Distribution Generalization,” AAAI 2024.",
+   "zh": "[13] “Graph Invariant Learning with Subgraph Co-mixup for Out-of-Distribution Generalization,” AAAI 2024.",
+   "cls": "keep"
+  },
+  "c411c7496b": {
+   "en": "{1}{2}{/2}Tech Insight{/1}{3}Contents{/3}{4}·{/4}{5}Statistics{/5}{6}·{/6}{7}Insights{/7}{8}·{/8}{9}Conclusions{/9}{10}·{/10}{11}References{/11}",
+   "zh": "{1}{2}{/2}Tech Insight{/1}{3}目录{/3}{4}·{/4}{5}统计{/5}{6}·{/6}{7}洞察{/7}{8}·{/8}{9}结论{/9}{10}·{/10}{11}参考文献{/11}",
+   "cls": "nav.bar"
+  },
+  "25c8a842aa": {
+   "en": "AAAI 2024 — Innovations in AI · Tech Insight Report",
+   "zh": "AAAI 2024 — Innovations in AI · Tech Insight 报告",
+   "cls": "div.kicker"
+  },
+  "0a701c36aa": {
+   "en": "38th Annual AAAI Conference on Artificial Intelligence (AAAI-24)",
+   "zh": "38th Annual AAAI Conference on Artificial Intelligence (AAAI-24)",
+   "cls": "h1"
+  },
+  "4f072c7b37": {
+   "en": "{1}Vancouver, Canada · February 20–27, 2024{/1}",
+   "zh": "{1}加拿大温哥华 · 2024 年 2 月 20–27 日{/1}",
+   "cls": "p.lede"
+  },
+  "35cf1458be": {
+   "en": "A read of AAAI 2024 through an applied-AI lens: thirteen papers on making LLMs reliable (citations, symbolic solvers, grounding and rationality limits), multimodal foundation models for pathology and healthcare, physics- and structure-informed generative models, and the next generation of autonomous-driving AI.",
+   "zh": "从应用 AI 的视角解读 AAAI 2024：13 篇论文，涵盖让大语言模型更可靠（引用、符号求解器、落地与理性边界）、面向病理和医疗的多模态基础模型、融入物理与结构知识的生成模型，以及下一代自动驾驶 AI。",
+   "cls": "p.lede"
+  },
+  "b868538edd": {
+   "en": "Location{1}Vancouver, Canada{/1}",
+   "zh": "地点{1}加拿大温哥华{/1}",
+   "cls": "div"
+  },
+  "6fa5fa1a83": {
+   "en": "Dates{1}February 20–27, 2024{/1}",
+   "zh": "日期{1}2024 年 2 月 20–27 日{/1}",
+   "cls": "div"
+  },
+  "37121c8398": {
+   "en": "Focus{1}Reliable LLMs, Foundation Models, Simulation & Autonomous Driving{/1}",
+   "zh": "主题{1}可靠的大语言模型、基础模型、仿真与自动驾驶{/1}",
+   "cls": "div"
+  },
+  "f91f503b91": {
+   "en": "01 · Contents",
+   "zh": "01 · 目录",
+   "cls": "div.kicker"
+  },
+  "c204d81574": {
+   "en": "Papers covered, by theme",
+   "zh": "按主题划分的论文",
+   "cls": "h2"
+  },
+  "c456ade937": {
+   "en": "A · Reliable LLM reasoning & generation",
+   "zh": "A · 可靠的大语言模型推理与生成",
+   "cls": "attr:data-group"
+  },
+  "81bbc4c9fe": {
+   "en": "{1}01{/1}{2}Chain-of-Thought Improves Text Generation with Citations in LLMs{/2}",
+   "zh": "{1}01{/1}{2}Chain-of-Thought Improves Text Generation with Citations in LLMs{/2}",
+   "cls": "div"
+  },
+  "768ee53a29": {
+   "en": "{1}02{/1}{2}Can LLMs Serve as Rational Players in Game Theory?{/2}",
+   "zh": "{1}02{/1}{2}Can LLMs Serve as Rational Players in Game Theory?{/2}",
+   "cls": "div"
+  },
+  "b6acfa4142": {
+   "en": "{1}03{/1}{2}Frugal LMs Trained to Invoke Symbolic Solvers (SYRELM){/2}",
+   "zh": "{1}03{/1}{2}Frugal LMs Trained to Invoke Symbolic Solvers (SYRELM){/2}",
+   "cls": "div"
+  },
+  "bf252b1369": {
+   "en": "B · LLM agents & applied foundation models",
+   "zh": "B · 大语言模型智能体与应用型基础模型",
+   "cls": "attr:data-group"
+  },
+  "045c93b4de": {
+   "en": "{1}04{/1}{2}PromptGAT: Sim-to-Real Transfer for Traffic Signal Control with Prompt Learning{/2}",
+   "zh": "{1}04{/1}{2}PromptGAT: Sim-to-Real Transfer for Traffic Signal Control with Prompt Learning{/2}",
+   "cls": "div"
+  },
+  "b01fa44d76": {
+   "en": "{1}05{/1}{2}Building Conversational Artifacts for APIs and RPAs{/2}",
+   "zh": "{1}05{/1}{2}Building Conversational Artifacts for APIs and RPAs{/2}",
+   "cls": "div"
+  },
+  "4421b22ef7": {
+   "en": "{1}06{/1}{2}PathAsst: A Generative Foundation AI Assistant for Pathology{/2}",
+   "zh": "{1}06{/1}{2}PathAsst: A Generative Foundation AI Assistant for Pathology{/2}",
+   "cls": "div"
+  },
+  "ed9c075edb": {
+   "en": "{1}07{/1}{2}Bootstrapping Cognitive Agents with a Large Language Model{/2}",
+   "zh": "{1}07{/1}{2}Bootstrapping Cognitive Agents with a Large Language Model{/2}",
+   "cls": "div"
+  },
+  "11a3a5f46f": {
+   "en": "{1}08{/1}{2}KG-TREAT: Treatment Effect Estimation by Synergizing Patient Data with Knowledge Graphs{/2}",
+   "zh": "{1}08{/1}{2}KG-TREAT: Treatment Effect Estimation by Synergizing Patient Data with Knowledge Graphs{/2}",
+   "cls": "div"
+  },
+  "872c051d84": {
+   "en": "C · Simulation, perception & autonomous driving",
+   "zh": "C · 仿真、感知与自动驾驶",
+   "cls": "attr:data-group"
+  },
+  "a5c45f6c3f": {
+   "en": "{1}09{/1}{2}SPDiff: Social-Physics-Informed Diffusion Model for Crowd Simulation{/2}",
+   "zh": "{1}09{/1}{2}SPDiff: Social-Physics-Informed Diffusion Model for Crowd Simulation{/2}",
+   "cls": "div"
+  },
+  "da0dc848df": {
+   "en": "{1}10{/1}{2}Vampire: Regulating Intermediate 3D Features for Vision-Centric Autonomous Driving{/2}",
+   "zh": "{1}10{/1}{2}Vampire: Regulating Intermediate 3D Features for Vision-Centric Autonomous Driving{/2}",
+   "cls": "div"
+  },
+  "477b3d15f4": {
+   "en": "{1}11{/1}{2}Accelerating AVs with the Next Generation of Generative AI (Keynote){/2}",
+   "zh": "{1}11{/1}{2}Accelerating AVs with the Next Generation of Generative AI (Keynote){/2}",
+   "cls": "div"
+  },
+  "cfc2590f16": {
+   "en": "D · Robust & efficient learning",
+   "zh": "D · 鲁棒且高效的学习",
+   "cls": "attr:data-group"
+  },
+  "8978840187": {
+   "en": "{1}12{/1}{2}Efficient Knowledge Transfer for Spiking Neural Networks from Static to Event Domain{/2}",
+   "zh": "{1}12{/1}{2}Efficient Knowledge Transfer for Spiking Neural Networks from Static to Event Domain{/2}",
+   "cls": "div"
+  },
+  "ab95cbce09": {
+   "en": "{1}13{/1}{2}Graph Invariant Learning with Subgraph Co-mixup for OOD Generalization{/2}",
+   "zh": "{1}13{/1}{2}Graph Invariant Learning with Subgraph Co-mixup for OOD Generalization{/2}",
+   "cls": "div"
+  },
+  "324dbde335": {
+   "en": "02 · Conference statistics",
+   "zh": "02 · 会议统计",
+   "cls": "div.kicker"
+  },
+  "b0da7cb222": {
+   "en": "38th Annual AAAI Conference on Artificial Intelligence (AAAI-24) — Vancouver, Canada, February 20–27, 2024",
+   "zh": "38th Annual AAAI Conference on Artificial Intelligence (AAAI-24) — 加拿大温哥华，2024 年 2 月 20–27 日",
+   "cls": "h2"
+  },
+  "0b0e4761aa": {
+   "en": "{1}12,100{/1}{2}submissions{/2}",
+   "zh": "{1}12,100{/1}{2}投稿数{/2}",
+   "cls": "div.tile"
+  },
+  "fcd2349185": {
+   "en": "{1}2,342{/1}{2}accepted{/2}",
+   "zh": "{1}2,342{/1}{2}录用数{/2}",
+   "cls": "div.tile"
+  },
+  "d1ba982b87": {
+   "en": "{1}Vancouver{/1}{2}Feb 20–27{/2}",
+   "zh": "{1}温哥华{/1}{2}2 月 20–27 日{/2}",
+   "cls": "div.tile"
+  },
+  "620ac7999b": {
+   "en": "{1}Also:{/1} The 38th AAAI Conference at the Vancouver Convention Centre — the 4th-ranked AI venue by h5-index. This report covers 13 papers, including a Waabi keynote.",
+   "zh": "{1}另外：{/1}第 38 届 AAAI 会议在温哥华会议中心举行，按 h5-index 计为排名第 4 的 AI 会议。本报告涵盖 13 篇论文，其中包括一场 Waabi 的主题演讲。",
+   "cls": "p.overview-themes"
+  },
+  "2f90fed959": {
+   "en": "LLMs dominate, but the focus is reliability — citations, symbolic reasoning, grounding and rationality limits — alongside multimodal foundation models in medicine, physics-informed generative simulation, and interpretable autonomous-driving AI.",
+   "zh": "大语言模型占据主导，但关注点是可靠性，包括引用、符号推理、落地与理性边界；同时还有医学中的多模态基础模型、融入物理知识的生成式仿真，以及可解释的自动驾驶 AI。",
+   "cls": "p.overview-themes"
+  },
+  "74e3fba778": {
+   "en": "03 · Insights",
+   "zh": "03 · 洞察",
+   "cls": "div.kicker"
+  },
+  "ae28e85df8": {
+   "en": "Paper-by-paper tech insights",
+   "zh": "逐篇论文的技术洞察",
+   "cls": "h2"
+  },
+  "d652e76ba0": {
+   "en": "Chain-of-Thought Improves Text Generation with Citations in LLMs",
+   "zh": "Chain-of-Thought Improves Text Generation with Citations in LLMs",
+   "cls": "attr:data-toc"
+  },
+  "aa1b1b9553": {
+   "en": "{1}CoT + Citation Insurance Mechanism{/1} · AAAI 2024",
+   "zh": "{1}CoT + 引用保险机制{/1} · AAAI 2024",
+   "cls": "div.byline"
+  },
+  "9fe00acebc": {
+   "en": "Goal",
+   "zh": "目标",
+   "cls": "span.lbl"
+  },
+  "b6c91062da": {
+   "en": "Enable LLMs to generate text with accurate citations, improving answer correctness and citation quality.",
+   "zh": "让大语言模型生成带有准确引用的文本，提升答案的正确性和引用质量。",
+   "cls": "p"
+  },
+  "bb9d653f4e": {
+   "en": "Challenge",
+   "zh": "挑战",
+   "cls": "span.lbl"
+  },
+  "a2fd80b12b": {
+   "en": "LLMs hallucinate and struggle to synthesize and properly cite across multiple documents.",
+   "zh": "大语言模型会产生幻觉，难以综合多篇文档并正确引用。",
+   "cls": "p"
+  },
+  "88306943fe": {
+   "en": "Method",
+   "zh": "方法",
+   "cls": "span.lbl"
+  },
+  "53b4a4abe9": {
+   "en": "Chain-of-Thought prompting to synthesize answers with citations",
+   "zh": "用 Chain-of-Thought 提示词综合答案并附上引用",
+   "cls": "li"
+  },
+  "5868b10f31": {
+   "en": "Four prompting strategies: Vanilla, Summ, Snippet, Oracle",
+   "zh": "四种提示词策略：Vanilla、Summ、Snippet、Oracle",
+   "cls": "li"
+  },
+  "4994e50619": {
+   "en": "A Citation Insurance Mechanism (CIM) detects and fixes missing citations (LLM- and IR-based)",
+   "zh": "引用保险机制（CIM）检测并修复缺失的引用（基于大语言模型和基于 IR）",
+   "cls": "li"
+  },
+  "aea0247b2a": {
+   "en": "Novelty",
+   "zh": "创新点",
+   "cls": "span.lbl"
+  },
+  "b93502c4fe": {
+   "en": "Combines CoT reasoning with a citation-insurance mechanism to guarantee citations.",
+   "zh": "将 CoT 推理与引用保险机制结合，保证引用的完整。",
+   "cls": "p"
+  },
+  "62036a7016": {
+   "en": "Impact",
+   "zh": "影响",
+   "cls": "span.lbl"
+  },
+  "a8d6023a36": {
+   "en": "Consistent gains in citation recall/precision, correctness and fluency on ALCE across six LLMs (13–70B).",
+   "zh": "在 ALCE 上，六个大语言模型（13–70B）的引用召回率/精确率、正确性和流畅度均持续提升。",
+   "cls": "p"
+  },
+  "cfbc45e558": {
+   "en": "Chain-of-Thought prompting with a Citation Insurance Mechanism for citeable LLM answers.",
+   "zh": "Chain-of-Thought 提示词加引用保险机制，让大语言模型的答案可引用。",
+   "cls": "figcaption"
+  },
+  "90f02d60ee": {
+   "en": "Can LLMs Serve as Rational Players in Game Theory?",
+   "zh": "Can LLMs Serve as Rational Players in Game Theory?",
+   "cls": "attr:data-toc"
+  },
+  "ddb2c513c2": {
+   "en": "{1}LLMs as rational players{/1} · AAAI 2024",
+   "zh": "{1}大语言模型作为理性参与者{/1} · AAAI 2024",
+   "cls": "div.byline"
+  },
+  "90390449ba": {
+   "en": "Assess whether LLMs can act as rational players in social-science game experiments.",
+   "zh": "评估大语言模型能否在社会科学博弈实验中扮演理性参与者。",
+   "cls": "p"
+  },
+  "268a8e58f6": {
+   "en": "Rationality requires building desires, refining beliefs under uncertainty, and taking optimal actions.",
+   "zh": "理性要求形成欲望、在不确定性下修正信念，并采取最优行动。",
+   "cls": "p"
+  },
+  "51d8bf826f": {
+   "en": "Three classic games: dictator, rock-paper-scissors, ring-network",
+   "zh": "三个经典博弈：独裁者博弈、石头剪刀布、环形网络博弈",
+   "cls": "li"
+  },
+  "51bf564ac5": {
+   "en": "Evaluate desire, belief refinement and optimal action",
+   "zh": "评估欲望、信念修正和最优行动",
+   "cls": "li"
+  },
+  "d4569318e3": {
+   "en": "Systematic analysis across LLMs including GPT-4",
+   "zh": "对包括 GPT-4 在内的多个大语言模型进行系统分析",
+   "cls": "li"
+  },
+  "4b472def1a": {
+   "en": "A systematic framework for probing the rationality boundaries of LLMs in game theory.",
+   "zh": "一个用于探查大语言模型在博弈论中理性边界的系统框架。",
+   "cls": "p"
+  },
+  "147ca3b70a": {
+   "en": "LLMs show basic desire but struggle with belief refinement; GPT-4 is sometimes human-like — guidance for social-science use.",
+   "zh": "大语言模型具备基本的欲望，但在信念修正上表现不佳；GPT-4 有时接近人类，为社会科学应用提供参考。",
+   "cls": "p"
+  },
+  "70f1732800": {
+   "en": "Probing LLM rationality across the dictator, rock-paper-scissors and ring-network games.",
+   "zh": "在独裁者博弈、石头剪刀布和环形网络博弈中探查大语言模型的理性。",
+   "cls": "figcaption"
+  },
+  "030e8ebb60": {
+   "en": "Frugal LMs Trained to Invoke Symbolic Solvers (SYRELM)",
+   "zh": "Frugal LMs Trained to Invoke Symbolic Solvers (SYRELM)",
+   "cls": "attr:data-toc"
+  },
+  "19011463ab": {
+   "en": "{1}SYRELM{/1} · AAAI 2024",
+   "zh": "{1}SYRELM{/1} · AAAI 2024",
+   "cls": "div.byline"
+  },
+  "0dd3bd9435": {
+   "en": "Achieve parameter-efficient, interpretable arithmetic reasoning without massive LLMs.",
+   "zh": "不依赖超大规模大语言模型，实现参数高效、可解释的算术推理。",
+   "cls": "p"
+  },
+  "e23fcee7a4": {
+   "en": "LLMs are resource-intensive and unreliable for arithmetic reasoning.",
+   "zh": "大语言模型资源消耗大，且在算术推理上不可靠。",
+   "cls": "p"
+  },
+  "615943246f": {
+   "en": "Translate natural-language questions into formal language (e.g. Python) for a symbolic solver",
+   "zh": "将自然语言问题翻译成形式语言（如 Python），交给符号求解器处理",
+   "cls": "li"
+  },
+  "9303dd7ccf": {
+   "en": "Fine-tune a small LM with a Low-Rank Adapter (LoRA)",
+   "zh": "用低秩适配器（LoRA）微调一个小型语言模型",
+   "cls": "li"
+  },
+  "ef2014875c": {
+   "en": "Optimize with PPO using a reasoning-specific reward (compilation, variable/operator match, answer error)",
+   "zh": "用 PPO 优化，使用针对推理的奖励（编译、变量/运算符匹配、答案误差）",
+   "cls": "li"
+  },
+  "8352352938": {
+   "en": "A frugal LM + symbolic solver, with middle-school-math pedagogy shaping the reward.",
+   "zh": "节俭的语言模型加符号求解器，并以初中数学教学法来设计奖励。",
+   "cls": "p"
+  },
+  "51b1a8b584": {
+   "en": "Strong arithmetic gains with a small, accessible, interpretable alternative to huge LLMs.",
+   "zh": "算术能力显著提升，是大型语言模型之外小巧、易获取、可解释的替代方案。",
+   "cls": "p"
+  },
+  "a49633e9b5": {
+   "en": "SYRELM translates questions to formal language for a symbolic solver (LoRA + PPO).",
+   "zh": "SYRELM 将问题翻译成形式语言交给符号求解器（LoRA + PPO）。",
+   "cls": "figcaption"
+  },
+  "0021530152": {
+   "en": "PromptGAT: Sim-to-Real Transfer for Traffic Signal Control with Prompt Learning",
+   "zh": "PromptGAT: Sim-to-Real Transfer for Traffic Signal Control with Prompt Learning",
+   "cls": "attr:data-toc"
+  },
+  "fec3628f0b": {
+   "en": "{1}PromptGAT{/1} · AAAI 2024",
+   "zh": "{1}PromptGAT{/1} · AAAI 2024",
+   "cls": "div.byline"
+  },
+  "14dcd421bf": {
+   "en": "Close the sim-to-real gap for reinforcement-learning traffic signal control.",
+   "zh": "缩小强化学习交通信号控制中的仿真到现实差距。",
+   "cls": "p"
+  },
+  "87dbc8b62d": {
+   "en": "Grounded Action Transformation (GAT) struggles with unobserved states; prompt learning was untried for sim-to-real.",
+   "zh": "Grounded Action Transformation (GAT) 难以处理未观测到的状态；提示词学习尚未用于仿真到现实迁移。",
+   "cls": "p"
+  },
+  "8b81a060d0": {
+   "en": "Use LLMs to improve GAT's forward (dynamics) model",
+   "zh": "用大语言模型改进 GAT 的前向（动力学）模型",
+   "cls": "li"
+  },
+  "df90e8943e": {
+   "en": "Prompt-based grounded action transformation aligns policy with realistic dynamics",
+   "zh": "基于提示词的 grounded action transformation 使策略与真实动力学对齐",
+   "cls": "li"
+  },
+  "d23ab9f194": {
+   "en": "Evaluate on four traffic-signal-control scenarios",
+   "zh": "在四个交通信号控制场景中评估",
+   "cls": "li"
+  },
+  "4478f91d8f": {
+   "en": "First to bring prompt learning (LLMs) into sim-to-real grounded action transformation.",
+   "zh": "首次将提示词学习（大语言模型）引入仿真到现实的 grounded action transformation。",
+   "cls": "p"
+  },
+  "e37052feb9": {
+   "en": "Mitigates the RL sim-to-real performance gap for urban traffic control.",
+   "zh": "缓解城市交通控制中强化学习的仿真到现实性能差距。",
+   "cls": "p"
+  },
+  "9ec876751d": {
+   "en": "PromptGAT — LLM-improved grounded action transformation for sim-to-real traffic control.",
+   "zh": "PromptGAT：用大语言模型改进 grounded action transformation，用于仿真到现实的交通控制。",
+   "cls": "figcaption"
+  },
+  "d169e248f3": {
+   "en": "Building Conversational Artifacts for APIs and RPAs",
+   "zh": "Building Conversational Artifacts for APIs and RPAs",
+   "cls": "attr:data-toc"
+  },
+  "3e061db86d": {
+   "en": "{1}Conversational artifacts{/1} · AAAI 2024",
+   "zh": "{1}对话式工件{/1} · AAAI 2024",
+   "cls": "div.byline"
+  },
+  "53ee1f630d": {
+   "en": "Make API/RPA automation usable by non-technical users via conversational digital assistants.",
+   "zh": "通过对话式数字助手，让非技术用户也能使用 API/RPA 自动化。",
+   "cls": "p"
+  },
+  "97b8598eea": {
+   "en": "Domain knowledge and LLM fine-tuning are costly (esp. for SMEs); LLMs at runtime risk trust and indemnity.",
+   "zh": "领域知识和大语言模型微调成本高（尤其对中小企业）；在运行时使用大语言模型会带来信任和赔偿责任风险。",
+   "cls": "p"
+  },
+  "776ff0f29d": {
+   "en": "Human-guided authoring of API services as chatbot skills",
+   "zh": "由人引导，把 API 服务编写成聊天机器人技能",
+   "cls": "li"
+  },
+  "a7406d49a8": {
+   "en": "LLMs used only in the build phase — pre-generate and review conversational artifacts",
+   "zh": "仅在构建阶段使用大语言模型：预先生成并审核对话式工件",
+   "cls": "li"
+  },
+  "bf1a8d76ef": {
+   "en": "Intent classification, question generation and Next-Best-Agent via ChromaDB + MiniLM",
+   "zh": "通过 ChromaDB + MiniLM 实现意图分类、问题生成和 Next-Best-Agent",
+   "cls": "li"
+  },
+  "24dab30c06": {
+   "en": "Pre-generated, reviewed artifacts remove LLMs from user interactions entirely.",
+   "zh": "预先生成并经过审核的工件，使用户交互中完全不再需要大语言模型。",
+   "cls": "p"
+  },
+  "c4ba39b6af": {
+   "en": "Lower build effort, trustworthy automation and an automated DevOps deployment pipeline.",
+   "zh": "更低的构建成本、可信的自动化，以及自动化的 DevOps 部署流水线。",
+   "cls": "p"
+  },
+  "dc65f8b201": {
+   "en": "Pre-generated conversational artifacts turn APIs / RPAs into chatbot skills.",
+   "zh": "预先生成的对话式工件把 API / RPA 变成聊天机器人技能。",
+   "cls": "figcaption"
+  },
+  "5fa3ba3d74": {
+   "en": "PathAsst: A Generative Foundation AI Assistant for Pathology",
+   "zh": "PathAsst: A Generative Foundation AI Assistant for Pathology",
+   "cls": "attr:data-toc"
+  },
+  "c9c0067729": {
+   "en": "{1}PathAsst{/1} · AAAI 2024",
+   "zh": "{1}PathAsst{/1} · AAAI 2024",
+   "cls": "div.byline"
+  },
+  "00606a5e96": {
+   "en": "Build a multimodal generative foundation assistant for diagnostic and predictive pathology.",
+   "zh": "构建面向诊断和预测病理的多模态生成式基础助手。",
+   "cls": "p"
+  },
+  "f41dc239c5": {
+   "en": "Pathology multimodal models are limited by scarce tailored data and model frameworks.",
+   "zh": "病理多模态模型受限于缺乏针对性的数据和模型框架。",
+   "cls": "p"
+  },
+  "dbc6ea2dfe": {
+   "en": "Collect 207K pathology image-text pairs + 180K ChatGPT instruction samples (PathCap, PathInstruct)",
+   "zh": "收集 207K 病理图文对 + 180K ChatGPT 指令样本（PathCap、PathInstruct）",
+   "cls": "li"
+  },
+  "f1356d6147": {
+   "en": "Build PathCLIP, a pathology-dedicated CLIP model",
+   "zh": "构建 PathCLIP，一个病理专用的 CLIP 模型",
+   "cls": "li"
+  },
+  "f2c4771fd7": {
+   "en": "Integrate PathCLIP with Vicuna-13B, plus eight pathology-specific sub-models",
+   "zh": "将 PathCLIP 与 Vicuna-13B 集成，并加入八个病理专用子模型",
+   "cls": "li"
+  },
+  "a9f4667c1d": {
+   "en": "A pathology-dedicated CLIP + instruction-tuned assistant toward pathology AGI.",
+   "zh": "病理专用的 CLIP 加指令微调的助手，迈向病理 AGI。",
+   "cls": "p"
+  },
+  "8d8f2cd6b8": {
+   "en": "Stronger diagnostic and predictive analytics on digitized histopathology.",
+   "zh": "在数字化组织病理图像上实现更强的诊断和预测分析。",
+   "cls": "p"
+  },
+  "5372cdb4c6": {
+   "en": "PathAsst — PathCLIP + Vicuna-13B, a generative foundation assistant for pathology.",
+   "zh": "PathAsst：PathCLIP + Vicuna-13B，面向病理的生成式基础助手。",
+   "cls": "figcaption"
+  },
+  "b59feaf45a": {
+   "en": "Bootstrapping Cognitive Agents with a Large Language Model",
+   "zh": "Bootstrapping Cognitive Agents with a Large Language Model",
+   "cls": "attr:data-toc"
+  },
+  "884b91dfee": {
+   "en": "{1}LLM-bootstrapped cognitive agents{/1} · AAAI 2024",
+   "zh": "{1}大语言模型引导的认知智能体{/1} · AAAI 2024",
+   "cls": "div.byline"
+  },
+  "111c458a5b": {
+   "en": "Combine LLM common-sense with a cognitive architecture for embodied tasks.",
+   "zh": "将大语言模型的常识与认知架构结合，用于具身任务。",
+   "cls": "p"
+  },
+  "40f2dda358": {
+   "en": "Cognitive architectures need knowledge; LLMs hallucinate and need grounding.",
+   "zh": "认知架构需要知识；大语言模型会产生幻觉，需要落地。",
+   "cls": "p"
+  },
+  "541956a2cc": {
+   "en": "Separate knowledge generation (LLM) from application (cognitive architecture)",
+   "zh": "将知识生成（大语言模型）与知识应用（认知架构）分离",
+   "cls": "li"
+  },
+  "587c30bb0d": {
+   "en": "Generate English action descriptions → executable Python production rules; a critic LLM improves them",
+   "zh": "生成英文动作描述 → 可执行的 Python 产生式规则；由一个评审大语言模型加以改进",
+   "cls": "li"
+  },
+  "231442dcbb": {
+   "en": "Production reinforcement updates utilities; evaluate in AI2THOR kitchens (find / slice / clear)",
+   "zh": "产生式强化更新效用值；在 AI2THOR 厨房中评估（查找 / 切 / 清理）",
+   "cls": "li"
+  },
+  "3689f185b8": {
+   "en": "A modular LLM + cognitive-architecture bootstrap that curbs hallucination and generalizes.",
+   "zh": "模块化的大语言模型 + 认知架构引导方式，可抑制幻觉并具备泛化能力。",
+   "cls": "p"
+  },
+  "5d181555da": {
+   "en": "More efficient, adaptable embodied agents that need minimal LLM help at runtime.",
+   "zh": "更高效、适应性更强的具身智能体，运行时只需极少的大语言模型协助。",
+   "cls": "p"
+  },
+  "f16b7c1461": {
+   "en": "Bootstrapping a cognitive agent with an LLM that generates and refines production rules.",
+   "zh": "用大语言模型生成并优化产生式规则，引导认知智能体。",
+   "cls": "figcaption"
+  },
+  "ae793593b6": {
+   "en": "KG-TREAT: Treatment Effect Estimation by Synergizing Patient Data with Knowledge Graphs",
+   "zh": "KG-TREAT: Treatment Effect Estimation by Synergizing Patient Data with Knowledge Graphs",
+   "cls": "attr:data-toc"
+  },
+  "86683ec5af": {
+   "en": "{1}KG-TREAT{/1} · AAAI 2024",
+   "zh": "{1}KG-TREAT{/1} · AAAI 2024",
+   "cls": "div.byline"
+  },
+  "ffb1ef357e": {
+   "en": "Improve treatment-effect estimation (TEE) by combining patient data with biomedical knowledge graphs.",
+   "zh": "结合患者数据与生物医学知识图谱，改进治疗效应估计（TEE）。",
+   "cls": "p"
+  },
+  "389888fab9": {
+   "en": "Small labeled data and sparse, high-dimensional records; full KGs add noise and miss causal links.",
+   "zh": "标注数据少，记录稀疏且维度高；完整的知识图谱会引入噪声，并遗漏因果联系。",
+   "cls": "p"
+  },
+  "ee8e3e1dcd": {
+   "en": "Dual-focus personalized KGs (treatment-covariate and outcome-covariate)",
+   "zh": "双焦点个性化知识图谱（治疗-协变量和结果-协变量）",
+   "cls": "li"
+  },
+  "915167d63b": {
+   "en": "Deep bi-level attention synergy (DIVE) across covariates, treatments and outcomes",
+   "zh": "跨协变量、治疗和结果的深度双层注意力协同（DIVE）",
+   "cls": "li"
+  },
+  "513523ced5": {
+   "en": "Pre-train with masked-code + link prediction, then fine-tune for TEE",
+   "zh": "用掩码编码 + 链接预测进行预训练，再针对 TEE 微调",
+   "cls": "li"
+  },
+  "d92f6c1ff7": {
+   "en": "Dual-focus PKGs + bi-level attention deeply fuse patient data and knowledge graphs.",
+   "zh": "双焦点 PKG + 双层注意力，深度融合患者数据与知识图谱。",
+   "cls": "p"
+  },
+  "9cdeb3d99b": {
+   "en": "Beats baselines on AUC / AUPR / IF-PEHE — better, generalizable treatment-effect estimation.",
+   "zh": "在 AUC / AUPR / IF-PEHE 上优于基线，治疗效应估计更好且可泛化。",
+   "cls": "p"
+  },
+  "670fb115fd": {
+   "en": "KG-TREAT — dual-focus personalized knowledge graphs fused with patient data (DIVE).",
+   "zh": "KG-TREAT：双焦点个性化知识图谱与患者数据融合（DIVE）。",
+   "cls": "figcaption"
+  },
+  "3499f02ce6": {
+   "en": "SPDiff: Social-Physics-Informed Diffusion Model for Crowd Simulation",
+   "zh": "SPDiff: Social-Physics-Informed Diffusion Model for Crowd Simulation",
+   "cls": "attr:data-toc"
+  },
+  "ed6aaae537": {
+   "en": "{1}SPDiff{/1} · AAAI 2024",
+   "zh": "{1}SPDiff{/1} · AAAI 2024",
+   "cls": "div.byline"
+  },
+  "b1ef80c516": {
+   "en": "Produce realistic, generalizable crowd simulation for urban planning and traffic.",
+   "zh": "为城市规划和交通生成真实、可泛化的人群仿真。",
+   "cls": "p"
+  },
+  "5f23406ff6": {
+   "en": "Physics models miss micro motion; data-driven methods don't generalize; trajectories are complex and heterogeneous.",
+   "zh": "物理模型遗漏微观运动；数据驱动方法泛化性差；轨迹复杂且异质。",
+   "cls": "p"
+  },
+  "21d69724b5": {
+   "en": "A conditional denoising diffusion model infused with Social-Force physics",
+   "zh": "融入社会力物理的条件去噪扩散模型",
+   "cls": "li"
+  },
+  "80df8ee0c1": {
+   "en": "Equivariant / invariant constraints on position, velocity and acceleration",
+   "zh": "对位置、速度和加速度施加等变 / 不变约束",
+   "cls": "li"
+  },
+  "99df99e67c": {
+   "en": "Multi-frame rollout training for long horizons; a graph network for interactions",
+   "zh": "用多帧展开训练以适应长时域；用图网络建模交互",
+   "cls": "li"
+  },
+  "0dedbd910b": {
+   "en": "Infuses physical knowledge and equivariance into a diffusion model for crowds.",
+   "zh": "把物理知识和等变性融入面向人群的扩散模型。",
+   "cls": "p"
+  },
+  "5a34aeb2a6": {
+   "en": "More realistic, generalizable long-horizon crowd simulation.",
+   "zh": "更真实、可泛化的长时域人群仿真。",
+   "cls": "p"
+  },
+  "037529fec0": {
+   "en": "SPDiff — a social-physics-informed diffusion model for crowd simulation.",
+   "zh": "SPDiff：用于人群仿真的融入社会物理的扩散模型。",
+   "cls": "figcaption"
+  },
+  "c53a1f531f": {
+   "en": "Vampire: Regulating Intermediate 3D Features for Vision-Centric Autonomous Driving",
+   "zh": "Vampire: Regulating Intermediate 3D Features for Vision-Centric Autonomous Driving",
+   "cls": "attr:data-toc"
+  },
+  "243da70daa": {
+   "en": "{1}Vampire{/1} · AAAI 2024",
+   "zh": "{1}Vampire{/1} · AAAI 2024",
+   "cls": "div.byline"
+  },
+  "a30189b338": {
+   "en": "Generate better dense 3D features for multi-camera autonomous-driving perception.",
+   "zh": "为多相机自动驾驶感知生成更好的稠密 3D 特征。",
+   "cls": "p"
+  },
+  "9b4d76f331": {
+   "en": "Multi-camera perception struggles to produce dense, useful 3D features.",
+   "zh": "多相机感知难以生成稠密且有用的 3D 特征。",
+   "cls": "p"
+  },
+  "a7e9323d27": {
+   "en": "LSS 2D→3D transform; a 3D hourglass inpaints sparse features into dense ones",
+   "zh": "LSS 2D→3D 变换；3D 沙漏网络把稀疏特征补全为稠密特征",
+   "cls": "li"
+  },
+  "c9babcca2a": {
+   "en": "Volume rendering as a regulator for dense 3D features (camera and bird's-eye view)",
+   "zh": "用体渲染来约束稠密 3D 特征（相机视角和鸟瞰视角）",
+   "cls": "li"
+  },
+  "6065bbdac8": {
+   "en": "Signed-Distance-Function-modeled density + semantic volumes",
+   "zh": "用有符号距离函数建模的密度 + 语义体",
+   "cls": "li"
+  },
+  "cc62ecc8a5": {
+   "en": "Uses volume rendering as a regulator for intermediate 3D features across tasks.",
+   "zh": "在多项任务中用体渲染约束中间 3D 特征。",
+   "cls": "p"
+  },
+  "1e1ea23d89": {
+   "en": "Competitive 3D occupancy, LiDAR segmentation and 3D detection from cameras alone.",
+   "zh": "仅使用相机，即在 3D 占用、LiDAR 分割和 3D 检测上取得有竞争力的结果。",
+   "cls": "p"
+  },
+  "24fcca4a71": {
+   "en": "Vampire — volume rendering regulates dense intermediate 3D features for AV perception.",
+   "zh": "Vampire：体渲染约束自动驾驶感知中的稠密中间 3D 特征。",
+   "cls": "figcaption"
+  },
+  "774772238d": {
+   "en": "Accelerating AVs with the Next Generation of Generative AI (Keynote)",
+   "zh": "Accelerating AVs with the Next Generation of Generative AI (Keynote)",
+   "cls": "attr:data-toc"
+  },
+  "b4078e8429": {
+   "en": "{1}Raquel Urtasun (keynote){/1} · Waabi",
+   "zh": "{1}Raquel Urtasun（主题演讲）{/1} · Waabi",
+   "cls": "div.byline"
+  },
+  "4007969014": {
+   "en": "Rethink autonomous driving with scalable generative-AI simulation and foundation models.",
+   "zh": "借助可扩展的生成式 AI 仿真和基础模型，重新思考自动驾驶。",
+   "cls": "p"
+  },
+  "88870b5237": {
+   "en": "Real-world AV testing is labor- and capital-intensive; rare events are hard; the industry is consolidating.",
+   "zh": "真实世界的自动驾驶测试耗费人力和资金；罕见事件难以覆盖；行业正在整合。",
+   "cls": "p"
+  },
+  "f4debcc5f5": {
+   "en": "Deep structure models — scalable, affordable optimization",
+   "zh": "深度结构模型：可扩展、低成本的优化",
+   "cls": "li"
+  },
+  "c64ba00d64": {
+   "en": "Waabi World: an AI simulator that builds digital twins from raw sensor data",
+   "zh": "Waabi World：从原始传感器数据构建数字孪生的 AI 仿真器",
+   "cls": "li"
+  },
+  "9021ece375": {
+   "en": "Waabi Driver: an interpretable foundation model learning from simulation + real data",
+   "zh": "Waabi Driver：从仿真数据和真实数据中学习的可解释基础模型",
+   "cls": "li"
+  },
+  "84b07da573": {
+   "en": "Generative-AI simulation plus an interpretable, verifiable AV foundation model.",
+   "zh": "生成式 AI 仿真，加上可解释、可验证的自动驾驶基础模型。",
+   "cls": "p"
+  },
+  "8519c79974": {
+   "en": "Faster, safer, more scalable AV deployment without endless real-world miles.",
+   "zh": "无需无休止的真实路测里程，即可更快、更安全、更可扩展地部署自动驾驶。",
+   "cls": "p"
+  },
+  "78a902db71": {
+   "en": "Waabi World + Waabi Driver — generative-AI simulation and an interpretable AV foundation model.",
+   "zh": "Waabi World + Waabi Driver：生成式 AI 仿真和可解释的自动驾驶基础模型。",
+   "cls": "figcaption"
+  },
+  "0b2db08bbe": {
+   "en": "Efficient Knowledge Transfer for Spiking Neural Networks from Static to Event Domain",
+   "zh": "Efficient Knowledge Transfer for Spiking Neural Networks from Static to Event Domain",
+   "cls": "attr:data-toc"
+  },
+  "f2b1154959": {
+   "en": "{1}SNN static→event transfer{/1} · AAAI 2024",
+   "zh": "{1}SNN 从静态到事件的迁移{/1} · AAAI 2024",
+   "cls": "div.byline"
+  },
+  "dc557c2bb7": {
+   "en": "Train spiking neural networks (SNNs) well on scarce event-based neuromorphic data.",
+   "zh": "在稀缺的事件型神经形态数据上训练好脉冲神经网络（SNN）。",
+   "cls": "p"
+  },
+  "86df71ef7e": {
+   "en": "Event datasets are small and under-annotated → SNNs overfit; there is a static↔event domain mismatch.",
+   "zh": "事件数据集小且标注不足，导致 SNN 过拟合；静态域与事件域之间存在差异。",
+   "cls": "p"
+  },
+  "91f0fc4450": {
+   "en": "Use static images to assist SNN training",
+   "zh": "用静态图像辅助 SNN 训练",
+   "cls": "li"
+  },
+  "48e3bc55fd": {
+   "en": "A knowledge-transfer loss: domain-alignment + spatio-temporal regularization",
+   "zh": "知识迁移损失：域对齐 + 时空正则化",
+   "cls": "li"
+  },
+  "da45e1d9e9": {
+   "en": "A sliding training strategy from static-invariant features to full event processing",
+   "zh": "滑动式训练策略：从静态不变特征过渡到完整的事件处理",
+   "cls": "li"
+  },
+  "3a4d6f1331": {
+   "en": "A domain-alignment + spatio-temporal transfer that fuses static and event features.",
+   "zh": "域对齐 + 时空迁移，融合静态特征与事件特征。",
+   "cls": "p"
+  },
+  "ae9e8a190d": {
+   "en": "Better-generalizing, less-overfit SNNs for neuromorphic event vision.",
+   "zh": "面向神经形态事件视觉，泛化更好、过拟合更少的 SNN。",
+   "cls": "p"
+  },
+  "2acea491bf": {
+   "en": "Static→event knowledge transfer for spiking neural networks via domain alignment.",
+   "zh": "通过域对齐实现脉冲神经网络从静态到事件的知识迁移。",
+   "cls": "figcaption"
+  },
+  "34f6a51185": {
+   "en": "Graph Invariant Learning with Subgraph Co-mixup for OOD Generalization",
+   "zh": "Graph Invariant Learning with Subgraph Co-mixup for OOD Generalization",
+   "cls": "attr:data-toc"
+  },
+  "83edf70d9d": {
+   "en": "{1}Graph invariant learning (co-mixup){/1} · AAAI 2024",
+   "zh": "{1}图不变学习（co-mixup）{/1} · AAAI 2024",
+   "cls": "div.byline"
+  },
+  "dfcf40e302": {
+   "en": "Make graph neural networks generalize under distribution shift (out-of-distribution).",
+   "zh": "让图神经网络在分布偏移（分布外）下仍能泛化。",
+   "cls": "p"
+  },
+  "8742724eca": {
+   "en": "GNNs generalize poorly OOD; invariant learning needs diverse environments; mixup blurs invariant vs environment subgraphs.",
+   "zh": "GNN 在分布外泛化较差；不变学习需要多样的环境；mixup 会模糊不变子图与环境子图的界限。",
+   "cls": "p"
+  },
+  "e604534521": {
+   "en": "An invariant-subgraph extractor separates invariant vs environment subgraphs",
+   "zh": "不变子图提取器区分不变子图与环境子图",
+   "cls": "li"
+  },
+  "ed11988c38": {
+   "en": "Environment Mixup + Invariant Mixup generate diverse training environments",
+   "zh": "Environment Mixup + Invariant Mixup 生成多样的训练环境",
+   "cls": "li"
+  },
+  "b322b4e67f": {
+   "en": "Retain only invariant information, removing spurious correlations",
+   "zh": "只保留不变信息，去除伪相关",
+   "cls": "li"
+  },
+  "5a4c90b062": {
+   "en": "Subgraph co-mixup combining invariant learning with environment mixing.",
+   "zh": "子图 co-mixup，将不变学习与环境混合结合起来。",
+   "cls": "p"
+  },
+  "8fe98f005b": {
+   "en": "Stronger OOD generalization for molecular, protein and social graphs.",
+   "zh": "在分子图、蛋白质图和社交图上实现更强的分布外泛化。",
+   "cls": "p"
+  },
+  "953fd11578": {
+   "en": "Graph invariant learning with environment / invariant subgraph co-mixup for OOD.",
+   "zh": "结合环境 / 不变子图 co-mixup 的图不变学习，用于分布外泛化。",
+   "cls": "figcaption"
+  },
+  "200d93941a": {
+   "en": "04 · Conclusions",
+   "zh": "04 · 结论",
+   "cls": "div.kicker"
+  },
+  "a292606210": {
+   "en": "Synthesis across the papers",
+   "zh": "各篇论文的综合",
+   "cls": "h2"
+  },
+  "b4510362a5": {
+   "en": "Insights",
+   "zh": "洞察",
+   "cls": "h4"
+  },
+  "7d07479bf0": {
+   "en": "LLMs dominate AAAI 2024, but the theme is reliability — citations (CoT + CIM), symbolic solvers (SYRELM), grounding (cognitive agents) and probing rationality limits.",
+   "zh": "大语言模型主导了 AAAI 2024，但主题是可靠性：引用（CoT + CIM）、符号求解器（SYRELM）、落地（认知智能体）以及探查理性边界。",
+   "cls": "li"
+  },
+  "0005f488fd": {
+   "en": "Foundation / multimodal models reach high-stakes domains — pathology (PathAsst) and healthcare treatment effects with knowledge graphs (KG-TREAT).",
+   "zh": "基础模型 / 多模态模型进入高风险领域：病理（PathAsst），以及结合知识图谱的医疗治疗效应估计（KG-TREAT）。",
+   "cls": "li"
+  },
+  "79569aa575": {
+   "en": "Physics- and structure-informed generative models (SPDiff, Vampire, Waabi) bring realism and verifiability to simulation and autonomous driving.",
+   "zh": "融入物理与结构知识的生成模型（SPDiff、Vampire、Waabi）为仿真和自动驾驶带来真实性和可验证性。",
+   "cls": "li"
+  },
+  "40b0906c4f": {
+   "en": "Vision",
+   "zh": "愿景",
+   "cls": "h4"
+  },
+  "e6e4854840": {
+   "en": "Interpretable, verifiable foundation models (Urtasun / Waabi) over black boxes.",
+   "zh": "可解释、可验证的基础模型（Urtasun / Waabi），而非黑箱。",
+   "cls": "li"
+  },
+  "c767ed3ae4": {
+   "en": "Hybrid neuro-symbolic and LLM + cognitive-architecture systems that curb hallucination.",
+   "zh": "神经符号混合系统，以及大语言模型 + 认知架构系统，抑制幻觉。",
+   "cls": "li"
+  },
+  "8b91ddad7f": {
+   "en": "Efficiency and robustness: frugal LMs, neuromorphic SNNs and OOD-robust GNNs.",
+   "zh": "效率与鲁棒性：节俭的语言模型、神经形态 SNN 和抗分布外的 GNN。",
+   "cls": "li"
+  },
+  "5d8c81594f": {
+   "en": "Implications for us",
+   "zh": "对我们的启示",
+   "cls": "h4"
+  },
+  "5cb52f6e7b": {
+   "en": "Pair LLMs with retrieval, symbolic solvers and knowledge graphs for trustworthy, citeable outputs.",
+   "zh": "将大语言模型与检索、符号求解器和知识图谱结合，得到可信、可引用的输出。",
+   "cls": "li"
+  },
+  "290b296cbd": {
+   "en": "Use generative simulation and digital twins to cut real-world data and testing cost.",
+   "zh": "用生成式仿真和数字孪生，降低真实世界的数据和测试成本。",
+   "cls": "li"
+  },
+  "5567e7eaed": {
+   "en": "Invest in domain-adapted foundation models and OOD / robustness for deployment.",
+   "zh": "投入领域适配的基础模型，以及面向部署的分布外泛化 / 鲁棒性。",
+   "cls": "li"
+  },
+  "2b92ebc383": {
+   "en": "05 · References",
+   "zh": "05 · 参考文献",
+   "cls": "div.kicker"
+  },
+  "5d20d0fee3": {
+   "en": "References",
+   "zh": "参考文献",
+   "cls": "h2"
+  },
+  "c97dadf6c9": {
+   "en": "© 2026 {1}ALI{/1} — {2}Tech Insight{/2} v1.0.0",
+   "zh": "© 2026 {1}ALI{/1} — {2}Tech Insight{/2} v1.0.0",
+   "cls": "div.site-copyright"
+  },
+  "2fef2f9139": {
+   "en": "AAAI 2024 — Innovations in AI — Tech Insight Report",
+   "zh": "AAAI 2024 — Innovations in AI — Tech Insight 报告",
+   "cls": "doctitle"
+  },
+  "ee45c30326": {
+   "en": "Report",
+   "zh": "报告",
+   "cls": "div.kicker"
+  },
+  "a841ad603d": {
+   "en": "AAAI 2024 — Innovations in AI",
+   "zh": "AAAI 2024 — Innovations in AI",
+   "cls": "h1"
+  },
+  "b5eb21d6f5": {
+   "en": "38th Annual AAAI Conference on Artificial Intelligence (AAAI-24) · Vancouver, Canada · February 20–27, 2024",
+   "zh": "38th Annual AAAI Conference on Artificial Intelligence (AAAI-24) · 加拿大温哥华 · 2024 年 2 月 20–27 日",
+   "cls": "p.topic"
+  },
+  "8a1e29b3dd": {
+   "en": "Conference",
+   "zh": "会议",
+   "cls": "attr:data-toc"
+  },
+  "f5cbdf6bfb": {
+   "en": "Contents",
+   "zh": "目录",
+   "cls": "attr:data-toc"
+  },
+  "b4e6a31089": {
+   "en": "Intro",
+   "zh": "简介",
+   "cls": "attr:data-group"
+  },
+  "e3e91f3034": {
+   "en": "Conference statistics",
+   "zh": "会议统计",
+   "cls": "attr:data-toc"
+  },
+  "7863c0f85d": {
+   "en": "38th Annual AAAI Conference on Artificial Intelligence (AAAI-24) — Vancouver, Canada",
+   "zh": "38th Annual AAAI Conference on Artificial Intelligence (AAAI-24) — 加拿大温哥华",
+   "cls": "h2"
+  },
+  "a5a2bd6a3e": {
+   "en": "Insight 01 · Reliable LLM reasoning & generation",
+   "zh": "洞察 01 · 可靠的大语言模型推理与生成",
+   "cls": "div.kicker"
+  },
+  "ef5713ee0f": {
+   "en": "Insight 02 · Reliable LLM reasoning & generation",
+   "zh": "洞察 02 · 可靠的大语言模型推理与生成",
+   "cls": "div.kicker"
+  },
+  "b7708af045": {
+   "en": "Insight 03 · Reliable LLM reasoning & generation",
+   "zh": "洞察 03 · 可靠的大语言模型推理与生成",
+   "cls": "div.kicker"
+  },
+  "d4becdad64": {
+   "en": "Insight 04 · LLM agents & applied foundation models",
+   "zh": "洞察 04 · 大语言模型智能体与应用型基础模型",
+   "cls": "div.kicker"
+  },
+  "a02dfdee63": {
+   "en": "Insight 05 · LLM agents & applied foundation models",
+   "zh": "洞察 05 · 大语言模型智能体与应用型基础模型",
+   "cls": "div.kicker"
+  },
+  "45e3669459": {
+   "en": "Insight 06 · LLM agents & applied foundation models",
+   "zh": "洞察 06 · 大语言模型智能体与应用型基础模型",
+   "cls": "div.kicker"
+  },
+  "da01af99f8": {
+   "en": "Insight 07 · LLM agents & applied foundation models",
+   "zh": "洞察 07 · 大语言模型智能体与应用型基础模型",
+   "cls": "div.kicker"
+  },
+  "332990ac90": {
+   "en": "Insight 08 · LLM agents & applied foundation models",
+   "zh": "洞察 08 · 大语言模型智能体与应用型基础模型",
+   "cls": "div.kicker"
+  },
+  "9840371edf": {
+   "en": "Insight 09 · Simulation, perception & autonomous driving",
+   "zh": "洞察 09 · 仿真、感知与自动驾驶",
+   "cls": "div.kicker"
+  },
+  "f08330e20f": {
+   "en": "Insight 10 · Simulation, perception & autonomous driving",
+   "zh": "洞察 10 · 仿真、感知与自动驾驶",
+   "cls": "div.kicker"
+  },
+  "0afcdab746": {
+   "en": "Insight 11 · Simulation, perception & autonomous driving",
+   "zh": "洞察 11 · 仿真、感知与自动驾驶",
+   "cls": "div.kicker"
+  },
+  "560b09559c": {
+   "en": "Insight 12 · Robust & efficient learning",
+   "zh": "洞察 12 · 鲁棒且高效的学习",
+   "cls": "div.kicker"
+  },
+  "1adc2c21cc": {
+   "en": "Insight 13 · Robust & efficient learning",
+   "zh": "洞察 13 · 鲁棒且高效的学习",
+   "cls": "div.kicker"
+  },
+  "b536777ff1": {
+   "en": "Conclusions",
+   "zh": "结论",
+   "cls": "attr:data-toc"
+  },
+  "9e7085a1a7": {
+   "en": "<div class=\"fit\"><div class=\"concl\"><div class=\"col c1\"><h4>Insights</h4><ul><li>LLMs dominate AAAI 2024, but the theme is reliability — citations (CoT + CIM), symbolic solvers (SYRELM), grounding (cognitive agents) and probing rationality limits.</li><li>Foundation / multimodal models reach high-stakes domains — pathology (PathAsst) and healthcare treatment effects with knowledge graphs (KG-TREAT).</li><li>Physics- and structure-informed generative models (SPDiff, Vampire, Waabi) bring realism and verifiability to simulation and autonomous driving.</li></ul></div><div class=\"col c2\"><h4>Vision</h4><ul><li>Interpretable, verifiable foundation models (Urtasun / Waabi) over black boxes.</li><li>Hybrid neuro-symbolic and LLM + cognitive-architecture systems that curb hallucination.</li><li>Efficiency and robustness: frugal LMs, neuromorphic SNNs and OOD-robust GNNs.</li></ul></div><div class=\"col c3\"><h4>Implications for us</h4><ul><li>Pair LLMs with retrieval, symbolic solvers and knowledge graphs for trustworthy, citeable outputs.</li><li>Use generative simulation and digital twins to cut real-world data and testing cost.</li><li>Invest in domain-adapted foundation models and OOD / robustness for deployment.</li></ul></div></div></div>",
+   "zh": "<div class=\"fit\"><div class=\"concl\"><div class=\"col c1\"><h4>洞察</h4><ul><li>大语言模型主导了 AAAI 2024，但主题是可靠性：引用（CoT + CIM）、符号求解器（SYRELM）、落地（认知智能体）以及探查理性边界。</li><li>基础模型 / 多模态模型进入高风险领域：病理（PathAsst），以及结合知识图谱的医疗治疗效应估计（KG-TREAT）。</li><li>融入物理与结构知识的生成模型（SPDiff、Vampire、Waabi）为仿真和自动驾驶带来真实性和可验证性。</li></ul></div><div class=\"col c2\"><h4>愿景</h4><ul><li>可解释、可验证的基础模型（Urtasun / Waabi），而非黑箱。</li><li>神经符号混合系统，以及大语言模型 + 认知架构系统，抑制幻觉。</li><li>效率与鲁棒性：节俭的语言模型、神经形态 SNN 和抗分布外的 GNN。</li></ul></div><div class=\"col c3\"><h4>对我们的启示</h4><ul><li>将大语言模型与检索、符号求解器和知识图谱结合，得到可信、可引用的输出。</li><li>用生成式仿真和数字孪生，降低真实世界的数据和测试成本。</li><li>投入领域适配的基础模型，以及面向部署的分布外泛化 / 鲁棒性。</li></ul></div></div></div>",
+   "cls": "section.slide"
+  },
+  "fa39f733bd": {
+   "en": "Wrap-up",
+   "zh": "总结",
+   "cls": "attr:data-group"
+  },
+  "b2ec1abf35": {
+   "en": "Contents (T)",
+   "zh": "目录 (T)",
+   "cls": "button.toc-btn"
+  },
+  "c8453d1ba4": {
+   "en": "AAAI 2024 — Innovations in AI — Tech Insight Slides",
+   "zh": "AAAI 2024 — Innovations in AI — Tech Insight 幻灯片",
+   "cls": "doctitle"
+  },
+  "4718b93d9d": {
+   "en": "Tech Insight",
+   "zh": "Tech Insight",
+   "cls": "pptx"
+  },
+  "88aa4763ef": {
+   "en": "Tech Insight Report",
+   "zh": "Tech Insight 报告",
+   "cls": "pptx"
+  },
+  "26d6fa321f": {
+   "en": "Vancouver, Canada · February 20–27, 2024",
+   "zh": "加拿大温哥华 · 2024 年 2 月 20–27 日",
+   "cls": "pptx"
+  },
+  "d219c68101": {
+   "en": "Location",
+   "zh": "地点",
+   "cls": "pptx"
+  },
+  "196dc92a1b": {
+   "en": "Vancouver, Canada",
+   "zh": "加拿大温哥华",
+   "cls": "pptx"
+  },
+  "842b7b5d71": {
+   "en": "Dates",
+   "zh": "日期",
+   "cls": "pptx"
+  },
+  "8eacf5c86a": {
+   "en": "February 20–27, 2024",
+   "zh": "2024 年 2 月 20–27 日",
+   "cls": "pptx"
+  },
+  "fe7f55b8bf": {
+   "en": "Focus",
+   "zh": "主题",
+   "cls": "pptx"
+  },
+  "8f04d8bc4c": {
+   "en": "Reliable LLMs, Foundation Models, Simulation & Autonomous Driving",
+   "zh": "可靠的大语言模型、基础模型、仿真与自动驾驶",
+   "cls": "pptx"
+  },
+  "c7fb4a1c86": {
+   "en": "CONTENTS",
+   "zh": "目录",
+   "cls": "pptx"
+  },
+  "dd1a92a165": {
+   "en": "CONFERENCE STATISTICS",
+   "zh": "会议统计",
+   "cls": "pptx"
+  },
+  "8729316a87": {
+   "en": "submissions",
+   "zh": "投稿数",
+   "cls": "pptx"
+  },
+  "51c817ab85": {
+   "en": "accepted",
+   "zh": "录用数",
+   "cls": "pptx"
+  },
+  "0dfa061fea": {
+   "en": "acceptance",
+   "zh": "录用率",
+   "cls": "pptx"
+  },
+  "48f0bdc7c8": {
+   "en": "Vancouver",
+   "zh": "温哥华",
+   "cls": "pptx"
+  },
+  "f450c42fb7": {
+   "en": "Feb 20–27",
+   "zh": "2 月 20–27 日",
+   "cls": "pptx"
+  },
+  "9d848a567a": {
+   "en": "Also: The 38th AAAI Conference at the Vancouver Convention Centre — the 4th-ranked AI venue by h5-index. This report covers 13 papers, including a Waabi keynote.",
+   "zh": "另外：第 38 届 AAAI 会议在温哥华会议中心举行，按 h5-index 计为排名第 4 的 AI 会议。本报告涵盖 13 篇论文，其中包括一场 Waabi 的主题演讲。",
+   "cls": "pptx"
+  },
+  "4b643c2df7": {
+   "en": "INSIGHT 01 · Reliable LLM reasoning & generation",
+   "zh": "洞察 01 · 可靠的大语言模型推理与生成",
+   "cls": "pptx"
+  },
+  "50ea41a779": {
+   "en": "CoT + Citation Insurance Mechanism · AAAI 2024",
+   "zh": "CoT + 引用保险机制 · AAAI 2024",
+   "cls": "pptx"
+  },
+  "5fc1004412": {
+   "en": "GOAL",
+   "zh": "目标",
+   "cls": "pptx"
+  },
+  "14a31b13de": {
+   "en": "• Enable LLMs to generate text with accurate citations, improving answer correctness and citation quality.",
+   "zh": "• 让大语言模型生成带有准确引用的文本，提升答案的正确性和引用质量。",
+   "cls": "pptx"
+  },
+  "e9166b5b8a": {
+   "en": "CHALLENGE",
+   "zh": "挑战",
+   "cls": "pptx"
+  },
+  "7d51ae329d": {
+   "en": "• LLMs hallucinate and struggle to synthesize and properly cite across multiple documents.",
+   "zh": "• 大语言模型会产生幻觉，难以综合多篇文档并正确引用。",
+   "cls": "pptx"
+  },
+  "098632eb27": {
+   "en": "METHOD",
+   "zh": "方法",
+   "cls": "pptx"
+  },
+  "44180c6fb7": {
+   "en": "• Chain-of-Thought prompting to synthesize answers with citations",
+   "zh": "• 用 Chain-of-Thought 提示词综合答案并附上引用",
+   "cls": "pptx"
+  },
+  "49281d49cd": {
+   "en": "• Four prompting strategies: Vanilla, Summ, Snippet, Oracle",
+   "zh": "• 四种提示词策略：Vanilla、Summ、Snippet、Oracle",
+   "cls": "pptx"
+  },
+  "1b5aa98122": {
+   "en": "• A Citation Insurance Mechanism (CIM) detects and fixes missing citations (LLM- and IR-based)",
+   "zh": "• 引用保险机制（CIM）检测并修复缺失的引用（基于大语言模型和基于 IR）",
+   "cls": "pptx"
+  },
+  "c427fc98ea": {
+   "en": "NOVELTY",
+   "zh": "创新点",
+   "cls": "pptx"
+  },
+  "d62f871ad6": {
+   "en": "• Combines CoT reasoning with a citation-insurance mechanism to guarantee citations.",
+   "zh": "• 将 CoT 推理与引用保险机制结合，保证引用的完整。",
+   "cls": "pptx"
+  },
+  "c5c9f56f26": {
+   "en": "IMPACT",
+   "zh": "影响",
+   "cls": "pptx"
+  },
+  "ee411506ad": {
+   "en": "• Consistent gains in citation recall/precision, correctness and fluency on ALCE across six LLMs (13–70B).",
+   "zh": "• 在 ALCE 上，六个大语言模型（13–70B）的引用召回率/精确率、正确性和流畅度均持续提升。",
+   "cls": "pptx"
+  },
+  "e849591bab": {
+   "en": "INSIGHT 02 · Reliable LLM reasoning & generation",
+   "zh": "洞察 02 · 可靠的大语言模型推理与生成",
+   "cls": "pptx"
+  },
+  "48c0448af6": {
+   "en": "LLMs as rational players · AAAI 2024",
+   "zh": "大语言模型作为理性参与者 · AAAI 2024",
+   "cls": "pptx"
+  },
+  "1bdc8aa02c": {
+   "en": "• Assess whether LLMs can act as rational players in social-science game experiments.",
+   "zh": "• 评估大语言模型能否在社会科学博弈实验中扮演理性参与者。",
+   "cls": "pptx"
+  },
+  "54dd720b8c": {
+   "en": "• Rationality requires building desires, refining beliefs under uncertainty, and taking optimal actions.",
+   "zh": "• 理性要求形成欲望、在不确定性下修正信念，并采取最优行动。",
+   "cls": "pptx"
+  },
+  "f39113a52a": {
+   "en": "• Three classic games: dictator, rock-paper-scissors, ring-network",
+   "zh": "• 三个经典博弈：独裁者博弈、石头剪刀布、环形网络博弈",
+   "cls": "pptx"
+  },
+  "59a25e89c4": {
+   "en": "• Evaluate desire, belief refinement and optimal action",
+   "zh": "• 评估欲望、信念修正和最优行动",
+   "cls": "pptx"
+  },
+  "7939ad4762": {
+   "en": "• Systematic analysis across LLMs including GPT-4",
+   "zh": "• 对包括 GPT-4 在内的多个大语言模型进行系统分析",
+   "cls": "pptx"
+  },
+  "50ca56b22e": {
+   "en": "• A systematic framework for probing the rationality boundaries of LLMs in game theory.",
+   "zh": "• 一个用于探查大语言模型在博弈论中理性边界的系统框架。",
+   "cls": "pptx"
+  },
+  "8fcf62afc6": {
+   "en": "• LLMs show basic desire but struggle with belief refinement; GPT-4 is sometimes human-like — guidance for social-science use.",
+   "zh": "• 大语言模型具备基本的欲望，但在信念修正上表现不佳；GPT-4 有时接近人类，为社会科学应用提供参考。",
+   "cls": "pptx"
+  },
+  "cc2f13b2fc": {
+   "en": "INSIGHT 03 · Reliable LLM reasoning & generation",
+   "zh": "洞察 03 · 可靠的大语言模型推理与生成",
+   "cls": "pptx"
+  },
+  "f18a27b539": {
+   "en": "SYRELM · AAAI 2024",
+   "zh": "SYRELM · AAAI 2024",
+   "cls": "pptx"
+  },
+  "cf627b98e4": {
+   "en": "• Achieve parameter-efficient, interpretable arithmetic reasoning without massive LLMs.",
+   "zh": "• 不依赖超大规模大语言模型，实现参数高效、可解释的算术推理。",
+   "cls": "pptx"
+  },
+  "ceda6ff140": {
+   "en": "• LLMs are resource-intensive and unreliable for arithmetic reasoning.",
+   "zh": "• 大语言模型资源消耗大，且在算术推理上不可靠。",
+   "cls": "pptx"
+  },
+  "63e70d46af": {
+   "en": "• Translate natural-language questions into formal language (e.g. Python) for a symbolic solver",
+   "zh": "• 将自然语言问题翻译成形式语言（如 Python），交给符号求解器处理",
+   "cls": "pptx"
+  },
+  "954f8d50f4": {
+   "en": "• Fine-tune a small LM with a Low-Rank Adapter (LoRA)",
+   "zh": "• 用低秩适配器（LoRA）微调一个小型语言模型",
+   "cls": "pptx"
+  },
+  "49de3c7d25": {
+   "en": "• Optimize with PPO using a reasoning-specific reward (compilation, variable/operator match, answer error)",
+   "zh": "• 用 PPO 优化，使用针对推理的奖励（编译、变量/运算符匹配、答案误差）",
+   "cls": "pptx"
+  },
+  "a67431c90e": {
+   "en": "• A frugal LM + symbolic solver, with middle-school-math pedagogy shaping the reward.",
+   "zh": "• 节俭的语言模型加符号求解器，并以初中数学教学法来设计奖励。",
+   "cls": "pptx"
+  },
+  "945aeeab15": {
+   "en": "• Strong arithmetic gains with a small, accessible, interpretable alternative to huge LLMs.",
+   "zh": "• 算术能力显著提升，是大型语言模型之外小巧、易获取、可解释的替代方案。",
+   "cls": "pptx"
+  },
+  "92b0b90682": {
+   "en": "INSIGHT 04 · LLM agents & applied foundation models",
+   "zh": "洞察 04 · 大语言模型智能体与应用型基础模型",
+   "cls": "pptx"
+  },
+  "a3f976609b": {
+   "en": "PromptGAT · AAAI 2024",
+   "zh": "PromptGAT · AAAI 2024",
+   "cls": "pptx"
+  },
+  "b0aa76070e": {
+   "en": "• Close the sim-to-real gap for reinforcement-learning traffic signal control.",
+   "zh": "• 缩小强化学习交通信号控制中的仿真到现实差距。",
+   "cls": "pptx"
+  },
+  "35edd63cc9": {
+   "en": "• Grounded Action Transformation (GAT) struggles with unobserved states; prompt learning was untried for sim-to-real.",
+   "zh": "• Grounded Action Transformation (GAT) 难以处理未观测到的状态；提示词学习尚未用于仿真到现实迁移。",
+   "cls": "pptx"
+  },
+  "2ccf22302f": {
+   "en": "• Use LLMs to improve GAT's forward (dynamics) model",
+   "zh": "• 用大语言模型改进 GAT 的前向（动力学）模型",
+   "cls": "pptx"
+  },
+  "9f09c7b1bc": {
+   "en": "• Prompt-based grounded action transformation aligns policy with realistic dynamics",
+   "zh": "• 基于提示词的 grounded action transformation 使策略与真实动力学对齐",
+   "cls": "pptx"
+  },
+  "32d017377d": {
+   "en": "• Evaluate on four traffic-signal-control scenarios",
+   "zh": "• 在四个交通信号控制场景中评估",
+   "cls": "pptx"
+  },
+  "210cab2c00": {
+   "en": "• First to bring prompt learning (LLMs) into sim-to-real grounded action transformation.",
+   "zh": "• 首次将提示词学习（大语言模型）引入仿真到现实的 grounded action transformation。",
+   "cls": "pptx"
+  },
+  "89c4635bec": {
+   "en": "• Mitigates the RL sim-to-real performance gap for urban traffic control.",
+   "zh": "• 缓解城市交通控制中强化学习的仿真到现实性能差距。",
+   "cls": "pptx"
+  },
+  "d247b61d84": {
+   "en": "INSIGHT 05 · LLM agents & applied foundation models",
+   "zh": "洞察 05 · 大语言模型智能体与应用型基础模型",
+   "cls": "pptx"
+  },
+  "d298640c69": {
+   "en": "Conversational artifacts · AAAI 2024",
+   "zh": "对话式工件 · AAAI 2024",
+   "cls": "pptx"
+  },
+  "83ddfbd76a": {
+   "en": "• Make API/RPA automation usable by non-technical users via conversational digital assistants.",
+   "zh": "• 通过对话式数字助手，让非技术用户也能使用 API/RPA 自动化。",
+   "cls": "pptx"
+  },
+  "ba7193f835": {
+   "en": "• Domain knowledge and LLM fine-tuning are costly (esp. for SMEs); LLMs at runtime risk trust and indemnity.",
+   "zh": "• 领域知识和大语言模型微调成本高（尤其对中小企业）；在运行时使用大语言模型会带来信任和赔偿责任风险。",
+   "cls": "pptx"
+  },
+  "ff59f58241": {
+   "en": "• Human-guided authoring of API services as chatbot skills",
+   "zh": "• 由人引导，把 API 服务编写成聊天机器人技能",
+   "cls": "pptx"
+  },
+  "34dc4b696b": {
+   "en": "• LLMs used only in the build phase — pre-generate and review conversational artifacts",
+   "zh": "• 仅在构建阶段使用大语言模型：预先生成并审核对话式工件",
+   "cls": "pptx"
+  },
+  "953efec0ce": {
+   "en": "• Intent classification, question generation and Next-Best-Agent via ChromaDB + MiniLM",
+   "zh": "• 通过 ChromaDB + MiniLM 实现意图分类、问题生成和 Next-Best-Agent",
+   "cls": "pptx"
+  },
+  "63bcf197e5": {
+   "en": "• Pre-generated, reviewed artifacts remove LLMs from user interactions entirely.",
+   "zh": "• 预先生成并经过审核的工件，使用户交互中完全不再需要大语言模型。",
+   "cls": "pptx"
+  },
+  "384cdabe05": {
+   "en": "• Lower build effort, trustworthy automation and an automated DevOps deployment pipeline.",
+   "zh": "• 更低的构建成本、可信的自动化，以及自动化的 DevOps 部署流水线。",
+   "cls": "pptx"
+  },
+  "210ac3da47": {
+   "en": "INSIGHT 06 · LLM agents & applied foundation models",
+   "zh": "洞察 06 · 大语言模型智能体与应用型基础模型",
+   "cls": "pptx"
+  },
+  "2afb467247": {
+   "en": "PathAsst · AAAI 2024",
+   "zh": "PathAsst · AAAI 2024",
+   "cls": "pptx"
+  },
+  "1642218e14": {
+   "en": "• Build a multimodal generative foundation assistant for diagnostic and predictive pathology.",
+   "zh": "• 构建面向诊断和预测病理的多模态生成式基础助手。",
+   "cls": "pptx"
+  },
+  "931ef8f8b3": {
+   "en": "• Pathology multimodal models are limited by scarce tailored data and model frameworks.",
+   "zh": "• 病理多模态模型受限于缺乏针对性的数据和模型框架。",
+   "cls": "pptx"
+  },
+  "050f3d9895": {
+   "en": "• Collect 207K pathology image-text pairs + 180K ChatGPT instruction samples (PathCap, PathInstruct)",
+   "zh": "• 收集 207K 病理图文对 + 180K ChatGPT 指令样本（PathCap、PathInstruct）",
+   "cls": "pptx"
+  },
+  "5d9fb08aad": {
+   "en": "• Build PathCLIP, a pathology-dedicated CLIP model",
+   "zh": "• 构建 PathCLIP，一个病理专用的 CLIP 模型",
+   "cls": "pptx"
+  },
+  "caea0c64c8": {
+   "en": "• Integrate PathCLIP with Vicuna-13B, plus eight pathology-specific sub-models",
+   "zh": "• 将 PathCLIP 与 Vicuna-13B 集成，并加入八个病理专用子模型",
+   "cls": "pptx"
+  },
+  "28f7dfd6f5": {
+   "en": "• A pathology-dedicated CLIP + instruction-tuned assistant toward pathology AGI.",
+   "zh": "• 病理专用的 CLIP 加指令微调的助手，迈向病理 AGI。",
+   "cls": "pptx"
+  },
+  "0a1d309ddf": {
+   "en": "• Stronger diagnostic and predictive analytics on digitized histopathology.",
+   "zh": "• 在数字化组织病理图像上实现更强的诊断和预测分析。",
+   "cls": "pptx"
+  },
+  "fcd46b8354": {
+   "en": "INSIGHT 07 · LLM agents & applied foundation models",
+   "zh": "洞察 07 · 大语言模型智能体与应用型基础模型",
+   "cls": "pptx"
+  },
+  "f2632899d3": {
+   "en": "LLM-bootstrapped cognitive agents · AAAI 2024",
+   "zh": "大语言模型引导的认知智能体 · AAAI 2024",
+   "cls": "pptx"
+  },
+  "abd7dbb884": {
+   "en": "• Combine LLM common-sense with a cognitive architecture for embodied tasks.",
+   "zh": "• 将大语言模型的常识与认知架构结合，用于具身任务。",
+   "cls": "pptx"
+  },
+  "2eba753f80": {
+   "en": "• Cognitive architectures need knowledge; LLMs hallucinate and need grounding.",
+   "zh": "• 认知架构需要知识；大语言模型会产生幻觉，需要落地。",
+   "cls": "pptx"
+  },
+  "37279087aa": {
+   "en": "• Separate knowledge generation (LLM) from application (cognitive architecture)",
+   "zh": "• 将知识生成（大语言模型）与知识应用（认知架构）分离",
+   "cls": "pptx"
+  },
+  "76d0f7c3b2": {
+   "en": "• Generate English action descriptions → executable Python production rules; a critic LLM improves them",
+   "zh": "• 生成英文动作描述 → 可执行的 Python 产生式规则；由一个评审大语言模型加以改进",
+   "cls": "pptx"
+  },
+  "a43094547a": {
+   "en": "• Production reinforcement updates utilities; evaluate in AI2THOR kitchens (find / slice / clear)",
+   "zh": "• 产生式强化更新效用值；在 AI2THOR 厨房中评估（查找 / 切 / 清理）",
+   "cls": "pptx"
+  },
+  "8dea7e4707": {
+   "en": "• A modular LLM + cognitive-architecture bootstrap that curbs hallucination and generalizes.",
+   "zh": "• 模块化的大语言模型 + 认知架构引导方式，可抑制幻觉并具备泛化能力。",
+   "cls": "pptx"
+  },
+  "58b792273d": {
+   "en": "• More efficient, adaptable embodied agents that need minimal LLM help at runtime.",
+   "zh": "• 更高效、适应性更强的具身智能体，运行时只需极少的大语言模型协助。",
+   "cls": "pptx"
+  },
+  "f30126b1a8": {
+   "en": "INSIGHT 08 · LLM agents & applied foundation models",
+   "zh": "洞察 08 · 大语言模型智能体与应用型基础模型",
+   "cls": "pptx"
+  },
+  "5970014f4d": {
+   "en": "KG-TREAT · AAAI 2024",
+   "zh": "KG-TREAT · AAAI 2024",
+   "cls": "pptx"
+  },
+  "30e189a41d": {
+   "en": "• Improve treatment-effect estimation (TEE) by combining patient data with biomedical knowledge graphs.",
+   "zh": "• 结合患者数据与生物医学知识图谱，改进治疗效果估计（TEE）。",
+   "cls": "pptx"
+  },
+  "140369aef2": {
+   "en": "• Small labeled data and sparse, high-dimensional records; full KGs add noise and miss causal links.",
+   "zh": "• 标注数据少，记录稀疏且维度高；完整知识图谱会引入噪声，且遗漏因果联系。",
+   "cls": "pptx"
+  },
+  "bcc9ccdc3d": {
+   "en": "• Dual-focus personalized KGs (treatment-covariate and outcome-covariate)",
+   "zh": "• 双焦点个性化知识图谱（治疗-协变量与结局-协变量）",
+   "cls": "pptx"
+  },
+  "88137cdc03": {
+   "en": "• Deep bi-level attention synergy (DIVE) across covariates, treatments and outcomes",
+   "zh": "• 跨协变量、治疗与结局的深度双层注意力协同（DIVE）",
+   "cls": "pptx"
+  },
+  "2eab372e46": {
+   "en": "• Pre-train with masked-code + link prediction, then fine-tune for TEE",
+   "zh": "• 先用掩码编码加链接预测进行预训练，再针对 TEE 微调",
+   "cls": "pptx"
+  },
+  "925dbb8a78": {
+   "en": "• Dual-focus PKGs + bi-level attention deeply fuse patient data and knowledge graphs.",
+   "zh": "• 双焦点 PKG 加双层注意力，深度融合患者数据与知识图谱。",
+   "cls": "pptx"
+  },
+  "05b6ba59d8": {
+   "en": "• Beats baselines on AUC / AUPR / IF-PEHE — better, generalizable treatment-effect estimation.",
+   "zh": "• 在 AUC / AUPR / IF-PEHE 上优于基线——治疗效果估计更好，泛化性更强。",
+   "cls": "pptx"
+  },
+  "482a9ac24e": {
+   "en": "INSIGHT 09 · Simulation, perception & autonomous driving",
+   "zh": "洞察 09 · 仿真、感知与自动驾驶",
+   "cls": "pptx"
+  },
+  "cc0434ecae": {
+   "en": "SPDiff · AAAI 2024",
+   "zh": "SPDiff · AAAI 2024",
+   "cls": "pptx"
+  },
+  "366eb13cd1": {
+   "en": "• Produce realistic, generalizable crowd simulation for urban planning and traffic.",
+   "zh": "• 为城市规划与交通生成真实、可泛化的人群仿真。",
+   "cls": "pptx"
+  },
+  "48a7cbe0dc": {
+   "en": "• Physics models miss micro motion; data-driven methods don't generalize; trajectories are complex and heterogeneous.",
+   "zh": "• 物理模型无法刻画微观运动；数据驱动方法泛化性差；轨迹复杂且异质。",
+   "cls": "pptx"
+  },
+  "9d4ad5e2a0": {
+   "en": "• A conditional denoising diffusion model infused with Social-Force physics",
+   "zh": "• 融入社会力物理的条件去噪扩散模型",
+   "cls": "pptx"
+  },
+  "2ef73aaa61": {
+   "en": "• Equivariant / invariant constraints on position, velocity and acceleration",
+   "zh": "• 对位置、速度和加速度施加等变/不变约束",
+   "cls": "pptx"
+  },
+  "852da1017e": {
+   "en": "• Multi-frame rollout training for long horizons; a graph network for interactions",
+   "zh": "• 面向长时程的多帧展开训练；用图网络建模交互",
+   "cls": "pptx"
+  },
+  "3b3b615f25": {
+   "en": "• Infuses physical knowledge and equivariance into a diffusion model for crowds.",
+   "zh": "• 将物理知识与等变性融入人群扩散模型。",
+   "cls": "pptx"
+  },
+  "4dcf6353a6": {
+   "en": "• More realistic, generalizable long-horizon crowd simulation.",
+   "zh": "• 更真实、可泛化的长时程人群仿真。",
+   "cls": "pptx"
+  },
+  "a80c3606c8": {
+   "en": "INSIGHT 10 · Simulation, perception & autonomous driving",
+   "zh": "洞察 10 · 仿真、感知与自动驾驶",
+   "cls": "pptx"
+  },
+  "c0d97a9a76": {
+   "en": "Vampire · AAAI 2024",
+   "zh": "Vampire · AAAI 2024",
+   "cls": "pptx"
+  },
+  "ab01eae3b5": {
+   "en": "• Generate better dense 3D features for multi-camera autonomous-driving perception.",
+   "zh": "• 为多相机自动驾驶感知生成更好的稠密 3D 特征。",
+   "cls": "pptx"
+  },
+  "44a7f19988": {
+   "en": "• Multi-camera perception struggles to produce dense, useful 3D features.",
+   "zh": "• 多相机感知难以产生稠密且有用的 3D 特征。",
+   "cls": "pptx"
+  },
+  "0e3c91490d": {
+   "en": "• LSS 2D→3D transform; a 3D hourglass inpaints sparse features into dense ones",
+   "zh": "• LSS 2D→3D 变换；3D 沙漏网络将稀疏特征补全为稠密特征",
+   "cls": "pptx"
+  },
+  "bbe391c071": {
+   "en": "• Volume rendering as a regulator for dense 3D features (camera and bird's-eye view)",
+   "zh": "• 以体渲染作为稠密 3D 特征的正则器（相机视角与鸟瞰视角）",
+   "cls": "pptx"
+  },
+  "63a635ff7b": {
+   "en": "• Signed-Distance-Function-modeled density + semantic volumes",
+   "zh": "• 以符号距离函数建模的密度体与语义体",
+   "cls": "pptx"
+  },
+  "b9e5d625e5": {
+   "en": "• Uses volume rendering as a regulator for intermediate 3D features across tasks.",
+   "zh": "• 在多个任务中，以体渲染作为中间 3D 特征的正则器。",
+   "cls": "pptx"
+  },
+  "82f6205cdf": {
+   "en": "• Competitive 3D occupancy, LiDAR segmentation and 3D detection from cameras alone.",
+   "zh": "• 仅用相机即可在 3D 占用、激光雷达分割和 3D 检测上取得有竞争力的结果。",
+   "cls": "pptx"
+  },
+  "3b68b0671b": {
+   "en": "INSIGHT 11 · Simulation, perception & autonomous driving",
+   "zh": "洞察 11 · 仿真、感知与自动驾驶",
+   "cls": "pptx"
+  },
+  "9eeadd8b01": {
+   "en": "Raquel Urtasun (keynote) · Waabi",
+   "zh": "Raquel Urtasun (keynote) · Waabi",
+   "cls": "pptx"
+  },
+  "28d6d407ae": {
+   "en": "• Rethink autonomous driving with scalable generative-AI simulation and foundation models.",
+   "zh": "• 用可扩展的生成式 AI 仿真和基础模型重新思考自动驾驶。",
+   "cls": "pptx"
+  },
+  "f47791055a": {
+   "en": "• Real-world AV testing is labor- and capital-intensive; rare events are hard; the industry is consolidating.",
+   "zh": "• 真实世界的自动驾驶测试耗费人力和资金；罕见事件难以获得；行业正在整合。",
+   "cls": "pptx"
+  },
+  "65be254d94": {
+   "en": "• Deep structure models — scalable, affordable optimization",
+   "zh": "• 深度结构模型——可扩展、低成本的优化",
+   "cls": "pptx"
+  },
+  "cd14cb8fa7": {
+   "en": "• Waabi World: an AI simulator that builds digital twins from raw sensor data",
+   "zh": "• Waabi World：从原始传感器数据构建数字孪生的 AI 模拟器",
+   "cls": "pptx"
+  },
+  "30926b486a": {
+   "en": "• Waabi Driver: an interpretable foundation model learning from simulation + real data",
+   "zh": "• Waabi Driver：从仿真与真实数据中学习的可解释基础模型",
+   "cls": "pptx"
+  },
+  "e21deffd76": {
+   "en": "• Generative-AI simulation plus an interpretable, verifiable AV foundation model.",
+   "zh": "• 生成式 AI 仿真，加上可解释、可验证的自动驾驶基础模型。",
+   "cls": "pptx"
+  },
+  "9e50144388": {
+   "en": "• Faster, safer, more scalable AV deployment without endless real-world miles.",
+   "zh": "• 无需无尽的真实路测里程，即可更快、更安全、更可扩展地部署自动驾驶。",
+   "cls": "pptx"
+  },
+  "271dd44e31": {
+   "en": "INSIGHT 12 · Robust & efficient learning",
+   "zh": "洞察 12 · 稳健高效的学习",
+   "cls": "pptx"
+  },
+  "236a737469": {
+   "en": "SNN static→event transfer · AAAI 2024",
+   "zh": "SNN static→event transfer · AAAI 2024",
+   "cls": "pptx"
+  },
+  "5cac4eb4f7": {
+   "en": "• Train spiking neural networks (SNNs) well on scarce event-based neuromorphic data.",
+   "zh": "• 在稀缺的事件型类脑数据上训练好脉冲神经网络（SNN）。",
+   "cls": "pptx"
+  },
+  "79f5cea68e": {
+   "en": "• Event datasets are small and under-annotated → SNNs overfit; there is a static↔event domain mismatch.",
+   "zh": "• 事件数据集小且标注不足，导致 SNN 过拟合；静态与事件之间存在域差异。",
+   "cls": "pptx"
+  },
+  "19c02581da": {
+   "en": "• Use static images to assist SNN training",
+   "zh": "• 用静态图像辅助 SNN 训练",
+   "cls": "pptx"
+  },
+  "95f235c21d": {
+   "en": "• A knowledge-transfer loss: domain-alignment + spatio-temporal regularization",
+   "zh": "• 知识迁移损失：域对齐加时空正则化",
+   "cls": "pptx"
+  },
+  "4248b116c8": {
+   "en": "• A sliding training strategy from static-invariant features to full event processing",
+   "zh": "• 从静态不变特征逐步过渡到完整事件处理的滑动训练策略",
+   "cls": "pptx"
+  },
+  "c5b0e3fa04": {
+   "en": "• A domain-alignment + spatio-temporal transfer that fuses static and event features.",
+   "zh": "• 融合静态与事件特征的域对齐加时空迁移。",
+   "cls": "pptx"
+  },
+  "4b7b50088d": {
+   "en": "• Better-generalizing, less-overfit SNNs for neuromorphic event vision.",
+   "zh": "• 面向类脑事件视觉，泛化更好、过拟合更少的 SNN。",
+   "cls": "pptx"
+  },
+  "46be5040bb": {
+   "en": "INSIGHT 13 · Robust & efficient learning",
+   "zh": "洞察 13 · 稳健高效的学习",
+   "cls": "pptx"
+  },
+  "7dee62811a": {
+   "en": "Graph invariant learning (co-mixup) · AAAI 2024",
+   "zh": "Graph invariant learning (co-mixup) · AAAI 2024",
+   "cls": "pptx"
+  },
+  "d3157fd205": {
+   "en": "• Make graph neural networks generalize under distribution shift (out-of-distribution).",
+   "zh": "• 让图神经网络在分布偏移（分布外）下保持泛化。",
+   "cls": "pptx"
+  },
+  "d0faebeb1e": {
+   "en": "• GNNs generalize poorly OOD; invariant learning needs diverse environments; mixup blurs invariant vs environment subgraphs.",
+   "zh": "• GNN 在分布外泛化较差；不变学习需要多样的环境；mixup 会模糊不变子图与环境子图。",
+   "cls": "pptx"
+  },
+  "b4f9af9e07": {
+   "en": "• An invariant-subgraph extractor separates invariant vs environment subgraphs",
+   "zh": "• 不变子图提取器区分不变子图与环境子图",
+   "cls": "pptx"
+  },
+  "99ee3f75d5": {
+   "en": "• Environment Mixup + Invariant Mixup generate diverse training environments",
+   "zh": "• Environment Mixup 加 Invariant Mixup，生成多样的训练环境",
+   "cls": "pptx"
+  },
+  "afe94e6173": {
+   "en": "• Retain only invariant information, removing spurious correlations",
+   "zh": "• 只保留不变信息，去除伪相关",
+   "cls": "pptx"
+  },
+  "501d062039": {
+   "en": "• Subgraph co-mixup combining invariant learning with environment mixing.",
+   "zh": "• 将不变学习与环境混合相结合的子图 co-mixup。",
+   "cls": "pptx"
+  },
+  "43be391848": {
+   "en": "• Stronger OOD generalization for molecular, protein and social graphs.",
+   "zh": "• 增强分子图、蛋白质图和社交图上的分布外泛化。",
+   "cls": "pptx"
+  },
+  "69bae0ee91": {
+   "en": "CONCLUSIONS",
+   "zh": "结论",
+   "cls": "pptx"
+  },
+  "96706c7774": {
+   "en": "INSIGHTS",
+   "zh": "洞察",
+   "cls": "pptx"
+  },
+  "803f4015c8": {
+   "en": "• LLMs dominate AAAI 2024, but the theme is reliability — citations (CoT + CIM), symbolic solvers (SYRELM), grounding (cognitive agents) and probing rationality limits.",
+   "zh": "• 大语言模型主导了 AAAI 2024，但主题是可靠性——引用（CoT + CIM）、符号求解器（SYRELM）、落地（认知智能体）以及探究理性的局限。",
+   "cls": "pptx"
+  },
+  "b7d83ad56a": {
+   "en": "• Foundation / multimodal models reach high-stakes domains — pathology (PathAsst) and healthcare treatment effects with knowledge graphs (KG-TREAT).",
+   "zh": "• 基础模型与多模态模型进入高风险领域——病理（PathAsst）以及结合知识图谱的医疗治疗效果（KG-TREAT）。",
+   "cls": "pptx"
+  },
+  "09f8287c05": {
+   "en": "• Physics- and structure-informed generative models (SPDiff, Vampire, Waabi) bring realism and verifiability to simulation and autonomous driving.",
+   "zh": "• 融入物理与结构先验的生成模型（SPDiff、Vampire、Waabi）为仿真和自动驾驶带来真实性与可验证性。",
+   "cls": "pptx"
+  },
+  "927e4493b3": {
+   "en": "VISION",
+   "zh": "愿景",
+   "cls": "pptx"
+  },
+  "d44b3a3c23": {
+   "en": "• Interpretable, verifiable foundation models (Urtasun / Waabi) over black boxes.",
+   "zh": "• 以可解释、可验证的基础模型（Urtasun / Waabi）取代黑箱。",
+   "cls": "pptx"
+  },
+  "2ffe4859f1": {
+   "en": "• Hybrid neuro-symbolic and LLM + cognitive-architecture systems that curb hallucination.",
+   "zh": "• 抑制幻觉的神经符号混合系统，以及大语言模型加认知架构的系统。",
+   "cls": "pptx"
+  },
+  "95729c46dc": {
+   "en": "• Efficiency and robustness: frugal LMs, neuromorphic SNNs and OOD-robust GNNs.",
+   "zh": "• 效率与稳健性：节俭的语言模型、类脑 SNN 和分布外稳健的 GNN。",
+   "cls": "pptx"
+  },
+  "ab88151343": {
+   "en": "IMPLICATIONS FOR US",
+   "zh": "对我们的启示",
+   "cls": "pptx"
+  },
+  "ceecf1f4cd": {
+   "en": "• Pair LLMs with retrieval, symbolic solvers and knowledge graphs for trustworthy, citeable outputs.",
+   "zh": "• 将大语言模型与检索、符号求解器和知识图谱结合，获得可信、可引用的输出。",
+   "cls": "pptx"
+  },
+  "b29abe5cb1": {
+   "en": "• Use generative simulation and digital twins to cut real-world data and testing cost.",
+   "zh": "• 用生成式仿真和数字孪生降低真实世界的数据与测试成本。",
+   "cls": "pptx"
+  },
+  "ec899a11a4": {
+   "en": "• Invest in domain-adapted foundation models and OOD / robustness for deployment.",
+   "zh": "• 投入领域适配的基础模型，以及面向部署的分布外与稳健性研究。",
+   "cls": "pptx"
+  },
+  "5d16a62568": {
+   "en": "{1}{/1}Tech Insight",
+   "zh": "{1}{/1}Tech Insight",
+   "cls": "span.brand"
+  },
+  "2086b21f8f": {
+   "en": "Statistics",
+   "zh": "统计",
+   "cls": "a"
+  }
+ }
+}
